@@ -3,7 +3,7 @@ Fira System Font Replacement
 
 These fonts are intended as a system font replacement on Mac OS X 10.10 Yosemite.
 
-They are based on the Fira Sans font family and are licensed under the Open Font License (OFL) 1.1 or later. This package has been prepared by Jens Kutilek <http://www.kutilek.de/>.
+They are based on the Fira Sans font family and are licensed under the Open Font License (OFL) 1.1 or later. This package has been prepared by Jens Kutilek <http://https://github.com/jenskutilek/FiraSystemFontReplacement/>.
 
 How to install:
 ---------------
