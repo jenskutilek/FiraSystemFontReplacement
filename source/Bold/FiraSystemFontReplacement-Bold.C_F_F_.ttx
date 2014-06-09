@@ -2,10 +2,10 @@
 <ttFont ttLibVersion="2.4">
 
   <CFF>
-    <CFFFont name="FiraSans-Bold">
+    <CFFFont name=".HelveticaNeueDeskInterface-Bold">
       <version value="003.107"/>
       <Notice value="Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A."/>
-      <FullName value="Fira Sans Bold"/>
+      <FullName value="System Font Bold"/>
       <Weight value="Bold"/>
       <isFixedPitch value="0"/>
       <ItalicAngle value="0"/>
@@ -13,7 +13,7 @@
       <PaintType value="0"/>
       <CharstringType value="2"/>
       <FontMatrix value="0.001 0 0 0.001 0 0"/>
-      <FontBBox value="-209 -500 1360 1050"/>
+      <FontBBox value="-209 -344 1360 1029"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
@@ -3837,13 +3837,14 @@
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          82 -500 52 496 72 283 48 547 52 hstemhm
-          123 55 102 70 -60 50 41 54 54 54 hintmask 1011101110000000
-          543 -500 rmoveto
-          1550 -420 -1550 vlineto
-          55 1498 rmoveto
-          311 -1446 -311 hlineto
-          146 899 rmoveto
+          82 -217 52 213 72 283 48 191 52 hstemhm
+          123 55 102 70 -60 50 41 54 54 54 hintmask 0000000000000000
+          hintmask 1011101110000000
+          543 -217 rmoveto
+          911 -420 -911 vlineto
+          55 859 rmoveto
+          311 -807 -311 hlineto
+          146 616 rmoveto
           -39 -54 -12 -27 -13 9 -10 15 4 4 1 2 5 hvcurveto
           8 17 14 3 21 hhcurveto
           50 11 -30 -39 -53 -19 -20 -72 -4 hvcurveto

@@ -2,10 +2,10 @@
 <ttFont ttLibVersion="2.4">
 
   <CFF>
-    <CFFFont name="FiraSans-Book">
+    <CFFFont name=".HelveticaNeueDeskInterface-Regular">
       <version value="003.107"/>
       <Notice value="Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A."/>
-      <FullName value="Fira Sans Book"/>
+      <FullName value="System Font Regular"/>
       <Weight value="Regular"/>
       <isFixedPitch value="0"/>
       <ItalicAngle value="0"/>
