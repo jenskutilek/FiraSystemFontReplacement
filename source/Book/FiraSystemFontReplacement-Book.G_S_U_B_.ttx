@@ -1,0 +1,4302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=4 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=17 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="9"/>
+            <FeatureIndex index="2" value="18"/>
+            <FeatureIndex index="3" value="27"/>
+            <FeatureIndex index="4" value="36"/>
+            <FeatureIndex index="5" value="45"/>
+            <FeatureIndex index="6" value="54"/>
+            <FeatureIndex index="7" value="63"/>
+            <FeatureIndex index="8" value="81"/>
+            <FeatureIndex index="9" value="90"/>
+            <FeatureIndex index="10" value="99"/>
+            <FeatureIndex index="11" value="108"/>
+            <FeatureIndex index="12" value="117"/>
+            <FeatureIndex index="13" value="126"/>
+            <FeatureIndex index="14" value="135"/>
+            <FeatureIndex index="15" value="144"/>
+            <FeatureIndex index="16" value="153"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=17 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="10"/>
+            <FeatureIndex index="2" value="19"/>
+            <FeatureIndex index="3" value="28"/>
+            <FeatureIndex index="4" value="37"/>
+            <FeatureIndex index="5" value="46"/>
+            <FeatureIndex index="6" value="55"/>
+            <FeatureIndex index="7" value="64"/>
+            <FeatureIndex index="8" value="82"/>
+            <FeatureIndex index="9" value="91"/>
+            <FeatureIndex index="10" value="100"/>
+            <FeatureIndex index="11" value="109"/>
+            <FeatureIndex index="12" value="118"/>
+            <FeatureIndex index="13" value="127"/>
+            <FeatureIndex index="14" value="136"/>
+            <FeatureIndex index="15" value="145"/>
+            <FeatureIndex index="16" value="154"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=17 -->
+            <FeatureIndex index="0" value="2"/>
+            <FeatureIndex index="1" value="11"/>
+            <FeatureIndex index="2" value="20"/>
+            <FeatureIndex index="3" value="29"/>
+            <FeatureIndex index="4" value="38"/>
+            <FeatureIndex index="5" value="47"/>
+            <FeatureIndex index="6" value="56"/>
+            <FeatureIndex index="7" value="65"/>
+            <FeatureIndex index="8" value="83"/>
+            <FeatureIndex index="9" value="92"/>
+            <FeatureIndex index="10" value="101"/>
+            <FeatureIndex index="11" value="110"/>
+            <FeatureIndex index="12" value="119"/>
+            <FeatureIndex index="13" value="128"/>
+            <FeatureIndex index="14" value="137"/>
+            <FeatureIndex index="15" value="146"/>
+            <FeatureIndex index="16" value="155"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=17 -->
+            <FeatureIndex index="0" value="3"/>
+            <FeatureIndex index="1" value="12"/>
+            <FeatureIndex index="2" value="21"/>
+            <FeatureIndex index="3" value="30"/>
+            <FeatureIndex index="4" value="39"/>
+            <FeatureIndex index="5" value="48"/>
+            <FeatureIndex index="6" value="57"/>
+            <FeatureIndex index="7" value="66"/>
+            <FeatureIndex index="8" value="84"/>
+            <FeatureIndex index="9" value="93"/>
+            <FeatureIndex index="10" value="102"/>
+            <FeatureIndex index="11" value="111"/>
+            <FeatureIndex index="12" value="120"/>
+            <FeatureIndex index="13" value="129"/>
+            <FeatureIndex index="14" value="138"/>
+            <FeatureIndex index="15" value="147"/>
+            <FeatureIndex index="16" value="156"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=9 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="AZE "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="72"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="CAT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=18 -->
+              <FeatureIndex index="0" value="4"/>
+              <FeatureIndex index="1" value="13"/>
+              <FeatureIndex index="2" value="22"/>
+              <FeatureIndex index="3" value="31"/>
+              <FeatureIndex index="4" value="40"/>
+              <FeatureIndex index="5" value="49"/>
+              <FeatureIndex index="6" value="58"/>
+              <FeatureIndex index="7" value="67"/>
+              <FeatureIndex index="8" value="73"/>
+              <FeatureIndex index="9" value="85"/>
+              <FeatureIndex index="10" value="94"/>
+              <FeatureIndex index="11" value="103"/>
+              <FeatureIndex index="12" value="112"/>
+              <FeatureIndex index="13" value="121"/>
+              <FeatureIndex index="14" value="130"/>
+              <FeatureIndex index="15" value="139"/>
+              <FeatureIndex index="16" value="148"/>
+              <FeatureIndex index="17" value="157"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="CRT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="74"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="3">
+            <LangSysTag value="KAZ "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="75"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="4">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=18 -->
+              <FeatureIndex index="0" value="5"/>
+              <FeatureIndex index="1" value="14"/>
+              <FeatureIndex index="2" value="23"/>
+              <FeatureIndex index="3" value="32"/>
+              <FeatureIndex index="4" value="41"/>
+              <FeatureIndex index="5" value="50"/>
+              <FeatureIndex index="6" value="59"/>
+              <FeatureIndex index="7" value="68"/>
+              <FeatureIndex index="8" value="76"/>
+              <FeatureIndex index="9" value="86"/>
+              <FeatureIndex index="10" value="95"/>
+              <FeatureIndex index="11" value="104"/>
+              <FeatureIndex index="12" value="113"/>
+              <FeatureIndex index="13" value="122"/>
+              <FeatureIndex index="14" value="131"/>
+              <FeatureIndex index="15" value="140"/>
+              <FeatureIndex index="16" value="149"/>
+              <FeatureIndex index="17" value="158"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="5">
+            <LangSysTag value="PLK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=18 -->
+              <FeatureIndex index="0" value="6"/>
+              <FeatureIndex index="1" value="15"/>
+              <FeatureIndex index="2" value="24"/>
+              <FeatureIndex index="3" value="33"/>
+              <FeatureIndex index="4" value="42"/>
+              <FeatureIndex index="5" value="51"/>
+              <FeatureIndex index="6" value="60"/>
+              <FeatureIndex index="7" value="69"/>
+              <FeatureIndex index="8" value="77"/>
+              <FeatureIndex index="9" value="87"/>
+              <FeatureIndex index="10" value="96"/>
+              <FeatureIndex index="11" value="105"/>
+              <FeatureIndex index="12" value="114"/>
+              <FeatureIndex index="13" value="123"/>
+              <FeatureIndex index="14" value="132"/>
+              <FeatureIndex index="15" value="141"/>
+              <FeatureIndex index="16" value="150"/>
+              <FeatureIndex index="17" value="159"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="6">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=18 -->
+              <FeatureIndex index="0" value="7"/>
+              <FeatureIndex index="1" value="16"/>
+              <FeatureIndex index="2" value="25"/>
+              <FeatureIndex index="3" value="34"/>
+              <FeatureIndex index="4" value="43"/>
+              <FeatureIndex index="5" value="52"/>
+              <FeatureIndex index="6" value="61"/>
+              <FeatureIndex index="7" value="70"/>
+              <FeatureIndex index="8" value="78"/>
+              <FeatureIndex index="9" value="88"/>
+              <FeatureIndex index="10" value="97"/>
+              <FeatureIndex index="11" value="106"/>
+              <FeatureIndex index="12" value="115"/>
+              <FeatureIndex index="13" value="124"/>
+              <FeatureIndex index="14" value="133"/>
+              <FeatureIndex index="15" value="142"/>
+              <FeatureIndex index="16" value="151"/>
+              <FeatureIndex index="17" value="160"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="7">
+            <LangSysTag value="TAT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="79"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="8">
+            <LangSysTag value="TRK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=18 -->
+              <FeatureIndex index="0" value="8"/>
+              <FeatureIndex index="1" value="17"/>
+              <FeatureIndex index="2" value="26"/>
+              <FeatureIndex index="3" value="35"/>
+              <FeatureIndex index="4" value="44"/>
+              <FeatureIndex index="5" value="53"/>
+              <FeatureIndex index="6" value="62"/>
+              <FeatureIndex index="7" value="71"/>
+              <FeatureIndex index="8" value="80"/>
+              <FeatureIndex index="9" value="89"/>
+              <FeatureIndex index="10" value="98"/>
+              <FeatureIndex index="11" value="107"/>
+              <FeatureIndex index="12" value="116"/>
+              <FeatureIndex index="13" value="125"/>
+              <FeatureIndex index="14" value="134"/>
+              <FeatureIndex index="15" value="143"/>
+              <FeatureIndex index="16" value="152"/>
+              <FeatureIndex index="17" value="161"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=162 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="22">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="23">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="24">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="25">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="26">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="28">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="29">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="30">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="31">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="32">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="33">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="34">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="35">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="36">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="37">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="38">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="39">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="40">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="41">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="42">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="43">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="44">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="45">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="46">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="47">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="48">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="49">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="50">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="51">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="52">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="53">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="15"/>
+          <LookupListIndex index="1" value="16"/>
+          <LookupListIndex index="2" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="54">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="55">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="56">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="57">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="58">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="59">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="60">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="61">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="62">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="63">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="64">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="65">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="66">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="67">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="68">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="69">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="70">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="71">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="72">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="73">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="74">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="75">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="76">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="77">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="78">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="79">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="80">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="81">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="82">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="83">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="84">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="85">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="86">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="87">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="88">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="89">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="90">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="91">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="92">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="93">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="94">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="95">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="96">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="97">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="98">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="99">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="100">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="101">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="102">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="103">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="104">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="105">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="106">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="107">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="108">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="109">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="110">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="111">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="112">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="113">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="114">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="115">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="116">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="117">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="118">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="119">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="120">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="121">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="122">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="123">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="124">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="125">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="126">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="127">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="128">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="129">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="130">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="131">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="132">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="133">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="134">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="135">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="136">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="137">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="138">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="139">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="140">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="141">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="142">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="143">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="144">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="145">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="146">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="147">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="148">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="149">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="150">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="151">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="152">
+        <FeatureTag value="tnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="153">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="154">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="155">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="156">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="157">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="158">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="159">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="160">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="161">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=31 -->
+      <Lookup index="0">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="AE" out="ae.sc"/>
+          <Substitution in="AEacute" out="aeacute.sc"/>
+          <Substitution in="Aacute" out="aacute.sc"/>
+          <Substitution in="Abreve" out="abreve.sc"/>
+          <Substitution in="Acircumflex" out="acircumflex.sc"/>
+          <Substitution in="Adieresis" out="adieresis.sc"/>
+          <Substitution in="Agrave" out="agrave.sc"/>
+          <Substitution in="Alpha" out="alpha.sc"/>
+          <Substitution in="Alphatonos" out="alphatonos.sc"/>
+          <Substitution in="Amacron" out="amacron.sc"/>
+          <Substitution in="Aogonek" out="aogonek.sc"/>
+          <Substitution in="Aring" out="aring.sc"/>
+          <Substitution in="Atilde" out="atilde.sc"/>
+          <Substitution in="B" out="b.sc"/>
+          <Substitution in="Beta" out="beta.sc"/>
+          <Substitution in="C" out="c.sc"/>
+          <Substitution in="Ccaron" out="ccaron.sc"/>
+          <Substitution in="Ccedilla" out="ccedilla.sc"/>
+          <Substitution in="Ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="Cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="Chi" out="chi.sc"/>
+          <Substitution in="D" out="d.sc"/>
+          <Substitution in="Dcaron" out="dcaron.sc"/>
+          <Substitution in="Dcroat" out="dcroat.sc"/>
+          <Substitution in="Delta" out="delta.sc"/>
+          <Substitution in="E" out="e.sc"/>
+          <Substitution in="Eacute" out="eacute.sc"/>
+          <Substitution in="Ebreve" out="ebreve.sc"/>
+          <Substitution in="Ecaron" out="ecaron.sc"/>
+          <Substitution in="Ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="Edieresis" out="edieresis.sc"/>
+          <Substitution in="Edotaccent" out="edotaccent.sc"/>
+          <Substitution in="Egrave" out="egrave.sc"/>
+          <Substitution in="Emacron" out="emacron.sc"/>
+          <Substitution in="Eng" out="eng.sc"/>
+          <Substitution in="Eogonek" out="eogonek.sc"/>
+          <Substitution in="Epsilon" out="epsilon.sc"/>
+          <Substitution in="Epsilontonos" out="epsilontonos.sc"/>
+          <Substitution in="Eta" out="eta.sc"/>
+          <Substitution in="Etatonos" out="etatonos.sc"/>
+          <Substitution in="Eth" out="eth.sc"/>
+          <Substitution in="Euro.osf" out="Euro.tosf"/>
+          <Substitution in="Euro.tf" out="Euro.tosf"/>
+          <Substitution in="Euro.tosf" out="Euro.osf"/>
+          <Substitution in="F" out="f.sc"/>
+          <Substitution in="G" out="g.sc"/>
+          <Substitution in="Gamma" out="gamma.sc"/>
+          <Substitution in="Gbreve" out="gbreve.sc"/>
+          <Substitution in="Gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="Gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="Gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="H" out="h.sc"/>
+          <Substitution in="Hbar" out="hbar.sc"/>
+          <Substitution in="Hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="I" out="i.sc"/>
+          <Substitution in="IJ" out="ij.sc"/>
+          <Substitution in="Iacute" out="iacute.sc"/>
+          <Substitution in="Ibreve" out="ibreve.sc"/>
+          <Substitution in="Icircumflex" out="icircumflex.sc"/>
+          <Substitution in="Idieresis" out="idieresis.sc"/>
+          <Substitution in="Idotaccent" out="i.sc.loclTRK"/>
+          <Substitution in="Igrave" out="igrave.sc"/>
+          <Substitution in="Imacron" out="imacron.sc"/>
+          <Substitution in="Iogonek" out="iogonek.sc"/>
+          <Substitution in="Iota" out="iota.sc"/>
+          <Substitution in="Iotadieresis" out="iotadieresis.sc"/>
+          <Substitution in="Iotatonos" out="iotatonos.sc"/>
+          <Substitution in="Itilde" out="itilde.sc"/>
+          <Substitution in="J" out="j.sc"/>
+          <Substitution in="Jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="K" out="k.sc"/>
+          <Substitution in="Kappa" out="kappa.sc"/>
+          <Substitution in="Kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="L" out="l.sc"/>
+          <Substitution in="Lacute" out="lacute.sc"/>
+          <Substitution in="Lambda" out="lambda.sc"/>
+          <Substitution in="Lcaron" out="lcaron.sc"/>
+          <Substitution in="Lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="Ldot" out="ldot.sc"/>
+          <Substitution in="Lslash" out="lslash.sc"/>
+          <Substitution in="M" out="m.sc"/>
+          <Substitution in="Mu" out="mu.sc"/>
+          <Substitution in="N" out="n.sc"/>
+          <Substitution in="Ncaron" out="ncaron.sc"/>
+          <Substitution in="Ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="Ntilde" out="ntilde.sc"/>
+          <Substitution in="Nu" out="nu.sc"/>
+          <Substitution in="OE" out="oe.sc"/>
+          <Substitution in="Obreve" out="obreve.sc"/>
+          <Substitution in="Ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="Odieresis" out="odieresis.sc"/>
+          <Substitution in="Ograve" out="ograve.sc"/>
+          <Substitution in="Ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="Omacron" out="omacron.sc"/>
+          <Substitution in="Omega" out="omega.sc"/>
+          <Substitution in="Omegatonos" out="omegatonos.sc"/>
+          <Substitution in="Omicron" out="omicron.sc"/>
+          <Substitution in="Omicrontonos" out="omicrontonos.sc"/>
+          <Substitution in="Oslash" out="oslash.sc"/>
+          <Substitution in="Oslashacute" out="oslashacute.sc"/>
+          <Substitution in="Otilde" out="otilde.sc"/>
+          <Substitution in="P" out="p.sc"/>
+          <Substitution in="Phi" out="phi.sc"/>
+          <Substitution in="Pi" out="pi.sc"/>
+          <Substitution in="Psi" out="psi.sc"/>
+          <Substitution in="Q" out="q.sc"/>
+          <Substitution in="R" out="r.sc"/>
+          <Substitution in="Racute" out="racute.sc"/>
+          <Substitution in="Rcaron" out="rcaron.sc"/>
+          <Substitution in="Rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="Rho" out="rho.sc"/>
+          <Substitution in="S" out="s.sc"/>
+          <Substitution in="Scaron" out="scaron.sc"/>
+          <Substitution in="Scircumflex" out="scircumflex.sc"/>
+          <Substitution in="Scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="Sigma" out="sigma.sc"/>
+          <Substitution in="T" out="t.sc"/>
+          <Substitution in="Tau" out="tau.sc"/>
+          <Substitution in="Tbar" out="tbar.sc"/>
+          <Substitution in="Tcaron" out="tcaron.sc"/>
+          <Substitution in="Theta" out="theta.sc"/>
+          <Substitution in="Thorn" out="thorn.sc"/>
+          <Substitution in="U" out="u.sc"/>
+          <Substitution in="Uacute" out="uacute.sc"/>
+          <Substitution in="Ubreve" out="ubreve.sc"/>
+          <Substitution in="Ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="Udieresis" out="udieresis.sc"/>
+          <Substitution in="Ugrave" out="ugrave.sc"/>
+          <Substitution in="Uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="Umacron" out="umacron.sc"/>
+          <Substitution in="Uogonek" out="uogonek.sc"/>
+          <Substitution in="Upsilon" out="upsilon.sc"/>
+          <Substitution in="Upsilondieresis" out="upsilondieresis.sc"/>
+          <Substitution in="Upsilontonos" out="upsilontonos.sc"/>
+          <Substitution in="Uring" out="uring.sc"/>
+          <Substitution in="Utilde" out="utilde.sc"/>
+          <Substitution in="V" out="v.sc"/>
+          <Substitution in="W" out="w.sc"/>
+          <Substitution in="Wacute" out="wacute.sc"/>
+          <Substitution in="Wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="Wdieresis" out="wdieresis.sc"/>
+          <Substitution in="Wgrave" out="wgrave.sc"/>
+          <Substitution in="X" out="x.sc"/>
+          <Substitution in="Xi" out="xi.sc"/>
+          <Substitution in="Y" out="y.sc"/>
+          <Substitution in="Yacute" out="yacute.sc"/>
+          <Substitution in="Ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="Ydieresis" out="ydieresis.sc"/>
+          <Substitution in="Ygrave" out="ygrave.sc"/>
+          <Substitution in="Z" out="z.sc"/>
+          <Substitution in="Zcaron" out="zcaron.sc"/>
+          <Substitution in="Zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="Zeta" out="zeta.sc"/>
+          <Substitution in="aacute" out="aacute.sc"/>
+          <Substitution in="abreve" out="abreve.sc"/>
+          <Substitution in="acircumflex" out="acircumflex.sc"/>
+          <Substitution in="acute.case" out="acute.case.loclPLK"/>
+          <Substitution in="acute.sc" out="acute.sc.loclPLK"/>
+          <Substitution in="adieresis" out="adieresis.sc"/>
+          <Substitution in="ae" out="ae.sc"/>
+          <Substitution in="aeacute" out="aeacute.sc"/>
+          <Substitution in="agrave" out="agrave.sc"/>
+          <Substitution in="alpha" out="alpha.sc"/>
+          <Substitution in="alphatonos" out="alphatonos.sc"/>
+          <Substitution in="amacron" out="amacron.sc"/>
+          <Substitution in="aogonek" out="aogonek.sc"/>
+          <Substitution in="aring" out="aring.sc"/>
+          <Substitution in="atilde" out="atilde.sc"/>
+          <Substitution in="b" out="b.sc"/>
+          <Substitution in="beta" out="beta.sc"/>
+          <Substitution in="braceleft" out="braceleft.case"/>
+          <Substitution in="braceright" out="braceright.case"/>
+          <Substitution in="bracketleft" out="bracketleft.case"/>
+          <Substitution in="bracketright" out="bracketright.case"/>
+          <Substitution in="c" out="c.sc"/>
+          <Substitution in="cacute.sc" out="cacute.sc.loclPLK"/>
+          <Substitution in="ccaron" out="ccaron.sc"/>
+          <Substitution in="ccedilla" out="ccedilla.sc"/>
+          <Substitution in="ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="chi" out="chi.sc"/>
+          <Substitution in="d" out="d.sc"/>
+          <Substitution in="dcaron" out="dcaron.sc"/>
+          <Substitution in="dcroat" out="dcroat.sc"/>
+          <Substitution in="delta" out="delta.sc"/>
+          <Substitution in="dotlessi" out="dotlessi.sc"/>
+          <Substitution in="e" out="e.sc"/>
+          <Substitution in="eacute" out="eacute.sc"/>
+          <Substitution in="ebreve" out="ebreve.sc"/>
+          <Substitution in="ecaron" out="ecaron.sc"/>
+          <Substitution in="ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="edieresis" out="edieresis.sc"/>
+          <Substitution in="edotaccent" out="edotaccent.sc"/>
+          <Substitution in="egrave" out="egrave.sc"/>
+          <Substitution in="eight.numr" out="eight.dnom"/>
+          <Substitution in="emacron" out="emacron.sc"/>
+          <Substitution in="emdash" out="emdash.case"/>
+          <Substitution in="endash" out="endash.case"/>
+          <Substitution in="eng" out="eng.sc"/>
+          <Substitution in="eogonek" out="eogonek.sc"/>
+          <Substitution in="epsilon" out="epsilon.sc"/>
+          <Substitution in="epsilontonos" out="epsilontonos.sc"/>
+          <Substitution in="eta" out="eta.sc"/>
+          <Substitution in="etatonos" out="etatonos.sc"/>
+          <Substitution in="eth" out="eth.sc"/>
+          <Substitution in="exclamdown" out="exclamdown.case"/>
+          <Substitution in="f" out="f.sc"/>
+          <Substitution in="f_i" out="f_i.sc"/>
+          <Substitution in="f_l" out="f_l.sc"/>
+          <Substitution in="fi" out="fi.sc"/>
+          <Substitution in="five.numr" out="five.dnom"/>
+          <Substitution in="fl" out="fl.sc"/>
+          <Substitution in="four.numr" out="four.dnom"/>
+          <Substitution in="g" out="g.sc"/>
+          <Substitution in="gamma" out="gamma.sc"/>
+          <Substitution in="gbreve" out="gbreve.sc"/>
+          <Substitution in="gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="germandbls" out="germandbls.sc"/>
+          <Substitution in="guillemotleft" out="guillemotleft.case"/>
+          <Substitution in="guillemotright" out="guillemotright.case"/>
+          <Substitution in="guilsinglleft" out="guilsinglleft.case"/>
+          <Substitution in="guilsinglright" out="guilsinglright.case"/>
+          <Substitution in="h" out="h.sc"/>
+          <Substitution in="hbar" out="hbar.sc"/>
+          <Substitution in="hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="hyphen" out="hyphen.case"/>
+          <Substitution in="i.loclTRK" out="i.sc.loclTRK"/>
+          <Substitution in="iacute" out="iacute.sc"/>
+          <Substitution in="ibreve" out="ibreve.sc"/>
+          <Substitution in="icircumflex" out="icircumflex.sc"/>
+          <Substitution in="idieresis" out="idieresis.sc"/>
+          <Substitution in="igrave" out="igrave.sc"/>
+          <Substitution in="ij" out="ij.sc"/>
+          <Substitution in="imacron" out="imacron.sc"/>
+          <Substitution in="iogonek" out="iogonek.sc"/>
+          <Substitution in="iota" out="iota.sc"/>
+          <Substitution in="iotadieresis" out="iotadieresis.sc"/>
+          <Substitution in="iotadieresistonos" out="iotadieresistonos.sc"/>
+          <Substitution in="iotatonos" out="iotatonos.sc"/>
+          <Substitution in="itilde" out="itilde.sc"/>
+          <Substitution in="j" out="j.sc"/>
+          <Substitution in="jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="jdotless" out="dotlessj.sc"/>
+          <Substitution in="k" out="k.sc"/>
+          <Substitution in="kappa" out="kappa.sc"/>
+          <Substitution in="kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="kgreenlandic" out="kgreenlandic.sc"/>
+          <Substitution in="l" out="l.sc"/>
+          <Substitution in="lacute" out="lacute.sc"/>
+          <Substitution in="lambda" out="lambda.sc"/>
+          <Substitution in="lcaron" out="lcaron.sc"/>
+          <Substitution in="lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="ldot" out="ldot.sc"/>
+          <Substitution in="lslash" out="lslash.sc"/>
+          <Substitution in="m" out="m.sc"/>
+          <Substitution in="mu" out="mu.sc"/>
+          <Substitution in="n" out="n.sc"/>
+          <Substitution in="nacute.sc" out="nacute.sc.loclPLK"/>
+          <Substitution in="napostrophe" out="napostrophe.sc"/>
+          <Substitution in="ncaron" out="ncaron.sc"/>
+          <Substitution in="ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="nine.numr" out="nine.dnom"/>
+          <Substitution in="ntilde" out="ntilde.sc"/>
+          <Substitution in="nu" out="nu.sc"/>
+          <Substitution in="oacute.sc" out="oacute.sc.loclPLK"/>
+          <Substitution in="obreve" out="obreve.sc"/>
+          <Substitution in="ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="odieresis" out="odieresis.sc"/>
+          <Substitution in="oe" out="oe.sc"/>
+          <Substitution in="ogonek" out="ogonek.sc"/>
+          <Substitution in="ograve" out="ograve.sc"/>
+          <Substitution in="ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="omacron" out="omacron.sc"/>
+          <Substitution in="omega" out="omega.sc"/>
+          <Substitution in="omegatonos" out="omegatonos.sc"/>
+          <Substitution in="omicron" out="omicron.sc"/>
+          <Substitution in="omicrontonos" out="omicrontonos.sc"/>
+          <Substitution in="one.numr" out="one.dnom"/>
+          <Substitution in="oslash" out="oslash.sc"/>
+          <Substitution in="oslashacute" out="oslashacute.sc"/>
+          <Substitution in="otilde" out="otilde.sc"/>
+          <Substitution in="p" out="p.sc"/>
+          <Substitution in="phi" out="phi.sc"/>
+          <Substitution in="pi" out="pi.sc"/>
+          <Substitution in="psi" out="psi.sc"/>
+          <Substitution in="q" out="q.sc"/>
+          <Substitution in="questiondown" out="questiondown.case"/>
+          <Substitution in="r" out="r.sc"/>
+          <Substitution in="racute" out="racute.sc"/>
+          <Substitution in="rcaron" out="rcaron.sc"/>
+          <Substitution in="rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="rho" out="rho.sc"/>
+          <Substitution in="s" out="s.sc"/>
+          <Substitution in="sacute.sc" out="sacute.sc.loclPLK"/>
+          <Substitution in="scaron" out="scaron.sc"/>
+          <Substitution in="scircumflex" out="scircumflex.sc"/>
+          <Substitution in="scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="seven.numr" out="seven.dnom"/>
+          <Substitution in="sigma" out="sigma.sc"/>
+          <Substitution in="sigmafinal" out="sigmafinal.sc"/>
+          <Substitution in="six.numr" out="six.dnom"/>
+          <Substitution in="slash" out="fraction"/>
+          <Substitution in="softhyphen" out="softhyphen.case"/>
+          <Substitution in="t" out="t.sc"/>
+          <Substitution in="tau" out="tau.sc"/>
+          <Substitution in="tbar" out="tbar.sc"/>
+          <Substitution in="tcaron" out="tcaron.sc"/>
+          <Substitution in="theta" out="theta.sc"/>
+          <Substitution in="thorn" out="thorn.sc"/>
+          <Substitution in="three.numr" out="three.dnom"/>
+          <Substitution in="tonos" out="tonos.case"/>
+          <Substitution in="two.numr" out="two.dnom"/>
+          <Substitution in="u" out="u.sc"/>
+          <Substitution in="uacute" out="uacute.sc"/>
+          <Substitution in="ubreve" out="ubreve.sc"/>
+          <Substitution in="ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="udieresis" out="udieresis.sc"/>
+          <Substitution in="ugrave" out="ugrave.sc"/>
+          <Substitution in="uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="umacron" out="umacron.sc"/>
+          <Substitution in="uni021A" out="uni021B.sc"/>
+          <Substitution in="uni021B" out="uni021B.sc"/>
+          <Substitution in="uni0400" out="uni0450.sc"/>
+          <Substitution in="uni0401" out="uni0451.sc"/>
+          <Substitution in="uni0402" out="uni0452.sc"/>
+          <Substitution in="uni0403" out="uni0453.sc"/>
+          <Substitution in="uni0404" out="uni0454.sc"/>
+          <Substitution in="uni0405" out="uni0455.sc"/>
+          <Substitution in="uni0406" out="uni0456.sc"/>
+          <Substitution in="uni0407" out="uni0457.sc"/>
+          <Substitution in="uni0408" out="uni0458.sc"/>
+          <Substitution in="uni0409" out="uni0459.sc"/>
+          <Substitution in="uni040A" out="uni045A.sc"/>
+          <Substitution in="uni040B" out="uni045B.sc"/>
+          <Substitution in="uni040C" out="uni045C.sc"/>
+          <Substitution in="uni040D" out="uni045D.sc"/>
+          <Substitution in="uni040E" out="uni045E.sc"/>
+          <Substitution in="uni040F" out="uni045F.sc"/>
+          <Substitution in="uni0410" out="uni0430.sc"/>
+          <Substitution in="uni0411" out="uni0431.sc"/>
+          <Substitution in="uni0412" out="uni0432.sc"/>
+          <Substitution in="uni0413" out="uni0433.sc"/>
+          <Substitution in="uni0414" out="uni0434.sc"/>
+          <Substitution in="uni0415" out="uni0435.sc"/>
+          <Substitution in="uni0416" out="uni0436.sc"/>
+          <Substitution in="uni0417" out="uni0437.sc"/>
+          <Substitution in="uni0418" out="uni0438.sc"/>
+          <Substitution in="uni0419" out="uni0439.sc"/>
+          <Substitution in="uni041A" out="uni043A.sc"/>
+          <Substitution in="uni041B" out="uni043B.sc"/>
+          <Substitution in="uni041C" out="uni043C.sc"/>
+          <Substitution in="uni041D" out="uni043D.sc"/>
+          <Substitution in="uni041E" out="uni043E.sc"/>
+          <Substitution in="uni041F" out="uni043F.sc"/>
+          <Substitution in="uni0420" out="uni0440.sc"/>
+          <Substitution in="uni0421" out="uni0441.sc"/>
+          <Substitution in="uni0422" out="uni0442.sc"/>
+          <Substitution in="uni0423" out="uni0443.sc"/>
+          <Substitution in="uni0424" out="uni0444.sc"/>
+          <Substitution in="uni0425" out="uni0445.sc"/>
+          <Substitution in="uni0426" out="uni0446.sc"/>
+          <Substitution in="uni0427" out="uni0447.sc"/>
+          <Substitution in="uni0428" out="uni0448.sc"/>
+          <Substitution in="uni0429" out="uni0449.sc"/>
+          <Substitution in="uni042A" out="uni044A.sc"/>
+          <Substitution in="uni042B" out="uni044B.sc"/>
+          <Substitution in="uni042C" out="uni044C.sc"/>
+          <Substitution in="uni042D" out="uni044D.sc"/>
+          <Substitution in="uni042E" out="uni044E.sc"/>
+          <Substitution in="uni042F" out="uni044F.sc"/>
+          <Substitution in="uni0430" out="uni0430.sc"/>
+          <Substitution in="uni0431" out="uni0431.sc"/>
+          <Substitution in="uni0432" out="uni0432.sc"/>
+          <Substitution in="uni0433" out="uni0433.sc"/>
+          <Substitution in="uni0434" out="uni0434.sc"/>
+          <Substitution in="uni0435" out="uni0435.sc"/>
+          <Substitution in="uni0436" out="uni0436.sc"/>
+          <Substitution in="uni0437" out="uni0437.sc"/>
+          <Substitution in="uni0438" out="uni0438.sc"/>
+          <Substitution in="uni0439" out="uni0439.sc"/>
+          <Substitution in="uni043A" out="uni043A.sc"/>
+          <Substitution in="uni043B" out="uni043B.sc"/>
+          <Substitution in="uni043C" out="uni043C.sc"/>
+          <Substitution in="uni043D" out="uni043D.sc"/>
+          <Substitution in="uni043E" out="uni043E.sc"/>
+          <Substitution in="uni043F" out="uni043F.sc"/>
+          <Substitution in="uni0440" out="uni0440.sc"/>
+          <Substitution in="uni0441" out="uni0441.sc"/>
+          <Substitution in="uni0442" out="uni0442.sc"/>
+          <Substitution in="uni0443" out="uni0443.sc"/>
+          <Substitution in="uni0444" out="uni0444.sc"/>
+          <Substitution in="uni0445" out="uni0445.sc"/>
+          <Substitution in="uni0446" out="uni0446.sc"/>
+          <Substitution in="uni0447" out="uni0447.sc"/>
+          <Substitution in="uni0448" out="uni0448.sc"/>
+          <Substitution in="uni0449" out="uni0449.sc"/>
+          <Substitution in="uni044A" out="uni044A.sc"/>
+          <Substitution in="uni044B" out="uni044B.sc"/>
+          <Substitution in="uni044C" out="uni044C.sc"/>
+          <Substitution in="uni044D" out="uni044D.sc"/>
+          <Substitution in="uni044E" out="uni044E.sc"/>
+          <Substitution in="uni044F" out="uni044F.sc"/>
+          <Substitution in="uni0450" out="uni0450.sc"/>
+          <Substitution in="uni0451" out="uni0451.sc"/>
+          <Substitution in="uni0452" out="uni0452.sc"/>
+          <Substitution in="uni0453" out="uni0453.sc"/>
+          <Substitution in="uni0454" out="uni0454.sc"/>
+          <Substitution in="uni0455" out="uni0455.sc"/>
+          <Substitution in="uni0456" out="uni0456.sc"/>
+          <Substitution in="uni0457" out="uni0457.sc"/>
+          <Substitution in="uni0458" out="uni0458.sc"/>
+          <Substitution in="uni0459" out="uni0459.sc"/>
+          <Substitution in="uni045A" out="uni045A.sc"/>
+          <Substitution in="uni045B" out="uni045B.sc"/>
+          <Substitution in="uni045C" out="uni045C.sc"/>
+          <Substitution in="uni045D" out="uni045D.sc"/>
+          <Substitution in="uni045E" out="uni045E.sc"/>
+          <Substitution in="uni045F" out="uni045F.sc"/>
+          <Substitution in="uni0462" out="uni0463.sc"/>
+          <Substitution in="uni0463" out="uni0463.sc"/>
+          <Substitution in="uni0472" out="uni0473.sc"/>
+          <Substitution in="uni0473" out="uni0473.sc"/>
+          <Substitution in="uni0474" out="uni0475.sc"/>
+          <Substitution in="uni0475" out="uni0475.sc"/>
+          <Substitution in="uni0490" out="uni0491.sc"/>
+          <Substitution in="uni0491" out="uni0491.sc"/>
+          <Substitution in="uni0492" out="uni0493.sc"/>
+          <Substitution in="uni0493" out="uni0493.sc"/>
+          <Substitution in="uni0496" out="uni0497.sc"/>
+          <Substitution in="uni0497" out="uni0497.sc"/>
+          <Substitution in="uni0498" out="uni0499.sc"/>
+          <Substitution in="uni0499" out="uni0499.sc"/>
+          <Substitution in="uni049A" out="uni049B.sc"/>
+          <Substitution in="uni049B" out="uni049B.sc"/>
+          <Substitution in="uni049C" out="uni049D.sc"/>
+          <Substitution in="uni049D" out="uni049D.sc"/>
+          <Substitution in="uni04A0" out="uni04A1.sc"/>
+          <Substitution in="uni04A1" out="uni04A1.sc"/>
+          <Substitution in="uni04A2" out="uni04A3.sc"/>
+          <Substitution in="uni04A3" out="uni04A3.sc"/>
+          <Substitution in="uni04AA" out="uni04AB.sc"/>
+          <Substitution in="uni04AB" out="uni04AB.sc"/>
+          <Substitution in="uni04AC" out="uni04AD.sc"/>
+          <Substitution in="uni04AD" out="uni04AD.sc"/>
+          <Substitution in="uni04AE" out="uni04AF.sc"/>
+          <Substitution in="uni04AF" out="uni04AF.sc"/>
+          <Substitution in="uni04B0" out="uni04B1.sc"/>
+          <Substitution in="uni04B1" out="uni04B1.sc"/>
+          <Substitution in="uni04B2" out="uni04B3.sc"/>
+          <Substitution in="uni04B3" out="uni04B3.sc"/>
+          <Substitution in="uni04B6" out="uni04B7.sc"/>
+          <Substitution in="uni04B7" out="uni04B7.sc"/>
+          <Substitution in="uni04B8" out="uni04B9.sc"/>
+          <Substitution in="uni04B9" out="uni04B9.sc"/>
+          <Substitution in="uni04BA" out="uni04BB.sc"/>
+          <Substitution in="uni04BB" out="uni04BB.sc"/>
+          <Substitution in="uni04C0" out="uni04CF.sc"/>
+          <Substitution in="uni04CB" out="uni04CC.sc"/>
+          <Substitution in="uni04CC" out="uni04CC.sc"/>
+          <Substitution in="uni04CF" out="uni04CF.sc"/>
+          <Substitution in="uni04D0" out="uni04D1.sc"/>
+          <Substitution in="uni04D1" out="uni04D1.sc"/>
+          <Substitution in="uni04D2" out="uni04D3.sc"/>
+          <Substitution in="uni04D3" out="uni04D3.sc"/>
+          <Substitution in="uni04D5" out="uni04D5.sc"/>
+          <Substitution in="uni04D6" out="uni04D7.sc"/>
+          <Substitution in="uni04D7" out="uni04D7.sc"/>
+          <Substitution in="uni04D8" out="uni04D9.sc"/>
+          <Substitution in="uni04D9" out="uni04D9.sc"/>
+          <Substitution in="uni04DA" out="uni04DB.sc"/>
+          <Substitution in="uni04DB" out="uni04DB.sc"/>
+          <Substitution in="uni04E2" out="uni04E3.sc"/>
+          <Substitution in="uni04E3" out="uni04E3.sc"/>
+          <Substitution in="uni04E8" out="uni04E9.sc"/>
+          <Substitution in="uni04E9" out="uni04E9.sc"/>
+          <Substitution in="uni04EA" out="uni04EB.sc"/>
+          <Substitution in="uni04EB" out="uni04EB.sc"/>
+          <Substitution in="uni04EC" out="uni04ED.sc"/>
+          <Substitution in="uni04ED" out="uni04ED.sc"/>
+          <Substitution in="uni04EE" out="uni04EF.sc"/>
+          <Substitution in="uni04EF" out="uni04EF.sc"/>
+          <Substitution in="uni04F0" out="uni04F1.sc"/>
+          <Substitution in="uni04F1" out="uni04F1.sc"/>
+          <Substitution in="uni04F2" out="uni04F3.sc"/>
+          <Substitution in="uni04F3" out="uni04F3.sc"/>
+          <Substitution in="uni04F4" out="uni04F5.sc"/>
+          <Substitution in="uni04F5" out="uni04F5.sc"/>
+          <Substitution in="uni04F6" out="uni04F7.sc"/>
+          <Substitution in="uni04F7" out="uni04F7.sc"/>
+          <Substitution in="uni04F8" out="uni04F9.sc"/>
+          <Substitution in="uni04F9" out="uni04F9.sc"/>
+          <Substitution in="uni051C" out="uni051D.sc"/>
+          <Substitution in="uni051D" out="uni051D.sc"/>
+          <Substitution in="uni0524" out="uni0525.sc"/>
+          <Substitution in="uni0525" out="uni0525.sc"/>
+          <Substitution in="uni0526" out="uni0527.sc"/>
+          <Substitution in="uni0527" out="uni0527.sc"/>
+          <Substitution in="uni1F71" out="uni1F71.sc"/>
+          <Substitution in="uni1F72" out="uni1F72.sc"/>
+          <Substitution in="uni1F73" out="uni1F73.sc"/>
+          <Substitution in="uni1F74" out="uni1F74.sc"/>
+          <Substitution in="uni1F75" out="uni1F75.sc"/>
+          <Substitution in="uni1F76" out="uni1F76.sc"/>
+          <Substitution in="uni1F77" out="uni1F77.sc"/>
+          <Substitution in="uni1F78" out="uni1F78.sc"/>
+          <Substitution in="uni1F79" out="uni1F79.sc"/>
+          <Substitution in="uni1F7A" out="uni1F7A.sc"/>
+          <Substitution in="uni1F7B" out="uni1F7B.sc"/>
+          <Substitution in="uni1F7C" out="uni1F7C.sc"/>
+          <Substitution in="uni1F7D" out="uni1F7D.sc"/>
+          <Substitution in="uni1FB0" out="uni1FB0.sc"/>
+          <Substitution in="uni1FB1" out="uni1FB1.sc"/>
+          <Substitution in="uni1FB6" out="uni1FB6.sc"/>
+          <Substitution in="uni1FB8" out="uni1FB0.sc"/>
+          <Substitution in="uni1FB9" out="uni1FB1.sc"/>
+          <Substitution in="uni1FBB" out="uni1F71.sc"/>
+          <Substitution in="uni1FC6" out="uni1FC6.sc"/>
+          <Substitution in="uni1FC8" out="uni1F72.sc"/>
+          <Substitution in="uni1FC9" out="uni1F73.sc"/>
+          <Substitution in="uni1FCA" out="uni1F74.sc"/>
+          <Substitution in="uni1FCB" out="uni1F75.sc"/>
+          <Substitution in="uni1FD0" out="uni1FD0.sc"/>
+          <Substitution in="uni1FD1" out="uni1FD1.sc"/>
+          <Substitution in="uni1FD2" out="uni1FD2.sc"/>
+          <Substitution in="uni1FD3" out="uni1FD3.sc"/>
+          <Substitution in="uni1FD6" out="uni1FD6.sc"/>
+          <Substitution in="uni1FD7" out="uni1FD7.sc"/>
+          <Substitution in="uni1FD8" out="uni1FD0.sc"/>
+          <Substitution in="uni1FD9" out="uni1FD1.sc"/>
+          <Substitution in="uni1FDA" out="uni1F76.sc"/>
+          <Substitution in="uni1FDB" out="uni1F77.sc"/>
+          <Substitution in="uni1FE0" out="uni1FE0.sc"/>
+          <Substitution in="uni1FE1" out="uni1FE1.sc"/>
+          <Substitution in="uni1FE2" out="uni1FE2.sc"/>
+          <Substitution in="uni1FE3" out="uni1FE3.sc"/>
+          <Substitution in="uni1FE6" out="uni1FE6.sc"/>
+          <Substitution in="uni1FE7" out="uni1FE7.sc"/>
+          <Substitution in="uni1FE8" out="uni1FE0.sc"/>
+          <Substitution in="uni1FE9" out="uni1FE1.sc"/>
+          <Substitution in="uni1FEA" out="uni1F7A.sc"/>
+          <Substitution in="uni1FEB" out="uni1F7B.sc"/>
+          <Substitution in="uni1FF6" out="uni1FF6.sc"/>
+          <Substitution in="uni1FF8" out="uni1F78.sc"/>
+          <Substitution in="uni1FF9" out="uni1F79.sc"/>
+          <Substitution in="uni1FFA" out="uni1F7C.sc"/>
+          <Substitution in="uni1FFB" out="uni1F7D.sc"/>
+          <Substitution in="uogonek" out="uogonek.sc"/>
+          <Substitution in="upsilon" out="upsilon.sc"/>
+          <Substitution in="upsilondieresis" out="upsilondieresis.sc"/>
+          <Substitution in="upsilondieresistonos" out="upsilondieresistonos.sc"/>
+          <Substitution in="upsilontonos" out="upsilontonos.sc"/>
+          <Substitution in="uring" out="uring.sc"/>
+          <Substitution in="utilde" out="utilde.sc"/>
+          <Substitution in="v" out="v.sc"/>
+          <Substitution in="w" out="w.sc"/>
+          <Substitution in="wacute" out="wacute.sc"/>
+          <Substitution in="wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="wdieresis" out="wdieresis.sc"/>
+          <Substitution in="wgrave" out="wgrave.sc"/>
+          <Substitution in="x" out="x.sc"/>
+          <Substitution in="xi" out="xi.sc"/>
+          <Substitution in="y" out="y.sc"/>
+          <Substitution in="yacute" out="yacute.sc"/>
+          <Substitution in="ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="ydieresis" out="ydieresis.sc"/>
+          <Substitution in="ygrave" out="ygrave.sc"/>
+          <Substitution in="z" out="z.sc"/>
+          <Substitution in="zacute.sc" out="zacute.sc.loclPLK"/>
+          <Substitution in="zcaron" out="zcaron.sc"/>
+          <Substitution in="zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="zero.numr" out="zero.dnom"/>
+          <Substitution in="zeta" out="zeta.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <!-- LookupType=3 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0">
+          <AlternateSet glyph="A">
+            <Alternate glyph="ordfeminine"/>
+            <Alternate glyph="a.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Cacute">
+            <Alternate glyph="Cacute.loclPLK"/>
+            <Alternate glyph="cacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Nacute">
+            <Alternate glyph="Nacute.loclPLK"/>
+            <Alternate glyph="nacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="O">
+            <Alternate glyph="ordmasculine"/>
+            <Alternate glyph="o.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Oacute">
+            <Alternate glyph="Oacute.loclPLK"/>
+            <Alternate glyph="oacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Sacute">
+            <Alternate glyph="Sacute.loclPLK"/>
+            <Alternate glyph="sacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Scedilla">
+            <Alternate glyph="Scommaaccent"/>
+            <Alternate glyph="scedilla.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tcedilla">
+            <Alternate glyph="uni021A"/>
+            <Alternate glyph="tcedilla.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="Zacute">
+            <Alternate glyph="Zacute.loclPLK"/>
+            <Alternate glyph="zacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="a">
+            <Alternate glyph="ordfeminine"/>
+            <Alternate glyph="a.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="acute">
+            <Alternate glyph="acute.loclPLK"/>
+            <Alternate glyph="acute.sc"/>
+            <Alternate glyph="acute.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="approxequal">
+            <Alternate glyph="approxequal.tf"/>
+            <Alternate glyph="approxequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="approxequal.osf">
+            <Alternate glyph="approxequal"/>
+            <Alternate glyph="approxequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="approxequal.tf">
+            <Alternate glyph="approxequal"/>
+            <Alternate glyph="approxequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="approxequal.tosf">
+            <Alternate glyph="approxequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="asciitilde">
+            <Alternate glyph="asciitilde.tf"/>
+            <Alternate glyph="asciitilde.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="asciitilde.osf">
+            <Alternate glyph="asciitilde"/>
+            <Alternate glyph="asciitilde.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="asciitilde.tf">
+            <Alternate glyph="asciitilde"/>
+            <Alternate glyph="asciitilde.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="asciitilde.tosf">
+            <Alternate glyph="asciitilde.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="breve">
+            <Alternate glyph="breve.sc"/>
+            <Alternate glyph="breve.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="brevecy">
+            <Alternate glyph="brevecy.sc"/>
+            <Alternate glyph="brevecy.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="cacute">
+            <Alternate glyph="cacute.loclPLK"/>
+            <Alternate glyph="cacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="caron">
+            <Alternate glyph="caron.sc"/>
+            <Alternate glyph="caron.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="cedilla">
+            <Alternate glyph="cedilla.sc"/>
+            <Alternate glyph="cedilla.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="cent">
+            <Alternate glyph="cent.tf"/>
+            <Alternate glyph="cent.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="cent.osf">
+            <Alternate glyph="cent"/>
+            <Alternate glyph="cent.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="cent.tf">
+            <Alternate glyph="cent"/>
+            <Alternate glyph="cent.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="cent.tosf">
+            <Alternate glyph="cent.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="circumflex">
+            <Alternate glyph="circumflex.sc"/>
+            <Alternate glyph="circumflex.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="currency">
+            <Alternate glyph="currency.tf"/>
+            <Alternate glyph="currency.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="currency.osf">
+            <Alternate glyph="currency"/>
+            <Alternate glyph="currency.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="currency.tf">
+            <Alternate glyph="currency"/>
+            <Alternate glyph="currency.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="currency.tosf">
+            <Alternate glyph="currency.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dagger">
+            <Alternate glyph="dagger.tf"/>
+            <Alternate glyph="dagger.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dagger.osf">
+            <Alternate glyph="dagger"/>
+            <Alternate glyph="dagger.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dagger.tf">
+            <Alternate glyph="dagger"/>
+            <Alternate glyph="dagger.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dagger.tosf">
+            <Alternate glyph="dagger.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="daggerdbl">
+            <Alternate glyph="daggerdbl.tf"/>
+            <Alternate glyph="daggerdbl.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="daggerdbl.osf">
+            <Alternate glyph="daggerdbl"/>
+            <Alternate glyph="daggerdbl.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="daggerdbl.tf">
+            <Alternate glyph="daggerdbl"/>
+            <Alternate glyph="daggerdbl.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="daggerdbl.tosf">
+            <Alternate glyph="daggerdbl.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="degree">
+            <Alternate glyph="degree.tf"/>
+            <Alternate glyph="degree.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="degree.osf">
+            <Alternate glyph="degree"/>
+            <Alternate glyph="degree.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="degree.tf">
+            <Alternate glyph="degree"/>
+            <Alternate glyph="degree.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="degree.tosf">
+            <Alternate glyph="degree.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dieresis">
+            <Alternate glyph="dieresis.sc"/>
+            <Alternate glyph="dieresis.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="divide">
+            <Alternate glyph="divide.tf"/>
+            <Alternate glyph="divide.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="divide.osf">
+            <Alternate glyph="divide"/>
+            <Alternate glyph="divide.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="divide.tf">
+            <Alternate glyph="divide"/>
+            <Alternate glyph="divide.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="divide.tosf">
+            <Alternate glyph="divide.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar">
+            <Alternate glyph="dollar.tf"/>
+            <Alternate glyph="dollar.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar.osf">
+            <Alternate glyph="dollar"/>
+            <Alternate glyph="dollar.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar.tf">
+            <Alternate glyph="dollar"/>
+            <Alternate glyph="dollar.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar.tosf">
+            <Alternate glyph="dollar.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="dotaccent">
+            <Alternate glyph="dotaccent.sc"/>
+            <Alternate glyph="dotaccent.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight">
+            <Alternate glyph="eightinferior"/>
+            <Alternate glyph="eightsuperior"/>
+            <Alternate glyph="eight.numr"/>
+            <Alternate glyph="eight.dnom"/>
+            <Alternate glyph="eight.tf"/>
+            <Alternate glyph="eight.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.osf">
+            <Alternate glyph="eight"/>
+            <Alternate glyph="eight.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.tf">
+            <Alternate glyph="eight"/>
+            <Alternate glyph="eight.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.tosf">
+            <Alternate glyph="eight.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="equal">
+            <Alternate glyph="equalsuperior"/>
+            <Alternate glyph="equal.numr"/>
+            <Alternate glyph="equal.dnom"/>
+            <Alternate glyph="equal.tf"/>
+            <Alternate glyph="equal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="equal.osf">
+            <Alternate glyph="equal"/>
+            <Alternate glyph="equal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="equal.tf">
+            <Alternate glyph="equal"/>
+            <Alternate glyph="equal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="equal.tosf">
+            <Alternate glyph="equal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="figuredash">
+            <Alternate glyph="figuredash.tf"/>
+            <Alternate glyph="figuredash.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="figuredash.osf">
+            <Alternate glyph="figuredash"/>
+            <Alternate glyph="figuredash.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="figuredash.tf">
+            <Alternate glyph="figuredash"/>
+            <Alternate glyph="figuredash.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="figuredash.tosf">
+            <Alternate glyph="figuredash.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="five">
+            <Alternate glyph="fiveinferior"/>
+            <Alternate glyph="fivesuperior"/>
+            <Alternate glyph="five.numr"/>
+            <Alternate glyph="five.dnom"/>
+            <Alternate glyph="five.tf"/>
+            <Alternate glyph="five.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.osf">
+            <Alternate glyph="five"/>
+            <Alternate glyph="five.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.tf">
+            <Alternate glyph="five"/>
+            <Alternate glyph="five.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.tosf">
+            <Alternate glyph="five.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="four">
+            <Alternate glyph="fourinferior"/>
+            <Alternate glyph="foursuperior"/>
+            <Alternate glyph="four.numr"/>
+            <Alternate glyph="four.dnom"/>
+            <Alternate glyph="four.tf"/>
+            <Alternate glyph="four.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.osf">
+            <Alternate glyph="four"/>
+            <Alternate glyph="four.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.tf">
+            <Alternate glyph="four"/>
+            <Alternate glyph="four.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.tosf">
+            <Alternate glyph="four.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="grave">
+            <Alternate glyph="grave.sc"/>
+            <Alternate glyph="grave.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="greater">
+            <Alternate glyph="greater.tf"/>
+            <Alternate glyph="greater.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greater.osf">
+            <Alternate glyph="greater"/>
+            <Alternate glyph="greater.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greater.tf">
+            <Alternate glyph="greater"/>
+            <Alternate glyph="greater.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greater.tosf">
+            <Alternate glyph="greater.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greaterequal">
+            <Alternate glyph="greaterequal.tf"/>
+            <Alternate glyph="greaterequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greaterequal.osf">
+            <Alternate glyph="greaterequal"/>
+            <Alternate glyph="greaterequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greaterequal.tf">
+            <Alternate glyph="greaterequal"/>
+            <Alternate glyph="greaterequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="greaterequal.tosf">
+            <Alternate glyph="greaterequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="hungarumlaut">
+            <Alternate glyph="hungarumlaut.sc"/>
+            <Alternate glyph="hungarumlaut.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="i">
+            <Alternate glyph="i.loclTRK"/>
+            <Alternate glyph="i.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="infinity">
+            <Alternate glyph="infinity.tf"/>
+            <Alternate glyph="infinity.osf"/>
+            <Alternate glyph="infinity.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="infinity.osf">
+            <Alternate glyph="infinity"/>
+            <Alternate glyph="infinity.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="infinity.tf">
+            <Alternate glyph="infinity"/>
+            <Alternate glyph="infinity.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="infinity.tosf">
+            <Alternate glyph="infinity.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="integral">
+            <Alternate glyph="integral.tf"/>
+            <Alternate glyph="integral.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="integral.osf">
+            <Alternate glyph="integral"/>
+            <Alternate glyph="integral.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="integral.tf">
+            <Alternate glyph="integral"/>
+            <Alternate glyph="integral.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="integral.tosf">
+            <Alternate glyph="integral.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="less">
+            <Alternate glyph="less.tf"/>
+            <Alternate glyph="less.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="less.osf">
+            <Alternate glyph="less"/>
+            <Alternate glyph="less.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="less.tf">
+            <Alternate glyph="less"/>
+            <Alternate glyph="less.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="less.tosf">
+            <Alternate glyph="less.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lessequal">
+            <Alternate glyph="lessequal.tf"/>
+            <Alternate glyph="lessequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lessequal.osf">
+            <Alternate glyph="lessequal"/>
+            <Alternate glyph="lessequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lessequal.tf">
+            <Alternate glyph="lessequal"/>
+            <Alternate glyph="lessequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lessequal.tosf">
+            <Alternate glyph="lessequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="logicalnot">
+            <Alternate glyph="logicalnot.tf"/>
+            <Alternate glyph="logicalnot.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="logicalnot.osf">
+            <Alternate glyph="logicalnot"/>
+            <Alternate glyph="logicalnot.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="logicalnot.tf">
+            <Alternate glyph="logicalnot"/>
+            <Alternate glyph="logicalnot.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="logicalnot.tosf">
+            <Alternate glyph="logicalnot.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lozenge">
+            <Alternate glyph="lozenge.tf"/>
+            <Alternate glyph="lozenge.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lozenge.osf">
+            <Alternate glyph="lozenge"/>
+            <Alternate glyph="lozenge.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lozenge.tf">
+            <Alternate glyph="lozenge"/>
+            <Alternate glyph="lozenge.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="lozenge.tosf">
+            <Alternate glyph="lozenge.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="macron">
+            <Alternate glyph="macron.sc"/>
+            <Alternate glyph="macron.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="minus">
+            <Alternate glyph="uni208B"/>
+            <Alternate glyph="uni207B"/>
+            <Alternate glyph="minus.numr"/>
+            <Alternate glyph="minus.dnom"/>
+            <Alternate glyph="minus.tf"/>
+            <Alternate glyph="minus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="minus.osf">
+            <Alternate glyph="minus"/>
+            <Alternate glyph="minus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="minus.tf">
+            <Alternate glyph="minus"/>
+            <Alternate glyph="minus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="minus.tosf">
+            <Alternate glyph="minus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="multiply">
+            <Alternate glyph="multiply.tf"/>
+            <Alternate glyph="multiply.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="multiply.osf">
+            <Alternate glyph="multiply"/>
+            <Alternate glyph="multiply.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="multiply.tf">
+            <Alternate glyph="multiply"/>
+            <Alternate glyph="multiply.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="multiply.tosf">
+            <Alternate glyph="multiply.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="nacute">
+            <Alternate glyph="nacute.loclPLK"/>
+            <Alternate glyph="nacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine">
+            <Alternate glyph="nineinferior"/>
+            <Alternate glyph="ninesuperior"/>
+            <Alternate glyph="nine.numr"/>
+            <Alternate glyph="nine.dnom"/>
+            <Alternate glyph="nine.tf"/>
+            <Alternate glyph="nine.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.osf">
+            <Alternate glyph="nine"/>
+            <Alternate glyph="nine.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.tf">
+            <Alternate glyph="nine"/>
+            <Alternate glyph="nine.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.tosf">
+            <Alternate glyph="nine.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="notequal">
+            <Alternate glyph="notequal.tf"/>
+            <Alternate glyph="notequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="notequal.osf">
+            <Alternate glyph="notequal"/>
+            <Alternate glyph="notequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="notequal.tf">
+            <Alternate glyph="notequal"/>
+            <Alternate glyph="notequal.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="notequal.tosf">
+            <Alternate glyph="notequal.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="numbersign">
+            <Alternate glyph="numbersign.tf"/>
+            <Alternate glyph="numbersign.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="numbersign.osf">
+            <Alternate glyph="numbersign"/>
+            <Alternate glyph="numbersign.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="numbersign.tf">
+            <Alternate glyph="numbersign"/>
+            <Alternate glyph="numbersign.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="numbersign.tosf">
+            <Alternate glyph="numbersign.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="o">
+            <Alternate glyph="ordmasculine"/>
+            <Alternate glyph="o.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="oacute">
+            <Alternate glyph="oacute.loclPLK"/>
+            <Alternate glyph="oacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="one">
+            <Alternate glyph="oneinferior"/>
+            <Alternate glyph="onesuperior"/>
+            <Alternate glyph="one.numr"/>
+            <Alternate glyph="one.dnom"/>
+            <Alternate glyph="one.tf"/>
+            <Alternate glyph="one.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.osf">
+            <Alternate glyph="one"/>
+            <Alternate glyph="one.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.tf">
+            <Alternate glyph="one"/>
+            <Alternate glyph="one.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.tosf">
+            <Alternate glyph="one.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="parenleft">
+            <Alternate glyph="uni208D"/>
+            <Alternate glyph="parenleftsuperior"/>
+            <Alternate glyph="parenleft.numr"/>
+            <Alternate glyph="parenleft.dnom"/>
+            <Alternate glyph="parenleft.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="parenright">
+            <Alternate glyph="uni208E"/>
+            <Alternate glyph="parenrightsuperior"/>
+            <Alternate glyph="parenright.numr"/>
+            <Alternate glyph="parenright.dnom"/>
+            <Alternate glyph="parenright.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="partialdiff">
+            <Alternate glyph="partialdiff.tf"/>
+            <Alternate glyph="partialdiff.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="partialdiff.osf">
+            <Alternate glyph="partialdiff"/>
+            <Alternate glyph="partialdiff.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="partialdiff.tf">
+            <Alternate glyph="partialdiff"/>
+            <Alternate glyph="partialdiff.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="partialdiff.tosf">
+            <Alternate glyph="partialdiff.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="percent">
+            <Alternate glyph="percent.tf"/>
+            <Alternate glyph="percent.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="percent.osf">
+            <Alternate glyph="percent"/>
+            <Alternate glyph="percent.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="percent.tf">
+            <Alternate glyph="percent"/>
+            <Alternate glyph="percent.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="percent.tosf">
+            <Alternate glyph="percent.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="perthousand">
+            <Alternate glyph="perthousand.tf"/>
+            <Alternate glyph="perthousand.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="perthousand.osf">
+            <Alternate glyph="perthousand"/>
+            <Alternate glyph="perthousand.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="perthousand.tf">
+            <Alternate glyph="perthousand"/>
+            <Alternate glyph="perthousand.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="perthousand.tosf">
+            <Alternate glyph="perthousand.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plus">
+            <Alternate glyph="uni208A"/>
+            <Alternate glyph="plussuperior"/>
+            <Alternate glyph="plus.numr"/>
+            <Alternate glyph="plus.dnom"/>
+            <Alternate glyph="plus.tf"/>
+            <Alternate glyph="plus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plus.osf">
+            <Alternate glyph="plus"/>
+            <Alternate glyph="plus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plus.tf">
+            <Alternate glyph="plus"/>
+            <Alternate glyph="plus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plus.tosf">
+            <Alternate glyph="plus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plusminus">
+            <Alternate glyph="plusminus.tf"/>
+            <Alternate glyph="plusminus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plusminus.osf">
+            <Alternate glyph="plusminus"/>
+            <Alternate glyph="plusminus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plusminus.tf">
+            <Alternate glyph="plusminus"/>
+            <Alternate glyph="plusminus.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="plusminus.tosf">
+            <Alternate glyph="plusminus.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="product">
+            <Alternate glyph="product.tf"/>
+            <Alternate glyph="product.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="product.osf">
+            <Alternate glyph="product"/>
+            <Alternate glyph="product.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="product.tf">
+            <Alternate glyph="product"/>
+            <Alternate glyph="product.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="product.tosf">
+            <Alternate glyph="product.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="radical">
+            <Alternate glyph="radical.tf"/>
+            <Alternate glyph="radical.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="radical.osf">
+            <Alternate glyph="radical"/>
+            <Alternate glyph="radical.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="radical.tf">
+            <Alternate glyph="radical"/>
+            <Alternate glyph="radical.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="radical.tosf">
+            <Alternate glyph="radical.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="ring">
+            <Alternate glyph="ring.sc"/>
+            <Alternate glyph="ring.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="sacute">
+            <Alternate glyph="sacute.loclPLK"/>
+            <Alternate glyph="sacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="scedilla">
+            <Alternate glyph="scommaaccent"/>
+            <Alternate glyph="scedilla.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="section">
+            <Alternate glyph="section.tf"/>
+            <Alternate glyph="section.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="section.osf">
+            <Alternate glyph="section"/>
+            <Alternate glyph="section.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="section.tf">
+            <Alternate glyph="section"/>
+            <Alternate glyph="section.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="section.tosf">
+            <Alternate glyph="section.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven">
+            <Alternate glyph="seveninferior"/>
+            <Alternate glyph="sevensuperior"/>
+            <Alternate glyph="seven.numr"/>
+            <Alternate glyph="seven.dnom"/>
+            <Alternate glyph="seven.tf"/>
+            <Alternate glyph="seven.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.osf">
+            <Alternate glyph="seven"/>
+            <Alternate glyph="seven.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.tf">
+            <Alternate glyph="seven"/>
+            <Alternate glyph="seven.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.tosf">
+            <Alternate glyph="seven.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="six">
+            <Alternate glyph="sixinferior"/>
+            <Alternate glyph="sixsuperior"/>
+            <Alternate glyph="six.numr"/>
+            <Alternate glyph="six.dnom"/>
+            <Alternate glyph="six.tf"/>
+            <Alternate glyph="six.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.osf">
+            <Alternate glyph="six"/>
+            <Alternate glyph="six.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.tf">
+            <Alternate glyph="six"/>
+            <Alternate glyph="six.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.tosf">
+            <Alternate glyph="six.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="sterling">
+            <Alternate glyph="sterling.tf"/>
+            <Alternate glyph="sterling.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="sterling.osf">
+            <Alternate glyph="sterling"/>
+            <Alternate glyph="sterling.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="sterling.tf">
+            <Alternate glyph="sterling"/>
+            <Alternate glyph="sterling.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="sterling.tosf">
+            <Alternate glyph="sterling.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="summation">
+            <Alternate glyph="summation.tf"/>
+            <Alternate glyph="summation.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="summation.osf">
+            <Alternate glyph="summation"/>
+            <Alternate glyph="summation.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="summation.tf">
+            <Alternate glyph="summation"/>
+            <Alternate glyph="summation.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="summation.tosf">
+            <Alternate glyph="summation.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="tcedilla">
+            <Alternate glyph="uni021B"/>
+            <Alternate glyph="tcedilla.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="three">
+            <Alternate glyph="threeinferior"/>
+            <Alternate glyph="threesuperior"/>
+            <Alternate glyph="three.numr"/>
+            <Alternate glyph="three.dnom"/>
+            <Alternate glyph="three.tf"/>
+            <Alternate glyph="three.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.osf">
+            <Alternate glyph="three"/>
+            <Alternate glyph="three.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.tf">
+            <Alternate glyph="three"/>
+            <Alternate glyph="three.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.tosf">
+            <Alternate glyph="three.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="tilde">
+            <Alternate glyph="tilde.sc"/>
+            <Alternate glyph="tilde.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="two">
+            <Alternate glyph="twoinferior"/>
+            <Alternate glyph="twosuperior"/>
+            <Alternate glyph="two.numr"/>
+            <Alternate glyph="two.dnom"/>
+            <Alternate glyph="two.tf"/>
+            <Alternate glyph="two.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.osf">
+            <Alternate glyph="two"/>
+            <Alternate glyph="two.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.tf">
+            <Alternate glyph="two"/>
+            <Alternate glyph="two.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.tosf">
+            <Alternate glyph="two.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0326">
+            <Alternate glyph="uni0326.sc"/>
+            <Alternate glyph="uni0326.case"/>
+          </AlternateSet>
+          <AlternateSet glyph="yen">
+            <Alternate glyph="yen.tf"/>
+            <Alternate glyph="yen.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="yen.osf">
+            <Alternate glyph="yen"/>
+            <Alternate glyph="yen.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="yen.tf">
+            <Alternate glyph="yen"/>
+            <Alternate glyph="yen.tosf"/>
+          </AlternateSet>
+          <AlternateSet glyph="yen.tosf">
+            <Alternate glyph="yen.osf"/>
+          </AlternateSet>
+          <AlternateSet glyph="zacute">
+            <Alternate glyph="zacute.loclPLK"/>
+            <Alternate glyph="zacute.sc"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero">
+            <Alternate glyph="zeroinferior"/>
+            <Alternate glyph="zerosuperior"/>
+            <Alternate glyph="zero.numr"/>
+            <Alternate glyph="zero.dnom"/>
+            <Alternate glyph="zero.tf"/>
+            <Alternate glyph="zero.osf"/>
+            <Alternate glyph="zero.zero"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.osf">
+            <Alternate glyph="zero"/>
+            <Alternate glyph="zero.tosf"/>
+            <Alternate glyph="zero.osf.zero"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.tf">
+            <Alternate glyph="zero"/>
+            <Alternate glyph="zero.tosf"/>
+            <Alternate glyph="zero.tf.zero"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.tosf">
+            <Alternate glyph="zero.osf"/>
+            <Alternate glyph="zero.tosf.zero"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="i.loclTRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="i.loclTRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="Tcedilla" out="uni021A"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="tcedilla" out="uni021B"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="Tcedilla" out="uni021A"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="tcedilla" out="uni021B"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="i.loclTRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Cacute" out="Cacute.loclPLK"/>
+          <Substitution in="Nacute" out="Nacute.loclPLK"/>
+          <Substitution in="Oacute" out="Oacute.loclPLK"/>
+          <Substitution in="Sacute" out="Sacute.loclPLK"/>
+          <Substitution in="Zacute" out="Zacute.loclPLK"/>
+          <Substitution in="acute" out="acute.loclPLK"/>
+          <Substitution in="acute.case" out="acute.case.loclPLK"/>
+          <Substitution in="acute.sc" out="acute.sc.loclPLK"/>
+          <Substitution in="cacute" out="cacute.loclPLK"/>
+          <Substitution in="cacute.sc" out="cacute.sc.loclPLK"/>
+          <Substitution in="nacute" out="nacute.loclPLK"/>
+          <Substitution in="nacute.sc" out="nacute.sc.loclPLK"/>
+          <Substitution in="oacute" out="oacute.loclPLK"/>
+          <Substitution in="oacute.sc" out="oacute.sc.loclPLK"/>
+          <Substitution in="sacute" out="sacute.loclPLK"/>
+          <Substitution in="sacute.sc" out="sacute.sc.loclPLK"/>
+          <Substitution in="zacute" out="zacute.loclPLK"/>
+          <Substitution in="zacute.sc" out="zacute.sc.loclPLK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="i.loclTRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <!-- LookupType=6 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0">
+            <Glyph value="l"/>
+          </InputCoverage>
+          <InputCoverage index="1">
+            <Glyph value="periodcentered"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="l"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="29"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0">
+            <Glyph value="L"/>
+          </InputCoverage>
+          <InputCoverage index="1">
+            <Glyph value="periodcentered"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="L"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="29"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="10">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="i.loclTRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="eightinferior"/>
+          <Substitution in="five" out="fiveinferior"/>
+          <Substitution in="four" out="fourinferior"/>
+          <Substitution in="minus" out="uni208B"/>
+          <Substitution in="nine" out="nineinferior"/>
+          <Substitution in="one" out="oneinferior"/>
+          <Substitution in="parenleft" out="uni208D"/>
+          <Substitution in="parenright" out="uni208E"/>
+          <Substitution in="plus" out="uni208A"/>
+          <Substitution in="seven" out="seveninferior"/>
+          <Substitution in="six" out="sixinferior"/>
+          <Substitution in="three" out="threeinferior"/>
+          <Substitution in="two" out="twoinferior"/>
+          <Substitution in="zero" out="zeroinferior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="eightsuperior"/>
+          <Substitution in="equal" out="equalsuperior"/>
+          <Substitution in="five" out="fivesuperior"/>
+          <Substitution in="four" out="foursuperior"/>
+          <Substitution in="minus" out="uni207B"/>
+          <Substitution in="nine" out="ninesuperior"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="parenleft" out="parenleftsuperior"/>
+          <Substitution in="parenright" out="parenrightsuperior"/>
+          <Substitution in="plus" out="plussuperior"/>
+          <Substitution in="seven" out="sevensuperior"/>
+          <Substitution in="six" out="sixsuperior"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="zero" out="zerosuperior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="eight.numr"/>
+          <Substitution in="equal" out="equal.numr"/>
+          <Substitution in="five" out="five.numr"/>
+          <Substitution in="four" out="four.numr"/>
+          <Substitution in="minus" out="minus.numr"/>
+          <Substitution in="nine" out="nine.numr"/>
+          <Substitution in="one" out="one.numr"/>
+          <Substitution in="parenleft" out="parenleft.numr"/>
+          <Substitution in="parenright" out="parenright.numr"/>
+          <Substitution in="plus" out="plus.numr"/>
+          <Substitution in="seven" out="seven.numr"/>
+          <Substitution in="six" out="six.numr"/>
+          <Substitution in="three" out="three.numr"/>
+          <Substitution in="two" out="two.numr"/>
+          <Substitution in="zero" out="zero.numr"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="eight.dnom"/>
+          <Substitution in="equal" out="equal.dnom"/>
+          <Substitution in="five" out="five.dnom"/>
+          <Substitution in="four" out="four.dnom"/>
+          <Substitution in="minus" out="minus.dnom"/>
+          <Substitution in="nine" out="nine.dnom"/>
+          <Substitution in="one" out="one.dnom"/>
+          <Substitution in="parenleft" out="parenleft.dnom"/>
+          <Substitution in="parenright" out="parenright.dnom"/>
+          <Substitution in="plus" out="plus.dnom"/>
+          <Substitution in="seven" out="seven.dnom"/>
+          <Substitution in="six" out="six.dnom"/>
+          <Substitution in="three" out="three.dnom"/>
+          <Substitution in="two" out="two.dnom"/>
+          <Substitution in="zero" out="zero.dnom"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="slash" out="fraction"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="eight.numr"/>
+          <Substitution in="five" out="five.numr"/>
+          <Substitution in="four" out="four.numr"/>
+          <Substitution in="nine" out="nine.numr"/>
+          <Substitution in="one" out="one.numr"/>
+          <Substitution in="seven" out="seven.numr"/>
+          <Substitution in="six" out="six.numr"/>
+          <Substitution in="three" out="three.numr"/>
+          <Substitution in="two" out="two.numr"/>
+          <Substitution in="zero" out="zero.numr"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="17">
+        <!-- LookupType=6 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="fraction"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="zero.numr"/>
+            <Glyph value="one.numr"/>
+            <Glyph value="two.numr"/>
+            <Glyph value="three.numr"/>
+            <Glyph value="four.numr"/>
+            <Glyph value="five.numr"/>
+            <Glyph value="six.numr"/>
+            <Glyph value="seven.numr"/>
+            <Glyph value="eight.numr"/>
+            <Glyph value="nine.numr"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="30"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="zero.dnom"/>
+            <Glyph value="one.dnom"/>
+            <Glyph value="two.dnom"/>
+            <Glyph value="three.dnom"/>
+            <Glyph value="four.dnom"/>
+            <Glyph value="five.dnom"/>
+            <Glyph value="six.dnom"/>
+            <Glyph value="seven.dnom"/>
+            <Glyph value="eight.dnom"/>
+            <Glyph value="nine.dnom"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="zero.numr"/>
+            <Glyph value="one.numr"/>
+            <Glyph value="two.numr"/>
+            <Glyph value="three.numr"/>
+            <Glyph value="four.numr"/>
+            <Glyph value="five.numr"/>
+            <Glyph value="six.numr"/>
+            <Glyph value="seven.numr"/>
+            <Glyph value="eight.numr"/>
+            <Glyph value="nine.numr"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="30"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="18">
+        <!-- LookupType=6 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="a"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="30"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="O"/>
+            <Glyph value="o"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="30"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="19">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="approxequal.osf" out="approxequal"/>
+          <Substitution in="asciitilde.osf" out="asciitilde"/>
+          <Substitution in="cent.osf" out="cent"/>
+          <Substitution in="currency.osf" out="currency"/>
+          <Substitution in="dagger.osf" out="dagger"/>
+          <Substitution in="daggerdbl.osf" out="daggerdbl"/>
+          <Substitution in="degree.osf" out="degree"/>
+          <Substitution in="divide.osf" out="divide"/>
+          <Substitution in="dollar.osf" out="dollar"/>
+          <Substitution in="eight.osf" out="eight"/>
+          <Substitution in="equal.osf" out="equal"/>
+          <Substitution in="figuredash.osf" out="figuredash"/>
+          <Substitution in="five.osf" out="five"/>
+          <Substitution in="four.osf" out="four"/>
+          <Substitution in="greater.osf" out="greater"/>
+          <Substitution in="greaterequal.osf" out="greaterequal"/>
+          <Substitution in="infinity.osf" out="infinity"/>
+          <Substitution in="integral.osf" out="integral"/>
+          <Substitution in="less.osf" out="less"/>
+          <Substitution in="lessequal.osf" out="lessequal"/>
+          <Substitution in="logicalnot.osf" out="logicalnot"/>
+          <Substitution in="lozenge.osf" out="lozenge"/>
+          <Substitution in="minus.osf" out="minus"/>
+          <Substitution in="multiply.osf" out="multiply"/>
+          <Substitution in="nine.osf" out="nine"/>
+          <Substitution in="notequal.osf" out="notequal"/>
+          <Substitution in="numbersign.osf" out="numbersign"/>
+          <Substitution in="one.osf" out="one"/>
+          <Substitution in="partialdiff.osf" out="partialdiff"/>
+          <Substitution in="percent.osf" out="percent"/>
+          <Substitution in="perthousand.osf" out="perthousand"/>
+          <Substitution in="plus.osf" out="plus"/>
+          <Substitution in="plusminus.osf" out="plusminus"/>
+          <Substitution in="product.osf" out="product"/>
+          <Substitution in="radical.osf" out="radical"/>
+          <Substitution in="section.osf" out="section"/>
+          <Substitution in="seven.osf" out="seven"/>
+          <Substitution in="six.osf" out="six"/>
+          <Substitution in="sterling.osf" out="sterling"/>
+          <Substitution in="summation.osf" out="summation"/>
+          <Substitution in="three.osf" out="three"/>
+          <Substitution in="two.osf" out="two"/>
+          <Substitution in="yen.osf" out="yen"/>
+          <Substitution in="zero.osf" out="zero"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="20">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Euro.tosf" out="Euro.osf"/>
+          <Substitution in="approxequal.tf" out="approxequal"/>
+          <Substitution in="approxequal.tosf" out="approxequal.osf"/>
+          <Substitution in="asciitilde.tf" out="asciitilde"/>
+          <Substitution in="asciitilde.tosf" out="asciitilde.osf"/>
+          <Substitution in="cent.tf" out="cent"/>
+          <Substitution in="cent.tosf" out="cent.osf"/>
+          <Substitution in="currency.tf" out="currency"/>
+          <Substitution in="currency.tosf" out="currency.osf"/>
+          <Substitution in="dagger.tf" out="dagger"/>
+          <Substitution in="dagger.tosf" out="dagger.osf"/>
+          <Substitution in="daggerdbl.tf" out="daggerdbl"/>
+          <Substitution in="daggerdbl.tosf" out="daggerdbl.osf"/>
+          <Substitution in="degree.tf" out="degree"/>
+          <Substitution in="degree.tosf" out="degree.osf"/>
+          <Substitution in="divide.tf" out="divide"/>
+          <Substitution in="divide.tosf" out="divide.osf"/>
+          <Substitution in="dollar.tf" out="dollar"/>
+          <Substitution in="dollar.tosf" out="dollar.osf"/>
+          <Substitution in="eight.tf" out="eight"/>
+          <Substitution in="eight.tosf" out="eight.osf"/>
+          <Substitution in="equal.tf" out="equal"/>
+          <Substitution in="equal.tosf" out="equal.osf"/>
+          <Substitution in="figuredash.tf" out="figuredash"/>
+          <Substitution in="figuredash.tosf" out="figuredash.osf"/>
+          <Substitution in="five.tf" out="five"/>
+          <Substitution in="five.tosf" out="five.osf"/>
+          <Substitution in="four.tf" out="four"/>
+          <Substitution in="four.tosf" out="four.osf"/>
+          <Substitution in="greater.tf" out="greater"/>
+          <Substitution in="greater.tosf" out="greater.osf"/>
+          <Substitution in="greaterequal.tf" out="greaterequal"/>
+          <Substitution in="greaterequal.tosf" out="greaterequal.osf"/>
+          <Substitution in="infinity.tf" out="infinity"/>
+          <Substitution in="infinity.tosf" out="infinity.osf"/>
+          <Substitution in="integral.tf" out="integral"/>
+          <Substitution in="integral.tosf" out="integral.osf"/>
+          <Substitution in="less.tf" out="less"/>
+          <Substitution in="less.tosf" out="less.osf"/>
+          <Substitution in="lessequal.tf" out="lessequal"/>
+          <Substitution in="lessequal.tosf" out="lessequal.osf"/>
+          <Substitution in="logicalnot.tf" out="logicalnot"/>
+          <Substitution in="logicalnot.tosf" out="logicalnot.osf"/>
+          <Substitution in="lozenge.tf" out="lozenge"/>
+          <Substitution in="lozenge.tosf" out="lozenge.osf"/>
+          <Substitution in="minus.tf" out="minus"/>
+          <Substitution in="minus.tosf" out="minus.osf"/>
+          <Substitution in="multiply.tf" out="multiply"/>
+          <Substitution in="multiply.tosf" out="multiply.osf"/>
+          <Substitution in="nine.tf" out="nine"/>
+          <Substitution in="nine.tosf" out="nine.osf"/>
+          <Substitution in="notequal.tf" out="notequal"/>
+          <Substitution in="notequal.tosf" out="notequal.osf"/>
+          <Substitution in="numbersign.tf" out="numbersign"/>
+          <Substitution in="numbersign.tosf" out="numbersign.osf"/>
+          <Substitution in="one.tf" out="one"/>
+          <Substitution in="one.tosf" out="one.osf"/>
+          <Substitution in="partialdiff.tf" out="partialdiff"/>
+          <Substitution in="partialdiff.tosf" out="partialdiff.osf"/>
+          <Substitution in="percent.tf" out="percent"/>
+          <Substitution in="percent.tosf" out="percent.osf"/>
+          <Substitution in="perthousand.tf" out="perthousand"/>
+          <Substitution in="perthousand.tosf" out="perthousand.osf"/>
+          <Substitution in="plus.tf" out="plus"/>
+          <Substitution in="plus.tosf" out="plus.osf"/>
+          <Substitution in="plusminus.tf" out="plusminus"/>
+          <Substitution in="plusminus.tosf" out="plusminus.osf"/>
+          <Substitution in="product.tf" out="product"/>
+          <Substitution in="product.tosf" out="product.osf"/>
+          <Substitution in="radical.tf" out="radical"/>
+          <Substitution in="radical.tosf" out="radical.osf"/>
+          <Substitution in="section.tf" out="section"/>
+          <Substitution in="section.tosf" out="section.osf"/>
+          <Substitution in="seven.tf" out="seven"/>
+          <Substitution in="seven.tosf" out="seven.osf"/>
+          <Substitution in="six.tf" out="six"/>
+          <Substitution in="six.tosf" out="six.osf"/>
+          <Substitution in="sterling.tf" out="sterling"/>
+          <Substitution in="sterling.tosf" out="sterling.osf"/>
+          <Substitution in="summation.tf" out="summation"/>
+          <Substitution in="summation.tosf" out="summation.osf"/>
+          <Substitution in="three.tf" out="three"/>
+          <Substitution in="three.tosf" out="three.osf"/>
+          <Substitution in="two.tf" out="two"/>
+          <Substitution in="two.tosf" out="two.osf"/>
+          <Substitution in="yen.tf" out="yen"/>
+          <Substitution in="yen.tosf" out="yen.osf"/>
+          <Substitution in="zero.tf" out="zero"/>
+          <Substitution in="zero.tosf" out="zero.osf"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="21">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Euro.osf" out="Euro.tosf"/>
+          <Substitution in="approxequal" out="approxequal.tf"/>
+          <Substitution in="approxequal.osf" out="approxequal.tosf"/>
+          <Substitution in="asciitilde" out="asciitilde.tf"/>
+          <Substitution in="asciitilde.osf" out="asciitilde.tosf"/>
+          <Substitution in="cent" out="cent.tf"/>
+          <Substitution in="cent.osf" out="cent.tosf"/>
+          <Substitution in="currency" out="currency.tf"/>
+          <Substitution in="currency.osf" out="currency.tosf"/>
+          <Substitution in="dagger" out="dagger.tf"/>
+          <Substitution in="dagger.osf" out="dagger.tosf"/>
+          <Substitution in="daggerdbl" out="daggerdbl.tf"/>
+          <Substitution in="daggerdbl.osf" out="daggerdbl.tosf"/>
+          <Substitution in="degree" out="degree.tf"/>
+          <Substitution in="degree.osf" out="degree.tosf"/>
+          <Substitution in="divide" out="divide.tf"/>
+          <Substitution in="divide.osf" out="divide.tosf"/>
+          <Substitution in="dollar" out="dollar.tf"/>
+          <Substitution in="dollar.osf" out="dollar.tosf"/>
+          <Substitution in="eight" out="eight.tf"/>
+          <Substitution in="eight.osf" out="eight.tosf"/>
+          <Substitution in="equal" out="equal.tf"/>
+          <Substitution in="equal.osf" out="equal.tosf"/>
+          <Substitution in="figuredash" out="figuredash.tf"/>
+          <Substitution in="figuredash.osf" out="figuredash.tosf"/>
+          <Substitution in="five" out="five.tf"/>
+          <Substitution in="five.osf" out="five.tosf"/>
+          <Substitution in="four" out="four.tf"/>
+          <Substitution in="four.osf" out="four.tosf"/>
+          <Substitution in="greater" out="greater.tf"/>
+          <Substitution in="greater.osf" out="greater.tosf"/>
+          <Substitution in="greaterequal" out="greaterequal.tf"/>
+          <Substitution in="greaterequal.osf" out="greaterequal.tosf"/>
+          <Substitution in="infinity" out="infinity.tf"/>
+          <Substitution in="infinity.osf" out="infinity.tosf"/>
+          <Substitution in="integral" out="integral.tf"/>
+          <Substitution in="integral.osf" out="integral.tosf"/>
+          <Substitution in="less" out="less.tf"/>
+          <Substitution in="less.osf" out="less.tosf"/>
+          <Substitution in="lessequal" out="lessequal.tf"/>
+          <Substitution in="lessequal.osf" out="lessequal.tosf"/>
+          <Substitution in="logicalnot" out="logicalnot.tf"/>
+          <Substitution in="logicalnot.osf" out="logicalnot.tosf"/>
+          <Substitution in="lozenge" out="lozenge.tf"/>
+          <Substitution in="lozenge.osf" out="lozenge.tosf"/>
+          <Substitution in="minus" out="minus.tf"/>
+          <Substitution in="minus.osf" out="minus.tosf"/>
+          <Substitution in="multiply" out="multiply.tf"/>
+          <Substitution in="multiply.osf" out="multiply.tosf"/>
+          <Substitution in="nine" out="nine.tf"/>
+          <Substitution in="nine.osf" out="nine.tosf"/>
+          <Substitution in="notequal" out="notequal.tf"/>
+          <Substitution in="notequal.osf" out="notequal.tosf"/>
+          <Substitution in="numbersign" out="numbersign.tf"/>
+          <Substitution in="numbersign.osf" out="numbersign.tosf"/>
+          <Substitution in="one" out="one.tf"/>
+          <Substitution in="one.osf" out="one.tosf"/>
+          <Substitution in="partialdiff" out="partialdiff.tf"/>
+          <Substitution in="partialdiff.osf" out="partialdiff.tosf"/>
+          <Substitution in="percent" out="percent.tf"/>
+          <Substitution in="percent.osf" out="percent.tosf"/>
+          <Substitution in="perthousand" out="perthousand.tf"/>
+          <Substitution in="perthousand.osf" out="perthousand.tosf"/>
+          <Substitution in="plus" out="plus.tf"/>
+          <Substitution in="plus.osf" out="plus.tosf"/>
+          <Substitution in="plusminus" out="plusminus.tf"/>
+          <Substitution in="plusminus.osf" out="plusminus.tosf"/>
+          <Substitution in="product" out="product.tf"/>
+          <Substitution in="product.osf" out="product.tosf"/>
+          <Substitution in="radical" out="radical.tf"/>
+          <Substitution in="radical.osf" out="radical.tosf"/>
+          <Substitution in="section" out="section.tf"/>
+          <Substitution in="section.osf" out="section.tosf"/>
+          <Substitution in="seven" out="seven.tf"/>
+          <Substitution in="seven.osf" out="seven.tosf"/>
+          <Substitution in="six" out="six.tf"/>
+          <Substitution in="six.osf" out="six.tosf"/>
+          <Substitution in="sterling" out="sterling.tf"/>
+          <Substitution in="sterling.osf" out="sterling.tosf"/>
+          <Substitution in="summation" out="summation.tf"/>
+          <Substitution in="summation.osf" out="summation.tosf"/>
+          <Substitution in="three" out="three.tf"/>
+          <Substitution in="three.osf" out="three.tosf"/>
+          <Substitution in="two" out="two.tf"/>
+          <Substitution in="two.osf" out="two.tosf"/>
+          <Substitution in="yen" out="yen.tf"/>
+          <Substitution in="yen.osf" out="yen.tosf"/>
+          <Substitution in="zero" out="zero.tf"/>
+          <Substitution in="zero.osf" out="zero.tosf"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="22">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Euro.tf" out="Euro.tosf"/>
+          <Substitution in="approxequal" out="approxequal.osf"/>
+          <Substitution in="approxequal.tf" out="approxequal.tosf"/>
+          <Substitution in="asciitilde" out="asciitilde.osf"/>
+          <Substitution in="asciitilde.tf" out="asciitilde.tosf"/>
+          <Substitution in="cent" out="cent.osf"/>
+          <Substitution in="cent.tf" out="cent.tosf"/>
+          <Substitution in="currency" out="currency.osf"/>
+          <Substitution in="currency.tf" out="currency.tosf"/>
+          <Substitution in="dagger" out="dagger.osf"/>
+          <Substitution in="dagger.tf" out="dagger.tosf"/>
+          <Substitution in="daggerdbl" out="daggerdbl.osf"/>
+          <Substitution in="daggerdbl.tf" out="daggerdbl.tosf"/>
+          <Substitution in="degree" out="degree.osf"/>
+          <Substitution in="degree.tf" out="degree.tosf"/>
+          <Substitution in="divide" out="divide.osf"/>
+          <Substitution in="divide.tf" out="divide.tosf"/>
+          <Substitution in="dollar" out="dollar.osf"/>
+          <Substitution in="dollar.tf" out="dollar.tosf"/>
+          <Substitution in="eight" out="eight.osf"/>
+          <Substitution in="eight.tf" out="eight.tosf"/>
+          <Substitution in="equal" out="equal.osf"/>
+          <Substitution in="equal.tf" out="equal.tosf"/>
+          <Substitution in="figuredash" out="figuredash.osf"/>
+          <Substitution in="figuredash.tf" out="figuredash.tosf"/>
+          <Substitution in="five" out="five.osf"/>
+          <Substitution in="five.tf" out="five.tosf"/>
+          <Substitution in="four" out="four.osf"/>
+          <Substitution in="four.tf" out="four.tosf"/>
+          <Substitution in="greater" out="greater.osf"/>
+          <Substitution in="greater.tf" out="greater.tosf"/>
+          <Substitution in="greaterequal" out="greaterequal.osf"/>
+          <Substitution in="greaterequal.tf" out="greaterequal.tosf"/>
+          <Substitution in="infinity" out="infinity.osf"/>
+          <Substitution in="infinity.tf" out="infinity.tosf"/>
+          <Substitution in="integral" out="integral.osf"/>
+          <Substitution in="integral.tf" out="integral.tosf"/>
+          <Substitution in="less" out="less.osf"/>
+          <Substitution in="less.tf" out="less.tosf"/>
+          <Substitution in="lessequal" out="lessequal.osf"/>
+          <Substitution in="lessequal.tf" out="lessequal.tosf"/>
+          <Substitution in="logicalnot" out="logicalnot.osf"/>
+          <Substitution in="logicalnot.tf" out="logicalnot.tosf"/>
+          <Substitution in="lozenge" out="lozenge.osf"/>
+          <Substitution in="lozenge.tf" out="lozenge.tosf"/>
+          <Substitution in="minus" out="minus.osf"/>
+          <Substitution in="minus.tf" out="minus.tosf"/>
+          <Substitution in="multiply" out="multiply.osf"/>
+          <Substitution in="multiply.tf" out="multiply.tosf"/>
+          <Substitution in="nine" out="nine.osf"/>
+          <Substitution in="nine.tf" out="nine.tosf"/>
+          <Substitution in="notequal" out="notequal.osf"/>
+          <Substitution in="notequal.tf" out="notequal.tosf"/>
+          <Substitution in="numbersign" out="numbersign.osf"/>
+          <Substitution in="numbersign.tf" out="numbersign.tosf"/>
+          <Substitution in="one" out="one.osf"/>
+          <Substitution in="one.tf" out="one.tosf"/>
+          <Substitution in="partialdiff" out="partialdiff.osf"/>
+          <Substitution in="partialdiff.tf" out="partialdiff.tosf"/>
+          <Substitution in="percent" out="percent.osf"/>
+          <Substitution in="percent.tf" out="percent.tosf"/>
+          <Substitution in="perthousand" out="perthousand.osf"/>
+          <Substitution in="perthousand.tf" out="perthousand.tosf"/>
+          <Substitution in="plus" out="plus.osf"/>
+          <Substitution in="plus.tf" out="plus.tosf"/>
+          <Substitution in="plusminus" out="plusminus.osf"/>
+          <Substitution in="plusminus.tf" out="plusminus.tosf"/>
+          <Substitution in="product" out="product.osf"/>
+          <Substitution in="product.tf" out="product.tosf"/>
+          <Substitution in="radical" out="radical.osf"/>
+          <Substitution in="radical.tf" out="radical.tosf"/>
+          <Substitution in="section" out="section.osf"/>
+          <Substitution in="section.tf" out="section.tosf"/>
+          <Substitution in="seven" out="seven.osf"/>
+          <Substitution in="seven.tf" out="seven.tosf"/>
+          <Substitution in="six" out="six.osf"/>
+          <Substitution in="six.tf" out="six.tosf"/>
+          <Substitution in="sterling" out="sterling.osf"/>
+          <Substitution in="sterling.tf" out="sterling.tosf"/>
+          <Substitution in="summation" out="summation.osf"/>
+          <Substitution in="summation.tf" out="summation.tosf"/>
+          <Substitution in="three" out="three.osf"/>
+          <Substitution in="three.tf" out="three.tosf"/>
+          <Substitution in="two" out="two.osf"/>
+          <Substitution in="two.tf" out="two.tosf"/>
+          <Substitution in="yen" out="yen.osf"/>
+          <Substitution in="yen.tf" out="yen.tosf"/>
+          <Substitution in="zero" out="zero.osf"/>
+          <Substitution in="zero.tf" out="zero.tosf"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="23">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="a.sc"/>
+          <Substitution in="AE" out="ae.sc"/>
+          <Substitution in="AEacute" out="aeacute.sc"/>
+          <Substitution in="Aacute" out="aacute.sc"/>
+          <Substitution in="Abreve" out="abreve.sc"/>
+          <Substitution in="Acircumflex" out="acircumflex.sc"/>
+          <Substitution in="Adieresis" out="adieresis.sc"/>
+          <Substitution in="Agrave" out="agrave.sc"/>
+          <Substitution in="Alpha" out="alpha.sc"/>
+          <Substitution in="Alphatonos" out="alphatonos.sc"/>
+          <Substitution in="Amacron" out="amacron.sc"/>
+          <Substitution in="Aogonek" out="aogonek.sc"/>
+          <Substitution in="Aring" out="aring.sc"/>
+          <Substitution in="Atilde" out="atilde.sc"/>
+          <Substitution in="B" out="b.sc"/>
+          <Substitution in="Beta" out="beta.sc"/>
+          <Substitution in="C" out="c.sc"/>
+          <Substitution in="Cacute" out="cacute.sc"/>
+          <Substitution in="Ccaron" out="ccaron.sc"/>
+          <Substitution in="Ccedilla" out="ccedilla.sc"/>
+          <Substitution in="Ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="Cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="Chi" out="chi.sc"/>
+          <Substitution in="D" out="d.sc"/>
+          <Substitution in="Dcaron" out="dcaron.sc"/>
+          <Substitution in="Dcroat" out="dcroat.sc"/>
+          <Substitution in="Delta" out="delta.sc"/>
+          <Substitution in="E" out="e.sc"/>
+          <Substitution in="Eacute" out="eacute.sc"/>
+          <Substitution in="Ebreve" out="ebreve.sc"/>
+          <Substitution in="Ecaron" out="ecaron.sc"/>
+          <Substitution in="Ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="Edieresis" out="edieresis.sc"/>
+          <Substitution in="Edotaccent" out="edotaccent.sc"/>
+          <Substitution in="Egrave" out="egrave.sc"/>
+          <Substitution in="Emacron" out="emacron.sc"/>
+          <Substitution in="Eng" out="eng.sc"/>
+          <Substitution in="Eogonek" out="eogonek.sc"/>
+          <Substitution in="Epsilon" out="epsilon.sc"/>
+          <Substitution in="Epsilontonos" out="epsilontonos.sc"/>
+          <Substitution in="Eta" out="eta.sc"/>
+          <Substitution in="Etatonos" out="etatonos.sc"/>
+          <Substitution in="Eth" out="eth.sc"/>
+          <Substitution in="F" out="f.sc"/>
+          <Substitution in="G" out="g.sc"/>
+          <Substitution in="Gamma" out="gamma.sc"/>
+          <Substitution in="Gbreve" out="gbreve.sc"/>
+          <Substitution in="Gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="Gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="Gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="H" out="h.sc"/>
+          <Substitution in="Hbar" out="hbar.sc"/>
+          <Substitution in="Hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="I" out="i.sc"/>
+          <Substitution in="IJ" out="ij.sc"/>
+          <Substitution in="Iacute" out="iacute.sc"/>
+          <Substitution in="Ibreve" out="ibreve.sc"/>
+          <Substitution in="Icircumflex" out="icircumflex.sc"/>
+          <Substitution in="Idieresis" out="idieresis.sc"/>
+          <Substitution in="Idotaccent" out="i.sc.loclTRK"/>
+          <Substitution in="Igrave" out="igrave.sc"/>
+          <Substitution in="Imacron" out="imacron.sc"/>
+          <Substitution in="Iogonek" out="iogonek.sc"/>
+          <Substitution in="Iota" out="iota.sc"/>
+          <Substitution in="Iotadieresis" out="iotadieresis.sc"/>
+          <Substitution in="Iotatonos" out="iotatonos.sc"/>
+          <Substitution in="Itilde" out="itilde.sc"/>
+          <Substitution in="J" out="j.sc"/>
+          <Substitution in="Jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="K" out="k.sc"/>
+          <Substitution in="Kappa" out="kappa.sc"/>
+          <Substitution in="Kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="L" out="l.sc"/>
+          <Substitution in="Lacute" out="lacute.sc"/>
+          <Substitution in="Lambda" out="lambda.sc"/>
+          <Substitution in="Lcaron" out="lcaron.sc"/>
+          <Substitution in="Lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="Ldot" out="ldot.sc"/>
+          <Substitution in="Lslash" out="lslash.sc"/>
+          <Substitution in="M" out="m.sc"/>
+          <Substitution in="Mu" out="mu.sc"/>
+          <Substitution in="N" out="n.sc"/>
+          <Substitution in="Nacute" out="nacute.sc"/>
+          <Substitution in="Ncaron" out="ncaron.sc"/>
+          <Substitution in="Ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="Ntilde" out="ntilde.sc"/>
+          <Substitution in="Nu" out="nu.sc"/>
+          <Substitution in="O" out="o.sc"/>
+          <Substitution in="OE" out="oe.sc"/>
+          <Substitution in="Oacute" out="oacute.sc"/>
+          <Substitution in="Obreve" out="obreve.sc"/>
+          <Substitution in="Ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="Odieresis" out="odieresis.sc"/>
+          <Substitution in="Ograve" out="ograve.sc"/>
+          <Substitution in="Ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="Omacron" out="omacron.sc"/>
+          <Substitution in="Omega" out="omega.sc"/>
+          <Substitution in="Omegatonos" out="omegatonos.sc"/>
+          <Substitution in="Omicron" out="omicron.sc"/>
+          <Substitution in="Omicrontonos" out="omicrontonos.sc"/>
+          <Substitution in="Oslash" out="oslash.sc"/>
+          <Substitution in="Oslashacute" out="oslashacute.sc"/>
+          <Substitution in="Otilde" out="otilde.sc"/>
+          <Substitution in="P" out="p.sc"/>
+          <Substitution in="Phi" out="phi.sc"/>
+          <Substitution in="Pi" out="pi.sc"/>
+          <Substitution in="Psi" out="psi.sc"/>
+          <Substitution in="Q" out="q.sc"/>
+          <Substitution in="R" out="r.sc"/>
+          <Substitution in="Racute" out="racute.sc"/>
+          <Substitution in="Rcaron" out="rcaron.sc"/>
+          <Substitution in="Rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="Rho" out="rho.sc"/>
+          <Substitution in="S" out="s.sc"/>
+          <Substitution in="Sacute" out="sacute.sc"/>
+          <Substitution in="Scaron" out="scaron.sc"/>
+          <Substitution in="Scedilla" out="scedilla.sc"/>
+          <Substitution in="Scircumflex" out="scircumflex.sc"/>
+          <Substitution in="Scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="Sigma" out="sigma.sc"/>
+          <Substitution in="T" out="t.sc"/>
+          <Substitution in="Tau" out="tau.sc"/>
+          <Substitution in="Tbar" out="tbar.sc"/>
+          <Substitution in="Tcaron" out="tcaron.sc"/>
+          <Substitution in="Tcedilla" out="tcedilla.sc"/>
+          <Substitution in="Theta" out="theta.sc"/>
+          <Substitution in="Thorn" out="thorn.sc"/>
+          <Substitution in="U" out="u.sc"/>
+          <Substitution in="Uacute" out="uacute.sc"/>
+          <Substitution in="Ubreve" out="ubreve.sc"/>
+          <Substitution in="Ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="Udieresis" out="udieresis.sc"/>
+          <Substitution in="Ugrave" out="ugrave.sc"/>
+          <Substitution in="Uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="Umacron" out="umacron.sc"/>
+          <Substitution in="Uogonek" out="uogonek.sc"/>
+          <Substitution in="Upsilon" out="upsilon.sc"/>
+          <Substitution in="Upsilondieresis" out="upsilondieresis.sc"/>
+          <Substitution in="Upsilontonos" out="upsilontonos.sc"/>
+          <Substitution in="Uring" out="uring.sc"/>
+          <Substitution in="Utilde" out="utilde.sc"/>
+          <Substitution in="V" out="v.sc"/>
+          <Substitution in="W" out="w.sc"/>
+          <Substitution in="Wacute" out="wacute.sc"/>
+          <Substitution in="Wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="Wdieresis" out="wdieresis.sc"/>
+          <Substitution in="Wgrave" out="wgrave.sc"/>
+          <Substitution in="X" out="x.sc"/>
+          <Substitution in="Xi" out="xi.sc"/>
+          <Substitution in="Y" out="y.sc"/>
+          <Substitution in="Yacute" out="yacute.sc"/>
+          <Substitution in="Ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="Ydieresis" out="ydieresis.sc"/>
+          <Substitution in="Ygrave" out="ygrave.sc"/>
+          <Substitution in="Z" out="z.sc"/>
+          <Substitution in="Zacute" out="zacute.sc"/>
+          <Substitution in="Zcaron" out="zcaron.sc"/>
+          <Substitution in="Zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="Zeta" out="zeta.sc"/>
+          <Substitution in="acute" out="acute.sc"/>
+          <Substitution in="breve" out="breve.sc"/>
+          <Substitution in="brevecy" out="brevecy.sc"/>
+          <Substitution in="caron" out="caron.sc"/>
+          <Substitution in="cedilla" out="cedilla.sc"/>
+          <Substitution in="circumflex" out="circumflex.sc"/>
+          <Substitution in="dieresis" out="dieresis.sc"/>
+          <Substitution in="dotaccent" out="dotaccent.sc"/>
+          <Substitution in="grave" out="grave.sc"/>
+          <Substitution in="hungarumlaut" out="hungarumlaut.sc"/>
+          <Substitution in="macron" out="macron.sc"/>
+          <Substitution in="ogonek" out="ogonek.sc"/>
+          <Substitution in="ring" out="ring.sc"/>
+          <Substitution in="tilde" out="tilde.sc"/>
+          <Substitution in="uni021A" out="uni021B.sc"/>
+          <Substitution in="uni0326" out="uni0326.sc"/>
+          <Substitution in="uni0400" out="uni0450.sc"/>
+          <Substitution in="uni0401" out="uni0451.sc"/>
+          <Substitution in="uni0402" out="uni0452.sc"/>
+          <Substitution in="uni0403" out="uni0453.sc"/>
+          <Substitution in="uni0404" out="uni0454.sc"/>
+          <Substitution in="uni0405" out="uni0455.sc"/>
+          <Substitution in="uni0406" out="uni0456.sc"/>
+          <Substitution in="uni0407" out="uni0457.sc"/>
+          <Substitution in="uni0408" out="uni0458.sc"/>
+          <Substitution in="uni0409" out="uni0459.sc"/>
+          <Substitution in="uni040A" out="uni045A.sc"/>
+          <Substitution in="uni040B" out="uni045B.sc"/>
+          <Substitution in="uni040C" out="uni045C.sc"/>
+          <Substitution in="uni040D" out="uni045D.sc"/>
+          <Substitution in="uni040E" out="uni045E.sc"/>
+          <Substitution in="uni040F" out="uni045F.sc"/>
+          <Substitution in="uni0410" out="uni0430.sc"/>
+          <Substitution in="uni0411" out="uni0431.sc"/>
+          <Substitution in="uni0412" out="uni0432.sc"/>
+          <Substitution in="uni0413" out="uni0433.sc"/>
+          <Substitution in="uni0414" out="uni0434.sc"/>
+          <Substitution in="uni0415" out="uni0435.sc"/>
+          <Substitution in="uni0416" out="uni0436.sc"/>
+          <Substitution in="uni0417" out="uni0437.sc"/>
+          <Substitution in="uni0418" out="uni0438.sc"/>
+          <Substitution in="uni0419" out="uni0439.sc"/>
+          <Substitution in="uni041A" out="uni043A.sc"/>
+          <Substitution in="uni041B" out="uni043B.sc"/>
+          <Substitution in="uni041C" out="uni043C.sc"/>
+          <Substitution in="uni041D" out="uni043D.sc"/>
+          <Substitution in="uni041E" out="uni043E.sc"/>
+          <Substitution in="uni041F" out="uni043F.sc"/>
+          <Substitution in="uni0420" out="uni0440.sc"/>
+          <Substitution in="uni0421" out="uni0441.sc"/>
+          <Substitution in="uni0422" out="uni0442.sc"/>
+          <Substitution in="uni0423" out="uni0443.sc"/>
+          <Substitution in="uni0424" out="uni0444.sc"/>
+          <Substitution in="uni0425" out="uni0445.sc"/>
+          <Substitution in="uni0426" out="uni0446.sc"/>
+          <Substitution in="uni0427" out="uni0447.sc"/>
+          <Substitution in="uni0428" out="uni0448.sc"/>
+          <Substitution in="uni0429" out="uni0449.sc"/>
+          <Substitution in="uni042A" out="uni044A.sc"/>
+          <Substitution in="uni042B" out="uni044B.sc"/>
+          <Substitution in="uni042C" out="uni044C.sc"/>
+          <Substitution in="uni042D" out="uni044D.sc"/>
+          <Substitution in="uni042E" out="uni044E.sc"/>
+          <Substitution in="uni042F" out="uni044F.sc"/>
+          <Substitution in="uni0462" out="uni0463.sc"/>
+          <Substitution in="uni0472" out="uni0473.sc"/>
+          <Substitution in="uni0474" out="uni0475.sc"/>
+          <Substitution in="uni0490" out="uni0491.sc"/>
+          <Substitution in="uni0492" out="uni0493.sc"/>
+          <Substitution in="uni0496" out="uni0497.sc"/>
+          <Substitution in="uni0498" out="uni0499.sc"/>
+          <Substitution in="uni049A" out="uni049B.sc"/>
+          <Substitution in="uni049C" out="uni049D.sc"/>
+          <Substitution in="uni04A0" out="uni04A1.sc"/>
+          <Substitution in="uni04A2" out="uni04A3.sc"/>
+          <Substitution in="uni04AA" out="uni04AB.sc"/>
+          <Substitution in="uni04AC" out="uni04AD.sc"/>
+          <Substitution in="uni04AE" out="uni04AF.sc"/>
+          <Substitution in="uni04B0" out="uni04B1.sc"/>
+          <Substitution in="uni04B2" out="uni04B3.sc"/>
+          <Substitution in="uni04B6" out="uni04B7.sc"/>
+          <Substitution in="uni04B8" out="uni04B9.sc"/>
+          <Substitution in="uni04BA" out="uni04BB.sc"/>
+          <Substitution in="uni04C0" out="uni04CF.sc"/>
+          <Substitution in="uni04CB" out="uni04CC.sc"/>
+          <Substitution in="uni04D0" out="uni04D1.sc"/>
+          <Substitution in="uni04D2" out="uni04D3.sc"/>
+          <Substitution in="uni04D6" out="uni04D7.sc"/>
+          <Substitution in="uni04D8" out="uni04D9.sc"/>
+          <Substitution in="uni04DA" out="uni04DB.sc"/>
+          <Substitution in="uni04E2" out="uni04E3.sc"/>
+          <Substitution in="uni04E8" out="uni04E9.sc"/>
+          <Substitution in="uni04EA" out="uni04EB.sc"/>
+          <Substitution in="uni04EC" out="uni04ED.sc"/>
+          <Substitution in="uni04EE" out="uni04EF.sc"/>
+          <Substitution in="uni04F0" out="uni04F1.sc"/>
+          <Substitution in="uni04F2" out="uni04F3.sc"/>
+          <Substitution in="uni04F4" out="uni04F5.sc"/>
+          <Substitution in="uni04F6" out="uni04F7.sc"/>
+          <Substitution in="uni04F8" out="uni04F9.sc"/>
+          <Substitution in="uni051C" out="uni051D.sc"/>
+          <Substitution in="uni0524" out="uni0525.sc"/>
+          <Substitution in="uni0526" out="uni0527.sc"/>
+          <Substitution in="uni1FB8" out="uni1FB0.sc"/>
+          <Substitution in="uni1FB9" out="uni1FB1.sc"/>
+          <Substitution in="uni1FBB" out="uni1F71.sc"/>
+          <Substitution in="uni1FC8" out="uni1F72.sc"/>
+          <Substitution in="uni1FC9" out="uni1F73.sc"/>
+          <Substitution in="uni1FCA" out="uni1F74.sc"/>
+          <Substitution in="uni1FCB" out="uni1F75.sc"/>
+          <Substitution in="uni1FD8" out="uni1FD0.sc"/>
+          <Substitution in="uni1FD9" out="uni1FD1.sc"/>
+          <Substitution in="uni1FDA" out="uni1F76.sc"/>
+          <Substitution in="uni1FDB" out="uni1F77.sc"/>
+          <Substitution in="uni1FE8" out="uni1FE0.sc"/>
+          <Substitution in="uni1FE9" out="uni1FE1.sc"/>
+          <Substitution in="uni1FEA" out="uni1F7A.sc"/>
+          <Substitution in="uni1FEB" out="uni1F7B.sc"/>
+          <Substitution in="uni1FF8" out="uni1F78.sc"/>
+          <Substitution in="uni1FF9" out="uni1F79.sc"/>
+          <Substitution in="uni1FFA" out="uni1F7C.sc"/>
+          <Substitution in="uni1FFB" out="uni1F7D.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="a" out="a.sc"/>
+          <Substitution in="aacute" out="aacute.sc"/>
+          <Substitution in="abreve" out="abreve.sc"/>
+          <Substitution in="acircumflex" out="acircumflex.sc"/>
+          <Substitution in="acute" out="acute.sc"/>
+          <Substitution in="adieresis" out="adieresis.sc"/>
+          <Substitution in="ae" out="ae.sc"/>
+          <Substitution in="aeacute" out="aeacute.sc"/>
+          <Substitution in="agrave" out="agrave.sc"/>
+          <Substitution in="alpha" out="alpha.sc"/>
+          <Substitution in="alphatonos" out="alphatonos.sc"/>
+          <Substitution in="amacron" out="amacron.sc"/>
+          <Substitution in="aogonek" out="aogonek.sc"/>
+          <Substitution in="aring" out="aring.sc"/>
+          <Substitution in="atilde" out="atilde.sc"/>
+          <Substitution in="b" out="b.sc"/>
+          <Substitution in="beta" out="beta.sc"/>
+          <Substitution in="breve" out="breve.sc"/>
+          <Substitution in="brevecy" out="brevecy.sc"/>
+          <Substitution in="c" out="c.sc"/>
+          <Substitution in="cacute" out="cacute.sc"/>
+          <Substitution in="caron" out="caron.sc"/>
+          <Substitution in="ccaron" out="ccaron.sc"/>
+          <Substitution in="ccedilla" out="ccedilla.sc"/>
+          <Substitution in="ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="cedilla" out="cedilla.sc"/>
+          <Substitution in="chi" out="chi.sc"/>
+          <Substitution in="circumflex" out="circumflex.sc"/>
+          <Substitution in="d" out="d.sc"/>
+          <Substitution in="dcaron" out="dcaron.sc"/>
+          <Substitution in="dcroat" out="dcroat.sc"/>
+          <Substitution in="delta" out="delta.sc"/>
+          <Substitution in="dieresis" out="dieresis.sc"/>
+          <Substitution in="dotaccent" out="dotaccent.sc"/>
+          <Substitution in="dotlessi" out="dotlessi.sc"/>
+          <Substitution in="e" out="e.sc"/>
+          <Substitution in="eacute" out="eacute.sc"/>
+          <Substitution in="ebreve" out="ebreve.sc"/>
+          <Substitution in="ecaron" out="ecaron.sc"/>
+          <Substitution in="ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="edieresis" out="edieresis.sc"/>
+          <Substitution in="edotaccent" out="edotaccent.sc"/>
+          <Substitution in="egrave" out="egrave.sc"/>
+          <Substitution in="emacron" out="emacron.sc"/>
+          <Substitution in="eng" out="eng.sc"/>
+          <Substitution in="eogonek" out="eogonek.sc"/>
+          <Substitution in="epsilon" out="epsilon.sc"/>
+          <Substitution in="epsilontonos" out="epsilontonos.sc"/>
+          <Substitution in="eta" out="eta.sc"/>
+          <Substitution in="etatonos" out="etatonos.sc"/>
+          <Substitution in="eth" out="eth.sc"/>
+          <Substitution in="f" out="f.sc"/>
+          <Substitution in="f_i" out="f_i.sc"/>
+          <Substitution in="f_l" out="f_l.sc"/>
+          <Substitution in="fi" out="fi.sc"/>
+          <Substitution in="fl" out="fl.sc"/>
+          <Substitution in="g" out="g.sc"/>
+          <Substitution in="gamma" out="gamma.sc"/>
+          <Substitution in="gbreve" out="gbreve.sc"/>
+          <Substitution in="gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="germandbls" out="germandbls.sc"/>
+          <Substitution in="grave" out="grave.sc"/>
+          <Substitution in="h" out="h.sc"/>
+          <Substitution in="hbar" out="hbar.sc"/>
+          <Substitution in="hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="hungarumlaut" out="hungarumlaut.sc"/>
+          <Substitution in="i" out="i.sc"/>
+          <Substitution in="i.loclTRK" out="i.sc.loclTRK"/>
+          <Substitution in="iacute" out="iacute.sc"/>
+          <Substitution in="ibreve" out="ibreve.sc"/>
+          <Substitution in="icircumflex" out="icircumflex.sc"/>
+          <Substitution in="idieresis" out="idieresis.sc"/>
+          <Substitution in="igrave" out="igrave.sc"/>
+          <Substitution in="ij" out="ij.sc"/>
+          <Substitution in="imacron" out="imacron.sc"/>
+          <Substitution in="iogonek" out="iogonek.sc"/>
+          <Substitution in="iota" out="iota.sc"/>
+          <Substitution in="iotadieresis" out="iotadieresis.sc"/>
+          <Substitution in="iotadieresistonos" out="iotadieresistonos.sc"/>
+          <Substitution in="iotatonos" out="iotatonos.sc"/>
+          <Substitution in="itilde" out="itilde.sc"/>
+          <Substitution in="j" out="j.sc"/>
+          <Substitution in="jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="jdotless" out="dotlessj.sc"/>
+          <Substitution in="k" out="k.sc"/>
+          <Substitution in="kappa" out="kappa.sc"/>
+          <Substitution in="kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="kgreenlandic" out="kgreenlandic.sc"/>
+          <Substitution in="l" out="l.sc"/>
+          <Substitution in="lacute" out="lacute.sc"/>
+          <Substitution in="lambda" out="lambda.sc"/>
+          <Substitution in="lcaron" out="lcaron.sc"/>
+          <Substitution in="lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="ldot" out="ldot.sc"/>
+          <Substitution in="lslash" out="lslash.sc"/>
+          <Substitution in="m" out="m.sc"/>
+          <Substitution in="macron" out="macron.sc"/>
+          <Substitution in="mu" out="mu.sc"/>
+          <Substitution in="n" out="n.sc"/>
+          <Substitution in="nacute" out="nacute.sc"/>
+          <Substitution in="napostrophe" out="napostrophe.sc"/>
+          <Substitution in="ncaron" out="ncaron.sc"/>
+          <Substitution in="ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="ntilde" out="ntilde.sc"/>
+          <Substitution in="nu" out="nu.sc"/>
+          <Substitution in="o" out="o.sc"/>
+          <Substitution in="oacute" out="oacute.sc"/>
+          <Substitution in="obreve" out="obreve.sc"/>
+          <Substitution in="ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="odieresis" out="odieresis.sc"/>
+          <Substitution in="oe" out="oe.sc"/>
+          <Substitution in="ogonek" out="ogonek.sc"/>
+          <Substitution in="ograve" out="ograve.sc"/>
+          <Substitution in="ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="omacron" out="omacron.sc"/>
+          <Substitution in="omega" out="omega.sc"/>
+          <Substitution in="omegatonos" out="omegatonos.sc"/>
+          <Substitution in="omicron" out="omicron.sc"/>
+          <Substitution in="omicrontonos" out="omicrontonos.sc"/>
+          <Substitution in="oslash" out="oslash.sc"/>
+          <Substitution in="oslashacute" out="oslashacute.sc"/>
+          <Substitution in="otilde" out="otilde.sc"/>
+          <Substitution in="p" out="p.sc"/>
+          <Substitution in="phi" out="phi.sc"/>
+          <Substitution in="pi" out="pi.sc"/>
+          <Substitution in="psi" out="psi.sc"/>
+          <Substitution in="q" out="q.sc"/>
+          <Substitution in="r" out="r.sc"/>
+          <Substitution in="racute" out="racute.sc"/>
+          <Substitution in="rcaron" out="rcaron.sc"/>
+          <Substitution in="rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="rho" out="rho.sc"/>
+          <Substitution in="ring" out="ring.sc"/>
+          <Substitution in="s" out="s.sc"/>
+          <Substitution in="sacute" out="sacute.sc"/>
+          <Substitution in="scaron" out="scaron.sc"/>
+          <Substitution in="scedilla" out="scedilla.sc"/>
+          <Substitution in="scircumflex" out="scircumflex.sc"/>
+          <Substitution in="scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="sigma" out="sigma.sc"/>
+          <Substitution in="sigmafinal" out="sigmafinal.sc"/>
+          <Substitution in="t" out="t.sc"/>
+          <Substitution in="tau" out="tau.sc"/>
+          <Substitution in="tbar" out="tbar.sc"/>
+          <Substitution in="tcaron" out="tcaron.sc"/>
+          <Substitution in="tcedilla" out="tcedilla.sc"/>
+          <Substitution in="theta" out="theta.sc"/>
+          <Substitution in="thorn" out="thorn.sc"/>
+          <Substitution in="tilde" out="tilde.sc"/>
+          <Substitution in="u" out="u.sc"/>
+          <Substitution in="uacute" out="uacute.sc"/>
+          <Substitution in="ubreve" out="ubreve.sc"/>
+          <Substitution in="ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="udieresis" out="udieresis.sc"/>
+          <Substitution in="ugrave" out="ugrave.sc"/>
+          <Substitution in="uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="umacron" out="umacron.sc"/>
+          <Substitution in="uni021B" out="uni021B.sc"/>
+          <Substitution in="uni0326" out="uni0326.sc"/>
+          <Substitution in="uni0430" out="uni0430.sc"/>
+          <Substitution in="uni0431" out="uni0431.sc"/>
+          <Substitution in="uni0432" out="uni0432.sc"/>
+          <Substitution in="uni0433" out="uni0433.sc"/>
+          <Substitution in="uni0434" out="uni0434.sc"/>
+          <Substitution in="uni0435" out="uni0435.sc"/>
+          <Substitution in="uni0436" out="uni0436.sc"/>
+          <Substitution in="uni0437" out="uni0437.sc"/>
+          <Substitution in="uni0438" out="uni0438.sc"/>
+          <Substitution in="uni0439" out="uni0439.sc"/>
+          <Substitution in="uni043A" out="uni043A.sc"/>
+          <Substitution in="uni043B" out="uni043B.sc"/>
+          <Substitution in="uni043C" out="uni043C.sc"/>
+          <Substitution in="uni043D" out="uni043D.sc"/>
+          <Substitution in="uni043E" out="uni043E.sc"/>
+          <Substitution in="uni043F" out="uni043F.sc"/>
+          <Substitution in="uni0440" out="uni0440.sc"/>
+          <Substitution in="uni0441" out="uni0441.sc"/>
+          <Substitution in="uni0442" out="uni0442.sc"/>
+          <Substitution in="uni0443" out="uni0443.sc"/>
+          <Substitution in="uni0444" out="uni0444.sc"/>
+          <Substitution in="uni0445" out="uni0445.sc"/>
+          <Substitution in="uni0446" out="uni0446.sc"/>
+          <Substitution in="uni0447" out="uni0447.sc"/>
+          <Substitution in="uni0448" out="uni0448.sc"/>
+          <Substitution in="uni0449" out="uni0449.sc"/>
+          <Substitution in="uni044A" out="uni044A.sc"/>
+          <Substitution in="uni044B" out="uni044B.sc"/>
+          <Substitution in="uni044C" out="uni044C.sc"/>
+          <Substitution in="uni044D" out="uni044D.sc"/>
+          <Substitution in="uni044E" out="uni044E.sc"/>
+          <Substitution in="uni044F" out="uni044F.sc"/>
+          <Substitution in="uni0450" out="uni0450.sc"/>
+          <Substitution in="uni0451" out="uni0451.sc"/>
+          <Substitution in="uni0452" out="uni0452.sc"/>
+          <Substitution in="uni0453" out="uni0453.sc"/>
+          <Substitution in="uni0454" out="uni0454.sc"/>
+          <Substitution in="uni0455" out="uni0455.sc"/>
+          <Substitution in="uni0456" out="uni0456.sc"/>
+          <Substitution in="uni0457" out="uni0457.sc"/>
+          <Substitution in="uni0458" out="uni0458.sc"/>
+          <Substitution in="uni0459" out="uni0459.sc"/>
+          <Substitution in="uni045A" out="uni045A.sc"/>
+          <Substitution in="uni045B" out="uni045B.sc"/>
+          <Substitution in="uni045C" out="uni045C.sc"/>
+          <Substitution in="uni045D" out="uni045D.sc"/>
+          <Substitution in="uni045E" out="uni045E.sc"/>
+          <Substitution in="uni045F" out="uni045F.sc"/>
+          <Substitution in="uni0463" out="uni0463.sc"/>
+          <Substitution in="uni0473" out="uni0473.sc"/>
+          <Substitution in="uni0475" out="uni0475.sc"/>
+          <Substitution in="uni0491" out="uni0491.sc"/>
+          <Substitution in="uni0493" out="uni0493.sc"/>
+          <Substitution in="uni0497" out="uni0497.sc"/>
+          <Substitution in="uni0499" out="uni0499.sc"/>
+          <Substitution in="uni049B" out="uni049B.sc"/>
+          <Substitution in="uni049D" out="uni049D.sc"/>
+          <Substitution in="uni04A1" out="uni04A1.sc"/>
+          <Substitution in="uni04A3" out="uni04A3.sc"/>
+          <Substitution in="uni04AB" out="uni04AB.sc"/>
+          <Substitution in="uni04AD" out="uni04AD.sc"/>
+          <Substitution in="uni04AF" out="uni04AF.sc"/>
+          <Substitution in="uni04B1" out="uni04B1.sc"/>
+          <Substitution in="uni04B3" out="uni04B3.sc"/>
+          <Substitution in="uni04B7" out="uni04B7.sc"/>
+          <Substitution in="uni04B9" out="uni04B9.sc"/>
+          <Substitution in="uni04BB" out="uni04BB.sc"/>
+          <Substitution in="uni04CC" out="uni04CC.sc"/>
+          <Substitution in="uni04CF" out="uni04CF.sc"/>
+          <Substitution in="uni04D1" out="uni04D1.sc"/>
+          <Substitution in="uni04D3" out="uni04D3.sc"/>
+          <Substitution in="uni04D5" out="uni04D5.sc"/>
+          <Substitution in="uni04D7" out="uni04D7.sc"/>
+          <Substitution in="uni04D9" out="uni04D9.sc"/>
+          <Substitution in="uni04DB" out="uni04DB.sc"/>
+          <Substitution in="uni04E3" out="uni04E3.sc"/>
+          <Substitution in="uni04E9" out="uni04E9.sc"/>
+          <Substitution in="uni04EB" out="uni04EB.sc"/>
+          <Substitution in="uni04ED" out="uni04ED.sc"/>
+          <Substitution in="uni04EF" out="uni04EF.sc"/>
+          <Substitution in="uni04F1" out="uni04F1.sc"/>
+          <Substitution in="uni04F3" out="uni04F3.sc"/>
+          <Substitution in="uni04F5" out="uni04F5.sc"/>
+          <Substitution in="uni04F7" out="uni04F7.sc"/>
+          <Substitution in="uni04F9" out="uni04F9.sc"/>
+          <Substitution in="uni051D" out="uni051D.sc"/>
+          <Substitution in="uni0525" out="uni0525.sc"/>
+          <Substitution in="uni0527" out="uni0527.sc"/>
+          <Substitution in="uni1F71" out="uni1F71.sc"/>
+          <Substitution in="uni1F72" out="uni1F72.sc"/>
+          <Substitution in="uni1F73" out="uni1F73.sc"/>
+          <Substitution in="uni1F74" out="uni1F74.sc"/>
+          <Substitution in="uni1F75" out="uni1F75.sc"/>
+          <Substitution in="uni1F76" out="uni1F76.sc"/>
+          <Substitution in="uni1F77" out="uni1F77.sc"/>
+          <Substitution in="uni1F78" out="uni1F78.sc"/>
+          <Substitution in="uni1F79" out="uni1F79.sc"/>
+          <Substitution in="uni1F7A" out="uni1F7A.sc"/>
+          <Substitution in="uni1F7B" out="uni1F7B.sc"/>
+          <Substitution in="uni1F7C" out="uni1F7C.sc"/>
+          <Substitution in="uni1F7D" out="uni1F7D.sc"/>
+          <Substitution in="uni1FB0" out="uni1FB0.sc"/>
+          <Substitution in="uni1FB1" out="uni1FB1.sc"/>
+          <Substitution in="uni1FB6" out="uni1FB6.sc"/>
+          <Substitution in="uni1FC6" out="uni1FC6.sc"/>
+          <Substitution in="uni1FD0" out="uni1FD0.sc"/>
+          <Substitution in="uni1FD1" out="uni1FD1.sc"/>
+          <Substitution in="uni1FD2" out="uni1FD2.sc"/>
+          <Substitution in="uni1FD3" out="uni1FD3.sc"/>
+          <Substitution in="uni1FD6" out="uni1FD6.sc"/>
+          <Substitution in="uni1FD7" out="uni1FD7.sc"/>
+          <Substitution in="uni1FE0" out="uni1FE0.sc"/>
+          <Substitution in="uni1FE1" out="uni1FE1.sc"/>
+          <Substitution in="uni1FE2" out="uni1FE2.sc"/>
+          <Substitution in="uni1FE3" out="uni1FE3.sc"/>
+          <Substitution in="uni1FE6" out="uni1FE6.sc"/>
+          <Substitution in="uni1FE7" out="uni1FE7.sc"/>
+          <Substitution in="uni1FF6" out="uni1FF6.sc"/>
+          <Substitution in="uogonek" out="uogonek.sc"/>
+          <Substitution in="upsilon" out="upsilon.sc"/>
+          <Substitution in="upsilondieresis" out="upsilondieresis.sc"/>
+          <Substitution in="upsilondieresistonos" out="upsilondieresistonos.sc"/>
+          <Substitution in="upsilontonos" out="upsilontonos.sc"/>
+          <Substitution in="uring" out="uring.sc"/>
+          <Substitution in="utilde" out="utilde.sc"/>
+          <Substitution in="v" out="v.sc"/>
+          <Substitution in="w" out="w.sc"/>
+          <Substitution in="wacute" out="wacute.sc"/>
+          <Substitution in="wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="wdieresis" out="wdieresis.sc"/>
+          <Substitution in="wgrave" out="wgrave.sc"/>
+          <Substitution in="x" out="x.sc"/>
+          <Substitution in="xi" out="xi.sc"/>
+          <Substitution in="y" out="y.sc"/>
+          <Substitution in="yacute" out="yacute.sc"/>
+          <Substitution in="ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="ydieresis" out="ydieresis.sc"/>
+          <Substitution in="ygrave" out="ygrave.sc"/>
+          <Substitution in="z" out="z.sc"/>
+          <Substitution in="zacute" out="zacute.sc"/>
+          <Substitution in="zcaron" out="zcaron.sc"/>
+          <Substitution in="zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="zeta" out="zeta.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="25">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="acute" out="acute.case"/>
+          <Substitution in="braceleft" out="braceleft.case"/>
+          <Substitution in="braceright" out="braceright.case"/>
+          <Substitution in="bracketleft" out="bracketleft.case"/>
+          <Substitution in="bracketright" out="bracketright.case"/>
+          <Substitution in="breve" out="breve.case"/>
+          <Substitution in="brevecy" out="brevecy.case"/>
+          <Substitution in="caron" out="caron.case"/>
+          <Substitution in="cedilla" out="cedilla.case"/>
+          <Substitution in="circumflex" out="circumflex.case"/>
+          <Substitution in="dieresis" out="dieresis.case"/>
+          <Substitution in="dotaccent" out="dotaccent.case"/>
+          <Substitution in="emdash" out="emdash.case"/>
+          <Substitution in="endash" out="endash.case"/>
+          <Substitution in="exclamdown" out="exclamdown.case"/>
+          <Substitution in="grave" out="grave.case"/>
+          <Substitution in="guillemotleft" out="guillemotleft.case"/>
+          <Substitution in="guillemotright" out="guillemotright.case"/>
+          <Substitution in="guilsinglleft" out="guilsinglleft.case"/>
+          <Substitution in="guilsinglright" out="guilsinglright.case"/>
+          <Substitution in="hungarumlaut" out="hungarumlaut.case"/>
+          <Substitution in="hyphen" out="hyphen.case"/>
+          <Substitution in="infinity" out="infinity.case"/>
+          <Substitution in="macron" out="macron.case"/>
+          <Substitution in="parenleft" out="parenleft.case"/>
+          <Substitution in="parenright" out="parenright.case"/>
+          <Substitution in="questiondown" out="questiondown.case"/>
+          <Substitution in="ring" out="ring.case"/>
+          <Substitution in="softhyphen" out="softhyphen.case"/>
+          <Substitution in="tilde" out="tilde.case"/>
+          <Substitution in="tonos" out="tonos.case"/>
+          <Substitution in="uni0326" out="uni0326.case"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="26">
+        <!-- LookupType=4 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="f_i"/>
+            <Ligature components="l" glyph="f_l"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="27">
+        <!-- LookupType=4 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="l" glyph="fl"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="28">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="zero" out="zero.zero"/>
+          <Substitution in="zero.osf" out="zero.osf.zero"/>
+          <Substitution in="zero.tf" out="zero.tf.zero"/>
+          <Substitution in="zero.tosf" out="zero.tosf.zero"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="29">
+        <!-- LookupType=4 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="L">
+            <Ligature components="periodcentered" glyph="Ldot"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="periodcentered" glyph="ldot"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="30">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="ordfeminine"/>
+          <Substitution in="O" out="ordmasculine"/>
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="eight.numr" out="eight.dnom"/>
+          <Substitution in="five.numr" out="five.dnom"/>
+          <Substitution in="four.numr" out="four.dnom"/>
+          <Substitution in="nine.numr" out="nine.dnom"/>
+          <Substitution in="o" out="ordmasculine"/>
+          <Substitution in="one.numr" out="one.dnom"/>
+          <Substitution in="seven.numr" out="seven.dnom"/>
+          <Substitution in="six.numr" out="six.dnom"/>
+          <Substitution in="three.numr" out="three.dnom"/>
+          <Substitution in="two.numr" out="two.dnom"/>
+          <Substitution in="zero.numr" out="zero.dnom"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

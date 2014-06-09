@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="4" platformID="0" platEncID="3" langID="0x0">
+      System Font Regular
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Digitized data copyright &#169; 2012-2014, The Mozilla Foundation and Telefonica S.A.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      .Helvetica Neue DeskInterface
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      System Font Regular; 10.0d12e1; 2014-04-30
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      10.0d12e1
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      .HelveticaNeueDeskInterface-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      Fira Sans is a trademark of The Mozilla Corporation.
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Carrois Corporate &#38; Edenspiekermann AG
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      Helvetica (Latin for Swiss) has the objective and functional style which was associated with Swiss typography in the 1950s and 1960s. It is perfect for international correspondence: no ornament, no emotion, just clear presentation of information. Helvetica is still one of the best selling sans-serif fonts. This font, on the other hand, is much more legible than Helvetica.
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.carrois.com
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.carrois.com
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Licensed under the Open Font License, version 1.1 or later
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x403">
+      Tipus de lletra del sistema
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x403">
+      Tipus de lletra del sistema Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x404">
+      &#31995;&#32113;&#23383;&#39636;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x404">
+      &#27161;&#28310;&#39636;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x404">
+      &#31995;&#32113;&#23383;&#39636; &#27161;&#28310;&#39636;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x405">
+      Syst&#233;mov&#233; p&#237;smo
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x405">
+      Syst&#233;mov&#233; p&#237;smo
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x406">
+      Systemskrift
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x406">
+      Ordin&#230;r
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x406">
+      Systemskrift Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x407">
+      Systemschrift
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x407">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x407">
+      Systemschrift Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x408">
+      &#915;&#961;&#945;&#956;&#956;&#945;&#964;&#959;&#963;&#949;&#953;&#961;&#940; &#963;&#965;&#963;&#964;&#942;&#956;&#945;&#964;&#959;&#962;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x408">
+      &#915;&#961;&#945;&#956;&#956;&#945;&#964;&#959;&#963;&#949;&#953;&#961;&#940; &#963;&#965;&#963;&#964;&#942;&#956;&#945;&#964;&#959;&#962;
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Digitized data copyright &#169; 2012-2014, The Mozilla Foundation and Telefonica S.A.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      System Font
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      System Font Regular
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x40b">
+      J&#228;rjestelm&#228;fontti
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40b">
+      Normaali
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40b">
+      J&#228;rjestelm&#228;fontti Normaali
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x40c">
+      Police syst&#232;me
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x40c">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40c">
+      Police syst&#232;me Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x40d">
+      &#1490;&#1493;&#1508;&#1503; &#1502;&#1506;&#1512;&#1499;&#1514;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40d">
+      &#1490;&#1493;&#1508;&#1503; &#1502;&#1506;&#1512;&#1499;&#1514; &#1512;&#1490;&#1497;&#1500;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x40e">
+      Rendszerbet&#369;t&#237;pus
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x40e">
+      Rendszerbet&#369;t&#237;pus
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x410">
+      Font di sistema
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x410">
+      Regolare
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x410">
+      Font di sistema Regolare
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x411">
+      &#12471;&#12473;&#12486;&#12512;&#12501;&#12457;&#12531;&#12488;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x411">
+      &#12524;&#12462;&#12517;&#12521;&#12540;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x411">
+      &#12471;&#12473;&#12486;&#12512;&#12501;&#12457;&#12531;&#12488; &#12524;&#12462;&#12517;&#12521;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#49884;&#49828;&#53596; &#49436;&#52404;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      &#51068;&#48152;&#52404;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#49884;&#49828;&#53596; &#49436;&#52404; &#51068;&#48152;&#52404;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x413">
+      Systeemlettertype
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x413">
+      Regulier
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x413">
+      Systeemlettertype Regulier
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x414">
+      Systemfont
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x414">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x414">
+      Systemfont Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x415">
+      Czcionka systemowa
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x415">
+      Czcionka systemowa Normalna
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x416">
+      Fonte do Sistema
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x416">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x416">
+      Fonte do Sistema Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x418">
+      Font de sistem
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x418">
+      Font de sistem
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x419">
+      &#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1099;&#1081; &#1096;&#1088;&#1080;&#1092;&#1090;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x419">
+      &#1054;&#1073;&#1099;&#1095;&#1085;&#1099;&#1081;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x419">
+      &#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1099;&#1081; &#1096;&#1088;&#1080;&#1092;&#1090; &#1054;&#1073;&#1099;&#1095;&#1085;&#1099;&#1081;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x41a">
+      Font sustava
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41a">
+      Font sustava Standard
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x41b">
+      Syst&#233;mov&#233; p&#237;smo
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41b">
+      Syst&#233;mov&#233; p&#237;smo Norm&#225;lne
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x41d">
+      Systemtypsnitt
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x41d">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41d">
+      Systemtypsnitt Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x41e">
+      &#3649;&#3610;&#3610;&#3629;&#3633;&#3585;&#3625;&#3619;&#3619;&#3632;&#3610;&#3610;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41e">
+      &#3649;&#3610;&#3610;&#3629;&#3633;&#3585;&#3625;&#3619;&#3619;&#3632;&#3610;&#3610;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x41f">
+      Sistem Fontu
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x41f">
+      Sistem Fontu Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x421">
+      Fon Sistem
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x421">
+      Fon Sistem
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x422">
+      &#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1080;&#1081; &#1096;&#1088;&#1080;&#1092;&#1090;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x422">
+      &#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1080;&#1081; &#1096;&#1088;&#1080;&#1092;&#1090;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x42a">
+      Ph&#244;ng ch&#7919; H&#7879; th&#7889;ng
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x42a">
+      Ph&#244;ng ch&#7919; H&#7879; th&#7889;ng
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x43e">
+      Fon Sistem
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x43e">
+      Fon Sistem
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      &#31995;&#32479;&#23383;&#20307;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      &#24120;&#35268;&#20307;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      &#31995;&#32479;&#23383;&#20307; &#24120;&#35268;&#20307;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x809">
+      System Font
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x809">
+      System Font Regular
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x816">
+      Tipo de letra do sistema
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x816">
+      Tipo de letra do sistema Normal
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0xc01">
+      &#1582;&#1591; &#1575;&#1604;&#1606;&#1592;&#1575;&#1605;
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0xc01">
+      &#1582;&#1591; &#1575;&#1604;&#1606;&#1592;&#1575;&#1605; &#1593;&#1575;&#1583;&#1610;
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0xc0a">
+      Tipo de letra del sistema
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0xc0a">
+      Normal
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0xc0a">
+      Tipo de letra del sistema Normal
+    </namerecord>
+  </name>
+
+</ttFont>
