@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.5">
+  <GlyphOrder src="Regular/FiraSystem-Regular.GlyphOrder.ttx"/>
+  <head src="Regular/FiraSystem-Regular._h_e_a_d.ttx"/>
+  <hhea src="Regular/FiraSystem-Regular._h_h_e_a.ttx"/>
+  <maxp src="Regular/FiraSystem-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="Regular/FiraSystem-Regular.O_S_2f_2.ttx"/>
+  <hmtx src="Regular/FiraSystem-Regular._h_m_t_x.ttx"/>
+  <cmap src="Regular/FiraSystem-Regular._c_m_a_p.ttx"/>
+  <prep src="Regular/FiraSystem-Regular._p_r_e_p.ttx"/>
+  <loca src="Regular/FiraSystem-Regular._l_o_c_a.ttx"/>
+  <glyf src="Regular/FiraSystem-Regular._g_l_y_f.ttx"/>
+  <name src="Regular/FiraSystem-Regular._n_a_m_e.ttx"/>
+  <post src="Regular/FiraSystem-Regular._p_o_s_t.ttx"/>
+  <gasp src="Regular/FiraSystem-Regular._g_a_s_p.ttx"/>
+  <GPOS src="Regular/FiraSystem-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="Regular/FiraSystem-Regular.G_S_U_B_.ttx"/>
+  <DSIG src="Regular/FiraSystem-Regular.D_S_I_G_.ttx"/>
+</ttFont>

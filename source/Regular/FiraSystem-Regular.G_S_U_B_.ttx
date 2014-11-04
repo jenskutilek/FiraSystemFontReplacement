@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.5">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=13 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="5"/>
+            <FeatureIndex index="2" value="10"/>
+            <FeatureIndex index="3" value="15"/>
+            <FeatureIndex index="4" value="20"/>
+            <FeatureIndex index="5" value="28"/>
+            <FeatureIndex index="6" value="33"/>
+            <FeatureIndex index="7" value="38"/>
+            <FeatureIndex index="8" value="43"/>
+            <FeatureIndex index="9" value="48"/>
+            <FeatureIndex index="10" value="53"/>
+            <FeatureIndex index="11" value="58"/>
+            <FeatureIndex index="12" value="63"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=13 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="6"/>
+            <FeatureIndex index="2" value="11"/>
+            <FeatureIndex index="3" value="16"/>
+            <FeatureIndex index="4" value="21"/>
+            <FeatureIndex index="5" value="29"/>
+            <FeatureIndex index="6" value="34"/>
+            <FeatureIndex index="7" value="39"/>
+            <FeatureIndex index="8" value="44"/>
+            <FeatureIndex index="9" value="49"/>
+            <FeatureIndex index="10" value="54"/>
+            <FeatureIndex index="11" value="59"/>
+            <FeatureIndex index="12" value="64"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=3 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="AZE "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=14 -->
+              <FeatureIndex index="0" value="2"/>
+              <FeatureIndex index="1" value="7"/>
+              <FeatureIndex index="2" value="12"/>
+              <FeatureIndex index="3" value="17"/>
+              <FeatureIndex index="4" value="22"/>
+              <FeatureIndex index="5" value="25"/>
+              <FeatureIndex index="6" value="30"/>
+              <FeatureIndex index="7" value="35"/>
+              <FeatureIndex index="8" value="40"/>
+              <FeatureIndex index="9" value="45"/>
+              <FeatureIndex index="10" value="50"/>
+              <FeatureIndex index="11" value="55"/>
+              <FeatureIndex index="12" value="60"/>
+              <FeatureIndex index="13" value="65"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="CRT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=14 -->
+              <FeatureIndex index="0" value="3"/>
+              <FeatureIndex index="1" value="8"/>
+              <FeatureIndex index="2" value="13"/>
+              <FeatureIndex index="3" value="18"/>
+              <FeatureIndex index="4" value="23"/>
+              <FeatureIndex index="5" value="26"/>
+              <FeatureIndex index="6" value="31"/>
+              <FeatureIndex index="7" value="36"/>
+              <FeatureIndex index="8" value="41"/>
+              <FeatureIndex index="9" value="46"/>
+              <FeatureIndex index="10" value="51"/>
+              <FeatureIndex index="11" value="56"/>
+              <FeatureIndex index="12" value="61"/>
+              <FeatureIndex index="13" value="66"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="TRK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=14 -->
+              <FeatureIndex index="0" value="4"/>
+              <FeatureIndex index="1" value="9"/>
+              <FeatureIndex index="2" value="14"/>
+              <FeatureIndex index="3" value="19"/>
+              <FeatureIndex index="4" value="24"/>
+              <FeatureIndex index="5" value="27"/>
+              <FeatureIndex index="6" value="32"/>
+              <FeatureIndex index="7" value="37"/>
+              <FeatureIndex index="8" value="42"/>
+              <FeatureIndex index="9" value="47"/>
+              <FeatureIndex index="10" value="52"/>
+              <FeatureIndex index="11" value="57"/>
+              <FeatureIndex index="12" value="62"/>
+              <FeatureIndex index="13" value="67"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=68 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="22">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="23">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="24">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="25">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="26">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="28">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="29">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="30">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="31">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="32">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="33">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="34">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="35">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="36">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="37">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="38">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="39">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="40">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="41">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="42">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="43">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="44">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="45">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="46">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="47">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="48">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="49">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="50">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="51">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="52">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="53">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="54">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="55">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="56">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="57">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="58">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="59">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="60">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="61">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="62">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="63">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="64">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="65">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="66">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="67">
+        <FeatureTag value="zero"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=17 -->
+      <Lookup index="0">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Idotaccent" out="glyph00972"/>
+          <Substitution in="a" out="glyph00890"/>
+          <Substitution in="aacute" out="glyph00918"/>
+          <Substitution in="abreve" out="glyph00949"/>
+          <Substitution in="acircumflex" out="glyph00919"/>
+          <Substitution in="adieresis" out="glyph00921"/>
+          <Substitution in="ae" out="glyph00923"/>
+          <Substitution in="aeacute" out="glyph01013"/>
+          <Substitution in="agrave" out="glyph00917"/>
+          <Substitution in="alpha" out="glyph01037"/>
+          <Substitution in="alphatonos" out="glyph01032"/>
+          <Substitution in="amacron" out="glyph00948"/>
+          <Substitution in="aogonek" out="glyph00950"/>
+          <Substitution in="aring" out="glyph00922"/>
+          <Substitution in="atilde" out="glyph00920"/>
+          <Substitution in="b" out="glyph00891"/>
+          <Substitution in="beta" out="glyph01038"/>
+          <Substitution in="braceleft" out="glyph00852"/>
+          <Substitution in="braceright" out="glyph00853"/>
+          <Substitution in="bracketleft" out="glyph00850"/>
+          <Substitution in="bracketright" out="glyph00851"/>
+          <Substitution in="c" out="glyph00892"/>
+          <Substitution in="cacute" out="glyph00951"/>
+          <Substitution in="ccaron" out="glyph00954"/>
+          <Substitution in="ccedilla" out="glyph00924"/>
+          <Substitution in="ccircumflex" out="glyph00952"/>
+          <Substitution in="cdotaccent" out="glyph00953"/>
+          <Substitution in="chi" out="glyph01059"/>
+          <Substitution in="d" out="glyph00893"/>
+          <Substitution in="dcaron" out="glyph00955"/>
+          <Substitution in="dcroat" out="glyph00956"/>
+          <Substitution in="delta" out="glyph01040"/>
+          <Substitution in="dotlessi" out="glyph00973"/>
+          <Substitution in="e" out="glyph00894"/>
+          <Substitution in="eacute" out="glyph00926"/>
+          <Substitution in="ebreve" out="glyph00958"/>
+          <Substitution in="ecaron" out="glyph00961"/>
+          <Substitution in="ecircumflex" out="glyph00927"/>
+          <Substitution in="edieresis" out="glyph00928"/>
+          <Substitution in="edotaccent" out="glyph00959"/>
+          <Substitution in="egrave" out="glyph00925"/>
+          <Substitution in="emacron" out="glyph00957"/>
+          <Substitution in="emdash" out="glyph00874"/>
+          <Substitution in="endash" out="glyph00873"/>
+          <Substitution in="eng" out="glyph00987"/>
+          <Substitution in="eogonek" out="glyph00960"/>
+          <Substitution in="epsilon" out="glyph01041"/>
+          <Substitution in="epsilontonos" out="glyph01033"/>
+          <Substitution in="eta" out="glyph01043"/>
+          <Substitution in="etatonos" out="glyph01034"/>
+          <Substitution in="eth" out="glyph00933"/>
+          <Substitution in="exclamdown" out="glyph00854"/>
+          <Substitution in="f" out="glyph00895"/>
+          <Substitution in="g" out="glyph00896"/>
+          <Substitution in="gamma" out="glyph01039"/>
+          <Substitution in="gbreve" out="glyph00963"/>
+          <Substitution in="gcircumflex" out="glyph00962"/>
+          <Substitution in="gdotaccent" out="glyph00964"/>
+          <Substitution in="germandbls" out="glyph00916"/>
+          <Substitution in="glyph00713" out="glyph00879"/>
+          <Substitution in="glyph00758" out="glyph00881"/>
+          <Substitution in="glyph00882" out="glyph00886"/>
+          <Substitution in="glyph00883" out="glyph00887"/>
+          <Substitution in="glyph01139" out="glyph01141"/>
+          <Substitution in="glyph01140" out="glyph01142"/>
+          <Substitution in="guillemotleft" out="glyph00855"/>
+          <Substitution in="guillemotright" out="glyph00857"/>
+          <Substitution in="guilsinglleft" out="glyph00875"/>
+          <Substitution in="guilsinglright" out="glyph00876"/>
+          <Substitution in="h" out="glyph00897"/>
+          <Substitution in="hbar" out="glyph00967"/>
+          <Substitution in="hcircumflex" out="glyph00966"/>
+          <Substitution in="hyphen" out="glyph00849"/>
+          <Substitution in="iacute" out="glyph00930"/>
+          <Substitution in="ibreve" out="glyph00970"/>
+          <Substitution in="icircumflex" out="glyph00931"/>
+          <Substitution in="idieresis" out="glyph00932"/>
+          <Substitution in="igrave" out="glyph00929"/>
+          <Substitution in="ij" out="glyph00974"/>
+          <Substitution in="imacron" out="glyph00969"/>
+          <Substitution in="iogonek" out="glyph00971"/>
+          <Substitution in="iota" out="glyph01045"/>
+          <Substitution in="iotadieresis" out="glyph01062"/>
+          <Substitution in="iotadieresistonos" out="glyph01031"/>
+          <Substitution in="iotatonos" out="glyph01035"/>
+          <Substitution in="itilde" out="glyph00968"/>
+          <Substitution in="j" out="glyph00899"/>
+          <Substitution in="jcircumflex" out="glyph00975"/>
+          <Substitution in="k" out="glyph00900"/>
+          <Substitution in="kappa" out="glyph01046"/>
+          <Substitution in="kgreenlandic" out="glyph00977"/>
+          <Substitution in="l" out="glyph00901"/>
+          <Substitution in="lacute" out="glyph00978"/>
+          <Substitution in="lambda" out="glyph01047"/>
+          <Substitution in="lcaron" out="glyph00980"/>
+          <Substitution in="ldot" out="glyph00981"/>
+          <Substitution in="lslash" out="glyph00982"/>
+          <Substitution in="m" out="glyph00902"/>
+          <Substitution in="n" out="glyph00903"/>
+          <Substitution in="nacute" out="glyph00983"/>
+          <Substitution in="napostrophe" out="glyph00986"/>
+          <Substitution in="ncaron" out="glyph00985"/>
+          <Substitution in="ntilde" out="glyph00934"/>
+          <Substitution in="nu" out="glyph01049"/>
+          <Substitution in="o" out="glyph00904"/>
+          <Substitution in="oacute" out="glyph00936"/>
+          <Substitution in="obreve" out="glyph00989"/>
+          <Substitution in="ocircumflex" out="glyph00937"/>
+          <Substitution in="odieresis" out="glyph00939"/>
+          <Substitution in="oe" out="glyph00991"/>
+          <Substitution in="ograve" out="glyph00935"/>
+          <Substitution in="ohungarumlaut" out="glyph00990"/>
+          <Substitution in="omacron" out="glyph00988"/>
+          <Substitution in="omega" out="glyph01061"/>
+          <Substitution in="omegatonos" out="glyph01066"/>
+          <Substitution in="omicron" out="glyph01051"/>
+          <Substitution in="omicrontonos" out="glyph01064"/>
+          <Substitution in="oslash" out="glyph00940"/>
+          <Substitution in="oslashacute" out="glyph01014"/>
+          <Substitution in="otilde" out="glyph00938"/>
+          <Substitution in="p" out="glyph00905"/>
+          <Substitution in="phi" out="glyph01058"/>
+          <Substitution in="pi" out="glyph01052"/>
+          <Substitution in="psi" out="glyph01060"/>
+          <Substitution in="q" out="glyph00906"/>
+          <Substitution in="questiondown" out="glyph00858"/>
+          <Substitution in="r" out="glyph00907"/>
+          <Substitution in="racute" out="glyph00992"/>
+          <Substitution in="rcaron" out="glyph00994"/>
+          <Substitution in="rho" out="glyph01053"/>
+          <Substitution in="s" out="glyph00908"/>
+          <Substitution in="sacute" out="glyph00995"/>
+          <Substitution in="scaron" out="glyph00998"/>
+          <Substitution in="scedilla" out="glyph00997"/>
+          <Substitution in="scircumflex" out="glyph00996"/>
+          <Substitution in="sigma" out="glyph01055"/>
+          <Substitution in="sigma1" out="glyph01054"/>
+          <Substitution in="slash" out="fraction"/>
+          <Substitution in="t" out="glyph00909"/>
+          <Substitution in="tau" out="glyph01056"/>
+          <Substitution in="tbar" out="glyph01001"/>
+          <Substitution in="tcaron" out="glyph01000"/>
+          <Substitution in="theta" out="glyph01044"/>
+          <Substitution in="thorn" out="glyph00946"/>
+          <Substitution in="u" out="glyph00910"/>
+          <Substitution in="uacute" out="glyph00942"/>
+          <Substitution in="ubreve" out="glyph01004"/>
+          <Substitution in="ucircumflex" out="glyph00943"/>
+          <Substitution in="udieresis" out="glyph00944"/>
+          <Substitution in="ugrave" out="glyph00941"/>
+          <Substitution in="uhungarumlaut" out="glyph01006"/>
+          <Substitution in="umacron" out="glyph01003"/>
+          <Substitution in="uni00AD" out="glyph00856"/>
+          <Substitution in="uni0123" out="glyph00965"/>
+          <Substitution in="uni0137" out="glyph00976"/>
+          <Substitution in="uni013C" out="glyph00979"/>
+          <Substitution in="uni0146" out="glyph00984"/>
+          <Substitution in="uni0157" out="glyph00993"/>
+          <Substitution in="uni0163" out="glyph00999"/>
+          <Substitution in="uni0219" out="glyph01015"/>
+          <Substitution in="uni021B" out="glyph01016"/>
+          <Substitution in="uni0237" out="glyph00889"/>
+          <Substitution in="uni03BC" out="glyph01048"/>
+          <Substitution in="uni0430" out="glyph01067"/>
+          <Substitution in="uni0431" out="glyph01068"/>
+          <Substitution in="uni0432" out="glyph01069"/>
+          <Substitution in="uni0433" out="glyph01070"/>
+          <Substitution in="uni0434" out="glyph01071"/>
+          <Substitution in="uni0435" out="glyph01072"/>
+          <Substitution in="uni0436" out="glyph01073"/>
+          <Substitution in="uni0437" out="glyph01074"/>
+          <Substitution in="uni0438" out="glyph01075"/>
+          <Substitution in="uni0439" out="glyph01076"/>
+          <Substitution in="uni043A" out="glyph01077"/>
+          <Substitution in="uni043B" out="glyph01078"/>
+          <Substitution in="uni043C" out="glyph01079"/>
+          <Substitution in="uni043D" out="glyph01080"/>
+          <Substitution in="uni043E" out="glyph01081"/>
+          <Substitution in="uni043F" out="glyph01082"/>
+          <Substitution in="uni0440" out="glyph01083"/>
+          <Substitution in="uni0441" out="glyph01084"/>
+          <Substitution in="uni0442" out="glyph01085"/>
+          <Substitution in="uni0443" out="glyph01086"/>
+          <Substitution in="uni0444" out="glyph01087"/>
+          <Substitution in="uni0445" out="glyph01088"/>
+          <Substitution in="uni0446" out="glyph01089"/>
+          <Substitution in="uni0447" out="glyph01090"/>
+          <Substitution in="uni0448" out="glyph01091"/>
+          <Substitution in="uni0449" out="glyph01092"/>
+          <Substitution in="uni044A" out="glyph01093"/>
+          <Substitution in="uni044B" out="glyph01094"/>
+          <Substitution in="uni044C" out="glyph01095"/>
+          <Substitution in="uni044D" out="glyph01096"/>
+          <Substitution in="uni044E" out="glyph01097"/>
+          <Substitution in="uni044F" out="glyph01098"/>
+          <Substitution in="uni0451" out="glyph01099"/>
+          <Substitution in="uni0452" out="glyph01100"/>
+          <Substitution in="uni0453" out="glyph01101"/>
+          <Substitution in="uni0454" out="glyph01102"/>
+          <Substitution in="uni0455" out="glyph01103"/>
+          <Substitution in="uni0456" out="glyph01104"/>
+          <Substitution in="uni0457" out="glyph01105"/>
+          <Substitution in="uni0458" out="glyph01106"/>
+          <Substitution in="uni0459" out="glyph01107"/>
+          <Substitution in="uni045A" out="glyph01108"/>
+          <Substitution in="uni045B" out="glyph01109"/>
+          <Substitution in="uni045C" out="glyph01110"/>
+          <Substitution in="uni045E" out="glyph01111"/>
+          <Substitution in="uni045F" out="glyph01112"/>
+          <Substitution in="uni0463" out="glyph01113"/>
+          <Substitution in="uni0473" out="glyph01114"/>
+          <Substitution in="uni0475" out="glyph01115"/>
+          <Substitution in="uni0491" out="glyph01116"/>
+          <Substitution in="uni0493" out="glyph01117"/>
+          <Substitution in="uni0497" out="glyph01118"/>
+          <Substitution in="uni0499" out="glyph01119"/>
+          <Substitution in="uni049B" out="glyph01120"/>
+          <Substitution in="uni049D" out="glyph01121"/>
+          <Substitution in="uni04A1" out="glyph01122"/>
+          <Substitution in="uni04A3" out="glyph01123"/>
+          <Substitution in="uni04AB" out="glyph01124"/>
+          <Substitution in="uni04AF" out="glyph01125"/>
+          <Substitution in="uni04B1" out="glyph01126"/>
+          <Substitution in="uni04B3" out="glyph01127"/>
+          <Substitution in="uni04B9" out="glyph01128"/>
+          <Substitution in="uni04BB" out="glyph01129"/>
+          <Substitution in="uni04CC" out="glyph01130"/>
+          <Substitution in="uni04CF" out="glyph01131"/>
+          <Substitution in="uni04D9" out="glyph01132"/>
+          <Substitution in="uni04E3" out="glyph01133"/>
+          <Substitution in="uni04E9" out="glyph01134"/>
+          <Substitution in="uni04EF" out="glyph01135"/>
+          <Substitution in="uniFB01" out="glyph01136"/>
+          <Substitution in="uniFB02" out="glyph01137"/>
+          <Substitution in="uogonek" out="glyph01007"/>
+          <Substitution in="upsilon" out="glyph01057"/>
+          <Substitution in="upsilondieresis" out="glyph01063"/>
+          <Substitution in="upsilondieresistonos" out="glyph01036"/>
+          <Substitution in="upsilontonos" out="glyph01065"/>
+          <Substitution in="uring" out="glyph01005"/>
+          <Substitution in="utilde" out="glyph01002"/>
+          <Substitution in="v" out="glyph00911"/>
+          <Substitution in="w" out="glyph00912"/>
+          <Substitution in="wcircumflex" out="glyph01008"/>
+          <Substitution in="x" out="glyph00913"/>
+          <Substitution in="xi" out="glyph01050"/>
+          <Substitution in="y" out="glyph00914"/>
+          <Substitution in="yacute" out="glyph00945"/>
+          <Substitution in="ycircumflex" out="glyph01009"/>
+          <Substitution in="ydieresis" out="glyph00947"/>
+          <Substitution in="z" out="glyph00915"/>
+          <Substitution in="zacute" out="glyph01010"/>
+          <Substitution in="zcaron" out="glyph01012"/>
+          <Substitution in="zdotaccent" out="glyph01011"/>
+          <Substitution in="zeta" out="glyph01042"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <!-- LookupType=3 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0">
+          <AlternateSet glyph="Euro">
+            <Alternate glyph="glyph00833"/>
+            <Alternate glyph="glyph00741"/>
+          </AlternateSet>
+          <AlternateSet glyph="acutecomb">
+            <Alternate glyph="glyph01018"/>
+            <Alternate glyph="glyph00860"/>
+          </AlternateSet>
+          <AlternateSet glyph="approxequal">
+            <Alternate glyph="glyph00841"/>
+            <Alternate glyph="glyph00749"/>
+          </AlternateSet>
+          <AlternateSet glyph="asciitilde">
+            <Alternate glyph="glyph00817"/>
+            <Alternate glyph="glyph00726"/>
+          </AlternateSet>
+          <AlternateSet glyph="cent">
+            <Alternate glyph="glyph00818"/>
+            <Alternate glyph="glyph00727"/>
+          </AlternateSet>
+          <AlternateSet glyph="currency">
+            <Alternate glyph="glyph00820"/>
+            <Alternate glyph="glyph00729"/>
+          </AlternateSet>
+          <AlternateSet glyph="dagger">
+            <Alternate glyph="glyph00830"/>
+            <Alternate glyph="glyph00738"/>
+          </AlternateSet>
+          <AlternateSet glyph="daggerdbl">
+            <Alternate glyph="glyph00831"/>
+            <Alternate glyph="glyph00739"/>
+          </AlternateSet>
+          <AlternateSet glyph="degree">
+            <Alternate glyph="glyph00824"/>
+            <Alternate glyph="glyph00733"/>
+          </AlternateSet>
+          <AlternateSet glyph="divide">
+            <Alternate glyph="glyph00827"/>
+            <Alternate glyph="glyph00736"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar">
+            <Alternate glyph="glyph00801"/>
+            <Alternate glyph="glyph00710"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight">
+            <Alternate glyph="uni2088"/>
+            <Alternate glyph="uni2078"/>
+            <Alternate glyph="glyph00689"/>
+            <Alternate glyph="glyph00704"/>
+            <Alternate glyph="glyph00812"/>
+            <Alternate glyph="glyph00721"/>
+          </AlternateSet>
+          <AlternateSet glyph="equal">
+            <Alternate glyph="glyph00691"/>
+            <Alternate glyph="glyph00706"/>
+            <Alternate glyph="glyph00815"/>
+            <Alternate glyph="glyph00724"/>
+          </AlternateSet>
+          <AlternateSet glyph="figuredash">
+            <Alternate glyph="glyph00829"/>
+            <Alternate glyph="glyph00737"/>
+          </AlternateSet>
+          <AlternateSet glyph="five">
+            <Alternate glyph="uni2085"/>
+            <Alternate glyph="uni2075"/>
+            <Alternate glyph="glyph00686"/>
+            <Alternate glyph="glyph00701"/>
+            <Alternate glyph="glyph00809"/>
+            <Alternate glyph="glyph00718"/>
+          </AlternateSet>
+          <AlternateSet glyph="four">
+            <Alternate glyph="uni2084"/>
+            <Alternate glyph="uni2074"/>
+            <Alternate glyph="glyph00685"/>
+            <Alternate glyph="glyph00700"/>
+            <Alternate glyph="glyph00808"/>
+            <Alternate glyph="glyph00717"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00800">
+            <Alternate glyph="numbersign"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00801">
+            <Alternate glyph="dollar"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00802">
+            <Alternate glyph="percent"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00803">
+            <Alternate glyph="plus"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00804">
+            <Alternate glyph="zero"/>
+            <Alternate glyph="glyph00880"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00805">
+            <Alternate glyph="one"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00806">
+            <Alternate glyph="two"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00807">
+            <Alternate glyph="three"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00808">
+            <Alternate glyph="four"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00809">
+            <Alternate glyph="five"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00810">
+            <Alternate glyph="six"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00811">
+            <Alternate glyph="seven"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00812">
+            <Alternate glyph="eight"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00813">
+            <Alternate glyph="nine"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00814">
+            <Alternate glyph="less"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00815">
+            <Alternate glyph="equal"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00816">
+            <Alternate glyph="greater"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00817">
+            <Alternate glyph="asciitilde"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00818">
+            <Alternate glyph="cent"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00819">
+            <Alternate glyph="sterling"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00820">
+            <Alternate glyph="currency"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00821">
+            <Alternate glyph="yen"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00822">
+            <Alternate glyph="section"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00823">
+            <Alternate glyph="logicalnot"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00824">
+            <Alternate glyph="degree"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00825">
+            <Alternate glyph="plusminus"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00826">
+            <Alternate glyph="multiply"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00827">
+            <Alternate glyph="divide"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00829">
+            <Alternate glyph="figuredash"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00830">
+            <Alternate glyph="dagger"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00831">
+            <Alternate glyph="daggerdbl"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00832">
+            <Alternate glyph="perthousand"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00833">
+            <Alternate glyph="Euro"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00834">
+            <Alternate glyph="partialdiff"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00835">
+            <Alternate glyph="product"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00836">
+            <Alternate glyph="summation"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00837">
+            <Alternate glyph="minus"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00838">
+            <Alternate glyph="radical"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00839">
+            <Alternate glyph="infinity"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00840">
+            <Alternate glyph="integral"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00841">
+            <Alternate glyph="approxequal"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00842">
+            <Alternate glyph="notequal"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00843">
+            <Alternate glyph="lessequal"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00844">
+            <Alternate glyph="greaterequal"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00845">
+            <Alternate glyph="lozenge"/>
+          </AlternateSet>
+          <AlternateSet glyph="glyph00885">
+            <Alternate glyph="glyph00888"/>
+            <Alternate glyph="glyph00846"/>
+          </AlternateSet>
+          <AlternateSet glyph="gravecomb">
+            <Alternate glyph="glyph01017"/>
+            <Alternate glyph="glyph00859"/>
+          </AlternateSet>
+          <AlternateSet glyph="greater">
+            <Alternate glyph="glyph00816"/>
+            <Alternate glyph="glyph00725"/>
+          </AlternateSet>
+          <AlternateSet glyph="greaterequal">
+            <Alternate glyph="glyph00844"/>
+            <Alternate glyph="glyph00752"/>
+          </AlternateSet>
+          <AlternateSet glyph="i">
+            <Alternate glyph="glyph01140"/>
+            <Alternate glyph="glyph00898"/>
+          </AlternateSet>
+          <AlternateSet glyph="infinity">
+            <Alternate glyph="glyph00839"/>
+            <Alternate glyph="glyph00747"/>
+            <Alternate glyph="glyph00877"/>
+          </AlternateSet>
+          <AlternateSet glyph="integral">
+            <Alternate glyph="glyph00840"/>
+            <Alternate glyph="glyph00748"/>
+          </AlternateSet>
+          <AlternateSet glyph="less">
+            <Alternate glyph="glyph00814"/>
+            <Alternate glyph="glyph00723"/>
+          </AlternateSet>
+          <AlternateSet glyph="lessequal">
+            <Alternate glyph="glyph00843"/>
+            <Alternate glyph="glyph00751"/>
+          </AlternateSet>
+          <AlternateSet glyph="logicalnot">
+            <Alternate glyph="glyph00823"/>
+            <Alternate glyph="glyph00732"/>
+          </AlternateSet>
+          <AlternateSet glyph="lozenge">
+            <Alternate glyph="glyph00845"/>
+            <Alternate glyph="glyph00753"/>
+          </AlternateSet>
+          <AlternateSet glyph="minus">
+            <Alternate glyph="glyph00692"/>
+            <Alternate glyph="glyph00707"/>
+            <Alternate glyph="glyph00837"/>
+            <Alternate glyph="glyph00745"/>
+          </AlternateSet>
+          <AlternateSet glyph="multiply">
+            <Alternate glyph="glyph00826"/>
+            <Alternate glyph="glyph00735"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine">
+            <Alternate glyph="uni2089"/>
+            <Alternate glyph="uni2079"/>
+            <Alternate glyph="glyph00690"/>
+            <Alternate glyph="glyph00705"/>
+            <Alternate glyph="glyph00813"/>
+            <Alternate glyph="glyph00722"/>
+          </AlternateSet>
+          <AlternateSet glyph="notequal">
+            <Alternate glyph="glyph00842"/>
+            <Alternate glyph="glyph00750"/>
+          </AlternateSet>
+          <AlternateSet glyph="numbersign">
+            <Alternate glyph="glyph00800"/>
+            <Alternate glyph="glyph00709"/>
+          </AlternateSet>
+          <AlternateSet glyph="one">
+            <Alternate glyph="uni2081"/>
+            <Alternate glyph="uni00B9"/>
+            <Alternate glyph="glyph00682"/>
+            <Alternate glyph="glyph00697"/>
+            <Alternate glyph="glyph00805"/>
+            <Alternate glyph="glyph00714"/>
+          </AlternateSet>
+          <AlternateSet glyph="parenleft">
+            <Alternate glyph="glyph00678"/>
+            <Alternate glyph="glyph00693"/>
+            <Alternate glyph="glyph00847"/>
+          </AlternateSet>
+          <AlternateSet glyph="parenright">
+            <Alternate glyph="glyph00679"/>
+            <Alternate glyph="glyph00694"/>
+            <Alternate glyph="glyph00848"/>
+          </AlternateSet>
+          <AlternateSet glyph="partialdiff">
+            <Alternate glyph="glyph00834"/>
+            <Alternate glyph="glyph00742"/>
+          </AlternateSet>
+          <AlternateSet glyph="percent">
+            <Alternate glyph="glyph00802"/>
+            <Alternate glyph="glyph00711"/>
+          </AlternateSet>
+          <AlternateSet glyph="perthousand">
+            <Alternate glyph="glyph00832"/>
+            <Alternate glyph="glyph00740"/>
+          </AlternateSet>
+          <AlternateSet glyph="plus">
+            <Alternate glyph="glyph00680"/>
+            <Alternate glyph="glyph00695"/>
+            <Alternate glyph="glyph00803"/>
+            <Alternate glyph="glyph00712"/>
+          </AlternateSet>
+          <AlternateSet glyph="plusminus">
+            <Alternate glyph="glyph00825"/>
+            <Alternate glyph="glyph00734"/>
+          </AlternateSet>
+          <AlternateSet glyph="product">
+            <Alternate glyph="glyph00835"/>
+            <Alternate glyph="glyph00743"/>
+          </AlternateSet>
+          <AlternateSet glyph="radical">
+            <Alternate glyph="glyph00838"/>
+            <Alternate glyph="glyph00746"/>
+          </AlternateSet>
+          <AlternateSet glyph="section">
+            <Alternate glyph="glyph00822"/>
+            <Alternate glyph="glyph00731"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven">
+            <Alternate glyph="uni2087"/>
+            <Alternate glyph="uni2077"/>
+            <Alternate glyph="glyph00688"/>
+            <Alternate glyph="glyph00703"/>
+            <Alternate glyph="glyph00811"/>
+            <Alternate glyph="glyph00720"/>
+          </AlternateSet>
+          <AlternateSet glyph="six">
+            <Alternate glyph="uni2086"/>
+            <Alternate glyph="uni2076"/>
+            <Alternate glyph="glyph00687"/>
+            <Alternate glyph="glyph00702"/>
+            <Alternate glyph="glyph00810"/>
+            <Alternate glyph="glyph00719"/>
+          </AlternateSet>
+          <AlternateSet glyph="sterling">
+            <Alternate glyph="glyph00819"/>
+            <Alternate glyph="glyph00728"/>
+          </AlternateSet>
+          <AlternateSet glyph="summation">
+            <Alternate glyph="glyph00836"/>
+            <Alternate glyph="glyph00744"/>
+          </AlternateSet>
+          <AlternateSet glyph="three">
+            <Alternate glyph="uni2083"/>
+            <Alternate glyph="uni00B3"/>
+            <Alternate glyph="glyph00684"/>
+            <Alternate glyph="glyph00699"/>
+            <Alternate glyph="glyph00807"/>
+            <Alternate glyph="glyph00716"/>
+          </AlternateSet>
+          <AlternateSet glyph="tildecomb">
+            <Alternate glyph="glyph01020"/>
+            <Alternate glyph="glyph00862"/>
+          </AlternateSet>
+          <AlternateSet glyph="two">
+            <Alternate glyph="uni2082"/>
+            <Alternate glyph="uni00B2"/>
+            <Alternate glyph="glyph00683"/>
+            <Alternate glyph="glyph00698"/>
+            <Alternate glyph="glyph00806"/>
+            <Alternate glyph="glyph00715"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0302">
+            <Alternate glyph="glyph01019"/>
+            <Alternate glyph="glyph00861"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0304">
+            <Alternate glyph="glyph01021"/>
+            <Alternate glyph="glyph00863"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0306">
+            <Alternate glyph="glyph01022"/>
+            <Alternate glyph="glyph00864"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0307">
+            <Alternate glyph="glyph01023"/>
+            <Alternate glyph="glyph00865"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0308">
+            <Alternate glyph="glyph01024"/>
+            <Alternate glyph="glyph00866"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni030A">
+            <Alternate glyph="glyph01025"/>
+            <Alternate glyph="glyph00867"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni030B">
+            <Alternate glyph="glyph01026"/>
+            <Alternate glyph="glyph00868"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni030C">
+            <Alternate glyph="glyph01027"/>
+            <Alternate glyph="glyph00869"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0326">
+            <Alternate glyph="glyph01028"/>
+            <Alternate glyph="glyph00870"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0327">
+            <Alternate glyph="glyph01029"/>
+            <Alternate glyph="glyph00871"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0328">
+            <Alternate glyph="glyph01030"/>
+            <Alternate glyph="glyph00872"/>
+          </AlternateSet>
+          <AlternateSet glyph="yen">
+            <Alternate glyph="glyph00821"/>
+            <Alternate glyph="glyph00730"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero">
+            <Alternate glyph="uni2080"/>
+            <Alternate glyph="uni2070"/>
+            <Alternate glyph="glyph00681"/>
+            <Alternate glyph="glyph00696"/>
+            <Alternate glyph="glyph00804"/>
+            <Alternate glyph="glyph00713"/>
+            <Alternate glyph="glyph00878"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="glyph01140"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="glyph01140"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="glyph01140"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="uni2088"/>
+          <Substitution in="five" out="uni2085"/>
+          <Substitution in="four" out="uni2084"/>
+          <Substitution in="nine" out="uni2089"/>
+          <Substitution in="one" out="uni2081"/>
+          <Substitution in="seven" out="uni2087"/>
+          <Substitution in="six" out="uni2086"/>
+          <Substitution in="three" out="uni2083"/>
+          <Substitution in="two" out="uni2082"/>
+          <Substitution in="zero" out="uni2080"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="uni2088"/>
+          <Substitution in="five" out="uni2085"/>
+          <Substitution in="four" out="uni2084"/>
+          <Substitution in="nine" out="uni2089"/>
+          <Substitution in="one" out="uni2081"/>
+          <Substitution in="seven" out="uni2087"/>
+          <Substitution in="six" out="uni2086"/>
+          <Substitution in="three" out="uni2083"/>
+          <Substitution in="two" out="uni2082"/>
+          <Substitution in="zero" out="uni2080"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="uni2078"/>
+          <Substitution in="five" out="uni2075"/>
+          <Substitution in="four" out="uni2074"/>
+          <Substitution in="nine" out="uni2079"/>
+          <Substitution in="one" out="uni00B9"/>
+          <Substitution in="seven" out="uni2077"/>
+          <Substitution in="six" out="uni2076"/>
+          <Substitution in="three" out="uni00B3"/>
+          <Substitution in="two" out="uni00B2"/>
+          <Substitution in="zero" out="uni2070"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="glyph00689"/>
+          <Substitution in="equal" out="glyph00691"/>
+          <Substitution in="five" out="glyph00686"/>
+          <Substitution in="four" out="glyph00685"/>
+          <Substitution in="minus" out="glyph00692"/>
+          <Substitution in="nine" out="glyph00690"/>
+          <Substitution in="one" out="glyph00682"/>
+          <Substitution in="parenleft" out="glyph00678"/>
+          <Substitution in="parenright" out="glyph00679"/>
+          <Substitution in="plus" out="glyph00680"/>
+          <Substitution in="seven" out="glyph00688"/>
+          <Substitution in="six" out="glyph00687"/>
+          <Substitution in="three" out="glyph00684"/>
+          <Substitution in="two" out="glyph00683"/>
+          <Substitution in="zero" out="glyph00681"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="eight" out="glyph00704"/>
+          <Substitution in="equal" out="glyph00706"/>
+          <Substitution in="five" out="glyph00701"/>
+          <Substitution in="four" out="glyph00700"/>
+          <Substitution in="minus" out="glyph00707"/>
+          <Substitution in="nine" out="glyph00705"/>
+          <Substitution in="one" out="glyph00697"/>
+          <Substitution in="parenleft" out="glyph00693"/>
+          <Substitution in="parenright" out="glyph00694"/>
+          <Substitution in="plus" out="glyph00695"/>
+          <Substitution in="seven" out="glyph00703"/>
+          <Substitution in="six" out="glyph00702"/>
+          <Substitution in="three" out="glyph00699"/>
+          <Substitution in="two" out="glyph00698"/>
+          <Substitution in="zero" out="glyph00696"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="slash" out="fraction"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Euro" out="glyph00833"/>
+          <Substitution in="approxequal" out="glyph00841"/>
+          <Substitution in="asciitilde" out="glyph00817"/>
+          <Substitution in="cent" out="glyph00818"/>
+          <Substitution in="currency" out="glyph00820"/>
+          <Substitution in="dagger" out="glyph00830"/>
+          <Substitution in="daggerdbl" out="glyph00831"/>
+          <Substitution in="degree" out="glyph00824"/>
+          <Substitution in="divide" out="glyph00827"/>
+          <Substitution in="dollar" out="glyph00801"/>
+          <Substitution in="eight" out="glyph00812"/>
+          <Substitution in="equal" out="glyph00815"/>
+          <Substitution in="figuredash" out="glyph00829"/>
+          <Substitution in="five" out="glyph00809"/>
+          <Substitution in="four" out="glyph00808"/>
+          <Substitution in="greater" out="glyph00816"/>
+          <Substitution in="greaterequal" out="glyph00844"/>
+          <Substitution in="infinity" out="glyph00839"/>
+          <Substitution in="integral" out="glyph00840"/>
+          <Substitution in="less" out="glyph00814"/>
+          <Substitution in="lessequal" out="glyph00843"/>
+          <Substitution in="logicalnot" out="glyph00823"/>
+          <Substitution in="lozenge" out="glyph00845"/>
+          <Substitution in="minus" out="glyph00837"/>
+          <Substitution in="multiply" out="glyph00826"/>
+          <Substitution in="nine" out="glyph00813"/>
+          <Substitution in="notequal" out="glyph00842"/>
+          <Substitution in="numbersign" out="glyph00800"/>
+          <Substitution in="one" out="glyph00805"/>
+          <Substitution in="partialdiff" out="glyph00834"/>
+          <Substitution in="percent" out="glyph00802"/>
+          <Substitution in="perthousand" out="glyph00832"/>
+          <Substitution in="plus" out="glyph00803"/>
+          <Substitution in="plusminus" out="glyph00825"/>
+          <Substitution in="product" out="glyph00835"/>
+          <Substitution in="radical" out="glyph00838"/>
+          <Substitution in="section" out="glyph00822"/>
+          <Substitution in="seven" out="glyph00811"/>
+          <Substitution in="six" out="glyph00810"/>
+          <Substitution in="sterling" out="glyph00819"/>
+          <Substitution in="summation" out="glyph00836"/>
+          <Substitution in="three" out="glyph00807"/>
+          <Substitution in="two" out="glyph00806"/>
+          <Substitution in="yen" out="glyph00821"/>
+          <Substitution in="zero" out="glyph00804"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Euro" out="glyph00741"/>
+          <Substitution in="approxequal" out="glyph00749"/>
+          <Substitution in="asciitilde" out="glyph00726"/>
+          <Substitution in="cent" out="glyph00727"/>
+          <Substitution in="currency" out="glyph00729"/>
+          <Substitution in="dagger" out="glyph00738"/>
+          <Substitution in="daggerdbl" out="glyph00739"/>
+          <Substitution in="degree" out="glyph00733"/>
+          <Substitution in="divide" out="glyph00736"/>
+          <Substitution in="dollar" out="glyph00710"/>
+          <Substitution in="eight" out="glyph00721"/>
+          <Substitution in="equal" out="glyph00724"/>
+          <Substitution in="figuredash" out="glyph00737"/>
+          <Substitution in="five" out="glyph00718"/>
+          <Substitution in="four" out="glyph00717"/>
+          <Substitution in="glyph00800" out="numbersign"/>
+          <Substitution in="glyph00801" out="dollar"/>
+          <Substitution in="glyph00802" out="percent"/>
+          <Substitution in="glyph00803" out="plus"/>
+          <Substitution in="glyph00804" out="zero"/>
+          <Substitution in="glyph00805" out="one"/>
+          <Substitution in="glyph00806" out="two"/>
+          <Substitution in="glyph00807" out="three"/>
+          <Substitution in="glyph00808" out="four"/>
+          <Substitution in="glyph00809" out="five"/>
+          <Substitution in="glyph00810" out="six"/>
+          <Substitution in="glyph00811" out="seven"/>
+          <Substitution in="glyph00812" out="eight"/>
+          <Substitution in="glyph00813" out="nine"/>
+          <Substitution in="glyph00814" out="less"/>
+          <Substitution in="glyph00815" out="equal"/>
+          <Substitution in="glyph00816" out="greater"/>
+          <Substitution in="glyph00817" out="asciitilde"/>
+          <Substitution in="glyph00818" out="cent"/>
+          <Substitution in="glyph00819" out="sterling"/>
+          <Substitution in="glyph00820" out="currency"/>
+          <Substitution in="glyph00821" out="yen"/>
+          <Substitution in="glyph00822" out="section"/>
+          <Substitution in="glyph00823" out="logicalnot"/>
+          <Substitution in="glyph00824" out="degree"/>
+          <Substitution in="glyph00825" out="plusminus"/>
+          <Substitution in="glyph00826" out="multiply"/>
+          <Substitution in="glyph00827" out="divide"/>
+          <Substitution in="glyph00829" out="figuredash"/>
+          <Substitution in="glyph00830" out="dagger"/>
+          <Substitution in="glyph00831" out="daggerdbl"/>
+          <Substitution in="glyph00832" out="perthousand"/>
+          <Substitution in="glyph00833" out="Euro"/>
+          <Substitution in="glyph00834" out="partialdiff"/>
+          <Substitution in="glyph00835" out="product"/>
+          <Substitution in="glyph00836" out="summation"/>
+          <Substitution in="glyph00837" out="minus"/>
+          <Substitution in="glyph00838" out="radical"/>
+          <Substitution in="glyph00839" out="infinity"/>
+          <Substitution in="glyph00840" out="integral"/>
+          <Substitution in="glyph00841" out="approxequal"/>
+          <Substitution in="glyph00842" out="notequal"/>
+          <Substitution in="glyph00843" out="lessequal"/>
+          <Substitution in="glyph00844" out="greaterequal"/>
+          <Substitution in="glyph00845" out="lozenge"/>
+          <Substitution in="greater" out="glyph00725"/>
+          <Substitution in="greaterequal" out="glyph00752"/>
+          <Substitution in="infinity" out="glyph00747"/>
+          <Substitution in="integral" out="glyph00748"/>
+          <Substitution in="less" out="glyph00723"/>
+          <Substitution in="lessequal" out="glyph00751"/>
+          <Substitution in="logicalnot" out="glyph00732"/>
+          <Substitution in="lozenge" out="glyph00753"/>
+          <Substitution in="minus" out="glyph00745"/>
+          <Substitution in="multiply" out="glyph00735"/>
+          <Substitution in="nine" out="glyph00722"/>
+          <Substitution in="notequal" out="glyph00750"/>
+          <Substitution in="numbersign" out="glyph00709"/>
+          <Substitution in="one" out="glyph00714"/>
+          <Substitution in="partialdiff" out="glyph00742"/>
+          <Substitution in="percent" out="glyph00711"/>
+          <Substitution in="perthousand" out="glyph00740"/>
+          <Substitution in="plus" out="glyph00712"/>
+          <Substitution in="plusminus" out="glyph00734"/>
+          <Substitution in="product" out="glyph00743"/>
+          <Substitution in="radical" out="glyph00746"/>
+          <Substitution in="section" out="glyph00731"/>
+          <Substitution in="seven" out="glyph00720"/>
+          <Substitution in="six" out="glyph00719"/>
+          <Substitution in="sterling" out="glyph00728"/>
+          <Substitution in="summation" out="glyph00744"/>
+          <Substitution in="three" out="glyph00716"/>
+          <Substitution in="two" out="glyph00715"/>
+          <Substitution in="yen" out="glyph00730"/>
+          <Substitution in="zero" out="glyph00713"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Idotaccent" out="glyph00972"/>
+          <Substitution in="a" out="glyph00890"/>
+          <Substitution in="aacute" out="glyph00918"/>
+          <Substitution in="abreve" out="glyph00949"/>
+          <Substitution in="acircumflex" out="glyph00919"/>
+          <Substitution in="acutecomb" out="glyph01018"/>
+          <Substitution in="adieresis" out="glyph00921"/>
+          <Substitution in="ae" out="glyph00923"/>
+          <Substitution in="aeacute" out="glyph01013"/>
+          <Substitution in="agrave" out="glyph00917"/>
+          <Substitution in="alpha" out="glyph01037"/>
+          <Substitution in="alphatonos" out="glyph01032"/>
+          <Substitution in="amacron" out="glyph00948"/>
+          <Substitution in="aogonek" out="glyph00950"/>
+          <Substitution in="aring" out="glyph00922"/>
+          <Substitution in="atilde" out="glyph00920"/>
+          <Substitution in="b" out="glyph00891"/>
+          <Substitution in="beta" out="glyph01038"/>
+          <Substitution in="c" out="glyph00892"/>
+          <Substitution in="cacute" out="glyph00951"/>
+          <Substitution in="ccaron" out="glyph00954"/>
+          <Substitution in="ccedilla" out="glyph00924"/>
+          <Substitution in="ccircumflex" out="glyph00952"/>
+          <Substitution in="cdotaccent" out="glyph00953"/>
+          <Substitution in="chi" out="glyph01059"/>
+          <Substitution in="d" out="glyph00893"/>
+          <Substitution in="dcaron" out="glyph00955"/>
+          <Substitution in="dcroat" out="glyph00956"/>
+          <Substitution in="delta" out="glyph01040"/>
+          <Substitution in="dotlessi" out="glyph00973"/>
+          <Substitution in="e" out="glyph00894"/>
+          <Substitution in="eacute" out="glyph00926"/>
+          <Substitution in="ebreve" out="glyph00958"/>
+          <Substitution in="ecaron" out="glyph00961"/>
+          <Substitution in="ecircumflex" out="glyph00927"/>
+          <Substitution in="edieresis" out="glyph00928"/>
+          <Substitution in="edotaccent" out="glyph00959"/>
+          <Substitution in="egrave" out="glyph00925"/>
+          <Substitution in="emacron" out="glyph00957"/>
+          <Substitution in="eng" out="glyph00987"/>
+          <Substitution in="eogonek" out="glyph00960"/>
+          <Substitution in="epsilon" out="glyph01041"/>
+          <Substitution in="epsilontonos" out="glyph01033"/>
+          <Substitution in="eta" out="glyph01043"/>
+          <Substitution in="etatonos" out="glyph01034"/>
+          <Substitution in="eth" out="glyph00933"/>
+          <Substitution in="f" out="glyph00895"/>
+          <Substitution in="g" out="glyph00896"/>
+          <Substitution in="gamma" out="glyph01039"/>
+          <Substitution in="gbreve" out="glyph00963"/>
+          <Substitution in="gcircumflex" out="glyph00962"/>
+          <Substitution in="gdotaccent" out="glyph00964"/>
+          <Substitution in="germandbls" out="glyph00916"/>
+          <Substitution in="glyph00882" out="glyph00886"/>
+          <Substitution in="glyph00883" out="glyph00887"/>
+          <Substitution in="glyph00885" out="glyph00888"/>
+          <Substitution in="glyph01139" out="glyph01141"/>
+          <Substitution in="glyph01140" out="glyph01142"/>
+          <Substitution in="gravecomb" out="glyph01017"/>
+          <Substitution in="h" out="glyph00897"/>
+          <Substitution in="hbar" out="glyph00967"/>
+          <Substitution in="hcircumflex" out="glyph00966"/>
+          <Substitution in="i" out="glyph00898"/>
+          <Substitution in="iacute" out="glyph00930"/>
+          <Substitution in="ibreve" out="glyph00970"/>
+          <Substitution in="icircumflex" out="glyph00931"/>
+          <Substitution in="idieresis" out="glyph00932"/>
+          <Substitution in="igrave" out="glyph00929"/>
+          <Substitution in="ij" out="glyph00974"/>
+          <Substitution in="imacron" out="glyph00969"/>
+          <Substitution in="iogonek" out="glyph00971"/>
+          <Substitution in="iota" out="glyph01045"/>
+          <Substitution in="iotadieresis" out="glyph01062"/>
+          <Substitution in="iotadieresistonos" out="glyph01031"/>
+          <Substitution in="iotatonos" out="glyph01035"/>
+          <Substitution in="itilde" out="glyph00968"/>
+          <Substitution in="j" out="glyph00899"/>
+          <Substitution in="jcircumflex" out="glyph00975"/>
+          <Substitution in="k" out="glyph00900"/>
+          <Substitution in="kappa" out="glyph01046"/>
+          <Substitution in="kgreenlandic" out="glyph00977"/>
+          <Substitution in="l" out="glyph00901"/>
+          <Substitution in="lacute" out="glyph00978"/>
+          <Substitution in="lambda" out="glyph01047"/>
+          <Substitution in="lcaron" out="glyph00980"/>
+          <Substitution in="ldot" out="glyph00981"/>
+          <Substitution in="lslash" out="glyph00982"/>
+          <Substitution in="m" out="glyph00902"/>
+          <Substitution in="n" out="glyph00903"/>
+          <Substitution in="nacute" out="glyph00983"/>
+          <Substitution in="napostrophe" out="glyph00986"/>
+          <Substitution in="ncaron" out="glyph00985"/>
+          <Substitution in="ntilde" out="glyph00934"/>
+          <Substitution in="nu" out="glyph01049"/>
+          <Substitution in="o" out="glyph00904"/>
+          <Substitution in="oacute" out="glyph00936"/>
+          <Substitution in="obreve" out="glyph00989"/>
+          <Substitution in="ocircumflex" out="glyph00937"/>
+          <Substitution in="odieresis" out="glyph00939"/>
+          <Substitution in="oe" out="glyph00991"/>
+          <Substitution in="ograve" out="glyph00935"/>
+          <Substitution in="ohungarumlaut" out="glyph00990"/>
+          <Substitution in="omacron" out="glyph00988"/>
+          <Substitution in="omega" out="glyph01061"/>
+          <Substitution in="omegatonos" out="glyph01066"/>
+          <Substitution in="omicron" out="glyph01051"/>
+          <Substitution in="omicrontonos" out="glyph01064"/>
+          <Substitution in="oslash" out="glyph00940"/>
+          <Substitution in="oslashacute" out="glyph01014"/>
+          <Substitution in="otilde" out="glyph00938"/>
+          <Substitution in="p" out="glyph00905"/>
+          <Substitution in="phi" out="glyph01058"/>
+          <Substitution in="pi" out="glyph01052"/>
+          <Substitution in="psi" out="glyph01060"/>
+          <Substitution in="q" out="glyph00906"/>
+          <Substitution in="r" out="glyph00907"/>
+          <Substitution in="racute" out="glyph00992"/>
+          <Substitution in="rcaron" out="glyph00994"/>
+          <Substitution in="rho" out="glyph01053"/>
+          <Substitution in="s" out="glyph00908"/>
+          <Substitution in="sacute" out="glyph00995"/>
+          <Substitution in="scaron" out="glyph00998"/>
+          <Substitution in="scedilla" out="glyph00997"/>
+          <Substitution in="scircumflex" out="glyph00996"/>
+          <Substitution in="sigma" out="glyph01055"/>
+          <Substitution in="sigma1" out="glyph01054"/>
+          <Substitution in="t" out="glyph00909"/>
+          <Substitution in="tau" out="glyph01056"/>
+          <Substitution in="tbar" out="glyph01001"/>
+          <Substitution in="tcaron" out="glyph01000"/>
+          <Substitution in="theta" out="glyph01044"/>
+          <Substitution in="thorn" out="glyph00946"/>
+          <Substitution in="tildecomb" out="glyph01020"/>
+          <Substitution in="u" out="glyph00910"/>
+          <Substitution in="uacute" out="glyph00942"/>
+          <Substitution in="ubreve" out="glyph01004"/>
+          <Substitution in="ucircumflex" out="glyph00943"/>
+          <Substitution in="udieresis" out="glyph00944"/>
+          <Substitution in="ugrave" out="glyph00941"/>
+          <Substitution in="uhungarumlaut" out="glyph01006"/>
+          <Substitution in="umacron" out="glyph01003"/>
+          <Substitution in="uni0123" out="glyph00965"/>
+          <Substitution in="uni0137" out="glyph00976"/>
+          <Substitution in="uni013C" out="glyph00979"/>
+          <Substitution in="uni0146" out="glyph00984"/>
+          <Substitution in="uni0157" out="glyph00993"/>
+          <Substitution in="uni0163" out="glyph00999"/>
+          <Substitution in="uni0219" out="glyph01015"/>
+          <Substitution in="uni021B" out="glyph01016"/>
+          <Substitution in="uni0237" out="glyph00889"/>
+          <Substitution in="uni0302" out="glyph01019"/>
+          <Substitution in="uni0304" out="glyph01021"/>
+          <Substitution in="uni0306" out="glyph01022"/>
+          <Substitution in="uni0307" out="glyph01023"/>
+          <Substitution in="uni0308" out="glyph01024"/>
+          <Substitution in="uni030A" out="glyph01025"/>
+          <Substitution in="uni030B" out="glyph01026"/>
+          <Substitution in="uni030C" out="glyph01027"/>
+          <Substitution in="uni0326" out="glyph01028"/>
+          <Substitution in="uni0327" out="glyph01029"/>
+          <Substitution in="uni0328" out="glyph01030"/>
+          <Substitution in="uni03BC" out="glyph01048"/>
+          <Substitution in="uni0430" out="glyph01067"/>
+          <Substitution in="uni0431" out="glyph01068"/>
+          <Substitution in="uni0432" out="glyph01069"/>
+          <Substitution in="uni0433" out="glyph01070"/>
+          <Substitution in="uni0434" out="glyph01071"/>
+          <Substitution in="uni0435" out="glyph01072"/>
+          <Substitution in="uni0436" out="glyph01073"/>
+          <Substitution in="uni0437" out="glyph01074"/>
+          <Substitution in="uni0438" out="glyph01075"/>
+          <Substitution in="uni0439" out="glyph01076"/>
+          <Substitution in="uni043A" out="glyph01077"/>
+          <Substitution in="uni043B" out="glyph01078"/>
+          <Substitution in="uni043C" out="glyph01079"/>
+          <Substitution in="uni043D" out="glyph01080"/>
+          <Substitution in="uni043E" out="glyph01081"/>
+          <Substitution in="uni043F" out="glyph01082"/>
+          <Substitution in="uni0440" out="glyph01083"/>
+          <Substitution in="uni0441" out="glyph01084"/>
+          <Substitution in="uni0442" out="glyph01085"/>
+          <Substitution in="uni0443" out="glyph01086"/>
+          <Substitution in="uni0444" out="glyph01087"/>
+          <Substitution in="uni0445" out="glyph01088"/>
+          <Substitution in="uni0446" out="glyph01089"/>
+          <Substitution in="uni0447" out="glyph01090"/>
+          <Substitution in="uni0448" out="glyph01091"/>
+          <Substitution in="uni0449" out="glyph01092"/>
+          <Substitution in="uni044A" out="glyph01093"/>
+          <Substitution in="uni044B" out="glyph01094"/>
+          <Substitution in="uni044C" out="glyph01095"/>
+          <Substitution in="uni044D" out="glyph01096"/>
+          <Substitution in="uni044E" out="glyph01097"/>
+          <Substitution in="uni044F" out="glyph01098"/>
+          <Substitution in="uni0451" out="glyph01099"/>
+          <Substitution in="uni0452" out="glyph01100"/>
+          <Substitution in="uni0453" out="glyph01101"/>
+          <Substitution in="uni0454" out="glyph01102"/>
+          <Substitution in="uni0455" out="glyph01103"/>
+          <Substitution in="uni0456" out="glyph01104"/>
+          <Substitution in="uni0457" out="glyph01105"/>
+          <Substitution in="uni0458" out="glyph01106"/>
+          <Substitution in="uni0459" out="glyph01107"/>
+          <Substitution in="uni045A" out="glyph01108"/>
+          <Substitution in="uni045B" out="glyph01109"/>
+          <Substitution in="uni045C" out="glyph01110"/>
+          <Substitution in="uni045E" out="glyph01111"/>
+          <Substitution in="uni045F" out="glyph01112"/>
+          <Substitution in="uni0463" out="glyph01113"/>
+          <Substitution in="uni0473" out="glyph01114"/>
+          <Substitution in="uni0475" out="glyph01115"/>
+          <Substitution in="uni0491" out="glyph01116"/>
+          <Substitution in="uni0493" out="glyph01117"/>
+          <Substitution in="uni0497" out="glyph01118"/>
+          <Substitution in="uni0499" out="glyph01119"/>
+          <Substitution in="uni049B" out="glyph01120"/>
+          <Substitution in="uni049D" out="glyph01121"/>
+          <Substitution in="uni04A1" out="glyph01122"/>
+          <Substitution in="uni04A3" out="glyph01123"/>
+          <Substitution in="uni04AB" out="glyph01124"/>
+          <Substitution in="uni04AF" out="glyph01125"/>
+          <Substitution in="uni04B1" out="glyph01126"/>
+          <Substitution in="uni04B3" out="glyph01127"/>
+          <Substitution in="uni04B9" out="glyph01128"/>
+          <Substitution in="uni04BB" out="glyph01129"/>
+          <Substitution in="uni04CC" out="glyph01130"/>
+          <Substitution in="uni04CF" out="glyph01131"/>
+          <Substitution in="uni04D9" out="glyph01132"/>
+          <Substitution in="uni04E3" out="glyph01133"/>
+          <Substitution in="uni04E9" out="glyph01134"/>
+          <Substitution in="uni04EF" out="glyph01135"/>
+          <Substitution in="uniFB01" out="glyph01136"/>
+          <Substitution in="uniFB02" out="glyph01137"/>
+          <Substitution in="uogonek" out="glyph01007"/>
+          <Substitution in="upsilon" out="glyph01057"/>
+          <Substitution in="upsilondieresis" out="glyph01063"/>
+          <Substitution in="upsilondieresistonos" out="glyph01036"/>
+          <Substitution in="upsilontonos" out="glyph01065"/>
+          <Substitution in="uring" out="glyph01005"/>
+          <Substitution in="utilde" out="glyph01002"/>
+          <Substitution in="v" out="glyph00911"/>
+          <Substitution in="w" out="glyph00912"/>
+          <Substitution in="wcircumflex" out="glyph01008"/>
+          <Substitution in="x" out="glyph00913"/>
+          <Substitution in="xi" out="glyph01050"/>
+          <Substitution in="y" out="glyph00914"/>
+          <Substitution in="yacute" out="glyph00945"/>
+          <Substitution in="ycircumflex" out="glyph01009"/>
+          <Substitution in="ydieresis" out="glyph00947"/>
+          <Substitution in="z" out="glyph00915"/>
+          <Substitution in="zacute" out="glyph01010"/>
+          <Substitution in="zcaron" out="glyph01012"/>
+          <Substitution in="zdotaccent" out="glyph01011"/>
+          <Substitution in="zeta" out="glyph01042"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="acutecomb" out="glyph00860"/>
+          <Substitution in="braceleft" out="glyph00852"/>
+          <Substitution in="braceright" out="glyph00853"/>
+          <Substitution in="bracketleft" out="glyph00850"/>
+          <Substitution in="bracketright" out="glyph00851"/>
+          <Substitution in="emdash" out="glyph00874"/>
+          <Substitution in="endash" out="glyph00873"/>
+          <Substitution in="exclamdown" out="glyph00854"/>
+          <Substitution in="glyph00885" out="glyph00846"/>
+          <Substitution in="gravecomb" out="glyph00859"/>
+          <Substitution in="guillemotleft" out="glyph00855"/>
+          <Substitution in="guillemotright" out="glyph00857"/>
+          <Substitution in="guilsinglleft" out="glyph00875"/>
+          <Substitution in="guilsinglright" out="glyph00876"/>
+          <Substitution in="hyphen" out="glyph00849"/>
+          <Substitution in="infinity" out="glyph00877"/>
+          <Substitution in="parenleft" out="glyph00847"/>
+          <Substitution in="parenright" out="glyph00848"/>
+          <Substitution in="questiondown" out="glyph00858"/>
+          <Substitution in="tildecomb" out="glyph00862"/>
+          <Substitution in="uni00AD" out="glyph00856"/>
+          <Substitution in="uni0302" out="glyph00861"/>
+          <Substitution in="uni0304" out="glyph00863"/>
+          <Substitution in="uni0306" out="glyph00864"/>
+          <Substitution in="uni0307" out="glyph00865"/>
+          <Substitution in="uni0308" out="glyph00866"/>
+          <Substitution in="uni030A" out="glyph00867"/>
+          <Substitution in="uni030B" out="glyph00868"/>
+          <Substitution in="uni030C" out="glyph00869"/>
+          <Substitution in="uni0326" out="glyph00870"/>
+          <Substitution in="uni0327" out="glyph00871"/>
+          <Substitution in="uni0328" out="glyph00872"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <!-- LookupType=4 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="glyph00882"/>
+            <Ligature components="l" glyph="glyph00883"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="16">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="glyph00713" out="glyph00879"/>
+          <Substitution in="glyph00758" out="glyph00881"/>
+          <Substitution in="glyph00804" out="glyph00880"/>
+          <Substitution in="zero" out="glyph00878"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

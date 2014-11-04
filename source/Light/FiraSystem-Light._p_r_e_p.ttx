@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.5">
+
+  <prep>
+    <assembly>
+      PUSH[ ]
+      511
+      SCANCTRL[ ]
+      PUSH[ ]
+      4
+      SCANTYPE[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
