@@ -26,4 +26,4 @@ These Fira fonts have a special name table with names identical to those of the 
 
 ### How to compile the fonts from source?
 
-You can use the [https://github.com/behdad/fonttools](Python FontTools) to compile the provided XML files in the source folder, or to work all other kinds of font magic.
+You can use the [Python FontTools](https://github.com/behdad/fonttools) to compile the provided XML files in the source folder, or to work all other kinds of font magic.
