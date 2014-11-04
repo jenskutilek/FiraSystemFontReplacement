@@ -3,7 +3,7 @@ Fira System Font Replacement
 
 These fonts are intended as a system font replacement on Mac OS X 10.10 Yosemite.
 
-They are based on the Fira Sans font family and are licensed under the Open Font License (OFL) 1.1 or later. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
+They are based on the Fira Sans font family and are licensed under the Apache License 2.0. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
 
 ![](yosemite-fira.png)
 
@@ -11,7 +11,7 @@ They are based on the Fira Sans font family and are licensed under the Open Font
 
 Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
 
-Copy the 3 font files into the `/Library/Fonts` folder on your system disk.
+Copy the 4 font files into the `/Library/Fonts` folder on your system disk.
 
 You may have to log out and in again in order to see the change take effect.
 
