@@ -23,3 +23,7 @@ Delete or move the font files from the `/Library/Fonts` folder.
 ### How does it work?
 
 These Fira fonts have a special name table with names identical to those of the system fonts. Because the font folder `/Library/Fonts` takes precedence over the fonts which are in `/System/Library/Fonts`, these specially crafted fonts are used for the user interface instead of the real system fonts. The original system fonts are not deleted or modified in any way.
+
+### How to compile the fonts from source?
+
+You can use the [https://github.com/behdad/fonttools](Python FontTools) to compile the provided XML files in the source folder, or to work all other kinds of font magic.
