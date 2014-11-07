@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product.tf" format="1">
-  <advance width="560"/>
+  <advance width="556"/>
   <outline>
     <contour>
-      <point x="38" y="696" type="line"/>
-      <point x="38" y="620" type="line"/>
-      <point x="110" y="620" type="line"/>
-      <point x="110" y="-213" type="line"/>
-      <point x="200" y="-202" type="line"/>
-      <point x="200" y="620" type="line"/>
-      <point x="365" y="620" type="line"/>
-      <point x="365" y="-213" type="line"/>
-      <point x="455" y="-202" type="line"/>
-      <point x="455" y="620" type="line"/>
-      <point x="522" y="620" type="line"/>
-      <point x="522" y="696" type="line"/>
+      <point x="36" y="696" type="line"/>
+      <point x="36" y="620" type="line"/>
+      <point x="108" y="620" type="line"/>
+      <point x="108" y="-213" type="line"/>
+      <point x="198" y="-202" type="line"/>
+      <point x="198" y="620" type="line"/>
+      <point x="363" y="620" type="line"/>
+      <point x="363" y="-213" type="line"/>
+      <point x="453" y="-202" type="line"/>
+      <point x="453" y="620" type="line"/>
+      <point x="520" y="620" type="line"/>
+      <point x="520" y="696" type="line"/>
     </contour>
   </outline>
   <lib>

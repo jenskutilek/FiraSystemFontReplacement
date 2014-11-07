@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen.tosf" format="1">
-  <advance width="560"/>
+  <advance width="556"/>
   <outline>
-    <component base="yen" xOffset="12"/>
+    <component base="yen" xOffset="10"/>
   </outline>
   <lib>
     <dict>

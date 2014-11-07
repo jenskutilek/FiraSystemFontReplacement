@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.tosf" format="1">
-  <advance width="560"/>
+  <advance width="556"/>
   <outline>
     <contour>
-      <point x="10" y="148" type="line"/>
-      <point x="10" y="22" type="line"/>
-      <point x="550" y="22" type="line"/>
-      <point x="550" y="165" type="line"/>
-      <point x="213" y="165" type="line"/>
-      <point x="366" y="527" type="line"/>
-      <point x="197" y="587" type="line"/>
+      <point x="8" y="148" type="line"/>
+      <point x="8" y="22" type="line"/>
+      <point x="548" y="22" type="line"/>
+      <point x="548" y="165" type="line"/>
+      <point x="211" y="165" type="line"/>
+      <point x="364" y="527" type="line"/>
+      <point x="195" y="587" type="line"/>
     </contour>
     <contour>
-      <point x="325" y="316" type="line"/>
-      <point x="301" y="149" type="line"/>
-      <point x="301" y="-112" type="line"/>
-      <point x="490" y="-112" type="line"/>
-      <point x="490" y="316" type="line"/>
+      <point x="323" y="316" type="line"/>
+      <point x="299" y="149" type="line"/>
+      <point x="299" y="-112" type="line"/>
+      <point x="488" y="-112" type="line"/>
+      <point x="488" y="316" type="line"/>
     </contour>
   </outline>
   <lib>

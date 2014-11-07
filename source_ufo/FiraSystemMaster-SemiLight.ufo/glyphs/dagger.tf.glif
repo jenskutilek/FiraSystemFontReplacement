@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger.tf" format="1">
-  <advance width="560"/>
+  <advance width="556"/>
   <outline>
     <contour>
-      <point x="265" y="682" type="line"/>
-      <point x="265" y="523" type="line"/>
-      <point x="77" y="523" type="line"/>
-      <point x="77" y="495" type="line"/>
-      <point x="265" y="495" type="line"/>
-      <point x="265" y="0" type="line"/>
-      <point x="296" y="0" type="line"/>
-      <point x="296" y="495" type="line"/>
-      <point x="484" y="495" type="line"/>
-      <point x="484" y="523" type="line"/>
-      <point x="296" y="523" type="line"/>
-      <point x="296" y="682" type="line"/>
+      <point x="263" y="682" type="line"/>
+      <point x="263" y="523" type="line"/>
+      <point x="75" y="523" type="line"/>
+      <point x="75" y="495" type="line"/>
+      <point x="263" y="495" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="294" y="495" type="line"/>
+      <point x="482" y="495" type="line"/>
+      <point x="482" y="523" type="line"/>
+      <point x="294" y="523" type="line"/>
+      <point x="294" y="682" type="line"/>
     </contour>
   </outline>
   <lib>
