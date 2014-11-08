@@ -2,7 +2,7 @@
 <glyph name="multiply.osf" format="1">
   <advance width="530"/>
   <outline>
-    <component base="multiply"/>
+    <component base="multiply.lf"/>
   </outline>
   <lib>
     <dict>

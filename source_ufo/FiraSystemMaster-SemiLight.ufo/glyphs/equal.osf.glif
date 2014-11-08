@@ -2,7 +2,7 @@
 <glyph name="equal.osf" format="1">
   <advance width="488"/>
   <outline>
-    <component base="equal"/>
+    <component base="equal.lf"/>
   </outline>
   <lib>
     <dict>

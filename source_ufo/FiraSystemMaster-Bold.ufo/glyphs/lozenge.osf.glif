@@ -2,7 +2,7 @@
 <glyph name="lozenge.osf" format="1">
   <advance width="604"/>
   <outline>
-    <component base="lozenge"/>
+    <component base="lozenge.lf"/>
   </outline>
   <lib>
     <dict>

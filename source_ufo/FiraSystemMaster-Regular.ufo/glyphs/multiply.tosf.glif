@@ -2,7 +2,7 @@
 <glyph name="multiply.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="multiply" xOffset="28"/>
+    <component base="multiply.lf" xOffset="28"/>
   </outline>
   <lib>
     <dict>

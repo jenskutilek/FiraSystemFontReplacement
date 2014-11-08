@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="530"/>
+  <advance width="556"/>
   <unicode hex="003E"/>
   <outline>
-    <contour>
-      <point x="25" y="459" type="line"/>
-      <point x="334" y="333" type="line"/>
-      <point x="25" y="215" type="line"/>
-      <point x="85" y="75" type="line"/>
-      <point x="505" y="249" type="line"/>
-      <point x="505" y="416" type="line"/>
-      <point x="85" y="591" type="line"/>
-    </contour>
+    <component base="greater.lf" xOffset="13"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7106</real>
+        <real>0.9546</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

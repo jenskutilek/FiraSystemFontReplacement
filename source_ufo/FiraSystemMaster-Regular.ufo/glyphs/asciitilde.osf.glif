@@ -2,7 +2,7 @@
 <glyph name="asciitilde.osf" format="1">
   <advance width="488"/>
   <outline>
-    <component base="asciitilde"/>
+    <component base="asciitilde.lf"/>
   </outline>
   <lib>
     <dict>

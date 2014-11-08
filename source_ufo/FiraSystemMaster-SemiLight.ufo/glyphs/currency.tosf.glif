@@ -2,7 +2,7 @@
 <glyph name="currency.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="currency" xOffset="-2"/>
+    <component base="currency.lf" xOffset="-2"/>
   </outline>
   <lib>
     <dict>

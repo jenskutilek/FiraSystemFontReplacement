@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="508"/>
+  <advance width="556"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="58" y="213" type="line"/>
-      <point x="58" y="186" type="line"/>
-      <point x="450" y="186" type="line"/>
-      <point x="450" y="213" type="line"/>
+      <point x="75" y="238" type="line"/>
+      <point x="75" y="210" type="line"/>
+      <point x="482" y="210" type="line"/>
+      <point x="482" y="238" type="line"/>
     </contour>
-    <component base="dagger" xOffset="2"/>
+    <component base="dagger"/>
   </outline>
   <lib>
     <dict>

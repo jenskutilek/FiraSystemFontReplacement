@@ -96,10 +96,10 @@
 	<string>E_th.glif</string>
 	<key>Euro</key>
 	<string>E_uro.glif</string>
+	<key>Euro.lf</key>
+	<string>Euro_.lf.glif</string>
 	<key>Euro.osf</key>
 	<string>E_uro.osf.glif</string>
-	<key>Euro.tf</key>
-	<string>E_uro.tf.glif</string>
 	<key>Euro.tosf</key>
 	<string>E_uro.tosf.glif</string>
 	<key>F</key>
@@ -416,10 +416,10 @@
 	<string>aogonek.sc.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
+	<key>approxequal.lf</key>
+	<string>approxequal.lf.glif</string>
 	<key>approxequal.osf</key>
 	<string>approxequal.osf.glif</string>
-	<key>approxequal.tf</key>
-	<string>approxequal.tf.glif</string>
 	<key>approxequal.tosf</key>
 	<string>approxequal.tosf.glif</string>
 	<key>aring</key>
@@ -448,10 +448,10 @@
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
 	<string>asciitilde.glif</string>
+	<key>asciitilde.lf</key>
+	<string>asciitilde.lf.glif</string>
 	<key>asciitilde.osf</key>
 	<string>asciitilde.osf.glif</string>
-	<key>asciitilde.tf</key>
-	<string>asciitilde.tf.glif</string>
 	<key>asciitilde.tosf</key>
 	<string>asciitilde.tosf.glif</string>
 	<key>asterisk</key>
@@ -562,10 +562,10 @@
 	<string>cedillaT_cedilla.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>cent.lf</key>
+	<string>cent.lf.glif</string>
 	<key>cent.osf</key>
 	<string>cent.osf.glif</string>
-	<key>cent.tf</key>
-	<string>cent.tf.glif</string>
 	<key>cent.tosf</key>
 	<string>cent.tosf.glif</string>
 	<key>chi</key>
@@ -590,10 +590,10 @@
 	<string>copyright.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
+	<key>currency.lf</key>
+	<string>currency.lf.glif</string>
 	<key>currency.osf</key>
 	<string>currency.osf.glif</string>
-	<key>currency.tf</key>
-	<string>currency.tf.glif</string>
 	<key>currency.tosf</key>
 	<string>currency.tosf.glif</string>
 	<key>d</key>
@@ -602,18 +602,18 @@
 	<string>d.sc.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
+	<key>dagger.lf</key>
+	<string>dagger.lf.glif</string>
 	<key>dagger.osf</key>
 	<string>dagger.osf.glif</string>
-	<key>dagger.tf</key>
-	<string>dagger.tf.glif</string>
 	<key>dagger.tosf</key>
 	<string>dagger.tosf.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
+	<key>daggerdbl.lf</key>
+	<string>daggerdbl.lf.glif</string>
 	<key>daggerdbl.osf</key>
 	<string>daggerdbl.osf.glif</string>
-	<key>daggerdbl.tf</key>
-	<string>daggerdbl.tf.glif</string>
 	<key>daggerdbl.tosf</key>
 	<string>daggerdbl.tosf.glif</string>
 	<key>dcaron</key>
@@ -626,10 +626,10 @@
 	<string>dcroat.sc.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>degree.lf</key>
+	<string>degree.lf.glif</string>
 	<key>degree.osf</key>
 	<string>degree.osf.glif</string>
-	<key>degree.tf</key>
-	<string>degree.tf.glif</string>
 	<key>degree.tosf</key>
 	<string>degree.tosf.glif</string>
 	<key>deleterightKey</key>
@@ -660,20 +660,20 @@
 	<string>dieresistonos.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
+	<key>divide.lf</key>
+	<string>divide.lf.glif</string>
 	<key>divide.osf</key>
 	<string>divide.osf.glif</string>
-	<key>divide.tf</key>
-	<string>divide.tf.glif</string>
 	<key>divide.tosf</key>
 	<string>divide.tosf.glif</string>
 	<key>divisionslash</key>
 	<string>divisionslash.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dollar.lf</key>
+	<string>dollar.lf.glif</string>
 	<key>dollar.osf</key>
 	<string>dollar.osf.glif</string>
-	<key>dollar.tf</key>
-	<string>dollar.tf.glif</string>
 	<key>dollar.tosf</key>
 	<string>dollar.tosf.glif</string>
 	<key>dotaccent</key>
@@ -728,12 +728,12 @@
 	<string>eight.glif</string>
 	<key>eight.dnom</key>
 	<string>eight.dnom.glif</string>
+	<key>eight.lf</key>
+	<string>eight.lf.glif</string>
 	<key>eight.numr</key>
 	<string>eight.numr.glif</string>
 	<key>eight.osf</key>
 	<string>eight.osf.glif</string>
-	<key>eight.tf</key>
-	<string>eight.tf.glif</string>
 	<key>eight.tosf</key>
 	<string>eight.tosf.glif</string>
 	<key>eightinferior</key>
@@ -776,12 +776,12 @@
 	<string>equal.glif</string>
 	<key>equal.dnom</key>
 	<string>equal.dnom.glif</string>
+	<key>equal.lf</key>
+	<string>equal.lf.glif</string>
 	<key>equal.numr</key>
 	<string>equal.numr.glif</string>
 	<key>equal.osf</key>
 	<string>equal.osf.glif</string>
-	<key>equal.tf</key>
-	<string>equal.tf.glif</string>
 	<key>equal.tosf</key>
 	<string>equal.tosf.glif</string>
 	<key>equalsuperior</key>
@@ -824,22 +824,22 @@
 	<string>fi.sc.glif</string>
 	<key>figuredash</key>
 	<string>figuredash.glif</string>
+	<key>figuredash.lf</key>
+	<string>figuredash.lf.glif</string>
 	<key>figuredash.osf</key>
 	<string>figuredash.osf.glif</string>
-	<key>figuredash.tf</key>
-	<string>figuredash.tf.glif</string>
 	<key>figuredash.tosf</key>
 	<string>figuredash.tosf.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.dnom</key>
 	<string>five.dnom.glif</string>
+	<key>five.lf</key>
+	<string>five.lf.glif</string>
 	<key>five.numr</key>
 	<string>five.numr.glif</string>
 	<key>five.osf</key>
 	<string>five.osf.glif</string>
-	<key>five.tf</key>
-	<string>five.tf.glif</string>
 	<key>five.tosf</key>
 	<string>five.tosf.glif</string>
 	<key>fiveeighths</key>
@@ -858,12 +858,12 @@
 	<string>four.glif</string>
 	<key>four.dnom</key>
 	<string>four.dnom.glif</string>
+	<key>four.lf</key>
+	<string>four.lf.glif</string>
 	<key>four.numr</key>
 	<string>four.numr.glif</string>
 	<key>four.osf</key>
 	<string>four.osf.glif</string>
-	<key>four.tf</key>
-	<string>four.tf.glif</string>
 	<key>four.tosf</key>
 	<string>four.tosf.glif</string>
 	<key>fourinferior</key>
@@ -912,18 +912,18 @@
 	<string>gravecombcomb.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>greater.lf</key>
+	<string>greater.lf.glif</string>
 	<key>greater.osf</key>
 	<string>greater.osf.glif</string>
-	<key>greater.tf</key>
-	<string>greater.tf.glif</string>
 	<key>greater.tosf</key>
 	<string>greater.tosf.glif</string>
 	<key>greaterequal</key>
 	<string>greaterequal.glif</string>
+	<key>greaterequal.lf</key>
+	<string>greaterequal.lf.glif</string>
 	<key>greaterequal.osf</key>
 	<string>greaterequal.osf.glif</string>
-	<key>greaterequal.tf</key>
-	<string>greaterequal.tf.glif</string>
 	<key>greaterequal.tosf</key>
 	<string>greaterequal.tosf.glif</string>
 	<key>guillemotleft</key>
@@ -1008,18 +1008,18 @@
 	<string>infinity.glif</string>
 	<key>infinity.case</key>
 	<string>infinity.case.glif</string>
+	<key>infinity.lf</key>
+	<string>infinity.lf.glif</string>
 	<key>infinity.osf</key>
 	<string>infinity.osf.glif</string>
-	<key>infinity.tf</key>
-	<string>infinity.tf.glif</string>
 	<key>infinity.tosf</key>
 	<string>infinity.tosf.glif</string>
 	<key>integral</key>
 	<string>integral.glif</string>
+	<key>integral.lf</key>
+	<string>integral.lf.glif</string>
 	<key>integral.osf</key>
 	<string>integral.osf.glif</string>
-	<key>integral.tf</key>
-	<string>integral.tf.glif</string>
 	<key>integral.tosf</key>
 	<string>integral.tosf.glif</string>
 	<key>iogonek</key>
@@ -1098,34 +1098,34 @@
 	<string>ldot.sc.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>less.lf</key>
+	<string>less.lf.glif</string>
 	<key>less.osf</key>
 	<string>less.osf.glif</string>
-	<key>less.tf</key>
-	<string>less.tf.glif</string>
 	<key>less.tosf</key>
 	<string>less.tosf.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
+	<key>lessequal.lf</key>
+	<string>lessequal.lf.glif</string>
 	<key>lessequal.osf</key>
 	<string>lessequal.osf.glif</string>
-	<key>lessequal.tf</key>
-	<string>lessequal.tf.glif</string>
 	<key>lessequal.tosf</key>
 	<string>lessequal.tosf.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
+	<key>logicalnot.lf</key>
+	<string>logicalnot.lf.glif</string>
 	<key>logicalnot.osf</key>
 	<string>logicalnot.osf.glif</string>
-	<key>logicalnot.tf</key>
-	<string>logicalnot.tf.glif</string>
 	<key>logicalnot.tosf</key>
 	<string>logicalnot.tosf.glif</string>
 	<key>lozenge</key>
 	<string>lozenge.glif</string>
+	<key>lozenge.lf</key>
+	<string>lozenge.lf.glif</string>
 	<key>lozenge.osf</key>
 	<string>lozenge.osf.glif</string>
-	<key>lozenge.tf</key>
-	<string>lozenge.tf.glif</string>
 	<key>lozenge.tosf</key>
 	<string>lozenge.tosf.glif</string>
 	<key>lslash</key>
@@ -1148,12 +1148,12 @@
 	<string>minus.glif</string>
 	<key>minus.dnom</key>
 	<string>minus.dnom.glif</string>
+	<key>minus.lf</key>
+	<string>minus.lf.glif</string>
 	<key>minus.numr</key>
 	<string>minus.numr.glif</string>
 	<key>minus.osf</key>
 	<string>minus.osf.glif</string>
-	<key>minus.tf</key>
-	<string>minus.tf.glif</string>
 	<key>minus.tosf</key>
 	<string>minus.tosf.glif</string>
 	<key>mu</key>
@@ -1162,10 +1162,10 @@
 	<string>mu.sc.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
+	<key>multiply.lf</key>
+	<string>multiply.lf.glif</string>
 	<key>multiply.osf</key>
 	<string>multiply.osf.glif</string>
-	<key>multiply.tf</key>
-	<string>multiply.tf.glif</string>
 	<key>multiply.tosf</key>
 	<string>multiply.tosf.glif</string>
 	<key>n</key>
@@ -1196,12 +1196,12 @@
 	<string>nine.glif</string>
 	<key>nine.dnom</key>
 	<string>nine.dnom.glif</string>
+	<key>nine.lf</key>
+	<string>nine.lf.glif</string>
 	<key>nine.numr</key>
 	<string>nine.numr.glif</string>
 	<key>nine.osf</key>
 	<string>nine.osf.glif</string>
-	<key>nine.tf</key>
-	<string>nine.tf.glif</string>
 	<key>nine.tosf</key>
 	<string>nine.tosf.glif</string>
 	<key>nineinferior</key>
@@ -1210,10 +1210,10 @@
 	<string>ninesuperior.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
+	<key>notequal.lf</key>
+	<string>notequal.lf.glif</string>
 	<key>notequal.osf</key>
 	<string>notequal.osf.glif</string>
-	<key>notequal.tf</key>
-	<string>notequal.tf.glif</string>
 	<key>notequal.tosf</key>
 	<string>notequal.tosf.glif</string>
 	<key>ntilde</key>
@@ -1228,10 +1228,10 @@
 	<string>null.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numbersign.lf</key>
+	<string>numbersign.lf.glif</string>
 	<key>numbersign.osf</key>
 	<string>numbersign.osf.glif</string>
-	<key>numbersign.tf</key>
-	<string>numbersign.tf.glif</string>
 	<key>numbersign.tosf</key>
 	<string>numbersign.tosf.glif</string>
 	<key>o</key>
@@ -1302,12 +1302,12 @@
 	<string>one.glif</string>
 	<key>one.dnom</key>
 	<string>one.dnom.glif</string>
+	<key>one.lf</key>
+	<string>one.lf.glif</string>
 	<key>one.numr</key>
 	<string>one.numr.glif</string>
 	<key>one.osf</key>
 	<string>one.osf.glif</string>
-	<key>one.tf</key>
-	<string>one.tf.glif</string>
 	<key>one.tosf</key>
 	<string>one.tosf.glif</string>
 	<key>oneeighth</key>
@@ -1370,18 +1370,18 @@
 	<string>parenrightsuperior.glif</string>
 	<key>partialdiff</key>
 	<string>partialdiff.glif</string>
+	<key>partialdiff.lf</key>
+	<string>partialdiff.lf.glif</string>
 	<key>partialdiff.osf</key>
 	<string>partialdiff.osf.glif</string>
-	<key>partialdiff.tf</key>
-	<string>partialdiff.tf.glif</string>
 	<key>partialdiff.tosf</key>
 	<string>partialdiff.tosf.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
+	<key>percent.lf</key>
+	<string>percent.lf.glif</string>
 	<key>percent.osf</key>
 	<string>percent.osf.glif</string>
-	<key>percent.tf</key>
-	<string>percent.tf.glif</string>
 	<key>percent.tosf</key>
 	<string>percent.tosf.glif</string>
 	<key>period</key>
@@ -1390,10 +1390,10 @@
 	<string>periodcentered.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>perthousand.lf</key>
+	<string>perthousand.lf.glif</string>
 	<key>perthousand.osf</key>
 	<string>perthousand.osf.glif</string>
-	<key>perthousand.tf</key>
-	<string>perthousand.tf.glif</string>
 	<key>perthousand.tosf</key>
 	<string>perthousand.tosf.glif</string>
 	<key>phi</key>
@@ -1408,30 +1408,30 @@
 	<string>plus.glif</string>
 	<key>plus.dnom</key>
 	<string>plus.dnom.glif</string>
+	<key>plus.lf</key>
+	<string>plus.lf.glif</string>
 	<key>plus.numr</key>
 	<string>plus.numr.glif</string>
 	<key>plus.osf</key>
 	<string>plus.osf.glif</string>
-	<key>plus.tf</key>
-	<string>plus.tf.glif</string>
 	<key>plus.tosf</key>
 	<string>plus.tosf.glif</string>
 	<key>plusminus</key>
 	<string>plusminus.glif</string>
+	<key>plusminus.lf</key>
+	<string>plusminus.lf.glif</string>
 	<key>plusminus.osf</key>
 	<string>plusminus.osf.glif</string>
-	<key>plusminus.tf</key>
-	<string>plusminus.tf.glif</string>
 	<key>plusminus.tosf</key>
 	<string>plusminus.tosf.glif</string>
 	<key>plussuperior</key>
 	<string>plussuperior.glif</string>
 	<key>product</key>
 	<string>product.glif</string>
+	<key>product.lf</key>
+	<string>product.lf.glif</string>
 	<key>product.osf</key>
 	<string>product.osf.glif</string>
-	<key>product.tf</key>
-	<string>product.tf.glif</string>
 	<key>product.tosf</key>
 	<string>product.tosf.glif</string>
 	<key>psi</key>
@@ -1474,10 +1474,10 @@
 	<string>racute.sc.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
+	<key>radical.lf</key>
+	<string>radical.lf.glif</string>
 	<key>radical.osf</key>
 	<string>radical.osf.glif</string>
-	<key>radical.tf</key>
-	<string>radical.tf.glif</string>
 	<key>radical.tosf</key>
 	<string>radical.tosf.glif</string>
 	<key>rcaron</key>
@@ -1532,10 +1532,10 @@
 	<string>scommaaccent.sc.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
+	<key>section.lf</key>
+	<string>section.lf.glif</string>
 	<key>section.osf</key>
 	<string>section.osf.glif</string>
-	<key>section.tf</key>
-	<string>section.tf.glif</string>
 	<key>section.tosf</key>
 	<string>section.tosf.glif</string>
 	<key>semicolon</key>
@@ -1544,12 +1544,12 @@
 	<string>seven.glif</string>
 	<key>seven.dnom</key>
 	<string>seven.dnom.glif</string>
+	<key>seven.lf</key>
+	<string>seven.lf.glif</string>
 	<key>seven.numr</key>
 	<string>seven.numr.glif</string>
 	<key>seven.osf</key>
 	<string>seven.osf.glif</string>
-	<key>seven.tf</key>
-	<string>seven.tf.glif</string>
 	<key>seven.tosf</key>
 	<string>seven.tosf.glif</string>
 	<key>seveneighths</key>
@@ -1572,12 +1572,12 @@
 	<string>six.glif</string>
 	<key>six.dnom</key>
 	<string>six.dnom.glif</string>
+	<key>six.lf</key>
+	<string>six.lf.glif</string>
 	<key>six.numr</key>
 	<string>six.numr.glif</string>
 	<key>six.osf</key>
 	<string>six.osf.glif</string>
-	<key>six.tf</key>
-	<string>six.tf.glif</string>
 	<key>six.tosf</key>
 	<string>six.tosf.glif</string>
 	<key>sixinferior</key>
@@ -1596,18 +1596,18 @@
 	<string>space.frac.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>sterling.lf</key>
+	<string>sterling.lf.glif</string>
 	<key>sterling.osf</key>
 	<string>sterling.osf.glif</string>
-	<key>sterling.tf</key>
-	<string>sterling.tf.glif</string>
 	<key>sterling.tosf</key>
 	<string>sterling.tosf.glif</string>
 	<key>summation</key>
 	<string>summation.glif</string>
+	<key>summation.lf</key>
+	<string>summation.lf.glif</string>
 	<key>summation.osf</key>
 	<string>summation.osf.glif</string>
-	<key>summation.tf</key>
-	<string>summation.tf.glif</string>
 	<key>summation.tosf</key>
 	<string>summation.tosf.glif</string>
 	<key>t</key>
@@ -1642,12 +1642,12 @@
 	<string>three.glif</string>
 	<key>three.dnom</key>
 	<string>three.dnom.glif</string>
+	<key>three.lf</key>
+	<string>three.lf.glif</string>
 	<key>three.numr</key>
 	<string>three.numr.glif</string>
 	<key>three.osf</key>
 	<string>three.osf.glif</string>
-	<key>three.tf</key>
-	<string>three.tf.glif</string>
 	<key>three.tosf</key>
 	<string>three.tosf.glif</string>
 	<key>threeeighths</key>
@@ -1682,12 +1682,12 @@
 	<string>two.glif</string>
 	<key>two.dnom</key>
 	<string>two.dnom.glif</string>
+	<key>two.lf</key>
+	<string>two.lf.glif</string>
 	<key>two.numr</key>
 	<string>two.numr.glif</string>
 	<key>two.osf</key>
 	<string>two.osf.glif</string>
-	<key>two.tf</key>
-	<string>two.tf.glif</string>
 	<key>two.tosf</key>
 	<string>two.tosf.glif</string>
 	<key>twoinferior</key>
@@ -2640,10 +2640,10 @@
 	<string>ydieresis.sc.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen.lf</key>
+	<string>yen.lf.glif</string>
 	<key>yen.osf</key>
 	<string>yen.osf.glif</string>
-	<key>yen.tf</key>
-	<string>yen.tf.glif</string>
 	<key>yen.tosf</key>
 	<string>yen.tosf.glif</string>
 	<key>ygrave</key>
@@ -2674,16 +2674,16 @@
 	<string>zero.glif</string>
 	<key>zero.dnom</key>
 	<string>zero.dnom.glif</string>
+	<key>zero.lf</key>
+	<string>zero.lf.glif</string>
+	<key>zero.lf.zero</key>
+	<string>zero.lf.zero.glif</string>
 	<key>zero.numr</key>
 	<string>zero.numr.glif</string>
 	<key>zero.osf</key>
 	<string>zero.osf.glif</string>
 	<key>zero.osf.zero</key>
 	<string>zero.osf.zero.glif</string>
-	<key>zero.tf</key>
-	<string>zero.tf.glif</string>
-	<key>zero.tf.zero</key>
-	<string>zero.tf.zero.glif</string>
 	<key>zero.tosf</key>
 	<string>zero.tosf.glif</string>
 	<key>zero.tosf.zero</key>

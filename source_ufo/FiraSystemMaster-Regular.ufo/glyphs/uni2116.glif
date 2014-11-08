@@ -32,7 +32,7 @@
       <point x="872" y="633" type="curve" smooth="yes"/>
     </contour>
     <component base="N"/>
-    <component base="minus" xOffset="622" yOffset="-294"/>
+    <component base="minus.lf" xOffset="622" yOffset="-294"/>
   </outline>
   <lib>
     <dict>

@@ -2,7 +2,7 @@
 <glyph name="lessequal.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="lessequal" xOffset="28"/>
+    <component base="lessequal.lf" xOffset="28"/>
   </outline>
   <lib>
     <dict>

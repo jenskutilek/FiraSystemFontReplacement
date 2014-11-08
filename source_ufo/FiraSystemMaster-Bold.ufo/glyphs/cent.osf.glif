@@ -2,7 +2,7 @@
 <glyph name="cent.osf" format="1">
   <advance width="479"/>
   <outline>
-    <component base="cent"/>
+    <component base="cent.lf"/>
   </outline>
   <lib>
     <dict>

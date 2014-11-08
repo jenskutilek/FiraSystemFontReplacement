@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="540"/>
+  <advance width="556"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="15" y="295" type="line"/>
-      <point x="15" y="136" type="line"/>
-      <point x="525" y="136" type="line"/>
-      <point x="525" y="295" type="line"/>
+      <point x="23" y="295" type="line"/>
+      <point x="23" y="136" type="line"/>
+      <point x="533" y="136" type="line"/>
+      <point x="533" y="295" type="line"/>
     </contour>
     <component base="dagger"/>
   </outline>

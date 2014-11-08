@@ -273,7 +273,7 @@
 		<string>Scommaaccent</string>
 		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
-		<string>dollar</string>
+		<string>dollar.lf</string>
 		<string>dollar.osf</string>
 	</array>
 	<key>@MMK_L_Schwa-cy</key>
@@ -604,7 +604,7 @@
 	</array>
 	<key>@MMK_L_eight</key>
 	<array>
-		<string>eight</string>
+		<string>eight.lf</string>
 	</array>
 	<key>@MMK_L_eight.dnom</key>
 	<array>
@@ -617,7 +617,7 @@
 	</array>
 	<key>@MMK_L_eight.tf</key>
 	<array>
-		<string>eight.tf</string>
+		<string>eight</string>
 	</array>
 	<key>@MMK_L_eight.tosf</key>
 	<array>
@@ -669,14 +669,14 @@
 	</array>
 	<key>@MMK_L_figuredash</key>
 	<array>
-		<string>figuredash</string>
+		<string>figuredash.lf</string>
 		<string>figuredash.osf</string>
-		<string>figuredash.tf</string>
+		<string>figuredash</string>
 		<string>figuredash.tosf</string>
 	</array>
 	<key>@MMK_L_five</key>
 	<array>
-		<string>five</string>
+		<string>five.lf</string>
 	</array>
 	<key>@MMK_L_five.dnom</key>
 	<array>
@@ -694,7 +694,7 @@
 	</array>
 	<key>@MMK_L_five.tf</key>
 	<array>
-		<string>five.tf</string>
+		<string>five</string>
 	</array>
 	<key>@MMK_L_five.tosf</key>
 	<array>
@@ -702,7 +702,7 @@
 	</array>
 	<key>@MMK_L_four</key>
 	<array>
-		<string>four</string>
+		<string>four.lf</string>
 	</array>
 	<key>@MMK_L_four.dnom</key>
 	<array>
@@ -719,7 +719,7 @@
 	</array>
 	<key>@MMK_L_four.tf</key>
 	<array>
-		<string>four.tf</string>
+		<string>four</string>
 	</array>
 	<key>@MMK_L_four.tosf</key>
 	<array>
@@ -836,8 +836,8 @@
 		<string>endash.case</string>
 		<string>hyphen.case</string>
 		<string>softhyphen.case</string>
-		<string>asciitilde</string>
-		<string>minus</string>
+		<string>asciitilde.lf</string>
+		<string>minus.lf</string>
 		<string>asciitilde.osf</string>
 		<string>minus.osf</string>
 	</array>
@@ -1024,7 +1024,7 @@
 	</array>
 	<key>@MMK_L_nine</key>
 	<array>
-		<string>nine</string>
+		<string>nine.lf</string>
 	</array>
 	<key>@MMK_L_nine.dnom</key>
 	<array>
@@ -1037,7 +1037,7 @@
 	</array>
 	<key>@MMK_L_nine.tf</key>
 	<array>
-		<string>nine.tf</string>
+		<string>nine</string>
 	</array>
 	<key>@MMK_L_nine.tosf</key>
 	<array>
@@ -1045,12 +1045,12 @@
 	</array>
 	<key>@MMK_L_numbersign</key>
 	<array>
-		<string>numbersign</string>
+		<string>numbersign.lf</string>
 		<string>numbersign.osf</string>
 	</array>
 	<key>@MMK_L_numbersign.tf</key>
 	<array>
-		<string>numbersign.tf</string>
+		<string>numbersign</string>
 		<string>numbersign.tosf</string>
 	</array>
 	<key>@MMK_L_o</key>
@@ -1143,7 +1143,7 @@
 	</array>
 	<key>@MMK_L_one</key>
 	<array>
-		<string>one</string>
+		<string>one.lf</string>
 	</array>
 	<key>@MMK_L_one.dnom</key>
 	<array>
@@ -1166,7 +1166,7 @@
 	</array>
 	<key>@MMK_L_one.tf</key>
 	<array>
-		<string>one.tf</string>
+		<string>one</string>
 	</array>
 	<key>@MMK_L_one.tosf</key>
 	<array>
@@ -1248,18 +1248,18 @@
 	</array>
 	<key>@MMK_L_plus</key>
 	<array>
-		<string>approxequal</string>
-		<string>divide</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>infinity</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>multiply</string>
-		<string>notequal</string>
-		<string>plus</string>
-		<string>plusminus</string>
+		<string>approxequal.lf</string>
+		<string>divide.lf</string>
+		<string>equal.lf</string>
+		<string>greater.lf</string>
+		<string>greaterequal.lf</string>
+		<string>infinity.lf</string>
+		<string>less.lf</string>
+		<string>lessequal.lf</string>
+		<string>multiply.lf</string>
+		<string>notequal.lf</string>
+		<string>plus.lf</string>
+		<string>plusminus.lf</string>
 		<string>approxequal.osf</string>
 		<string>divide.osf</string>
 		<string>equal.osf</string>
@@ -1349,7 +1349,7 @@
 	</array>
 	<key>@MMK_L_seven</key>
 	<array>
-		<string>seven</string>
+		<string>seven.lf</string>
 	</array>
 	<key>@MMK_L_seven.dnom</key>
 	<array>
@@ -1366,7 +1366,7 @@
 	</array>
 	<key>@MMK_L_seven.tf</key>
 	<array>
-		<string>seven.tf</string>
+		<string>seven</string>
 	</array>
 	<key>@MMK_L_seven.tosf</key>
 	<array>
@@ -1400,7 +1400,7 @@
 	</array>
 	<key>@MMK_L_six</key>
 	<array>
-		<string>six</string>
+		<string>six.lf</string>
 	</array>
 	<key>@MMK_L_six.dnom</key>
 	<array>
@@ -1413,7 +1413,7 @@
 	</array>
 	<key>@MMK_L_six.tf</key>
 	<array>
-		<string>six.tf</string>
+		<string>six</string>
 	</array>
 	<key>@MMK_L_six.tosf</key>
 	<array>
@@ -1479,7 +1479,7 @@
 	</array>
 	<key>@MMK_L_three</key>
 	<array>
-		<string>three</string>
+		<string>three.lf</string>
 	</array>
 	<key>@MMK_L_three.dnom</key>
 	<array>
@@ -1498,7 +1498,7 @@
 	</array>
 	<key>@MMK_L_three.tf</key>
 	<array>
-		<string>three.tf</string>
+		<string>three</string>
 	</array>
 	<key>@MMK_L_three.tosf</key>
 	<array>
@@ -1531,7 +1531,7 @@
 	</array>
 	<key>@MMK_L_two</key>
 	<array>
-		<string>two</string>
+		<string>two.lf</string>
 	</array>
 	<key>@MMK_L_two.dnom</key>
 	<array>
@@ -1549,7 +1549,7 @@
 	</array>
 	<key>@MMK_L_two.tf</key>
 	<array>
-		<string>two.tf</string>
+		<string>two</string>
 	</array>
 	<key>@MMK_L_two.tosf</key>
 	<array>
@@ -1756,7 +1756,7 @@
 	</array>
 	<key>@MMK_L_zero</key>
 	<array>
-		<string>zero</string>
+		<string>zero.lf</string>
 	</array>
 	<key>@MMK_L_zero.dnom</key>
 	<array>
@@ -1773,11 +1773,11 @@
 	</array>
 	<key>@MMK_L_zero.tf</key>
 	<array>
-		<string>zero.tf</string>
+		<string>zero</string>
 	</array>
 	<key>@MMK_L_zero.tf.zero</key>
 	<array>
-		<string>zero.tf.zero</string>
+		<string>zero.zero</string>
 	</array>
 	<key>@MMK_L_zero.tosf</key>
 	<array>
@@ -1789,7 +1789,7 @@
 	</array>
 	<key>@MMK_L_zero.zero</key>
 	<array>
-		<string>zero.zero</string>
+		<string>zero.lf.zero</string>
 	</array>
 	<key>@MMK_L_zeta</key>
 	<array>
@@ -2059,7 +2059,7 @@
 		<string>Scommaaccent</string>
 		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
-		<string>dollar</string>
+		<string>dollar.lf</string>
 		<string>dollar.osf</string>
 	</array>
 	<key>@MMK_R_Schwa-cy</key>
@@ -2325,7 +2325,7 @@
 	</array>
 	<key>@MMK_R_eight</key>
 	<array>
-		<string>eight</string>
+		<string>eight.lf</string>
 	</array>
 	<key>@MMK_R_eight.dnom</key>
 	<array>
@@ -2338,7 +2338,7 @@
 	</array>
 	<key>@MMK_R_eight.tf</key>
 	<array>
-		<string>eight.tf</string>
+		<string>eight</string>
 	</array>
 	<key>@MMK_R_eight.tosf</key>
 	<array>
@@ -2414,14 +2414,14 @@
 	</array>
 	<key>@MMK_R_figuredash</key>
 	<array>
-		<string>figuredash</string>
+		<string>figuredash.lf</string>
 		<string>figuredash.osf</string>
-		<string>figuredash.tf</string>
+		<string>figuredash</string>
 		<string>figuredash.tosf</string>
 	</array>
 	<key>@MMK_R_five</key>
 	<array>
-		<string>five</string>
+		<string>five.lf</string>
 	</array>
 	<key>@MMK_R_five.dnom</key>
 	<array>
@@ -2439,7 +2439,7 @@
 	</array>
 	<key>@MMK_R_five.tf</key>
 	<array>
-		<string>five.tf</string>
+		<string>five</string>
 	</array>
 	<key>@MMK_R_five.tosf</key>
 	<array>
@@ -2447,7 +2447,7 @@
 	</array>
 	<key>@MMK_R_four</key>
 	<array>
-		<string>four</string>
+		<string>four.lf</string>
 	</array>
 	<key>@MMK_R_four.dnom</key>
 	<array>
@@ -2464,7 +2464,7 @@
 	</array>
 	<key>@MMK_R_four.tf</key>
 	<array>
-		<string>four.tf</string>
+		<string>four</string>
 	</array>
 	<key>@MMK_R_four.tosf</key>
 	<array>
@@ -2650,8 +2650,8 @@
 		<string>hyphen</string>
 		<string>softhyphen</string>
 		<string>hyphen.case</string>
-		<string>asciitilde</string>
-		<string>minus</string>
+		<string>asciitilde.lf</string>
+		<string>minus.lf</string>
 		<string>asciitilde.osf</string>
 		<string>minus.osf</string>
 	</array>
@@ -2797,7 +2797,7 @@
 	</array>
 	<key>@MMK_R_nine</key>
 	<array>
-		<string>nine</string>
+		<string>nine.lf</string>
 	</array>
 	<key>@MMK_R_nine.dnom</key>
 	<array>
@@ -2810,7 +2810,7 @@
 	</array>
 	<key>@MMK_R_nine.tf</key>
 	<array>
-		<string>nine.tf</string>
+		<string>nine</string>
 	</array>
 	<key>@MMK_R_nine.tosf</key>
 	<array>
@@ -2818,12 +2818,12 @@
 	</array>
 	<key>@MMK_R_numbersign</key>
 	<array>
-		<string>numbersign</string>
+		<string>numbersign.lf</string>
 		<string>numbersign.osf</string>
 	</array>
 	<key>@MMK_R_numbersign.tf</key>
 	<array>
-		<string>numbersign.tf</string>
+		<string>numbersign</string>
 		<string>numbersign.tosf</string>
 	</array>
 	<key>@MMK_R_o</key>
@@ -2896,7 +2896,7 @@
 		<string>uni1F79</string>
 		<string>sigma.ss10</string>
 		<string>uni1F78.sc</string>
-		<string>cent</string>
+		<string>cent.lf</string>
 	</array>
 	<key>@MMK_R_o.sc</key>
 	<array>
@@ -2953,7 +2953,7 @@
 	</array>
 	<key>@MMK_R_one</key>
 	<array>
-		<string>one</string>
+		<string>one.lf</string>
 	</array>
 	<key>@MMK_R_one.dnom</key>
 	<array>
@@ -2976,7 +2976,7 @@
 	</array>
 	<key>@MMK_R_one.tf</key>
 	<array>
-		<string>one.tf</string>
+		<string>one</string>
 	</array>
 	<key>@MMK_R_one.tosf</key>
 	<array>
@@ -3054,18 +3054,18 @@
 	</array>
 	<key>@MMK_R_plus</key>
 	<array>
-		<string>approxequal</string>
-		<string>divide</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>infinity</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>multiply</string>
-		<string>notequal</string>
-		<string>plus</string>
-		<string>plusminus</string>
+		<string>approxequal.lf</string>
+		<string>divide.lf</string>
+		<string>equal.lf</string>
+		<string>greater.lf</string>
+		<string>greaterequal.lf</string>
+		<string>infinity.lf</string>
+		<string>less.lf</string>
+		<string>lessequal.lf</string>
+		<string>multiply.lf</string>
+		<string>notequal.lf</string>
+		<string>plus.lf</string>
+		<string>plusminus.lf</string>
 		<string>approxequal.osf</string>
 		<string>divide.osf</string>
 		<string>equal.osf</string>
@@ -3144,7 +3144,7 @@
 	</array>
 	<key>@MMK_R_seven</key>
 	<array>
-		<string>seven</string>
+		<string>seven.lf</string>
 	</array>
 	<key>@MMK_R_seven.dnom</key>
 	<array>
@@ -3161,7 +3161,7 @@
 	</array>
 	<key>@MMK_R_seven.tf</key>
 	<array>
-		<string>seven.tf</string>
+		<string>seven</string>
 	</array>
 	<key>@MMK_R_seven.tosf</key>
 	<array>
@@ -3174,7 +3174,7 @@
 	</array>
 	<key>@MMK_R_six</key>
 	<array>
-		<string>six</string>
+		<string>six.lf</string>
 	</array>
 	<key>@MMK_R_six.dnom</key>
 	<array>
@@ -3187,7 +3187,7 @@
 	</array>
 	<key>@MMK_R_six.tf</key>
 	<array>
-		<string>six.tf</string>
+		<string>six</string>
 	</array>
 	<key>@MMK_R_six.tosf</key>
 	<array>
@@ -3241,7 +3241,7 @@
 	</array>
 	<key>@MMK_R_three</key>
 	<array>
-		<string>three</string>
+		<string>three.lf</string>
 	</array>
 	<key>@MMK_R_three.dnom</key>
 	<array>
@@ -3260,7 +3260,7 @@
 	</array>
 	<key>@MMK_R_three.tf</key>
 	<array>
-		<string>three.tf</string>
+		<string>three</string>
 	</array>
 	<key>@MMK_R_three.tosf</key>
 	<array>
@@ -3268,7 +3268,7 @@
 	</array>
 	<key>@MMK_R_two</key>
 	<array>
-		<string>two</string>
+		<string>two.lf</string>
 	</array>
 	<key>@MMK_R_two.dnom</key>
 	<array>
@@ -3286,7 +3286,7 @@
 	</array>
 	<key>@MMK_R_two.tf</key>
 	<array>
-		<string>two.tf</string>
+		<string>two</string>
 	</array>
 	<key>@MMK_R_two.tosf</key>
 	<array>
@@ -3486,7 +3486,7 @@
 	</array>
 	<key>@MMK_R_zero</key>
 	<array>
-		<string>zero</string>
+		<string>zero.lf</string>
 	</array>
 	<key>@MMK_R_zero.dnom</key>
 	<array>
@@ -3503,11 +3503,11 @@
 	</array>
 	<key>@MMK_R_zero.tf</key>
 	<array>
-		<string>zero.tf</string>
+		<string>zero</string>
 	</array>
 	<key>@MMK_R_zero.tf.zero</key>
 	<array>
-		<string>zero.tf.zero</string>
+		<string>zero.zero</string>
 	</array>
 	<key>@MMK_R_zero.tosf</key>
 	<array>
@@ -3519,7 +3519,7 @@
 	</array>
 	<key>@MMK_R_zero.zero</key>
 	<array>
-		<string>zero.zero</string>
+		<string>zero.lf.zero</string>
 	</array>
 	<key>@MMK_R_zeta</key>
 	<array>

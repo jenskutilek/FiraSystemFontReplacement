@@ -2,7 +2,7 @@
 <glyph name="approxequal.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="approxequal" xOffset="49"/>
+    <component base="approxequal.lf" xOffset="49"/>
   </outline>
   <lib>
     <dict>

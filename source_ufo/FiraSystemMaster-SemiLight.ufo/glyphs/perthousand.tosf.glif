@@ -2,7 +2,7 @@
 <glyph name="perthousand.tosf" format="1">
   <advance width="1200"/>
   <outline>
-    <component base="perthousand" xOffset="47"/>
+    <component base="perthousand.lf" xOffset="47"/>
   </outline>
   <lib>
     <dict>

@@ -2,7 +2,7 @@
 <glyph name="Euro.osf" format="1">
   <advance width="568"/>
   <outline>
-    <component base="Euro"/>
+    <component base="Euro.lf"/>
   </outline>
   <lib>
     <dict>

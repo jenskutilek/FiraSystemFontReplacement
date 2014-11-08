@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="488"/>
+  <advance width="556"/>
   <unicode hex="00F7"/>
   <outline>
-    <component base="period" xOffset="154" yOffset="100"/>
-    <component base="period" xOffset="154" yOffset="522"/>
-    <component base="minus"/>
+    <component base="divide.lf" xOffset="34"/>
   </outline>
   <lib>
     <dict>

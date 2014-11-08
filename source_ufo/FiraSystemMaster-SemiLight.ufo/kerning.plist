@@ -2483,7 +2483,7 @@
 		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>0</integer>
-		<key>degree</key>
+		<key>degree.lf</key>
 		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_four.osf</key>
@@ -3453,7 +3453,7 @@
 		<integer>10</integer>
 		<key>@MMK_R_y</key>
 		<integer>10</integer>
-		<key>Euro</key>
+		<key>Euro.lf</key>
 		<integer>10</integer>
 	</dict>
 	<key>@MMK_L_shhacy</key>
@@ -4431,7 +4431,7 @@
 		<key>@MMK_R_zero.osf</key>
 		<integer>0</integer>
 	</dict>
-	<key>section</key>
+	<key>section.lf</key>
 	<dict>
 		<key>@MMK_R_one</key>
 		<integer>-20</integer>
@@ -4453,9 +4453,9 @@
 	<dict>
 		<key>@MMK_R_S</key>
 		<integer>0</integer>
-		<key>Euro</key>
+		<key>Euro.lf</key>
 		<integer>0</integer>
-		<key>sterling</key>
+		<key>sterling.lf</key>
 		<integer>0</integer>
 	</dict>
 </dict>

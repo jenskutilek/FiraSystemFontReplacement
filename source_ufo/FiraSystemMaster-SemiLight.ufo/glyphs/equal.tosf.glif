@@ -2,7 +2,7 @@
 <glyph name="equal.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="equal" xOffset="34"/>
+    <component base="equal.lf" xOffset="34"/>
   </outline>
   <lib>
     <dict>

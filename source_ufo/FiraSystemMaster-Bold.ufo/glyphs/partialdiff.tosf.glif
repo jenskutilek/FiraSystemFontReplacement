@@ -2,7 +2,7 @@
 <glyph name="partialdiff.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="partialdiff" xOffset="3"/>
+    <component base="partialdiff.lf" xOffset="3"/>
   </outline>
   <lib>
     <dict>

@@ -2,7 +2,7 @@
 <glyph name="integral.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="integral" xOffset="91"/>
+    <component base="integral.lf" xOffset="91"/>
   </outline>
   <lib>
     <dict>

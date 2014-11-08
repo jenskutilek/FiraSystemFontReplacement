@@ -2,7 +2,7 @@
 <glyph name="yen.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="yen" xOffset="32"/>
+    <component base="yen.lf" xOffset="32"/>
   </outline>
   <lib>
     <dict>

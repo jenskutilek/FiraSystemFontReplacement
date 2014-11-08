@@ -2,7 +2,7 @@
 <glyph name="figuredash.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="figuredash" xOffset="-2"/>
+    <component base="figuredash.lf" xOffset="-2"/>
   </outline>
   <lib>
     <dict>

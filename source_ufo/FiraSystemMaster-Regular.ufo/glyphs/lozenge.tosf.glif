@@ -2,7 +2,7 @@
 <glyph name="lozenge.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="lozenge" xOffset="12"/>
+    <component base="lozenge.lf" xOffset="12"/>
   </outline>
   <lib>
     <dict>

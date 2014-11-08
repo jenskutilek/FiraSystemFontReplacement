@@ -2,7 +2,7 @@
 <glyph name="dollar.osf" format="1">
   <advance width="531"/>
   <outline>
-    <component base="dollar"/>
+    <component base="dollar.lf"/>
   </outline>
   <lib>
     <dict>

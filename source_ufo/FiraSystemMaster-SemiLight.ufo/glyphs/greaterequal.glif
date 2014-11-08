@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="494"/>
+  <advance width="556"/>
   <unicode hex="2265"/>
   <outline>
-    <component base="greater"/>
-    <component base="minus" yOffset="-316"/>
+    <component base="greaterequal.lf" xOffset="31"/>
   </outline>
   <lib>
     <dict>

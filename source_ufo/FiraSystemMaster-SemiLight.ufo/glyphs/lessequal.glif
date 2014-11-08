@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="494"/>
+  <advance width="556"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="less"/>
-    <component base="minus" yOffset="-316"/>
+    <component base="lessequal.lf" xOffset="31"/>
   </outline>
   <lib>
     <dict>

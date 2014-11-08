@@ -2,7 +2,7 @@
 <glyph name="greaterequal.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="greaterequal" xOffset="28"/>
+    <component base="greaterequal.lf" xOffset="28"/>
   </outline>
   <lib>
     <dict>

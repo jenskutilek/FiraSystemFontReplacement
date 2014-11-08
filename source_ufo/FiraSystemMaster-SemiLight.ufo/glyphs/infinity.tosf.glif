@@ -2,7 +2,7 @@
 <glyph name="infinity.tosf" format="1">
   <advance width="900"/>
   <outline>
-    <component base="infinity.tf"/>
+    <component base="infinity"/>
   </outline>
   <lib>
     <dict>

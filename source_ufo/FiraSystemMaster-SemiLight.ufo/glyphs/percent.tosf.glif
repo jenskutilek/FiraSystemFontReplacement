@@ -2,7 +2,7 @@
 <glyph name="percent.tosf" format="1">
   <advance width="900"/>
   <outline>
-    <component base="percent" xOffset="67"/>
+    <component base="percent.lf" xOffset="67"/>
   </outline>
   <lib>
     <dict>

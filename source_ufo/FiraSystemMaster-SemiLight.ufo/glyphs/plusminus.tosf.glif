@@ -2,7 +2,7 @@
 <glyph name="plusminus.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="plusminus" xOffset="33"/>
+    <component base="plusminus.lf" xOffset="33"/>
   </outline>
   <lib>
     <dict>

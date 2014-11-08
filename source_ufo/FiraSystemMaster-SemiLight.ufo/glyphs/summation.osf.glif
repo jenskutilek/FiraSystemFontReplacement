@@ -2,7 +2,7 @@
 <glyph name="summation.osf" format="1">
   <advance width="475"/>
   <outline>
-    <component base="summation"/>
+    <component base="summation.lf"/>
   </outline>
   <lib>
     <dict>

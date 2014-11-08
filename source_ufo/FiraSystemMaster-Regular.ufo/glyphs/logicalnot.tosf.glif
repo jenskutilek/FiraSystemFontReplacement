@@ -2,7 +2,7 @@
 <glyph name="logicalnot.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="logicalnot" xOffset="28"/>
+    <component base="logicalnot.lf" xOffset="28"/>
   </outline>
   <lib>
     <dict>

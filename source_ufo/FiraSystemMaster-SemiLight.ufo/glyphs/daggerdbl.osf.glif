@@ -2,7 +2,7 @@
 <glyph name="daggerdbl.osf" format="1">
   <advance width="508"/>
   <outline>
-    <component base="daggerdbl"/>
+    <component base="daggerdbl.lf"/>
   </outline>
   <lib>
     <dict>

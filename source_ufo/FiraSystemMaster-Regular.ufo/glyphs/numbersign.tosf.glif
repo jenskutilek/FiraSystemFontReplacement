@@ -2,7 +2,7 @@
 <glyph name="numbersign.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="numbersign.tf" xOffset="-2"/>
+    <component base="numbersign" xOffset="-2"/>
   </outline>
   <lib>
     <dict>

@@ -2,7 +2,7 @@
 <glyph name="radical.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="radical" xOffset="42"/>
+    <component base="radical.lf" xOffset="42"/>
   </outline>
   <lib>
     <dict>

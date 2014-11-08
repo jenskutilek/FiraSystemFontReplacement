@@ -2,7 +2,7 @@
 <glyph name="divide.tosf" format="1">
   <advance width="556"/>
   <outline>
-    <component base="divide" xOffset="13"/>
+    <component base="divide.lf" xOffset="13"/>
   </outline>
   <lib>
     <dict>
