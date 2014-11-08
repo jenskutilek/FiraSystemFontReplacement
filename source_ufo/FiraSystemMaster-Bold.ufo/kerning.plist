@@ -3601,6 +3601,8 @@
 		<integer>-70</integer>
 		<key>@MMK_R_six.osf</key>
 		<integer>-60</integer>
+		<key>@MMK_R_slash</key>
+		<integer>-170</integer>
 		<key>@MMK_R_three</key>
 		<integer>-30</integer>
 		<key>@MMK_R_three.osf</key>
