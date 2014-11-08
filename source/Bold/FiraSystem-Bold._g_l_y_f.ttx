@@ -1928,7 +1928,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="TseHelper-cy" xMin="69" yMin="0" xMax="589" yMax="693">
+    <TTGlyph name="TseHelper.cy" xMin="69" yMin="0" xMax="589" yMax="693">
       <contour>
         <pt x="589" y="693" on="1"/>
         <pt x="589" y="0" on="1"/>
@@ -3582,7 +3582,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="breve-cy" xMin="30" yMin="634" xMax="370" yMax="798">
+    <TTGlyph name="breve.cy" xMin="30" yMin="634" xMax="370" yMax="798">
       <contour>
         <pt x="370" y="783" on="1"/>
         <pt x="364" y="717" on="0"/>
@@ -3603,14 +3603,14 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="breve-cy.case" xMin="30" yMin="760" xMax="370" yMax="924">
-      <component glyphName="breve-cy" x="0" y="126" flags="0x4"/>
+    <TTGlyph name="breve.cy.case" xMin="30" yMin="760" xMax="370" yMax="924">
+      <component glyphName="breve.cy" x="0" y="126" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="breve-cy.sc" xMin="30" yMin="664" xMax="370" yMax="828">
-      <component glyphName="breve-cy" x="0" y="30" flags="0x4"/>
+    <TTGlyph name="breve.cy.sc" xMin="30" yMin="664" xMax="370" yMax="828">
+      <component glyphName="breve.cy" x="0" y="30" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -4744,7 +4744,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="descRound-cy" xMin="30" yMin="-255" xMax="283" yMax="24">
+    <TTGlyph name="descRound.cy" xMin="30" yMin="-255" xMax="283" yMax="24">
       <contour>
         <pt x="86" y="0" on="1"/>
         <pt x="113" y="24" on="1"/>
@@ -4771,7 +4771,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="descStraight-cy" xMin="31" yMin="-164" xMax="204" yMax="111">
+    <TTGlyph name="descStraight.cy" xMin="31" yMin="-164" xMax="204" yMax="111">
       <contour>
         <pt x="31" y="111" on="1"/>
         <pt x="204" y="111" on="1"/>
@@ -4784,7 +4784,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="descStraight-cy.case" xMin="30" yMin="-164" xMax="204" yMax="120">
+    <TTGlyph name="descStraight.cy.case" xMin="30" yMin="-164" xMax="204" yMax="120">
       <contour>
         <pt x="30" y="120" on="1"/>
         <pt x="204" y="120" on="1"/>
@@ -13405,7 +13405,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="tsehelper-cy" xMin="66" yMin="0" xMax="512" yMax="531">
+    <TTGlyph name="tsehelper.cy" xMin="66" yMin="0" xMax="512" yMax="531">
       <contour>
         <pt x="362" y="112" on="1"/>
         <pt x="362" y="531" on="1"/>
@@ -13420,7 +13420,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="tsehelper-cy.sc" xMin="69" yMin="0" xMax="543" yMax="568">
+    <TTGlyph name="tsehelper.cy.sc" xMin="69" yMin="0" xMax="543" yMax="568">
       <contour>
         <pt x="393" y="112" on="1"/>
         <pt x="393" y="568" on="1"/>
@@ -14426,15 +14426,15 @@
     </TTGlyph>
 
     <TTGlyph name="uni040E" xMin="-11" yMin="-16" xMax="588" yMax="924">
-      <component glyphName="breve-cy.case" x="86" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.case" x="86" y="0" flags="0x4"/>
       <component glyphName="uni0423" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni040F" xMin="69" yMin="-164" xMax="589" yMax="693">
-      <component glyphName="descStraight-cy.case" x="186" y="0" flags="0x4"/>
-      <component glyphName="TseHelper-cy" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy.case" x="186" y="0" flags="0x4"/>
+      <component glyphName="TseHelper.cy" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -14641,7 +14641,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni0419" xMin="69" yMin="0" xMax="597" yMax="924">
-      <component glyphName="breve-cy.case" x="133" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.case" x="133" y="0" flags="0x4"/>
       <component glyphName="uni0418" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -14810,8 +14810,8 @@
     </TTGlyph>
 
     <TTGlyph name="uni0426" xMin="69" yMin="-164" xMax="669" yMax="693">
-      <component glyphName="descStraight-cy.case" x="465" y="0" flags="0x4"/>
-      <component glyphName="TseHelper-cy" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy.case" x="465" y="0" flags="0x4"/>
+      <component glyphName="TseHelper.cy" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -14863,7 +14863,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni0429" xMin="69" yMin="-164" xMax="922" yMax="693">
-      <component glyphName="descStraight-cy.case" x="718" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="718" y="0" flags="0x4"/>
       <component glyphName="uni0428" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -15546,14 +15546,14 @@
 
     <TTGlyph name="uni0439" xMin="66" yMin="0" xMax="526" yMax="798">
       <component glyphName="uni0438" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy" x="96" y="0" flags="0x4"/>
+      <component glyphName="breve.cy" x="96" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0439.sc" xMin="69" yMin="0" xMax="536" yMax="828">
       <component glyphName="uni0438.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.sc" x="103" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.sc" x="103" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -15942,15 +15942,15 @@
     </TTGlyph>
 
     <TTGlyph name="uni0446" xMin="66" yMin="-164" xMax="591" yMax="531">
-      <component glyphName="tsehelper-cy" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="387" y="0" flags="0x4"/>
+      <component glyphName="tsehelper.cy" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy" x="387" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0446.sc" xMin="69" yMin="-164" xMax="623" yMax="568">
-      <component glyphName="tsehelper-cy.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="419" y="0" flags="0x4"/>
+      <component glyphName="tsehelper.cy.sc" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy" x="419" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -16049,14 +16049,14 @@
 
     <TTGlyph name="uni0449" xMin="66" yMin="-164" xMax="797" yMax="531">
       <component glyphName="uni0448" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="593" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="593" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0449.sc" xMin="69" yMin="-164" xMax="829" yMax="568">
       <component glyphName="uni0448.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="625" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="625" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -16936,28 +16936,28 @@
 
     <TTGlyph name="uni045E" xMin="-4" yMin="-221" xMax="519" yMax="798">
       <component glyphName="y" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy" x="57" y="0" flags="0x4"/>
+      <component glyphName="breve.cy" x="57" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni045E.sc" xMin="-11" yMin="-15" xMax="521" yMax="828">
       <component glyphName="uni0443.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.sc" x="55" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.sc" x="55" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni045F" xMin="66" yMin="-164" xMax="512" yMax="531">
-      <component glyphName="tsehelper-cy" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="148" y="0" flags="0x4"/>
+      <component glyphName="tsehelper.cy" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy" x="148" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni045F.sc" xMin="69" yMin="-164" xMax="543" yMax="568">
-      <component glyphName="tsehelper-cy.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="165" y="0" flags="0x4"/>
+      <component glyphName="tsehelper.cy.sc" x="0" y="0" flags="0x204"/>
+      <component glyphName="descStraight.cy" x="165" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -17256,34 +17256,34 @@
 
     <TTGlyph name="uni0496" xMin="-6" yMin="-164" xMax="913" yMax="693">
       <component glyphName="uni0416" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy.case" x="709" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="709" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0497" xMin="6" yMin="-164" xMax="758" yMax="531">
       <component glyphName="uni0436" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="554" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="554" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0497.sc" xMin="-6" yMin="-164" xMax="839" yMax="568">
       <component glyphName="uni0436.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="635" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="635" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0498" xMin="-1" yMin="-255" xMax="510" yMax="709">
       <component glyphName="uni0417" x="0" y="0" flags="0x204"/>
-      <component glyphName="descRound-cy" x="101" y="0" flags="0x4"/>
+      <component glyphName="descRound.cy" x="101" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0499" xMin="4" yMin="-255" xMax="463" yMax="547">
-      <component glyphName="descRound-cy" x="81" y="0" flags="0x4"/>
+      <component glyphName="descRound.cy" x="81" y="0" flags="0x4"/>
       <component glyphName="uni0437" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17297,7 +17297,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni049A" xMin="69" yMin="-164" xMax="631" yMax="693">
-      <component glyphName="descStraight-cy.case" x="427" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="427" y="0" flags="0x4"/>
       <component glyphName="uni041A" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17305,14 +17305,14 @@
 
     <TTGlyph name="uni049B" xMin="66" yMin="-164" xMax="553" yMax="531">
       <component glyphName="uni043A" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="349" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="349" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni049B.sc" xMin="69" yMin="-164" xMax="598" yMax="568">
       <component glyphName="uni043A.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="394" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="394" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -17469,7 +17469,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni04A2" xMin="69" yMin="-164" xMax="678" yMax="693">
-      <component glyphName="descStraight-cy.case" x="474" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="474" y="0" flags="0x4"/>
       <component glyphName="H" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17477,13 +17477,13 @@
 
     <TTGlyph name="uni04A3" xMin="66" yMin="-164" xMax="601" yMax="531">
       <component glyphName="uni043D" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="397" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="397" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04A3.sc" xMin="69" yMin="-164" xMax="613" yMax="568">
-      <component glyphName="descStraight-cy" x="409" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="409" y="0" flags="0x4"/>
       <component glyphName="uni043D.sc" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17491,34 +17491,34 @@
 
     <TTGlyph name="uni04AA" xMin="36" yMin="-255" xMax="564" yMax="709">
       <component glyphName="C" x="0" y="0" flags="0x204"/>
-      <component glyphName="descRound-cy" x="190" y="0" flags="0x4"/>
+      <component glyphName="descRound.cy" x="190" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04AB" xMin="35" yMin="-255" xMax="470" yMax="547">
       <component glyphName="c" x="0" y="0" flags="0x204"/>
-      <component glyphName="descRound-cy" x="128" y="0" flags="0x4"/>
+      <component glyphName="descRound.cy" x="128" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04AB.sc" xMin="36" yMin="-255" xMax="504" yMax="581">
-      <component glyphName="descRound-cy" x="153" y="0" flags="0x4"/>
+      <component glyphName="descRound.cy" x="153" y="0" flags="0x4"/>
       <component glyphName="c.sc" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04AC" xMin="10" yMin="-164" xMax="535" yMax="693">
-      <component glyphName="descStraight-cy.case" x="222" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="222" y="0" flags="0x4"/>
       <component glyphName="T" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04AD" xMin="2" yMin="-164" xMax="475" yMax="531">
-      <component glyphName="descStraight-cy" x="185" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="185" y="0" flags="0x4"/>
       <component glyphName="uni0442" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17526,7 +17526,7 @@
 
     <TTGlyph name="uni04AD.sc" xMin="10" yMin="-164" xMax="473" yMax="569">
       <component glyphName="uni0442.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="196" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="196" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -17626,7 +17626,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni04B2" xMin="-3" yMin="-164" xMax="588" yMax="693">
-      <component glyphName="descStraight-cy.case" x="384" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="384" y="0" flags="0x4"/>
       <component glyphName="X" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17634,13 +17634,13 @@
 
     <TTGlyph name="uni04B3" xMin="-9" yMin="-164" xMax="529" yMax="531">
       <component glyphName="x" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="325" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="325" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04B3.sc" xMin="-3" yMin="-164" xMax="517" yMax="568">
-      <component glyphName="descStraight-cy" x="313" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="313" y="0" flags="0x4"/>
       <component glyphName="uni0445.sc" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -17648,21 +17648,21 @@
 
     <TTGlyph name="uni04B6" xMin="24" yMin="-164" xMax="628" yMax="693">
       <component glyphName="uni0427" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy.case" x="424" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="424" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04B7" xMin="33" yMin="-164" xMax="564" yMax="531">
       <component glyphName="uni0447" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="360" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="360" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04B7.sc" xMin="24" yMin="-164" xMax="559" yMax="568">
       <component glyphName="uni0447.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="355" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="355" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -17864,14 +17864,14 @@
 
     <TTGlyph name="uni04C1" xMin="-6" yMin="0" xMax="901" yMax="924">
       <component glyphName="uni0416" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.case" x="248" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.case" x="248" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04C2" xMin="6" yMin="0" xMax="747" yMax="798">
       <component glyphName="uni0436" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy" x="176" y="0" flags="0x4"/>
+      <component glyphName="breve.cy" x="176" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -17970,21 +17970,21 @@
 
     <TTGlyph name="uni04D0" xMin="-11" yMin="0" xMax="599" yMax="924">
       <component glyphName="A" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.case" x="95" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.case" x="95" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04D1" xMin="29" yMin="-16" xMax="517" yMax="798">
       <component glyphName="a" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy" x="70" y="0" flags="0x4"/>
+      <component glyphName="breve.cy" x="70" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04D1.sc" xMin="-11" yMin="0" xMax="529" yMax="828">
       <component glyphName="a.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.sc" x="59" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.sc" x="59" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -18029,7 +18029,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni04D6" xMin="69" yMin="0" xMax="489" yMax="924">
-      <component glyphName="breve-cy.case" x="71" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.case" x="71" y="0" flags="0x4"/>
       <component glyphName="uni0415" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -18037,14 +18037,14 @@
 
     <TTGlyph name="uni04D7" xMin="35" yMin="-16" xMax="521" yMax="798">
       <component glyphName="uni0435" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy" x="80" y="0" flags="0x4"/>
+      <component glyphName="breve.cy" x="80" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04D7.sc" xMin="69" yMin="0" xMax="443" yMax="828">
       <component glyphName="uni0435.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="breve-cy.sc" x="57" y="0" flags="0x4"/>
+      <component glyphName="breve.cy.sc" x="57" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -18503,14 +18503,14 @@
     </TTGlyph>
 
     <TTGlyph name="uni04F6" xMin="69" yMin="-164" xMax="508" yMax="693">
-      <component glyphName="descStraight-cy.case" x="100" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="100" y="0" flags="0x4"/>
       <component glyphName="uni0413" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04F7" xMin="66" yMin="-164" xMax="436" yMax="531">
-      <component glyphName="descStraight-cy" x="92" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="92" y="0" flags="0x4"/>
       <component glyphName="uni0433" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -18518,7 +18518,7 @@
 
     <TTGlyph name="uni04F7.sc" xMin="69" yMin="-164" xMax="450" yMax="568">
       <component glyphName="uni0433.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="92" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="92" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -18564,14 +18564,14 @@
 
     <TTGlyph name="uni0524" xMin="69" yMin="-164" xMax="676" yMax="693">
       <component glyphName="uni041F" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy.case" x="472" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="472" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0525" xMin="66" yMin="-164" xMax="597" yMax="531">
       <component glyphName="uni043F" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="393" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="393" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
@@ -18596,7 +18596,7 @@
     </TTGlyph>
 
     <TTGlyph name="uni0526" xMin="69" yMin="-164" xMax="677" yMax="687">
-      <component glyphName="descStraight-cy.case" x="473" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy.case" x="473" y="0" flags="0x4"/>
       <component glyphName="uni04BA" x="0" y="0" flags="0x204"/>
       <instructions><assembly>
         </assembly></instructions>
@@ -18604,14 +18604,14 @@
 
     <TTGlyph name="uni0527" xMin="66" yMin="-164" xMax="595" yMax="757">
       <component glyphName="uni04BB" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="391" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="391" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0527.sc" xMin="69" yMin="-164" xMax="623" yMax="568">
       <component glyphName="uni04BB.sc" x="0" y="0" flags="0x204"/>
-      <component glyphName="descStraight-cy" x="419" y="0" flags="0x4"/>
+      <component glyphName="descStraight.cy" x="419" y="0" flags="0x4"/>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>

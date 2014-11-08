@@ -142,7 +142,7 @@
     <mtx name="Tcedilla" width="527" lsb="12"/>
     <mtx name="Theta" width="691" lsb="46"/>
     <mtx name="Thorn" width="589" lsb="85"/>
-    <mtx name="TseHelper-cy" width="662" lsb="85"/>
+    <mtx name="TseHelper.cy" width="662" lsb="85"/>
     <mtx name="U" width="657" lsb="75"/>
     <mtx name="Uacute" width="657" lsb="75"/>
     <mtx name="Ubreve" width="657" lsb="75"/>
@@ -249,9 +249,9 @@
     <mtx name="bracketright" width="323" lsb="39"/>
     <mtx name="bracketright.case" width="323" lsb="39"/>
     <mtx name="breve" width="381" lsb="30"/>
-    <mtx name="breve-cy" width="381" lsb="30"/>
-    <mtx name="breve-cy.case" width="385" lsb="30"/>
-    <mtx name="breve-cy.sc" width="381" lsb="30"/>
+    <mtx name="breve.cy" width="381" lsb="30"/>
+    <mtx name="breve.cy.case" width="385" lsb="30"/>
+    <mtx name="breve.cy.sc" width="381" lsb="30"/>
     <mtx name="breve.case" width="380" lsb="30"/>
     <mtx name="breve.sc" width="381" lsb="30"/>
     <mtx name="brevecombcomb" width="380" lsb="39"/>
@@ -321,9 +321,9 @@
     <mtx name="deleterightKey" width="1400" lsb="100"/>
     <mtx name="delta" width="578" lsb="46"/>
     <mtx name="delta.sc" width="520" lsb="-2"/>
-    <mtx name="descRound-cy" width="299" lsb="30"/>
-    <mtx name="descStraight-cy" width="207" lsb="32"/>
-    <mtx name="descStraight-cy.case" width="207" lsb="30"/>
+    <mtx name="descRound.cy" width="299" lsb="30"/>
+    <mtx name="descStraight.cy" width="207" lsb="32"/>
+    <mtx name="descStraight.cy.case" width="207" lsb="30"/>
     <mtx name="dieresis" width="415" lsb="31"/>
     <mtx name="dieresis.case" width="415" lsb="31"/>
     <mtx name="dieresis.sc" width="415" lsb="31"/>
@@ -839,8 +839,8 @@
     <mtx name="tonos" width="225" lsb="33"/>
     <mtx name="tonos.case" width="230" lsb="35"/>
     <mtx name="trademark" width="892" lsb="32"/>
-    <mtx name="tsehelper-cy" width="582" lsb="81"/>
-    <mtx name="tsehelper-cy.sc" width="617" lsb="85"/>
+    <mtx name="tsehelper.cy" width="582" lsb="81"/>
+    <mtx name="tsehelper.cy.sc" width="617" lsb="85"/>
     <mtx name="two" width="556" lsb="32"/>
     <mtx name="two.dnom" width="400" lsb="47"/>
     <mtx name="two.lf" width="504" lsb="17"/>

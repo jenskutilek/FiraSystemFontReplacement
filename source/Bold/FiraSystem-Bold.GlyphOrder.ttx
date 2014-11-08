@@ -957,9 +957,9 @@
     <GlyphID id="951" name="lessequal.tosf"/>
     <GlyphID id="952" name="greaterequal.tosf"/>
     <GlyphID id="953" name="lozenge.tosf"/>
-    <GlyphID id="954" name="breve-cy.case"/>
+    <GlyphID id="954" name="breve.cy.case"/>
     <GlyphID id="955" name="softhyphen.case"/>
-    <GlyphID id="956" name="descStraight-cy.case"/>
+    <GlyphID id="956" name="descStraight.cy.case"/>
     <GlyphID id="957" name="parenleft.case"/>
     <GlyphID id="958" name="parenright.case"/>
     <GlyphID id="959" name="hyphen.case"/>
@@ -1000,11 +1000,11 @@
     <GlyphID id="994" name="f_i"/>
     <GlyphID id="995" name="f_l"/>
     <GlyphID id="996" name="null"/>
-    <GlyphID id="997" name="breve-cy"/>
-    <GlyphID id="998" name="TseHelper-cy"/>
-    <GlyphID id="999" name="descRound-cy"/>
+    <GlyphID id="997" name="breve.cy"/>
+    <GlyphID id="998" name="TseHelper.cy"/>
+    <GlyphID id="999" name="descRound.cy"/>
     <GlyphID id="1000" name="ringcombcomb"/>
-    <GlyphID id="1001" name="tsehelper-cy"/>
+    <GlyphID id="1001" name="tsehelper.cy"/>
     <GlyphID id="1002" name="acutecombcomb"/>
     <GlyphID id="1003" name="brevecombcomb"/>
     <GlyphID id="1004" name="caroncombcomb"/>
@@ -1012,7 +1012,7 @@
     <GlyphID id="1006" name="tildecombcomb"/>
     <GlyphID id="1007" name="macroncombcomb"/>
     <GlyphID id="1008" name="cedillaTcedilla"/>
-    <GlyphID id="1009" name="descStraight-cy"/>
+    <GlyphID id="1009" name="descStraight.cy"/>
     <GlyphID id="1010" name="dieresiscombcomb"/>
     <GlyphID id="1011" name="dieresisacutecomb"/>
     <GlyphID id="1012" name="dieresisgravecomb"/>
@@ -1021,11 +1021,11 @@
     <GlyphID id="1015" name="hungarumlautcombcomb"/>
     <GlyphID id="1016" name="f_i.sc"/>
     <GlyphID id="1017" name="f_l.sc"/>
-    <GlyphID id="1018" name="breve-cy.sc"/>
+    <GlyphID id="1018" name="breve.cy.sc"/>
     <GlyphID id="1019" name="dotlessj.sc"/>
     <GlyphID id="1020" name="tcedilla.sc"/>
     <GlyphID id="1021" name="sigmafinal.sc"/>
-    <GlyphID id="1022" name="tsehelper-cy.sc"/>
+    <GlyphID id="1022" name="tsehelper.cy.sc"/>
     <GlyphID id="1023" name="grave.sc"/>
     <GlyphID id="1024" name="a.sc"/>
     <GlyphID id="1025" name="b.sc"/>
