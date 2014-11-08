@@ -1,0 +1,527 @@
+@case_source = [
+# 31 glyph(s)
+softhyphen parenleft parenright
+hyphen bracketleft bracketright grave braceleft
+braceright exclamdown dieresis guillemotleft macron
+acute cedilla guillemotright questiondown circumflex
+caron breve dotaccent ring tilde
+hungarumlaut uni0326 tonos endash emdash
+guilsinglleft guilsinglright infinity
+];
+
+@case_target = [
+# 31 glyph(s)
+softhyphen.case parenleft.case parenright.case
+hyphen.case bracketleft.case bracketright.case grave.case braceleft.case
+braceright.case exclamdown.case dieresis.case guillemotleft.case macron.case
+acute.case cedilla.case guillemotright.case questiondown.case circumflex.case
+caron.case breve.case dotaccent.case ring.case tilde.case
+hungarumlaut.case uni0326.case tonos.case endash.case emdash.case
+guilsinglleft.case guilsinglright.case infinity.case
+];
+
+@onum_source = [
+# 45 glyph(s)
+numbersign dollar percent plus zero
+one two three four five
+six seven eight nine less
+equal greater asciitilde cent sterling
+currency yen section logicalnot degree
+plusminus multiply divide figuredash dagger
+daggerdbl perthousand Euro partialdiff product
+summation minus radical infinity integral
+approxequal notequal lessequal greaterequal lozenge
+];
+
+@onum_target = [
+# 45 glyph(s)
+numbersign.tosf dollar.tosf percent.tosf plus.tosf zero.tosf
+one.tosf two.tosf three.tosf four.tosf five.tosf
+six.tosf seven.tosf eight.tosf nine.tosf less.tosf
+equal.tosf greater.tosf asciitilde.tosf cent.tosf sterling.tosf
+currency.tosf yen.tosf section.tosf logicalnot.tosf degree.tosf
+plusminus.tosf multiply.tosf divide.tosf figuredash.tosf dagger.tosf
+daggerdbl.tosf perthousand.tosf Euro.tosf partialdiff.tosf product.tosf
+summation.tosf minus.tosf radical.tosf infinity.tosf integral.tosf
+approxequal.tosf notequal.tosf lessequal.tosf greaterequal.tosf lozenge.tosf
+];
+
+@pnum_source = [
+# 90 glyph(s)
+numbersign dollar percent plus zero
+one two three four five
+six seven eight nine less
+equal greater asciitilde cent sterling
+currency yen section logicalnot degree
+plusminus multiply divide figuredash dagger
+daggerdbl perthousand Euro partialdiff product
+summation minus radical infinity integral
+approxequal notequal lessequal greaterequal lozenge
+numbersign.tosf dollar.tosf percent.tosf plus.tosf zero.tosf
+one.tosf two.tosf three.tosf four.tosf five.tosf
+six.tosf seven.tosf eight.tosf nine.tosf less.tosf
+equal.tosf greater.tosf asciitilde.tosf cent.tosf sterling.tosf
+currency.tosf yen.tosf section.tosf logicalnot.tosf degree.tosf
+plusminus.tosf multiply.tosf divide.tosf figuredash.tosf dagger.tosf
+daggerdbl.tosf perthousand.tosf Euro.tosf partialdiff.tosf product.tosf
+summation.tosf minus.tosf radical.tosf infinity.tosf integral.tosf
+approxequal.tosf notequal.tosf lessequal.tosf greaterequal.tosf lozenge.tosf
+];
+
+@pnum_target = [
+# 90 glyph(s)
+numbersign.lf dollar.lf percent.lf plus.lf zero.lf
+one.lf two.lf three.lf four.lf five.lf
+six.lf seven.lf eight.lf nine.lf less.lf
+equal.lf greater.lf asciitilde.lf cent.lf sterling.lf
+currency.lf yen.lf section.lf logicalnot.lf degree.lf
+plusminus.lf multiply.lf divide.lf figuredash.lf dagger.lf
+daggerdbl.lf perthousand.lf Euro.lf partialdiff.lf product.lf
+summation.lf minus.lf radical.lf infinity.lf integral.lf
+approxequal.lf notequal.lf lessequal.lf greaterequal.lf lozenge.lf
+numbersign.osf dollar.osf percent.osf plus.osf zero.osf
+one.osf two.osf three.osf four.osf five.osf
+six.osf seven.osf eight.osf nine.osf less.osf
+equal.osf greater.osf asciitilde.osf cent.osf sterling.osf
+currency.osf yen.osf section.osf logicalnot.osf degree.osf
+plusminus.osf multiply.osf divide.osf figuredash.osf dagger.osf
+daggerdbl.osf perthousand.osf Euro.osf partialdiff.osf product.osf
+summation.osf minus.osf radical.osf infinity.osf integral.osf
+approxequal.osf notequal.osf lessequal.osf greaterequal.osf lozenge.osf
+];
+
+@smcp_source = [
+# 303 glyph(s)
+f_i f_l tcedilla sigmafinal
+grave a b c
+d e f g h
+i j k l m
+n o p q r
+s t u v w
+x y z dieresis macron
+acute mu cedilla germandbls agrave
+aacute acircumflex atilde adieresis aring
+ae ccedilla egrave eacute ecircumflex
+edieresis igrave iacute icircumflex idieresis
+eth ntilde ograve oacute ocircumflex
+otilde odieresis oslash ugrave uacute
+ucircumflex udieresis yacute thorn ydieresis
+amacron abreve aogonek cacute ccircumflex
+cdotaccent ccaron dcaron dcroat emacron
+ebreve edotaccent eogonek ecaron gcircumflex
+gbreve gdotaccent gcommaaccent hcircumflex hbar
+itilde imacron ibreve iogonek dotlessi
+ij jcircumflex kcommaaccent kgreenlandic lacute
+lcommaaccent lcaron ldot lslash nacute
+ncommaaccent ncaron napostrophe eng omacron
+obreve ohungarumlaut oe racute rcommaaccent
+rcaron sacute scircumflex scedilla scaron
+tcaron tbar utilde umacron ubreve
+uring uhungarumlaut uogonek wcircumflex ycircumflex
+zacute zdotaccent zcaron aeacute oslashacute
+scommaaccent uni021B circumflex caron breve
+dotaccent ring ogonek tilde hungarumlaut
+uni0326 iotadieresistonos alphatonos epsilontonos etatonos
+iotatonos upsilondieresistonos alpha beta gamma
+delta epsilon zeta eta theta
+iota kappa lambda nu xi
+omicron pi rho sigma tau
+upsilon phi chi psi omega
+iotadieresis upsilondieresis omicrontonos upsilontonos omegatonos
+uni0430 uni0431 uni0432 uni0433 uni0434
+uni0435 uni0436 uni0437 uni0438 uni0439
+uni043A uni043B uni043C uni043D uni043E
+uni043F uni0440 uni0441 uni0442 uni0443
+uni0444 uni0445 uni0446 uni0447 uni0448
+uni0449 uni044A uni044B uni044C uni044D
+uni044E uni044F uni0450 uni0451 uni0452
+uni0453 uni0454 uni0455 uni0456 uni0457
+uni0458 uni0459 uni045A uni045B uni045C
+uni045D uni045E uni045F uni0463 uni0473
+uni0475 uni0491 uni0493 uni0497 uni0499
+uni049B uni049D uni04A1 uni04A3 uni04AB
+uni04AD uni04AF uni04B1 uni04B3 uni04B7
+uni04B9 uni04BB uni04CC uni04CF uni04D1
+uni04D3 uni04D5 uni04D7 uni04D9 uni04DB
+uni04E3 uni04E9 uni04EB uni04ED uni04EF
+uni04F1 uni04F3 uni04F5 uni04F7 uni04F9
+uni051D uni0525 uni0527 wgrave wacute
+wdieresis ygrave uni1F71 uni1F72 uni1F73
+uni1F74 uni1F75 uni1F76 uni1F77 uni1F78
+uni1F79 uni1F7A uni1F7B uni1F7C uni1F7D
+uni1FB0 uni1FB1 uni1FB6 uni1FC6 uni1FD0
+uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7
+uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6
+uni1FE7 uni1FF6 fi fl ogonek.thin
+];
+
+@smcp_target = [
+# 303 glyph(s)
+f_i.sc f_l.sc tcedilla.sc sigmafinal.sc
+grave.sc a.sc b.sc c.sc
+d.sc e.sc f.sc g.sc h.sc
+i.sc j.sc k.sc l.sc m.sc
+n.sc o.sc p.sc q.sc r.sc
+s.sc t.sc u.sc v.sc w.sc
+x.sc y.sc z.sc dieresis.sc macron.sc
+acute.sc mu.sc cedilla.sc germandbls.sc agrave.sc
+aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc
+ae.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc
+edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc
+eth.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc
+otilde.sc odieresis.sc oslash.sc ugrave.sc uacute.sc
+ucircumflex.sc udieresis.sc yacute.sc thorn.sc ydieresis.sc
+amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc
+cdotaccent.sc ccaron.sc dcaron.sc dcroat.sc emacron.sc
+ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc
+gbreve.sc gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc
+itilde.sc imacron.sc ibreve.sc iogonek.sc dotlessi.sc
+ij.sc jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc
+lcommaaccent.sc lcaron.sc ldot.sc lslash.sc nacute.sc
+ncommaaccent.sc ncaron.sc napostrophe.sc eng.sc omacron.sc
+obreve.sc ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc
+rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc
+tcaron.sc tbar.sc utilde.sc umacron.sc ubreve.sc
+uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc
+zacute.sc zdotaccent.sc zcaron.sc aeacute.sc oslashacute.sc
+scommaaccent.sc uni021B.sc circumflex.sc caron.sc breve.sc
+dotaccent.sc ring.sc ogonek.sc tilde.sc hungarumlaut.sc
+uni0326.sc iotadieresistonos.sc alphatonos.sc epsilontonos.sc etatonos.sc
+iotatonos.sc upsilondieresistonos.sc alpha.sc beta.sc gamma.sc
+delta.sc epsilon.sc zeta.sc eta.sc theta.sc
+iota.sc kappa.sc lambda.sc nu.sc xi.sc
+omicron.sc pi.sc rho.sc sigma.sc tau.sc
+upsilon.sc phi.sc chi.sc psi.sc omega.sc
+iotadieresis.sc upsilondieresis.sc omicrontonos.sc upsilontonos.sc omegatonos.sc
+uni0430.sc uni0431.sc uni0432.sc uni0433.sc uni0434.sc
+uni0435.sc uni0436.sc uni0437.sc uni0438.sc uni0439.sc
+uni043A.sc uni043B.sc uni043C.sc uni043D.sc uni043E.sc
+uni043F.sc uni0440.sc uni0441.sc uni0442.sc uni0443.sc
+uni0444.sc uni0445.sc uni0446.sc uni0447.sc uni0448.sc
+uni0449.sc uni044A.sc uni044B.sc uni044C.sc uni044D.sc
+uni044E.sc uni044F.sc uni0450.sc uni0451.sc uni0452.sc
+uni0453.sc uni0454.sc uni0455.sc uni0456.sc uni0457.sc
+uni0458.sc uni0459.sc uni045A.sc uni045B.sc uni045C.sc
+uni045D.sc uni045E.sc uni045F.sc uni0463.sc uni0473.sc
+uni0475.sc uni0491.sc uni0493.sc uni0497.sc uni0499.sc
+uni049B.sc uni049D.sc uni04A1.sc uni04A3.sc uni04AB.sc
+uni04AD.sc uni04AF.sc uni04B1.sc uni04B3.sc uni04B7.sc
+uni04B9.sc uni04BB.sc uni04CC.sc uni04CF.sc uni04D1.sc
+uni04D3.sc uni04D5.sc uni04D7.sc uni04D9.sc uni04DB.sc
+uni04E3.sc uni04E9.sc uni04EB.sc uni04ED.sc uni04EF.sc
+uni04F1.sc uni04F3.sc uni04F5.sc uni04F7.sc uni04F9.sc
+uni051D.sc uni0525.sc uni0527.sc wgrave.sc wacute.sc
+wdieresis.sc ygrave.sc uni1F71.sc uni1F72.sc uni1F73.sc
+uni1F74.sc uni1F75.sc uni1F76.sc uni1F77.sc uni1F78.sc
+uni1F79.sc uni1F7A.sc uni1F7B.sc uni1F7C.sc uni1F7D.sc
+uni1FB0.sc uni1FB1.sc uni1FB6.sc uni1FC6.sc uni1FD0.sc
+uni1FD1.sc uni1FD2.sc uni1FD3.sc uni1FD6.sc uni1FD7.sc
+uni1FE0.sc uni1FE1.sc uni1FE2.sc uni1FE3.sc uni1FE6.sc
+uni1FE7.sc uni1FF6.sc fi.sc fl.sc ogonek.thin.sc
+];
+
+@uni_Ll = [
+# 596 glyph(s)
+a b c d e
+f g h i j
+k l m n o
+p q r s t
+u v w x y
+z uni00B5 germandbls agrave aacute
+acircumflex atilde adieresis aring ae
+ccedilla egrave eacute ecircumflex edieresis
+igrave iacute icircumflex idieresis eth
+ntilde ograve oacute ocircumflex otilde
+odieresis oslash ugrave uacute ucircumflex
+udieresis yacute thorn ydieresis amacron
+abreve aogonek cacute ccircumflex cdotaccent
+ccaron dcaron dcroat emacron ebreve
+edotaccent eogonek ecaron gcircumflex gbreve
+gdotaccent gcommaaccent hcircumflex hbar itilde
+imacron ibreve iogonek dotlessi ij
+jcircumflex kcommaaccent kgreenlandic lacute lcommaaccent
+lcaron ldot lslash nacute ncommaaccent
+ncaron napostrophe eng omacron obreve
+ohungarumlaut oe racute rcommaaccent rcaron
+sacute scircumflex scedilla scaron tcedilla
+tcaron tbar utilde umacron ubreve
+uring uhungarumlaut uogonek wcircumflex ycircumflex
+zacute zdotaccent zcaron florin aeacute
+oslashacute scommaaccent uni021B jdotless iotadieresistonos
+alphatonos epsilontonos etatonos iotatonos upsilondieresistonos
+alpha beta gamma delta epsilon
+zeta eta theta iota kappa
+lambda mu nu xi omicron
+pi rho sigmafinal sigma tau
+upsilon phi chi psi omega
+iotadieresis upsilondieresis omicrontonos upsilontonos omegatonos
+uni0430 uni0431 uni0432 uni0433 uni0434
+uni0435 uni0436 uni0437 uni0438 uni0439
+uni043A uni043B uni043C uni043D uni043E
+uni043F uni0440 uni0441 uni0442 uni0443
+uni0444 uni0445 uni0446 uni0447 uni0448
+uni0449 uni044A uni044B uni044C uni044D
+uni044E uni044F uni0450 uni0451 uni0452
+uni0453 uni0454 uni0455 uni0456 uni0457
+uni0458 uni0459 uni045A uni045B uni045C
+uni045D uni045E uni045F uni0463 uni0473
+uni0475 uni0491 uni0493 uni0497 uni0499
+uni049B uni049D uni04A1 uni04A3 uni04AB
+uni04AD uni04AF uni04B1 uni04B3 uni04B7
+uni04B9 uni04BB uni04C2 uni04CC uni04CF
+uni04D1 uni04D3 uni04D5 uni04D7 uni04D9
+uni04DB uni04DD uni04DF uni04E3 uni04E5
+uni04E7 uni04E9 uni04EB uni04ED uni04EF
+uni04F1 uni04F3 uni04F5 uni04F7 uni04F9
+uni051D uni0525 uni0527 wgrave wacute
+wdieresis ygrave uni1F70 uni1F71 uni1F72
+uni1F73 uni1F74 uni1F75 uni1F76 uni1F77
+uni1F78 uni1F79 uni1F7A uni1F7B uni1F7C
+uni1F7D uni1FB0 uni1FB1 uni1FB6 uni1FC6
+uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6
+uni1FD7 uni1FE0 uni1FE1 uni1FE2 uni1FE3
+uni1FE6 uni1FE7 uni1FF6 fi fl
+beta.ss10 zeta.ss10 sigma.ss10 tcedilla.sc sigmafinal.sc
+a.sc b.sc c.sc d.sc e.sc
+f.sc g.sc h.sc i.sc j.sc
+k.sc l.sc m.sc n.sc o.sc
+p.sc q.sc r.sc s.sc t.sc
+u.sc v.sc w.sc x.sc y.sc
+z.sc mu.sc germandbls.sc agrave.sc aacute.sc
+acircumflex.sc atilde.sc adieresis.sc aring.sc ae.sc
+ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc
+igrave.sc iacute.sc icircumflex.sc idieresis.sc eth.sc
+ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc
+odieresis.sc oslash.sc ugrave.sc uacute.sc ucircumflex.sc
+udieresis.sc yacute.sc thorn.sc ydieresis.sc amacron.sc
+abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc
+ccaron.sc dcaron.sc dcroat.sc emacron.sc ebreve.sc
+edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc
+gdotaccent.sc gcommaaccent.sc hcircumflex.sc hbar.sc itilde.sc
+imacron.sc ibreve.sc iogonek.sc dotlessi.sc ij.sc
+jcircumflex.sc kcommaaccent.sc kgreenlandic.sc lacute.sc lcommaaccent.sc
+lcaron.sc ldot.sc lslash.sc nacute.sc ncommaaccent.sc
+ncaron.sc napostrophe.sc eng.sc omacron.sc obreve.sc
+ohungarumlaut.sc oe.sc racute.sc rcommaaccent.sc rcaron.sc
+sacute.sc scircumflex.sc scedilla.sc scaron.sc tcaron.sc
+tbar.sc utilde.sc umacron.sc ubreve.sc uring.sc
+uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc zacute.sc
+zdotaccent.sc zcaron.sc aeacute.sc oslashacute.sc scommaaccent.sc
+uni021B.sc iotadieresistonos.sc alphatonos.sc epsilontonos.sc etatonos.sc
+iotatonos.sc upsilondieresistonos.sc alpha.sc beta.sc gamma.sc
+delta.sc epsilon.sc zeta.sc eta.sc theta.sc
+iota.sc kappa.sc lambda.sc nu.sc xi.sc
+omicron.sc pi.sc rho.sc sigma.sc tau.sc
+upsilon.sc phi.sc chi.sc psi.sc omega.sc
+iotadieresis.sc upsilondieresis.sc omicrontonos.sc upsilontonos.sc omegatonos.sc
+uni0430.sc uni0431.sc uni0432.sc uni0433.sc uni0434.sc
+uni0435.sc uni0436.sc uni0437.sc uni0438.sc uni0439.sc
+uni043A.sc uni043B.sc uni043C.sc uni043D.sc uni043E.sc
+uni043F.sc uni0440.sc uni0441.sc uni0442.sc uni0443.sc
+uni0444.sc uni0445.sc uni0446.sc uni0447.sc uni0448.sc
+uni0449.sc uni044A.sc uni044B.sc uni044C.sc uni044D.sc
+uni044E.sc uni044F.sc uni0450.sc uni0451.sc uni0452.sc
+uni0453.sc uni0454.sc uni0455.sc uni0456.sc uni0457.sc
+uni0458.sc uni0459.sc uni045A.sc uni045B.sc uni045C.sc
+uni045D.sc uni045E.sc uni045F.sc uni0463.sc uni0473.sc
+uni0475.sc uni0491.sc uni0493.sc uni0497.sc uni0499.sc
+uni049B.sc uni049D.sc uni04A1.sc uni04A3.sc uni04AB.sc
+uni04AD.sc uni04AF.sc uni04B1.sc uni04B3.sc uni04B7.sc
+uni04B9.sc uni04BB.sc uni04CC.sc uni04CF.sc uni04D1.sc
+uni04D3.sc uni04D5.sc uni04D7.sc uni04D9.sc uni04DB.sc
+uni04E3.sc uni04E9.sc uni04EB.sc uni04ED.sc uni04EF.sc
+uni04F1.sc uni04F3.sc uni04F5.sc uni04F7.sc uni04F9.sc
+uni051D.sc uni0525.sc uni0527.sc wgrave.sc wacute.sc
+wdieresis.sc ygrave.sc uni1F71.sc uni1F72.sc uni1F73.sc
+uni1F74.sc uni1F75.sc uni1F76.sc uni1F77.sc uni1F78.sc
+uni1F79.sc uni1F7A.sc uni1F7B.sc uni1F7C.sc uni1F7D.sc
+uni1FB0.sc uni1FB1.sc uni1FB6.sc uni1FC6.sc uni1FD0.sc
+uni1FD1.sc uni1FD2.sc uni1FD3.sc uni1FD6.sc uni1FD7.sc
+uni1FE0.sc uni1FE1.sc uni1FE2.sc uni1FE3.sc uni1FE6.sc
+uni1FE7.sc uni1FF6.sc fi.sc fl.sc oacute.loclPLK
+cacute.loclPLK nacute.loclPLK sacute.loclPLK zacute.loclPLK i.loclTRK
+oacute.sc.loclPLK cacute.sc.loclPLK nacute.sc.loclPLK sacute.sc.loclPLK zacute.sc.loclPLK
+i.sc.loclTRK
+];
+
+@uni_Lu = [
+# 280 glyph(s)
+A B C D E
+F G H I J
+K L M N O
+P Q R S T
+U V W X Y
+Z Agrave Aacute Acircumflex Atilde
+Adieresis Aring AE Ccedilla Egrave
+Eacute Ecircumflex Edieresis Igrave Iacute
+Icircumflex Idieresis Eth Ntilde Ograve
+Oacute Ocircumflex Otilde Odieresis Oslash
+Ugrave Uacute Ucircumflex Udieresis Yacute
+Thorn Amacron Abreve Aogonek Cacute
+Ccircumflex Cdotaccent Ccaron Dcaron Dcroat
+Emacron Ebreve Edotaccent Eogonek Ecaron
+Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex
+Hbar Itilde Imacron Ibreve Iogonek
+Idotaccent IJ Jcircumflex Kcommaaccent Lacute
+Lcommaaccent Lcaron Ldot Lslash Nacute
+Ncommaaccent Ncaron Eng Omacron Obreve
+Ohungarumlaut OE Racute Rcommaaccent Rcaron
+Sacute Scircumflex Scedilla Scaron Tcedilla
+Tcaron Tbar Utilde Umacron Ubreve
+Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex
+Ydieresis Zacute Zdotaccent Zcaron AEacute
+Oslashacute Scommaaccent uni021A Alphatonos Epsilontonos
+Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos
+Alpha Beta Gamma Delta Epsilon
+Zeta Eta Theta Iota Kappa
+Lambda Mu Nu Xi Omicron
+Pi Rho Sigma Tau Upsilon
+Phi Chi Psi Omega Iotadieresis
+Upsilondieresis uni0400 uni0401 uni0402 uni0403
+uni0404 uni0405 uni0406 uni0407 uni0408
+uni0409 uni040A uni040B uni040C uni040D
+uni040E uni040F uni0410 uni0411 uni0412
+uni0413 uni0414 uni0415 uni0416 uni0417
+uni0418 uni0419 uni041A uni041B uni041C
+uni041D uni041E uni041F uni0420 uni0421
+uni0422 uni0423 uni0424 uni0425 uni0426
+uni0427 uni0428 uni0429 uni042A uni042B
+uni042C uni042D uni042E uni042F uni0462
+uni0472 uni0474 uni0490 uni0492 uni0496
+uni0498 uni049A uni049C uni04A0 uni04A2
+uni04AA uni04AC uni04AE uni04B0 uni04B2
+uni04B6 uni04B8 uni04BA uni04C0 uni04C1
+uni04CB uni04D0 uni04D2 uni04D4 uni04D6
+uni04D8 uni04DA uni04DC uni04DE uni04E2
+uni04E4 uni04E6 uni04E8 uni04EA uni04EC
+uni04EE uni04F0 uni04F2 uni04F4 uni04F6
+uni04F8 uni051C uni0524 uni0526 Wgrave
+Wacute Wdieresis Ygrave uni1FB8 uni1FB9
+uni1FBA uni1FBB uni1FC8 uni1FC9 uni1FCA
+uni1FCB uni1FD8 uni1FD9 uni1FDA uni1FDB
+uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FF8
+uni1FF9 uni1FFA uni1FFB Ohm Oacute.loclPLK
+Cacute.loclPLK Nacute.loclPLK Sacute.loclPLK Zacute.loclPLK Oslashacute.001
+];
+
+@zero_source = [
+# 4 glyph(s)
+zero zero.osf zero.tosf zero.lf
+];
+
+@zero_target = [
+# 4 glyph(s)
+zero.zero zero.osf.zero zero.tosf.zero zero.lf.zero
+];
+
+
+
+# Dancing Shoes 0.1.4 OpenType feature code generator by Yanone, Copyright 2009
+# Code generated for AFDKO version 2.5
+
+
+languagesystem DFLT dflt; # Default, Default
+languagesystem latn MOL; # Latin, Moldavian
+languagesystem latn ROM; # Latin, Romanian
+languagesystem latn dflt; # Latin, Default
+
+
+
+
+feature aalt {
+# Access All Alternates
+
+    feature locl; 
+    feature sups; 
+    feature frac; 
+    feature onum; 
+    feature pnum; 
+    feature smcp; 
+    feature case; 
+    feature zero; 
+
+} aalt;
+
+feature locl {
+# Localized Forms
+
+
+  # Latin
+  script latn;
+    # Moldavian
+    language MOL;
+          sub scedilla by scommaaccent; 
+          sub Scedilla by Scommaaccent; 
+    # Romanian
+    language ROM;
+          sub scedilla by scommaaccent; 
+          sub Scedilla by Scommaaccent; 
+
+} locl;
+
+feature sups {
+# Superscript
+
+    sub one by onesuperior; 
+    sub two by twosuperior; 
+    sub three by threesuperior; 
+
+} sups;
+
+feature frac {
+# Fractions
+
+    sub slash by fraction; 
+
+} frac;
+
+feature onum {
+# Oldstyle Figures
+
+    sub @onum_source by @onum_target; 
+
+} onum;
+
+feature pnum {
+# Proportional Figures
+
+    sub @pnum_source by @pnum_target; 
+
+} pnum;
+
+feature smcp {
+# Small Capitals
+
+    sub @smcp_source by @smcp_target; 
+
+} smcp;
+
+feature case {
+# Case-Sensitive Forms
+
+    sub @case_source by @case_target; 
+
+} case;
+
+feature liga {
+# Standard Ligatures
+
+    sub f i by f_i; 
+    sub f l by f_l; 
+
+} liga;
+
+feature zero {
+# Slashed Zero
+
+    sub @zero_source by @zero_target; 
+
+} zero;
+
+feature cpsp {
+# Capital Spacing
+
+    pos @uni_Lu <10 0 20 0>; 
+
+} cpsp;
+
