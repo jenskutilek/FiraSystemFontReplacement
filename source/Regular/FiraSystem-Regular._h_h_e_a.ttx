@@ -4,11 +4,11 @@
   <hhea>
     <tableVersion value="1.0"/>
     <ascent value="951"/>
-    <descent value="-208"/>
+    <descent value="-200"/>
     <lineGap value="0"/>
     <advanceWidthMax value="1460"/>
-    <minLeftSideBearing value="-678"/>
-    <minRightSideBearing value="-173"/>
+    <minLeftSideBearing value="-167"/>
+    <minRightSideBearing value="-167"/>
     <xMaxExtent value="1360"/>
     <caretSlopeRise value="1"/>
     <caretSlopeRun value="0"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="1144"/>
+    <numberOfHMetrics value="1347"/>
   </hhea>
 
 </ttFont>

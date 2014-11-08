@@ -7,13 +7,10 @@
   <OS_2 src="Bold/FiraSystem-Bold.O_S_2f_2.ttx"/>
   <hmtx src="Bold/FiraSystem-Bold._h_m_t_x.ttx"/>
   <cmap src="Bold/FiraSystem-Bold._c_m_a_p.ttx"/>
-  <prep src="Bold/FiraSystem-Bold._p_r_e_p.ttx"/>
   <loca src="Bold/FiraSystem-Bold._l_o_c_a.ttx"/>
   <glyf src="Bold/FiraSystem-Bold._g_l_y_f.ttx"/>
   <name src="Bold/FiraSystem-Bold._n_a_m_e.ttx"/>
   <post src="Bold/FiraSystem-Bold._p_o_s_t.ttx"/>
-  <gasp src="Bold/FiraSystem-Bold._g_a_s_p.ttx"/>
   <GPOS src="Bold/FiraSystem-Bold.G_P_O_S_.ttx"/>
   <GSUB src="Bold/FiraSystem-Bold.G_S_U_B_.ttx"/>
-  <DSIG src="Bold/FiraSystem-Bold.D_S_I_G_.ttx"/>
 </ttFont>

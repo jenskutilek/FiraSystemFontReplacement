@@ -3,7 +3,7 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
-      Digitized data copyright (c) 2012-2013, The Mozilla Corporation and Telefonica S.A.
+      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2014 by Jens Kutilek.
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
       System Font
@@ -12,13 +12,13 @@
       Bold
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
-      CarroisCorporateGbR&#38;EdenspiekermannAG: Fira Sans Bold: 2013
+      3.111;netz;.HelveticaNeueDeskInterface-Bold
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
       System Font Bold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
-      Version 2.001
+      Version 3.111;PS 3.111;hotconv 1.0.72;makeotf.lib2.5.5900
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
       .HelveticaNeueDeskInterface-Bold
@@ -27,25 +27,25 @@
       Fira Sans is a trademark of The Mozilla Corporation.
     </namerecord>
     <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
-      Carrois Corporate GbR &#38; Edenspiekermann AG
+      Jens Kutilek
     </namerecord>
     <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
-      Carrois Corporate &#38; Edenspiekermann
+      Carrois Corporate &#38; Edenspiekermann AG
     </namerecord>
     <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
-      http://www.edenspiekermann.com
+      http://www.kutilek.de/
     </namerecord>
     <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
-      http://www.carrois.com
+      http://www.carrois.com/
     </namerecord>
     <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
-      Licensed under the Apache License, Version 2.0
+      Licensed under the Open Font License, version 1.1 or later
     </namerecord>
     <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
-      http://www.apache.org/licenses/LICENSE-2.0
+      http://scripts.sil.org/OFL
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Digitized data copyright (c) 2012-2013, The Mozilla Corporation and Telefonica S.A.
+      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2014 by Jens Kutilek.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       System Font
@@ -54,13 +54,13 @@
       Bold
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      CarroisCorporateGbR&amp;EdenspiekermannAG: Fira Sans Bold: 2013
+      3.111;netz;.HelveticaNeueDeskInterface-Bold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       System Font Bold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.001
+      Version 3.111;PS 3.111;hotconv 1.0.72;makeotf.lib2.5.5900
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       .HelveticaNeueDeskInterface-Bold
@@ -69,22 +69,22 @@
       Fira Sans is a trademark of The Mozilla Corporation.
     </namerecord>
     <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
-      Carrois Corporate GbR &amp; Edenspiekermann AG
+      Jens Kutilek
     </namerecord>
     <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
-      Carrois Corporate &amp; Edenspiekermann
+      Carrois Corporate &amp; Edenspiekermann AG
     </namerecord>
     <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
-      http://www.edenspiekermann.com
+      http://www.kutilek.de/
     </namerecord>
     <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
-      http://www.carrois.com
+      http://www.carrois.com/
     </namerecord>
     <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
-      Licensed under the Apache License, Version 2.0
+      Licensed under the Open Font License, version 1.1 or later
     </namerecord>
     <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
-      http://www.apache.org/licenses/LICENSE-2.0
+      http://scripts.sil.org/OFL
     </namerecord>
   </name>
 
