@@ -1387,6 +1387,7 @@
             <ClassDef glyph="Tcedilla" class="14"/>
             <ClassDef glyph="Theta" class="44"/>
             <ClassDef glyph="Thorn" class="15"/>
+            <ClassDef glyph="TseHelper-cy" class="0"/>
             <ClassDef glyph="U" class="47"/>
             <ClassDef glyph="Uacute" class="47"/>
             <ClassDef glyph="Ubreve" class="47"/>
@@ -1492,6 +1493,9 @@
             <ClassDef glyph="bracketright" class="0"/>
             <ClassDef glyph="bracketright.case" class="0"/>
             <ClassDef glyph="breve" class="0"/>
+            <ClassDef glyph="breve-cy" class="0"/>
+            <ClassDef glyph="breve-cy.case" class="0"/>
+            <ClassDef glyph="breve-cy.sc" class="0"/>
             <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.sc" class="0"/>
             <ClassDef glyph="brevecombcomb" class="0"/>
@@ -1561,6 +1565,9 @@
             <ClassDef glyph="deleterightKey" class="0"/>
             <ClassDef glyph="delta" class="80"/>
             <ClassDef glyph="delta.sc" class="49"/>
+            <ClassDef glyph="descRound-cy" class="0"/>
+            <ClassDef glyph="descStraight-cy" class="0"/>
+            <ClassDef glyph="descStraight-cy.case" class="0"/>
             <ClassDef glyph="dieresis" class="0"/>
             <ClassDef glyph="dieresis.case" class="0"/>
             <ClassDef glyph="dieresis.sc" class="0"/>
@@ -2069,6 +2076,8 @@
             <ClassDef glyph="tonos" class="0"/>
             <ClassDef glyph="tonos.case" class="0"/>
             <ClassDef glyph="trademark" class="0"/>
+            <ClassDef glyph="tsehelper-cy" class="0"/>
+            <ClassDef glyph="tsehelper-cy.sc" class="0"/>
             <ClassDef glyph="two" class="0"/>
             <ClassDef glyph="two.dnom" class="0"/>
             <ClassDef glyph="two.lf" class="103"/>
@@ -2716,6 +2725,7 @@
             <ClassDef glyph="Tcedilla" class="3"/>
             <ClassDef glyph="Theta" class="1"/>
             <ClassDef glyph="Thorn" class="0"/>
+            <ClassDef glyph="TseHelper-cy" class="0"/>
             <ClassDef glyph="U" class="32"/>
             <ClassDef glyph="Uacute" class="32"/>
             <ClassDef glyph="Ubreve" class="32"/>
@@ -2822,6 +2832,9 @@
             <ClassDef glyph="bracketright" class="72"/>
             <ClassDef glyph="bracketright.case" class="72"/>
             <ClassDef glyph="breve" class="0"/>
+            <ClassDef glyph="breve-cy" class="0"/>
+            <ClassDef glyph="breve-cy.case" class="0"/>
+            <ClassDef glyph="breve-cy.sc" class="0"/>
             <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.sc" class="0"/>
             <ClassDef glyph="brevecombcomb" class="0"/>
@@ -2891,6 +2904,9 @@
             <ClassDef glyph="deleterightKey" class="0"/>
             <ClassDef glyph="delta" class="37"/>
             <ClassDef glyph="delta.sc" class="61"/>
+            <ClassDef glyph="descRound-cy" class="0"/>
+            <ClassDef glyph="descStraight-cy" class="0"/>
+            <ClassDef glyph="descStraight-cy.case" class="0"/>
             <ClassDef glyph="dieresis" class="0"/>
             <ClassDef glyph="dieresis.case" class="0"/>
             <ClassDef glyph="dieresis.sc" class="0"/>
@@ -3400,6 +3416,8 @@
             <ClassDef glyph="tonos" class="0"/>
             <ClassDef glyph="tonos.case" class="0"/>
             <ClassDef glyph="trademark" class="0"/>
+            <ClassDef glyph="tsehelper-cy" class="0"/>
+            <ClassDef glyph="tsehelper-cy.sc" class="0"/>
             <ClassDef glyph="two" class="0"/>
             <ClassDef glyph="two.dnom" class="0"/>
             <ClassDef glyph="two.lf" class="92"/>
