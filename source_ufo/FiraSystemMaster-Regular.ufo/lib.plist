@@ -102,34 +102,34 @@
 				<string>space</string>
 				<string>exclam</string>
 				<string>quotedbl</string>
-				<string>numbersign</string>
-				<string>dollar</string>
-				<string>percent</string>
+				<string>numbersign.lf</string>
+				<string>dollar.lf</string>
+				<string>percent.lf</string>
 				<string>ampersand</string>
 				<string>quotesingle</string>
 				<string>parenleft</string>
 				<string>parenright</string>
 				<string>asterisk</string>
-				<string>plus</string>
+				<string>plus.lf</string>
 				<string>comma</string>
 				<string>hyphen</string>
 				<string>period</string>
 				<string>slash</string>
-				<string>zero</string>
-				<string>one</string>
-				<string>two</string>
-				<string>three</string>
-				<string>four</string>
-				<string>five</string>
-				<string>six</string>
-				<string>seven</string>
-				<string>eight</string>
-				<string>nine</string>
+				<string>zero.lf</string>
+				<string>one.lf</string>
+				<string>two.lf</string>
+				<string>three.lf</string>
+				<string>four.lf</string>
+				<string>five.lf</string>
+				<string>six.lf</string>
+				<string>seven.lf</string>
+				<string>eight.lf</string>
+				<string>nine.lf</string>
 				<string>colon</string>
 				<string>semicolon</string>
-				<string>less</string>
-				<string>equal</string>
-				<string>greater</string>
+				<string>less.lf</string>
+				<string>equal.lf</string>
+				<string>greater.lf</string>
 				<string>question</string>
 				<string>at</string>
 				<string>A</string>
@@ -193,25 +193,25 @@
 				<string>braceleft</string>
 				<string>bar</string>
 				<string>braceright</string>
-				<string>asciitilde</string>
+				<string>asciitilde.lf</string>
 				<string>uni00A0</string>
 				<string>exclamdown</string>
-				<string>cent</string>
-				<string>sterling</string>
-				<string>currency</string>
-				<string>yen</string>
+				<string>cent.lf</string>
+				<string>sterling.lf</string>
+				<string>currency.lf</string>
+				<string>yen.lf</string>
 				<string>brokenbar</string>
-				<string>section</string>
+				<string>section.lf</string>
 				<string>dieresis</string>
 				<string>copyright</string>
 				<string>ordfeminine</string>
 				<string>guillemotleft</string>
-				<string>logicalnot</string>
+				<string>logicalnot.lf</string>
 				<string>softhyphen</string>
 				<string>registered</string>
 				<string>macron</string>
-				<string>degree</string>
-				<string>plusminus</string>
+				<string>degree.lf</string>
+				<string>plusminus.lf</string>
 				<string>twosuperior</string>
 				<string>threesuperior</string>
 				<string>acute</string>
@@ -249,7 +249,7 @@
 				<string>Ocircumflex</string>
 				<string>Otilde</string>
 				<string>Odieresis</string>
-				<string>multiply</string>
+				<string>multiply.lf</string>
 				<string>Oslash</string>
 				<string>Ugrave</string>
 				<string>Uacute</string>
@@ -281,7 +281,7 @@
 				<string>ocircumflex</string>
 				<string>otilde</string>
 				<string>odieresis</string>
-				<string>divide</string>
+				<string>divide.lf</string>
 				<string>oslash</string>
 				<string>ugrave</string>
 				<string>uacute</string>
@@ -775,7 +775,7 @@
 				<string>uni200D</string>
 				<string>uni200E</string>
 				<string>uni200F</string>
-				<string>figuredash</string>
+				<string>figuredash.lf</string>
 				<string>endash</string>
 				<string>emdash</string>
 				<string>uni2015</string>
@@ -785,11 +785,11 @@
 				<string>quotedblleft</string>
 				<string>quotedblright</string>
 				<string>quotedblbase</string>
-				<string>dagger</string>
-				<string>daggerdbl</string>
+				<string>dagger.lf</string>
+				<string>daggerdbl.lf</string>
 				<string>bullet</string>
 				<string>ellipsis</string>
-				<string>perthousand</string>
+				<string>perthousand.lf</string>
 				<string>guilsinglleft</string>
 				<string>guilsinglright</string>
 				<string>fraction</string>
@@ -820,7 +820,7 @@
 				<string>uni208C</string>
 				<string>uni208D</string>
 				<string>uni208E</string>
-				<string>Euro</string>
+				<string>Euro.lf</string>
 				<string>uni2116</string>
 				<string>trademark</string>
 				<string>Ohm</string>
@@ -853,21 +853,21 @@
 				<string>arrowrightwhite</string>
 				<string>arrowdownwhite</string>
 				<string>capslock</string>
-				<string>partialdiff</string>
+				<string>partialdiff.lf</string>
 				<string>emptyset</string>
 				<string>increment</string>
-				<string>product</string>
-				<string>summation</string>
-				<string>minus</string>
+				<string>product.lf</string>
+				<string>summation.lf</string>
+				<string>minus.lf</string>
 				<string>divisionslash</string>
 				<string>bulletoperator</string>
-				<string>radical</string>
-				<string>infinity</string>
-				<string>integral</string>
-				<string>approxequal</string>
-				<string>notequal</string>
-				<string>lessequal</string>
-				<string>greaterequal</string>
+				<string>radical.lf</string>
+				<string>infinity.lf</string>
+				<string>integral.lf</string>
+				<string>approxequal.lf</string>
+				<string>notequal.lf</string>
+				<string>lessequal.lf</string>
+				<string>greaterequal.lf</string>
 				<string>dotmath</string>
 				<string>deleterightKey</string>
 				<string>clear</string>
@@ -875,7 +875,7 @@
 				<string>uni232B</string>
 				<string>uni23CE</string>
 				<string>uni25AF</string>
-				<string>lozenge</string>
+				<string>lozenge.lf</string>
 				<string>uni27A1</string>
 				<string>uni2B05</string>
 				<string>uni2B06</string>
@@ -964,51 +964,51 @@
 				<string>lessequal.osf</string>
 				<string>greaterequal.osf</string>
 				<string>lozenge.osf</string>
-				<string>numbersign.tf</string>
-				<string>dollar.tf</string>
-				<string>percent.tf</string>
-				<string>plus.tf</string>
-				<string>zero.tf</string>
-				<string>one.tf</string>
-				<string>two.tf</string>
-				<string>three.tf</string>
-				<string>four.tf</string>
-				<string>five.tf</string>
-				<string>six.tf</string>
-				<string>seven.tf</string>
-				<string>eight.tf</string>
-				<string>nine.tf</string>
-				<string>less.tf</string>
-				<string>equal.tf</string>
-				<string>greater.tf</string>
-				<string>asciitilde.tf</string>
-				<string>cent.tf</string>
-				<string>sterling.tf</string>
-				<string>currency.tf</string>
-				<string>yen.tf</string>
-				<string>section.tf</string>
-				<string>logicalnot.tf</string>
-				<string>degree.tf</string>
-				<string>plusminus.tf</string>
-				<string>multiply.tf</string>
-				<string>divide.tf</string>
-				<string>figuredash.tf</string>
-				<string>dagger.tf</string>
-				<string>daggerdbl.tf</string>
-				<string>perthousand.tf</string>
-				<string>Euro.tf</string>
-				<string>partialdiff.tf</string>
-				<string>product.tf</string>
-				<string>summation.tf</string>
-				<string>minus.tf</string>
-				<string>radical.tf</string>
-				<string>infinity.tf</string>
-				<string>integral.tf</string>
-				<string>approxequal.tf</string>
-				<string>notequal.tf</string>
-				<string>lessequal.tf</string>
-				<string>greaterequal.tf</string>
-				<string>lozenge.tf</string>
+				<string>numbersign</string>
+				<string>dollar</string>
+				<string>percent</string>
+				<string>plus</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
+				<string>less</string>
+				<string>equal</string>
+				<string>greater</string>
+				<string>asciitilde</string>
+				<string>cent</string>
+				<string>sterling</string>
+				<string>currency</string>
+				<string>yen</string>
+				<string>section</string>
+				<string>logicalnot</string>
+				<string>degree</string>
+				<string>plusminus</string>
+				<string>multiply</string>
+				<string>divide</string>
+				<string>figuredash</string>
+				<string>dagger</string>
+				<string>daggerdbl</string>
+				<string>perthousand</string>
+				<string>Euro</string>
+				<string>partialdiff</string>
+				<string>product</string>
+				<string>summation</string>
+				<string>minus</string>
+				<string>radical</string>
+				<string>infinity</string>
+				<string>integral</string>
+				<string>approxequal</string>
+				<string>notequal</string>
+				<string>lessequal</string>
+				<string>greaterequal</string>
+				<string>lozenge</string>
 				<string>numbersign.tosf</string>
 				<string>dollar.tosf</string>
 				<string>percent.tosf</string>
@@ -1090,10 +1090,10 @@
 				<string>beta.ss10</string>
 				<string>zeta.ss10</string>
 				<string>sigma.ss10</string>
-				<string>zero.zero</string>
+				<string>zero.lf.zero</string>
 				<string>zero.osf.zero</string>
 				<string>zero.tosf.zero</string>
-				<string>zero.tf.zero</string>
+				<string>zero.zero</string>
 				<string>f_i</string>
 				<string>f_l</string>
 				<string>null</string>
@@ -2238,10 +2238,6 @@
 		<string>uni2B05</string>
 		<string>uni2B06</string>
 		<string>uni2B07</string>
-		<string>uniE000</string>
-		<string>uniE001</string>
-		<string>uniE002</string>
-		<string>uniE003</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>uniFEFF</string>
