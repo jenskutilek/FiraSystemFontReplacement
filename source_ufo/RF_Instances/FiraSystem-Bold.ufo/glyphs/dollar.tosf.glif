@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.tosf" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="223" y="-3" type="line"/>
+      <point x="223" y="-160" type="line"/>
+      <point x="333" y="-160" type="line"/>
+      <point x="333" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="830" type="line"/>
+      <point x="223" y="668" type="line"/>
+      <point x="333" y="672" type="line"/>
+      <point x="333" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="686"/>
+      <point x="48" y="616"/>
+      <point x="48" y="496" type="curve" smooth="yes"/>
+      <point x="48" y="397"/>
+      <point x="102" y="341"/>
+      <point x="243" y="293" type="curve" smooth="yes"/>
+      <point x="335" y="262"/>
+      <point x="360" y="239"/>
+      <point x="360" y="188" type="curve" smooth="yes"/>
+      <point x="360" y="134"/>
+      <point x="317" y="102"/>
+      <point x="254" y="102" type="curve" smooth="yes"/>
+      <point x="195" y="102"/>
+      <point x="138" y="126"/>
+      <point x="91" y="169" type="curve"/>
+      <point x="14" y="85" type="line"/>
+      <point x="69" y="30"/>
+      <point x="154" y="-10"/>
+      <point x="259" y="-10" type="curve" smooth="yes"/>
+      <point x="415" y="-10"/>
+      <point x="511" y="76"/>
+      <point x="511" y="199" type="curve" smooth="yes"/>
+      <point x="511" y="321"/>
+      <point x="437" y="369"/>
+      <point x="322" y="409" type="curve" smooth="yes"/>
+      <point x="222" y="443"/>
+      <point x="198" y="463"/>
+      <point x="198" y="507" type="curve" smooth="yes"/>
+      <point x="198" y="552"/>
+      <point x="237" y="575"/>
+      <point x="291" y="575" type="curve" smooth="yes"/>
+      <point x="335" y="575"/>
+      <point x="383" y="558"/>
+      <point x="432" y="519" type="curve"/>
+      <point x="498" y="601" type="line"/>
+      <point x="441" y="656"/>
+      <point x="370" y="686"/>
+      <point x="280" y="686" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="285" y="670" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="279" y="6" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

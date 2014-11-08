@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="481"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="167" y="435" type="line"/>
+      <point x="167" y="155" type="line"/>
+      <point x="167" y="49"/>
+      <point x="217" y="1"/>
+      <point x="316" y="-16" type="curve"/>
+      <point x="362" y="94" type="line"/>
+      <point x="328" y="107"/>
+      <point x="317" y="126"/>
+      <point x="317" y="174" type="curve"/>
+      <point x="317" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="416"/>
+      <point x="65" y="418"/>
+      <point x="116" y="418" type="curve"/>
+      <point x="480" y="418" type="line"/>
+      <point x="480" y="531" type="line"/>
+      <point x="138" y="531" type="line"/>
+      <point x="64" y="531"/>
+      <point x="32" y="524"/>
+      <point x="-5" y="509" type="curve"/>
+      <point x="21" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

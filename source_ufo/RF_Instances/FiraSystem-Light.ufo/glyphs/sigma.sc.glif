@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma.sc" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="46" y="562" type="line"/>
+      <point x="46" y="521" type="line"/>
+      <point x="243" y="278" type="line"/>
+      <point x="46" y="40" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="397" y="48" type="line"/>
+      <point x="116" y="48" type="line"/>
+      <point x="297" y="264" type="line"/>
+      <point x="297" y="294" type="line"/>
+      <point x="116" y="514" type="line"/>
+      <point x="397" y="514" type="line"/>
+      <point x="397" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

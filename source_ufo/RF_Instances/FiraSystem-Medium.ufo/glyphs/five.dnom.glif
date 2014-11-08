@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="73" y="419" type="line"/>
+      <point x="73" y="195" type="line"/>
+      <point x="139" y="195" type="line"/>
+      <point x="158" y="204"/>
+      <point x="174" y="210"/>
+      <point x="193" y="210" type="curve" smooth="yes"/>
+      <point x="231" y="210"/>
+      <point x="258" y="191"/>
+      <point x="258" y="138" type="curve" smooth="yes"/>
+      <point x="258" y="88"/>
+      <point x="230" y="62"/>
+      <point x="184" y="62" type="curve" smooth="yes"/>
+      <point x="148" y="62"/>
+      <point x="121" y="77"/>
+      <point x="99" y="103" type="curve"/>
+      <point x="44" y="52" type="line"/>
+      <point x="78" y="16"/>
+      <point x="122" y="-10"/>
+      <point x="187" y="-10" type="curve" smooth="yes"/>
+      <point x="290" y="-10"/>
+      <point x="356" y="50"/>
+      <point x="356" y="138" type="curve" smooth="yes"/>
+      <point x="356" y="224"/>
+      <point x="302" y="274"/>
+      <point x="230" y="274" type="curve" smooth="yes"/>
+      <point x="207" y="274"/>
+      <point x="185" y="269"/>
+      <point x="162" y="259" type="curve"/>
+      <point x="162" y="351" type="line"/>
+      <point x="325" y="351" type="line"/>
+      <point x="337" y="419" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

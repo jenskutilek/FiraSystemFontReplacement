@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="556"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="66" y="252" type="line"/>
+      <point x="66" y="202" type="line"/>
+      <point x="490" y="202" type="line"/>
+      <point x="490" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="685" type="line"/>
+      <point x="250" y="531" type="line"/>
+      <point x="66" y="531" type="line"/>
+      <point x="66" y="482" type="line"/>
+      <point x="250" y="482" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="482" type="line"/>
+      <point x="490" y="482" type="line"/>
+      <point x="490" y="531" type="line"/>
+      <point x="306" y="531" type="line"/>
+      <point x="306" y="685" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

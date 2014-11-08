@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma.ss10" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="477" y="534"/>
+      <point x="393" y="530"/>
+      <point x="318" y="530" type="curve" smooth="yes"/>
+      <point x="143" y="530"/>
+      <point x="64" y="421"/>
+      <point x="64" y="261" type="curve"/>
+      <point x="64" y="93"/>
+      <point x="147" y="-11"/>
+      <point x="285" y="-11" type="curve" smooth="yes"/>
+      <point x="422" y="-11"/>
+      <point x="507" y="94"/>
+      <point x="507" y="263" type="curve"/>
+      <point x="507" y="383"/>
+      <point x="455" y="462"/>
+      <point x="389" y="492" type="curve"/>
+      <point x="335" y="492" type="line"/>
+      <point x="398" y="461"/>
+      <point x="446" y="389"/>
+      <point x="446" y="263" type="curve"/>
+      <point x="446" y="113"/>
+      <point x="386" y="37"/>
+      <point x="285" y="37" type="curve" smooth="yes"/>
+      <point x="184" y="37"/>
+      <point x="125" y="114"/>
+      <point x="125" y="261" type="curve"/>
+      <point x="125" y="411"/>
+      <point x="181" y="489"/>
+      <point x="344" y="488" type="curve"/>
+      <point x="388" y="486" type="line"/>
+      <point x="441" y="486"/>
+      <point x="496" y="491"/>
+      <point x="534" y="501" type="curve"/>
+      <point x="526" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

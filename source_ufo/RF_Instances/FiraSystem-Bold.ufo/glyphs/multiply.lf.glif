@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply.lf" format="1">
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="258" y="388" type="line"/>
+      <point x="141" y="507" type="line"/>
+      <point x="58" y="424" type="line"/>
+      <point x="176" y="306" type="line"/>
+      <point x="58" y="189" type="line"/>
+      <point x="141" y="106" type="line"/>
+      <point x="258" y="225" type="line"/>
+      <point x="375" y="106" type="line"/>
+      <point x="459" y="189" type="line"/>
+      <point x="340" y="306" type="line"/>
+      <point x="459" y="424" type="line"/>
+      <point x="375" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

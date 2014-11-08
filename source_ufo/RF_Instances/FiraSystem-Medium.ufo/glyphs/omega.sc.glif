@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omega.sc" format="1">
+  <advance width="618"/>
+  <outline>
+    <contour>
+      <point x="148" y="577"/>
+      <point x="46" y="463"/>
+      <point x="46" y="302" type="curve" smooth="yes"/>
+      <point x="46" y="198"/>
+      <point x="82" y="128"/>
+      <point x="156" y="91" type="curve"/>
+      <point x="156" y="89" type="line"/>
+      <point x="65" y="89" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="271" y="85" type="line"/>
+      <point x="197" y="115"/>
+      <point x="171" y="173"/>
+      <point x="171" y="302" type="curve" smooth="yes"/>
+      <point x="171" y="427"/>
+      <point x="222" y="488"/>
+      <point x="309" y="488" type="curve" smooth="yes"/>
+      <point x="397" y="488"/>
+      <point x="447" y="427"/>
+      <point x="447" y="303" type="curve" smooth="yes"/>
+      <point x="447" y="179"/>
+      <point x="423" y="115"/>
+      <point x="348" y="85" type="curve"/>
+      <point x="348" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="89" type="line"/>
+      <point x="458" y="89" type="line"/>
+      <point x="458" y="91" type="line"/>
+      <point x="539" y="132"/>
+      <point x="572" y="201"/>
+      <point x="572" y="305" type="curve" smooth="yes"/>
+      <point x="572" y="465"/>
+      <point x="472" y="577"/>
+      <point x="309" y="577" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="309" y="566" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

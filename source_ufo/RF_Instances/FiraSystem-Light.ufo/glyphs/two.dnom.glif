@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="143" y="419"/>
+      <point x="102" y="400"/>
+      <point x="66" y="358" type="curve"/>
+      <point x="101" y="332" type="line"/>
+      <point x="125" y="361"/>
+      <point x="153" y="377"/>
+      <point x="194" y="377" type="curve" smooth="yes"/>
+      <point x="239" y="377"/>
+      <point x="269" y="351"/>
+      <point x="269" y="304" type="curve" smooth="yes"/>
+      <point x="269" y="239"/>
+      <point x="233" y="197"/>
+      <point x="75" y="41" type="curve"/>
+      <point x="75" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="333" y="43" type="line"/>
+      <point x="135" y="43" type="line"/>
+      <point x="277" y="180"/>
+      <point x="322" y="230"/>
+      <point x="322" y="307" type="curve" smooth="yes"/>
+      <point x="322" y="371"/>
+      <point x="275" y="419"/>
+      <point x="197" y="419" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

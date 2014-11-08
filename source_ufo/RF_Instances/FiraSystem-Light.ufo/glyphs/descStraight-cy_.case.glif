@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descStraight-cy.case" format="1">
+  <advance width="186"/>
+  <outline>
+    <contour>
+      <point x="22" y="50" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="77" y="-145" type="line"/>
+      <point x="122" y="-145" type="line"/>
+      <point x="122" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="move" name="_bottomright"/>
+    </contour>
+    <contour>
+      <point x="72" y="0" type="move" name="_bottomleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

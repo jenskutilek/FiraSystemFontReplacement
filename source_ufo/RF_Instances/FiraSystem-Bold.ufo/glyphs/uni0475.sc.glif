@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0475.sc" format="1">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="361" y="548"/>
+      <point x="348" y="523"/>
+      <point x="336" y="464" type="curve"/>
+      <point x="255" y="106" type="line"/>
+      <point x="146" y="568" type="line"/>
+      <point x="-11" y="568" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="473" y="433" type="line" smooth="yes"/>
+      <point x="490" y="495"/>
+      <point x="504" y="522"/>
+      <point x="522" y="549" type="curve"/>
+      <point x="376" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

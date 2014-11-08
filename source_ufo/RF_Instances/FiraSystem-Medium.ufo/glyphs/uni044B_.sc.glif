@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044B.sc" format="1">
+  <advance width="761"/>
+  <outline>
+    <contour>
+      <point x="556" y="566" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="676" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="266" y="0" type="line" smooth="yes"/>
+      <point x="402" y="0"/>
+      <point x="500" y="57"/>
+      <point x="500" y="190" type="curve" smooth="yes"/>
+      <point x="500" y="312"/>
+      <point x="411" y="370"/>
+      <point x="265" y="370" type="curve" smooth="yes"/>
+      <point x="191" y="370" type="line"/>
+      <point x="191" y="285" type="line"/>
+      <point x="257" y="285" type="line" smooth="yes"/>
+      <point x="335" y="285"/>
+      <point x="375" y="255"/>
+      <point x="375" y="189" type="curve" smooth="yes"/>
+      <point x="375" y="114"/>
+      <point x="330" y="88"/>
+      <point x="261" y="88" type="curve" smooth="yes"/>
+      <point x="205" y="88" type="line"/>
+      <point x="205" y="566" type="line"/>
+      <point x="85" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

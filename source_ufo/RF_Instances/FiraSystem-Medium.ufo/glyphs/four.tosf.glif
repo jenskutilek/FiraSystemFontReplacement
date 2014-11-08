@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tosf" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="38" y="116" type="line"/>
+      <point x="38" y="35" type="line"/>
+      <point x="539" y="35" type="line"/>
+      <point x="539" y="125" type="line"/>
+      <point x="163" y="125" type="line"/>
+      <point x="337" y="538" type="line"/>
+      <point x="235" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="299" type="line"/>
+      <point x="338" y="109" type="line"/>
+      <point x="338" y="-108" type="line"/>
+      <point x="452" y="-108" type="line"/>
+      <point x="452" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

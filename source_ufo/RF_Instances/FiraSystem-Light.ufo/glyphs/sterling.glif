@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="556"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="210" y="696"/>
+      <point x="151" y="619"/>
+      <point x="151" y="520" type="curve"/>
+      <point x="151" y="169" type="line"/>
+      <point x="151" y="99"/>
+      <point x="131" y="75"/>
+      <point x="68" y="48" type="curve"/>
+      <point x="68" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="482" y="50" type="line"/>
+      <point x="141" y="50" type="line"/>
+      <point x="190" y="75"/>
+      <point x="208" y="104"/>
+      <point x="208" y="170" type="curve"/>
+      <point x="208" y="519" type="line"/>
+      <point x="208" y="596"/>
+      <point x="248" y="647"/>
+      <point x="331" y="647" type="curve" smooth="yes"/>
+      <point x="391" y="647"/>
+      <point x="425" y="628"/>
+      <point x="458" y="590" type="curve"/>
+      <point x="497" y="621" type="line"/>
+      <point x="453" y="672"/>
+      <point x="403" y="696"/>
+      <point x="329" y="696" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="86" y="384" type="line"/>
+      <point x="86" y="342" type="line"/>
+      <point x="434" y="342" type="line"/>
+      <point x="434" y="384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

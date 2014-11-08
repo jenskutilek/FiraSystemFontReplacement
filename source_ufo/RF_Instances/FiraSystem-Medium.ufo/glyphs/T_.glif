@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="527"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="12" y="691" type="line"/>
+      <point x="12" y="591" type="line"/>
+      <point x="201" y="591" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="591" type="line"/>
+      <point x="508" y="591" type="line"/>
+      <point x="521" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="691" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="264" y="346" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="336" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="264" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

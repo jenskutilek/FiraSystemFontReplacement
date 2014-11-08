@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="1">
+  <advance width="500"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="95" y="384" type="line"/>
+      <point x="95" y="338" type="line"/>
+      <point x="219" y="338" type="line"/>
+      <point x="402" y="338" type="line"/>
+      <point x="402" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="684" type="line"/>
+      <point x="15" y="632" type="line"/>
+      <point x="218" y="632" type="line"/>
+      <point x="218" y="-1" type="line"/>
+      <point x="277" y="-1" type="line"/>
+      <point x="277" y="632" type="line"/>
+      <point x="477" y="632" type="line"/>
+      <point x="484" y="684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

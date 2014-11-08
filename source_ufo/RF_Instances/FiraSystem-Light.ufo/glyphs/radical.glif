@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="556"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="481" y="834" type="line"/>
+      <point x="264" y="60" type="line"/>
+      <point x="111" y="472" type="line"/>
+      <point x="60" y="455" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="521" y="785" type="line"/>
+      <point x="683" y="785" type="line"/>
+      <point x="683" y="834" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

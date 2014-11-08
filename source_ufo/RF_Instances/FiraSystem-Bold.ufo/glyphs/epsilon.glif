@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilon" format="1">
+  <advance width="479"/>
+  <unicode hex="03B5"/>
+  <outline>
+    <contour>
+      <point x="140" y="547"/>
+      <point x="56" y="494"/>
+      <point x="56" y="404" type="curve" smooth="yes"/>
+      <point x="56" y="345"/>
+      <point x="95" y="298"/>
+      <point x="176" y="283" type="curve"/>
+      <point x="85" y="272"/>
+      <point x="35" y="229"/>
+      <point x="35" y="146" type="curve" smooth="yes"/>
+      <point x="35" y="40"/>
+      <point x="131" y="-16"/>
+      <point x="264" y="-16" type="curve" smooth="yes"/>
+      <point x="350" y="-16"/>
+      <point x="423" y="7"/>
+      <point x="475" y="47" type="curve"/>
+      <point x="411" y="133" type="line"/>
+      <point x="363" y="105"/>
+      <point x="327" y="92"/>
+      <point x="282" y="92" type="curve" smooth="yes"/>
+      <point x="222" y="92"/>
+      <point x="192" y="118"/>
+      <point x="192" y="159" type="curve" smooth="yes"/>
+      <point x="192" y="202"/>
+      <point x="216" y="224"/>
+      <point x="279" y="224" type="curve" smooth="yes"/>
+      <point x="337" y="224" type="line"/>
+      <point x="352" y="322" type="line"/>
+      <point x="286" y="322" type="line" smooth="yes"/>
+      <point x="235" y="322"/>
+      <point x="207" y="347"/>
+      <point x="207" y="384" type="curve" smooth="yes"/>
+      <point x="207" y="421"/>
+      <point x="236" y="442"/>
+      <point x="283" y="442" type="curve" smooth="yes"/>
+      <point x="327" y="442"/>
+      <point x="359" y="431"/>
+      <point x="396" y="409" type="curve"/>
+      <point x="459" y="488" type="line"/>
+      <point x="405" y="530"/>
+      <point x="344" y="547"/>
+      <point x="266" y="547" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="261" y="531" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

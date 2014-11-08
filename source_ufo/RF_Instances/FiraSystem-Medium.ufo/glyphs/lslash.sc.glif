@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="1">
+  <advance width="477"/>
+  <outline>
+    <contour>
+      <point x="102" y="278" type="line"/>
+      <point x="16" y="225" type="line"/>
+      <point x="57" y="159" type="line"/>
+      <point x="389" y="364" type="line"/>
+      <point x="348" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="566" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="459" y="96" type="line"/>
+      <point x="220" y="96" type="line"/>
+      <point x="220" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

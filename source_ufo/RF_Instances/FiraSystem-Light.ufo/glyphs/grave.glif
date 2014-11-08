@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="273"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="30" y="730" type="line"/>
+      <point x="225" y="645" type="line"/>
+      <point x="243" y="679" type="line"/>
+      <point x="56" y="782" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="523" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,2 @@
+include(../features_upright.fea);
+include(../features_kern_upright.fea);

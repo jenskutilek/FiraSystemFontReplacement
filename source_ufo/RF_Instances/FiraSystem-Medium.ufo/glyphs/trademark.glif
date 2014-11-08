@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="892"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="687" y="691" type="line"/>
+      <point x="615" y="427" type="line"/>
+      <point x="535" y="691" type="line"/>
+      <point x="411" y="691" type="line"/>
+      <point x="396" y="297" type="line"/>
+      <point x="482" y="297" type="line"/>
+      <point x="489" y="487" type="line" smooth="yes"/>
+      <point x="490" y="531"/>
+      <point x="489" y="572"/>
+      <point x="485" y="613" type="curve"/>
+      <point x="486" y="613" type="line"/>
+      <point x="576" y="338" type="line"/>
+      <point x="654" y="338" type="line"/>
+      <point x="735" y="615" type="line"/>
+      <point x="737" y="615" type="line"/>
+      <point x="732" y="571"/>
+      <point x="731" y="544"/>
+      <point x="732" y="487" type="curve" smooth="yes"/>
+      <point x="740" y="297" type="line"/>
+      <point x="830" y="297" type="line"/>
+      <point x="815" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="691" type="line"/>
+      <point x="32" y="615" type="line"/>
+      <point x="154" y="615" type="line"/>
+      <point x="154" y="297" type="line"/>
+      <point x="247" y="297" type="line"/>
+      <point x="247" y="615" type="line"/>
+      <point x="364" y="615" type="line"/>
+      <point x="377" y="691" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

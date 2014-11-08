@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0411" format="1">
+  <advance width="569"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="111" y="685" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="279" y="0" type="line" smooth="yes"/>
+      <point x="423" y="0"/>
+      <point x="525" y="63"/>
+      <point x="525" y="215" type="curve" smooth="yes"/>
+      <point x="525" y="351"/>
+      <point x="432" y="418"/>
+      <point x="280" y="418" type="curve" smooth="yes"/>
+      <point x="159" y="418" type="line"/>
+      <point x="159" y="369" type="line"/>
+      <point x="282" y="369" type="line" smooth="yes"/>
+      <point x="395" y="369"/>
+      <point x="463" y="324"/>
+      <point x="463" y="215" type="curve" smooth="yes"/>
+      <point x="463" y="92"/>
+      <point x="391" y="49"/>
+      <point x="287" y="49" type="curve" smooth="yes"/>
+      <point x="170" y="49" type="line"/>
+      <point x="170" y="675" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="685" type="line"/>
+      <point x="157" y="635" type="line"/>
+      <point x="448" y="635" type="line"/>
+      <point x="457" y="685" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

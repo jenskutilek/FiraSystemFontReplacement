@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="547"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="387" y="531" type="line"/>
+      <point x="221" y="290" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="376" y="297" type="line"/>
+      <point x="541" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="742" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

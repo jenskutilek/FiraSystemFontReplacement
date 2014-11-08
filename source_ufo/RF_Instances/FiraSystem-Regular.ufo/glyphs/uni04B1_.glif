@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B1" format="1">
+  <advance width="492.0"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="291" y="2" type="line"/>
+      <point x="395" y="2" type="line"/>
+      <point x="395" y="72" type="line"/>
+      <point x="97" y="72" type="line"/>
+      <point x="97" y="2" type="line"/>
+      <point x="201" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="527" type="line"/>
+      <point x="248" y="101" type="line"/>
+      <point x="108" y="527" type="line"/>
+      <point x="10" y="527" type="line"/>
+      <point x="201" y="15" type="line"/>
+      <point x="201" y="-213" type="line"/>
+      <point x="291" y="-202" type="line"/>
+      <point x="291" y="15" type="line"/>
+      <point x="482" y="527" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

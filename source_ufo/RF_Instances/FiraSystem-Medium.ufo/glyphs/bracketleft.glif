@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="323"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="52" y="819" type="line"/>
+      <point x="52" y="-119" type="line"/>
+      <point x="283" y="-119" type="line"/>
+      <point x="283" y="-25" type="line"/>
+      <point x="165" y="-25" type="line"/>
+      <point x="165" y="724" type="line"/>
+      <point x="283" y="724" type="line"/>
+      <point x="283" y="819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

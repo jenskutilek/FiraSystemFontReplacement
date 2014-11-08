@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="1">
+  <advance width="689"/>
+  <outline>
+    <contour>
+      <point x="232" y="562" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="265" y="516" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="643" y="47" type="line"/>
+      <point x="443" y="47" type="line"/>
+      <point x="320" y="515" type="line"/>
+      <point x="595" y="515" type="line"/>
+      <point x="602" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="195" type="line"/>
+      <point x="107" y="148" type="line"/>
+      <point x="370" y="148" type="line"/>
+      <point x="360" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="314" type="line"/>
+      <point x="374" y="268" type="line"/>
+      <point x="595" y="268" type="line"/>
+      <point x="595" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="562" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

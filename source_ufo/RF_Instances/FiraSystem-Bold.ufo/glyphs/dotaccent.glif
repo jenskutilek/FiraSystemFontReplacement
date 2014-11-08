@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="240"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="67" y="807"/>
+      <point x="30" y="769"/>
+      <point x="30" y="720" type="curve" smooth="yes"/>
+      <point x="30" y="672"/>
+      <point x="67" y="634"/>
+      <point x="120" y="634" type="curve" smooth="yes"/>
+      <point x="173" y="634"/>
+      <point x="210" y="672"/>
+      <point x="210" y="720" type="curve" smooth="yes"/>
+      <point x="210" y="769"/>
+      <point x="173" y="807"/>
+      <point x="120" y="807" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="120" y="531" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="120" y="722" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

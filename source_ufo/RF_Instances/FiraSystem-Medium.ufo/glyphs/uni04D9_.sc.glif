@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D9.sc" format="1">
+  <advance width="575"/>
+  <outline>
+    <contour>
+      <point x="408" y="265" type="line"/>
+      <point x="406" y="127"/>
+      <point x="359" y="76"/>
+      <point x="278" y="76" type="curve" smooth="yes"/>
+      <point x="204" y="76"/>
+      <point x="154" y="122"/>
+      <point x="152" y="243" type="curve"/>
+      <point x="422" y="243" type="line"/>
+      <point x="422" y="328" type="line"/>
+      <point x="40" y="328" type="line"/>
+      <point x="37" y="312"/>
+      <point x="36" y="293"/>
+      <point x="36" y="276" type="curve" smooth="yes"/>
+      <point x="36" y="97"/>
+      <point x="116" y="-13"/>
+      <point x="280" y="-13" type="curve" smooth="yes"/>
+      <point x="429" y="-13"/>
+      <point x="529" y="87"/>
+      <point x="529" y="289" type="curve" smooth="yes"/>
+      <point x="529" y="481"/>
+      <point x="434" y="577"/>
+      <point x="278" y="577" type="curve" smooth="yes"/>
+      <point x="192" y="577"/>
+      <point x="126" y="553"/>
+      <point x="69" y="505" type="curve"/>
+      <point x="126" y="438" type="line"/>
+      <point x="163" y="465"/>
+      <point x="208" y="488"/>
+      <point x="269" y="488" type="curve" smooth="yes"/>
+      <point x="357" y="488"/>
+      <point x="407" y="434"/>
+      <point x="407" y="308" type="curve"/>
+    </contour>
+    <contour>
+      <point x="278" y="566" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

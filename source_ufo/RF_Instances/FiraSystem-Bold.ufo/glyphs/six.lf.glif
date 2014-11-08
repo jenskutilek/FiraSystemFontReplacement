@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.lf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="149" y="688"/>
+      <point x="40" y="537"/>
+      <point x="40" y="310" type="curve" smooth="yes"/>
+      <point x="40" y="115"/>
+      <point x="115" y="-16"/>
+      <point x="293" y="-16" type="curve" smooth="yes"/>
+      <point x="440" y="-16"/>
+      <point x="533" y="92"/>
+      <point x="533" y="230" type="curve" smooth="yes"/>
+      <point x="533" y="374"/>
+      <point x="450" y="453"/>
+      <point x="341" y="453" type="curve" smooth="yes"/>
+      <point x="283" y="453"/>
+      <point x="228" y="429"/>
+      <point x="183" y="373" type="curve"/>
+      <point x="184" y="276" type="line"/>
+      <point x="215" y="321"/>
+      <point x="256" y="348"/>
+      <point x="300" y="348" type="curve" smooth="yes"/>
+      <point x="353" y="348"/>
+      <point x="383" y="318"/>
+      <point x="383" y="228" type="curve" smooth="yes"/>
+      <point x="383" y="146"/>
+      <point x="354" y="92"/>
+      <point x="294" y="92" type="curve" smooth="yes"/>
+      <point x="219" y="92"/>
+      <point x="195" y="156"/>
+      <point x="196" y="319" type="curve"/>
+      <point x="194" y="363" type="line"/>
+      <point x="197" y="502"/>
+      <point x="249" y="581"/>
+      <point x="332" y="581" type="curve" smooth="yes"/>
+      <point x="368" y="581"/>
+      <point x="398" y="571"/>
+      <point x="426" y="554" type="curve"/>
+      <point x="481" y="645" type="line"/>
+      <point x="443" y="671"/>
+      <point x="392" y="688"/>
+      <point x="329" y="688" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

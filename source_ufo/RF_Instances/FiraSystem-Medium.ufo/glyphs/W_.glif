@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="835"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="700" y="691" type="line"/>
+      <point x="600" y="100" type="line"/>
+      <point x="483" y="691" type="line"/>
+      <point x="352" y="691" type="line"/>
+      <point x="235" y="100" type="line"/>
+      <point x="141" y="691" type="line"/>
+      <point x="18" y="691" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="416" y="557" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="816" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="691" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

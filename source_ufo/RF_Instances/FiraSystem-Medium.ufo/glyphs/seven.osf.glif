@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.osf" format="1">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="12" y="566" type="line"/>
+      <point x="12" y="472" type="line"/>
+      <point x="306" y="472" type="line"/>
+      <point x="75" y="-85" type="line"/>
+      <point x="184" y="-122" type="line"/>
+      <point x="429" y="481" type="line"/>
+      <point x="429" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

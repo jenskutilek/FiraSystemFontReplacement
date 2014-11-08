@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge.lf" format="1">
+  <advance width="571"/>
+  <outline>
+    <contour>
+      <point x="203" y="675" type="line"/>
+      <point x="27" y="338" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="544" y="338" type="line"/>
+      <point x="368" y="675" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="338" type="line"/>
+      <point x="285" y="105" type="line"/>
+      <point x="177" y="339" type="line"/>
+      <point x="285" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

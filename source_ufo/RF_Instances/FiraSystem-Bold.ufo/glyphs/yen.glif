@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="556"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="421" y="693" type="line"/>
+      <point x="282" y="392" type="line"/>
+      <point x="140" y="693" type="line"/>
+      <point x="-20" y="693" type="line"/>
+      <point x="204" y="289" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="289" type="line"/>
+      <point x="576" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="198" type="line"/>
+      <point x="71" y="118" type="line"/>
+      <point x="487" y="118" type="line"/>
+      <point x="487" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="351" type="line"/>
+      <point x="71" y="271" type="line"/>
+      <point x="487" y="271" type="line"/>
+      <point x="487" y="351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

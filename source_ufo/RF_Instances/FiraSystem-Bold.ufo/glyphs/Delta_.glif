@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="597"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="416" y="115" type="line"/>
+      <point x="177" y="115" type="line"/>
+      <point x="297" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="693" type="line"/>
+      <point x="-11" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="394" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

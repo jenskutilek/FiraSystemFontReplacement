@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash.lf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="539" y="284" type="line"/>
+      <point x="539" y="382" type="line"/>
+      <point x="21" y="382" type="line"/>
+      <point x="21" y="284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

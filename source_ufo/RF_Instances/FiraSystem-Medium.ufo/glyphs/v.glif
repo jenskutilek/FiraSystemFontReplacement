@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="501"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="373" y="529" type="line"/>
+      <point x="253" y="98" type="line"/>
+      <point x="134" y="529" type="line"/>
+      <point x="3" y="529" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="498" y="529" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

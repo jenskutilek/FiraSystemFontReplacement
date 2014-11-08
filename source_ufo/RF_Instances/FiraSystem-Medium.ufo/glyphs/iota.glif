@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="276"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="76" y="529" type="line"/>
+      <point x="76" y="142" type="line" smooth="yes"/>
+      <point x="76" y="48"/>
+      <point x="114" y="3"/>
+      <point x="205" y="-14" type="curve"/>
+      <point x="241" y="74" type="line"/>
+      <point x="208" y="89"/>
+      <point x="196" y="107"/>
+      <point x="196" y="157" type="curve" smooth="yes"/>
+      <point x="196" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="529" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

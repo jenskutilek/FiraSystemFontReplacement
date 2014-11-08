@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.lf" format="1">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="228" y="-5" type="line"/>
+      <point x="228" y="-158" type="line"/>
+      <point x="323" y="-158" type="line"/>
+      <point x="323" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="827" type="line"/>
+      <point x="228" y="665" type="line"/>
+      <point x="323" y="668" type="line"/>
+      <point x="323" y="827" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="683"/>
+      <point x="46" y="609"/>
+      <point x="46" y="501" type="curve" smooth="yes"/>
+      <point x="46" y="399"/>
+      <point x="108" y="345"/>
+      <point x="246" y="302" type="curve" smooth="yes"/>
+      <point x="352" y="269"/>
+      <point x="381" y="243"/>
+      <point x="381" y="185" type="curve" smooth="yes"/>
+      <point x="381" y="117"/>
+      <point x="326" y="82"/>
+      <point x="253" y="82" type="curve" smooth="yes"/>
+      <point x="184" y="82"/>
+      <point x="129" y="107"/>
+      <point x="83" y="150" type="curve"/>
+      <point x="18" y="79" type="line"/>
+      <point x="74" y="25"/>
+      <point x="152" y="-11"/>
+      <point x="256" y="-11" type="curve" smooth="yes"/>
+      <point x="413" y="-11"/>
+      <point x="505" y="73"/>
+      <point x="505" y="192" type="curve" smooth="yes"/>
+      <point x="505" y="317"/>
+      <point x="422" y="364"/>
+      <point x="308" y="400" type="curve" smooth="yes"/>
+      <point x="194" y="435"/>
+      <point x="169" y="457"/>
+      <point x="169" y="508" type="curve" smooth="yes"/>
+      <point x="169" y="562"/>
+      <point x="214" y="590"/>
+      <point x="276" y="590" type="curve" smooth="yes"/>
+      <point x="331" y="590"/>
+      <point x="378" y="573"/>
+      <point x="424" y="532" type="curve"/>
+      <point x="485" y="601" type="line"/>
+      <point x="429" y="654"/>
+      <point x="365" y="683"/>
+      <point x="269" y="683" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

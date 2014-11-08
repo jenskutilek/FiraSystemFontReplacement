@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <advance width="157"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="30" y="607" type="line"/>
+      <point x="72" y="600" type="line"/>
+      <point x="127" y="761" type="line"/>
+      <point x="64" y="773" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="523" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

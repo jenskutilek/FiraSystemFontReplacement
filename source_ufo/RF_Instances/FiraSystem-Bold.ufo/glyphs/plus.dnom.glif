@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="151" y="334" type="line"/>
+      <point x="151" y="246" type="line"/>
+      <point x="60" y="246" type="line"/>
+      <point x="60" y="162" type="line"/>
+      <point x="151" y="162" type="line"/>
+      <point x="151" y="75" type="line"/>
+      <point x="249" y="75" type="line"/>
+      <point x="249" y="162" type="line"/>
+      <point x="341" y="162" type="line"/>
+      <point x="341" y="246" type="line"/>
+      <point x="249" y="246" type="line"/>
+      <point x="249" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

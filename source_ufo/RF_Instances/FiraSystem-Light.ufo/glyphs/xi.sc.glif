@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xi.sc" format="1">
+  <advance width="448"/>
+  <outline>
+    <contour>
+      <point x="51" y="53" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="397" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="316" type="line"/>
+      <point x="101" y="266" type="line"/>
+      <point x="344" y="266" type="line"/>
+      <point x="344" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="562" type="line"/>
+      <point x="51" y="511" type="line"/>
+      <point x="382" y="511" type="line"/>
+      <point x="389" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

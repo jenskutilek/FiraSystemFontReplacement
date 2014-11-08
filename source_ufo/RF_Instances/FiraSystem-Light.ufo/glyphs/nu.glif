@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="1">
+  <advance width="461"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="6" y="511" type="line"/>
+      <point x="70" y="433"/>
+      <point x="123" y="283"/>
+      <point x="191" y="0" type="curve"/>
+      <point x="261" y="0" type="line"/>
+      <point x="445" y="518" type="line"/>
+      <point x="389" y="531" type="line"/>
+      <point x="227" y="49" type="line"/>
+      <point x="169" y="321"/>
+      <point x="112" y="464"/>
+      <point x="61" y="531" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

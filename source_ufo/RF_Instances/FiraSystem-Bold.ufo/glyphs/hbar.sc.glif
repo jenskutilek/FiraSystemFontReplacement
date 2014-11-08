@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="1">
+  <advance width="589"/>
+  <outline>
+    <contour>
+      <point x="525" y="495" type="line"/>
+      <point x="16" y="495" type="line"/>
+      <point x="16" y="418" type="line"/>
+      <point x="64" y="418" type="line"/>
+      <point x="573" y="418" type="line"/>
+      <point x="573" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="568" type="line"/>
+      <point x="385" y="354" type="line"/>
+      <point x="214" y="354" type="line"/>
+      <point x="214" y="568" type="line"/>
+      <point x="64" y="568" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="238" type="line"/>
+      <point x="385" y="238" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

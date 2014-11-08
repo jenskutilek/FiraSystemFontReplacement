@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="433"/>
+  <outline>
+    <contour>
+      <point x="111" y="562" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="416" y="50" type="line"/>
+      <point x="168" y="50" type="line"/>
+      <point x="168" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="562" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="196" y="562" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
