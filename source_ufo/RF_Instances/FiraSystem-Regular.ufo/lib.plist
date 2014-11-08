@@ -67,14 +67,18 @@
 	<string>SemiLight</string>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>30.0</real>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/kuti/Quellen/FiraSystemFontReplacement/source_ufo/RF_Instances/FiraSystem-Regular.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
