@@ -1056,9 +1056,7 @@
 				<string>lessequal.tosf</string>
 				<string>greaterequal.tosf</string>
 				<string>lozenge.tosf</string>
-				<string>breve-cy.case</string>
 				<string>softhyphen.case</string>
-				<string>descStraight-cy.case</string>
 				<string>parenleft.case</string>
 				<string>parenright.case</string>
 				<string>hyphen.case</string>
@@ -1099,11 +1097,7 @@
 				<string>f_i</string>
 				<string>f_l</string>
 				<string>null</string>
-				<string>breve-cy</string>
-				<string>TseHelper-cy</string>
-				<string>descRound-cy</string>
 				<string>ringcombcomb</string>
-				<string>tsehelper-cy</string>
 				<string>acutecombcomb</string>
 				<string>brevecombcomb</string>
 				<string>caroncombcomb</string>
@@ -1111,20 +1105,22 @@
 				<string>tildecombcomb</string>
 				<string>macroncombcomb</string>
 				<string>cedillaTcedilla</string>
-				<string>descStraight-cy</string>
 				<string>dieresiscombcomb</string>
 				<string>dieresisacutecomb</string>
 				<string>dieresisgravecomb</string>
 				<string>dotaccentcombcomb</string>
 				<string>circumflexcombcomb</string>
 				<string>hungarumlautcombcomb</string>
+				<string>TseHelper.cy</string>
+				<string>descRound.cy</string>
+				<string>tsehelper.cy</string>
+				<string>descStraight.cy</string>
+				<string>breve.cy</string>
 				<string>f_i.sc</string>
 				<string>f_l.sc</string>
-				<string>breve-cy.sc</string>
 				<string>dotlessj.sc</string>
 				<string>tcedilla.sc</string>
 				<string>sigmafinal.sc</string>
-				<string>tsehelper-cy.sc</string>
 				<string>grave.sc</string>
 				<string>a.sc</string>
 				<string>b.sc</string>
@@ -1425,6 +1421,10 @@
 				<string>fl.sc</string>
 				<string>caron.alt</string>
 				<string>ogonek.thin</string>
+				<string>tsehelper.cy.sc</string>
+				<string>breve.cy.sc</string>
+				<string>descStraight.cy.case</string>
+				<string>breve.cy.case</string>
 				<string>acute.loclPLK</string>
 				<string>Oacute.loclPLK</string>
 				<string>oacute.loclPLK</string>
@@ -2410,9 +2410,7 @@
 		<string>lessequal.tosf</string>
 		<string>greaterequal.tosf</string>
 		<string>lozenge.tosf</string>
-		<string>breve-cy.case</string>
 		<string>softhyphen.case</string>
-		<string>descStraight-cy.case</string>
 		<string>parenleft.case</string>
 		<string>parenright.case</string>
 		<string>hyphen.case</string>
@@ -2453,11 +2451,7 @@
 		<string>f_i</string>
 		<string>f_l</string>
 		<string>null</string>
-		<string>breve-cy</string>
-		<string>TseHelper-cy</string>
-		<string>descRound-cy</string>
 		<string>ringcombcomb</string>
-		<string>tsehelper-cy</string>
 		<string>acutecombcomb</string>
 		<string>brevecombcomb</string>
 		<string>caroncombcomb</string>
@@ -2465,20 +2459,22 @@
 		<string>tildecombcomb</string>
 		<string>macroncombcomb</string>
 		<string>cedillaTcedilla</string>
-		<string>descStraight-cy</string>
 		<string>dieresiscombcomb</string>
 		<string>dieresisacutecomb</string>
 		<string>dieresisgravecomb</string>
 		<string>dotaccentcombcomb</string>
 		<string>circumflexcombcomb</string>
 		<string>hungarumlautcombcomb</string>
+		<string>TseHelper.cy</string>
+		<string>descRound.cy</string>
+		<string>tsehelper.cy</string>
+		<string>descStraight.cy</string>
+		<string>breve.cy</string>
 		<string>f_i.sc</string>
 		<string>f_l.sc</string>
-		<string>breve-cy.sc</string>
 		<string>dotlessj.sc</string>
 		<string>tcedilla.sc</string>
 		<string>sigmafinal.sc</string>
-		<string>tsehelper-cy.sc</string>
 		<string>grave.sc</string>
 		<string>a.sc</string>
 		<string>b.sc</string>
@@ -2779,6 +2775,10 @@
 		<string>fl.sc</string>
 		<string>caron.alt</string>
 		<string>ogonek.thin</string>
+		<string>tsehelper.cy.sc</string>
+		<string>breve.cy.sc</string>
+		<string>descStraight.cy.case</string>
+		<string>breve.cy.case</string>
 		<string>acute.loclPLK</string>
 		<string>Oacute.loclPLK</string>
 		<string>oacute.loclPLK</string>

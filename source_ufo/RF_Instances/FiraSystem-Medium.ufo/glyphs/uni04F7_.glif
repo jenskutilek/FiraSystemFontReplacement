@@ -3,7 +3,7 @@
   <advance width="431"/>
   <unicode hex="04F7"/>
   <outline>
-    <component base="descStraight-cy" xOffset="100"/>
+    <component base="descStraight.cy" xOffset="100"/>
     <component base="uni0433"/>
   </outline>
   <lib>

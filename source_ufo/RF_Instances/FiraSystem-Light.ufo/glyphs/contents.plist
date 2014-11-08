@@ -282,8 +282,8 @@
 	<string>Theta_.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
-	<key>TseHelper-cy</key>
-	<string>TseHelper-cy_.glif</string>
+	<key>TseHelper.cy</key>
+	<string>TseHelper_.cy.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -496,14 +496,14 @@
 	<string>bracketright.case.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
-	<key>breve-cy</key>
-	<string>breve-cy.glif</string>
-	<key>breve-cy.case</key>
-	<string>breve-cy.case.glif</string>
-	<key>breve-cy.sc</key>
-	<string>breve-cy.sc.glif</string>
 	<key>breve.case</key>
 	<string>breve.case.glif</string>
+	<key>breve.cy</key>
+	<string>breve.cy.glif</string>
+	<key>breve.cy.case</key>
+	<string>breve.cy.case.glif</string>
+	<key>breve.cy.sc</key>
+	<string>breve.cy.sc.glif</string>
 	<key>breve.sc</key>
 	<string>breve.sc.glif</string>
 	<key>brevecombcomb</key>
@@ -640,12 +640,12 @@
 	<string>delta.glif</string>
 	<key>delta.sc</key>
 	<string>delta.sc.glif</string>
-	<key>descRound-cy</key>
-	<string>descRound-cy_.glif</string>
-	<key>descStraight-cy</key>
-	<string>descStraight-cy_.glif</string>
-	<key>descStraight-cy.case</key>
-	<string>descStraight-cy_.case.glif</string>
+	<key>descRound.cy</key>
+	<string>descRound_.cy.glif</string>
+	<key>descStraight.cy</key>
+	<string>descStraight_.cy.glif</string>
+	<key>descStraight.cy.case</key>
+	<string>descStraight_.cy.case.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.case</key>
@@ -1676,10 +1676,10 @@
 	<string>tonos.case.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
-	<key>tsehelper-cy</key>
-	<string>tsehelper-cy.glif</string>
-	<key>tsehelper-cy.sc</key>
-	<string>tsehelper-cy.sc.glif</string>
+	<key>tsehelper.cy</key>
+	<string>tsehelper.cy.glif</string>
+	<key>tsehelper.cy.sc</key>
+	<string>tsehelper.cy.sc.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.dnom</key>

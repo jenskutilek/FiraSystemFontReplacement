@@ -4,7 +4,7 @@
   <unicode hex="0449"/>
   <outline>
     <component base="uni0448"/>
-    <component base="descStraight-cy" xOffset="636"/>
+    <component base="descStraight.cy" xOffset="636"/>
   </outline>
   <lib>
     <dict>

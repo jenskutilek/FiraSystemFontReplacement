@@ -2,8 +2,8 @@
 <glyph name="uni045F.sc" format="1">
   <advance width="622.0"/>
   <outline>
-    <component base="tsehelper-cy.sc"/>
-    <component base="descStraight-cy" xOffset="197"/>
+    <component base="tsehelper.cy.sc"/>
+    <component base="descStraight.cy" xOffset="197"/>
   </outline>
   <lib>
     <dict>

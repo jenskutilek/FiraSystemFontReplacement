@@ -3,8 +3,8 @@
   <advance width="578"/>
   <unicode hex="045F"/>
   <outline>
-    <component base="tsehelper-cy"/>
-    <component base="descStraight-cy" xOffset="148"/>
+    <component base="tsehelper.cy"/>
+    <component base="descStraight.cy" xOffset="148"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,7 @@
   <advance width="683.0"/>
   <unicode hex="0419"/>
   <outline>
-    <component base="breve-cy.case" xOffset="160"/>
+    <component base="breve.cy.case" xOffset="160"/>
     <component base="uni0418"/>
   </outline>
   <lib>

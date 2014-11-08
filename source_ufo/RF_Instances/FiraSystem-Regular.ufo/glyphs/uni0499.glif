@@ -3,7 +3,7 @@
   <advance width="500.0"/>
   <unicode hex="0499"/>
   <outline>
-    <component base="descRound-cy" xOffset="91"/>
+    <component base="descRound.cy" xOffset="91"/>
     <component base="uni0437"/>
   </outline>
   <lib>
