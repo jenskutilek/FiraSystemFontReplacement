@@ -180,6 +180,8 @@
 	<string>M_u.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>NULL</key>
+	<string>NULL_.glif</string>
 	<key>Nacute</key>
 	<string>N_acute.glif</string>
 	<key>Nacute.loclPLK</key>
