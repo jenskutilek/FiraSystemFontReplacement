@@ -12,7 +12,7 @@
       <point x="363" y="429" type="line"/>
       <point x="363" y="0" type="line"/>
     </contour>
-    <component base="descStraight-cy" xOffset="399"/>
+    <component base="descStraight.cy" xOffset="399"/>
   </outline>
   <lib>
     <dict>

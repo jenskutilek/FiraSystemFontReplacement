@@ -20,8 +20,8 @@
       <point x="81" y="111"/>
       <point x="31" y="68" type="curve"/>
     </contour>
-    <component base="descStraight-cy" xOffset="350"/>
-    <component base="descStraight-cy" xScale="-1" xOffset="149"/>
+    <component base="descStraight.cy" xOffset="350"/>
+    <component base="descStraight.cy" xScale="-1" xOffset="149"/>
   </outline>
   <lib>
     <dict>

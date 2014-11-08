@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve-cy.sc" format="1">
-  <advance width="286"/>
+<glyph name="breve.cy.case" format="1">
+  <advance width="362"/>
   <outline>
-    <component base="breve-cy" yOffset="30"/>
+    <component base="breve.cy" yOffset="126"/>
     <contour>
-      <point x="143" y="560" type="move" name="_top"/>
+      <point x="182" y="689" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

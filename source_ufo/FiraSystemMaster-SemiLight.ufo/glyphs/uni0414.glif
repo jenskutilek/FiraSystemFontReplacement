@@ -22,8 +22,8 @@
       <point x="207" y="653" type="line"/>
       <point x="441" y="653" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="425"/>
-    <component base="descStraight-cy.case" xScale="-1" xOffset="89"/>
+    <component base="descStraight.cy.case" xOffset="425"/>
+    <component base="descStraight.cy.case" xScale="-1" xOffset="89"/>
   </outline>
   <lib>
     <dict>

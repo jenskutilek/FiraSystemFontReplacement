@@ -27,7 +27,7 @@
       <point x="416" y="520" type="line"/>
       <point x="386" y="520" type="line"/>
     </contour>
-    <component base="descStraight-cy" xScale="-1" xOffset="420"/>
+    <component base="descStraight.cy" xScale="-1" xOffset="420"/>
     <contour>
       <point x="241" y="520" type="move" name="top"/>
     </contour>

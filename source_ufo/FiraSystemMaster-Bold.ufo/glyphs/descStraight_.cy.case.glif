@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="descStraight-cy" format="1">
-  <advance width="194"/>
+<glyph name="descStraight.cy.case" format="1">
+  <advance width="242"/>
   <outline>
     <contour>
-      <point x="33" y="74" type="line"/>
-      <point x="33" y="0" type="line"/>
-      <point x="69" y="0" type="line"/>
-      <point x="84" y="-150" type="line"/>
-      <point x="159" y="-150" type="line"/>
-      <point x="159" y="74" type="line"/>
+      <point x="30" y="154" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="105" y="-175" type="line"/>
+      <point x="242" y="-175" type="line"/>
+      <point x="242" y="154" type="line"/>
     </contour>
     <contour>
-      <point x="114" y="0" type="move" name="_bottom"/>
+      <point x="164" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="86" y="0" type="move" name="_bottomleft"/>
+      <point x="177" y="0" type="move" name="_bottomleft"/>
     </contour>
     <contour>
-      <point x="89" y="0" type="move" name="_bottomright"/>
+      <point x="172" y="0" type="move" name="_bottomright"/>
     </contour>
   </outline>
   <lib>

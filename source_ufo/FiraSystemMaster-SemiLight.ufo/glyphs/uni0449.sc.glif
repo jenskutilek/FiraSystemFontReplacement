@@ -3,7 +3,7 @@
   <advance width="815"/>
   <outline>
     <component base="uni0448.sc"/>
-    <component base="descStraight-cy" xOffset="661"/>
+    <component base="descStraight.cy" xOffset="661"/>
   </outline>
   <lib>
     <dict>
