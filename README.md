@@ -15,6 +15,10 @@ Copy the 4 font files into the `/Library/Fonts` folder on your system disk.
 
 You may have to log out and in again in order to see the change take effect.
 
+Or copy and paste the following line into your terminal. You will be prompted for your password and logged out after installation has finished, so that the changes can take effect.
+
+`curl -# -O "http://www.kutilek.de/download/fira-system-fonts.zip" && unzip -o fira-system-fonts.zip && cp Fira\ System\ Fonts/*.ttf /Library/Fonts && rm fira-system-fonts.zip && rm -rf Fira\ System\ Fonts __MACOSX && echo "Will now log you out..." && sleep 5 && sudo killall -1 WindowServer`
+
 ### How to uninstall:
 
 Delete or move the font files from the `/Library/Fonts` folder.
