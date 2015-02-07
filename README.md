@@ -9,9 +9,12 @@ They are based on the [Fira Sans font family](http://www.carrois.com/fira-3-1/) 
 
 ### How to install:
 
-Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
+* Manually
+  * Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
+  * Copy the 4 font files into the `/Library/Fonts` folder on your system disk.
 
-Copy the 4 font files into the `/Library/Fonts` folder on your system disk.
+* One-line
+  * Copy and paste the following line into your terminal: `curl 'http://www.kutilek.de/download/fira-system-fonts.zip' | tar -xf- -C /tmp && mv /tmp/Fira System Fonts/*ttf /Library/Fonts`
 
 You may have to log out and in again in order to see the change take effect.
 
