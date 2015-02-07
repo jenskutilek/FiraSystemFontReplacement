@@ -1493,10 +1493,10 @@
             <ClassDef glyph="bracketright" class="0"/>
             <ClassDef glyph="bracketright.case" class="0"/>
             <ClassDef glyph="breve" class="0"/>
+            <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.cy" class="0"/>
             <ClassDef glyph="breve.cy.case" class="0"/>
             <ClassDef glyph="breve.cy.sc" class="0"/>
-            <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.sc" class="0"/>
             <ClassDef glyph="brevecombcomb" class="0"/>
             <ClassDef glyph="brokenbar" class="0"/>
@@ -2832,10 +2832,10 @@
             <ClassDef glyph="bracketright" class="72"/>
             <ClassDef glyph="bracketright.case" class="72"/>
             <ClassDef glyph="breve" class="0"/>
+            <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.cy" class="0"/>
             <ClassDef glyph="breve.cy.case" class="0"/>
             <ClassDef glyph="breve.cy.sc" class="0"/>
-            <ClassDef glyph="breve.case" class="0"/>
             <ClassDef glyph="breve.sc" class="0"/>
             <ClassDef glyph="brevecombcomb" class="0"/>
             <ClassDef glyph="brokenbar" class="0"/>

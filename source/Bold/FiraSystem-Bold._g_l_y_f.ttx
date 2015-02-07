@@ -3582,6 +3582,27 @@
         </assembly></instructions>
     </TTGlyph>
 
+    <TTGlyph name="breve.case" xMin="30" yMin="751" xMax="370" yMax="924">
+      <contour>
+        <pt x="370" y="909" on="1"/>
+        <pt x="364" y="846" on="0"/>
+        <pt x="275" y="751" on="0"/>
+        <pt x="199" y="751" on="1"/>
+        <pt x="123" y="751" on="0"/>
+        <pt x="36" y="846" on="0"/>
+        <pt x="30" y="909" on="1"/>
+        <pt x="114" y="924" on="1"/>
+        <pt x="123" y="896" on="0"/>
+        <pt x="165" y="856" on="0"/>
+        <pt x="199" y="856" on="1"/>
+        <pt x="233" y="856" on="0"/>
+        <pt x="276" y="896" on="0"/>
+        <pt x="286" y="924" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
     <TTGlyph name="breve.cy" xMin="30" yMin="634" xMax="370" yMax="798">
       <contour>
         <pt x="370" y="783" on="1"/>
@@ -3611,27 +3632,6 @@
 
     <TTGlyph name="breve.cy.sc" xMin="30" yMin="664" xMax="370" yMax="828">
       <component glyphName="breve.cy" x="0" y="30" flags="0x4"/>
-      <instructions><assembly>
-        </assembly></instructions>
-    </TTGlyph>
-
-    <TTGlyph name="breve.case" xMin="30" yMin="751" xMax="370" yMax="924">
-      <contour>
-        <pt x="370" y="909" on="1"/>
-        <pt x="364" y="846" on="0"/>
-        <pt x="275" y="751" on="0"/>
-        <pt x="199" y="751" on="1"/>
-        <pt x="123" y="751" on="0"/>
-        <pt x="36" y="846" on="0"/>
-        <pt x="30" y="909" on="1"/>
-        <pt x="114" y="924" on="1"/>
-        <pt x="123" y="896" on="0"/>
-        <pt x="165" y="856" on="0"/>
-        <pt x="199" y="856" on="1"/>
-        <pt x="233" y="856" on="0"/>
-        <pt x="276" y="896" on="0"/>
-        <pt x="286" y="924" on="1"/>
-      </contour>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>

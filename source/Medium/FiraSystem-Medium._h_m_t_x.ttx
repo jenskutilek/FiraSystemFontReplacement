@@ -249,10 +249,10 @@
     <mtx name="bracketright" width="323" lsb="39"/>
     <mtx name="bracketright.case" width="323" lsb="39"/>
     <mtx name="breve" width="381" lsb="30"/>
+    <mtx name="breve.case" width="380" lsb="30"/>
     <mtx name="breve.cy" width="381" lsb="30"/>
     <mtx name="breve.cy.case" width="385" lsb="30"/>
     <mtx name="breve.cy.sc" width="381" lsb="30"/>
-    <mtx name="breve.case" width="380" lsb="30"/>
     <mtx name="breve.sc" width="381" lsb="30"/>
     <mtx name="brevecombcomb" width="380" lsb="39"/>
     <mtx name="brokenbar" width="392" lsb="141"/>

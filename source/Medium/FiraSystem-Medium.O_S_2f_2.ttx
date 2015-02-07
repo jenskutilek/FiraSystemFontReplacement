@@ -34,7 +34,7 @@
     <ulUnicodeRange2 value="00000010 00000000 00000000 00000001"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
-    <achVendID value="netz"/>
+    <achVendID value="jens"/>
     <fsSelection value="00000000 00000000"/>
     <fsFirstCharIndex value="0"/>
     <fsLastCharIndex value="65535"/>

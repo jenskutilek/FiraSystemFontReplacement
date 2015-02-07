@@ -3,7 +3,7 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
-      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2014 by Jens Kutilek.
+      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015 by Jens Kutilek.
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
       System Font
@@ -12,13 +12,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
-      3.111;netz;.HelveticaNeueDeskInterface-Regular
+      3.112;jens;.HelveticaNeueDeskInterface-Regular
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
       System Font
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
-      Version 3.111;PS 3.111;hotconv 1.0.72;makeotf.lib2.5.5900
+      Version 3.112;PS 3.112;hotconv 1.0.72;makeotf.lib2.5.5900
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
       .HelveticaNeueDeskInterface-Regular
@@ -45,7 +45,7 @@
       http://scripts.sil.org/OFL
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2014 by Jens Kutilek.
+      Digitized data copyright 2012-2014, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015 by Jens Kutilek.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       System Font
@@ -54,13 +54,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      3.111;netz;.HelveticaNeueDeskInterface-Regular
+      3.112;jens;.HelveticaNeueDeskInterface-Regular
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       System Font Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 3.111;PS 3.111;hotconv 1.0.72;makeotf.lib2.5.5900
+      Version 3.112;PS 3.112;hotconv 1.0.72;makeotf.lib2.5.5900
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       .HelveticaNeueDeskInterface-Regular

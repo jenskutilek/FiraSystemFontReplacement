@@ -432,7 +432,6 @@ feature aalt {
 # Access All Alternates
 
     feature locl; 
-    feature sups; 
     feature frac; 
     feature onum; 
     feature pnum; 
@@ -458,15 +457,6 @@ feature locl {
           sub Scedilla by Scommaaccent; 
 
 } locl;
-
-feature sups {
-# Superscript
-
-    sub one by onesuperior; 
-    sub two by twosuperior; 
-    sub three by threesuperior; 
-
-} sups;
 
 feature frac {
 # Fractions
