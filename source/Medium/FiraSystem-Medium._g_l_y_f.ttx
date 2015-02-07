@@ -14516,23 +14516,6 @@
 
     <TTGlyph name="uni0414" xMin="-11" yMin="-157" xMax="588" yMax="691">
       <contour>
-        <pt x="588" y="-157" on="1"/>
-        <pt x="497" y="-157" on="1"/>
-        <pt x="480" y="0" on="1"/>
-        <pt x="139" y="0" on="1"/>
-        <pt x="140" y="98" on="1"/>
-        <pt x="37" y="98" on="1"/>
-        <pt x="55" y="117" on="0"/>
-        <pt x="80" y="168" on="0"/>
-        <pt x="99" y="253" on="0"/>
-        <pt x="118" y="384" on="0"/>
-        <pt x="131" y="483" on="1"/>
-        <pt x="157" y="691" on="1"/>
-        <pt x="530" y="691" on="1"/>
-        <pt x="530" y="98" on="1"/>
-        <pt x="588" y="98" on="1"/>
-      </contour>
-      <contour>
         <pt x="408" y="98" on="1"/>
         <pt x="408" y="595" on="1"/>
         <pt x="264" y="595" on="1"/>
@@ -14544,12 +14527,23 @@
         <pt x="138" y="98" on="1"/>
       </contour>
       <contour>
+        <pt x="96" y="0" on="1"/>
+        <pt x="80" y="-157" on="1"/>
         <pt x="-11" y="-157" on="1"/>
         <pt x="-11" y="98" on="1"/>
         <pt x="37" y="98" on="1"/>
-        <pt x="37" y="0" on="1"/>
-        <pt x="96" y="0" on="1"/>
-        <pt x="80" y="-157" on="1"/>
+        <pt x="55" y="117" on="0"/>
+        <pt x="80" y="168" on="0"/>
+        <pt x="99" y="253" on="0"/>
+        <pt x="118" y="384" on="0"/>
+        <pt x="131" y="483" on="1"/>
+        <pt x="157" y="691" on="1"/>
+        <pt x="530" y="691" on="1"/>
+        <pt x="530" y="98" on="1"/>
+        <pt x="588" y="98" on="1"/>
+        <pt x="588" y="-157" on="1"/>
+        <pt x="497" y="-157" on="1"/>
+        <pt x="480" y="0" on="1"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>
@@ -15269,15 +15263,19 @@
 
     <TTGlyph name="uni0434" xMin="0" yMin="-157" xMax="530" yMax="529">
       <contour>
-        <pt x="530" y="-157" on="1"/>
-        <pt x="440" y="-157" on="1"/>
-        <pt x="424" y="0" on="1"/>
-        <pt x="143" y="0" on="1"/>
-        <pt x="149" y="92" on="1"/>
+        <pt x="224" y="353" on="1"/>
+        <pt x="214" y="224" on="0"/>
+        <pt x="176" y="120" on="0"/>
         <pt x="132" y="92" on="1"/>
-        <pt x="130" y="91" on="0"/>
-        <pt x="124" y="86" on="0"/>
-        <pt x="121" y="85" on="1"/>
+        <pt x="359" y="92" on="1"/>
+        <pt x="359" y="442" on="1"/>
+        <pt x="231" y="442" on="1"/>
+      </contour>
+      <contour>
+        <pt x="106" y="0" on="1"/>
+        <pt x="90" y="-157" on="1"/>
+        <pt x="0" y="-157" on="1"/>
+        <pt x="0" y="92" on="1"/>
         <pt x="35" y="92" on="1"/>
         <pt x="48" y="101" on="0"/>
         <pt x="71" y="126" on="0"/>
@@ -15288,52 +15286,15 @@
         <pt x="474" y="529" on="1"/>
         <pt x="474" y="92" on="1"/>
         <pt x="530" y="92" on="1"/>
-      </contour>
-      <contour>
-        <pt x="224" y="353" on="1"/>
-        <pt x="214" y="224" on="0"/>
-        <pt x="176" y="120" on="0"/>
-        <pt x="132" y="92" on="1"/>
-        <pt x="359" y="92" on="1"/>
-        <pt x="359" y="442" on="1"/>
-        <pt x="231" y="442" on="1"/>
-      </contour>
-      <contour>
-        <pt x="0" y="-157" on="1"/>
-        <pt x="0" y="92" on="1"/>
-        <pt x="35" y="92" on="1"/>
-        <pt x="35" y="0" on="1"/>
-        <pt x="106" y="0" on="1"/>
-        <pt x="90" y="-157" on="1"/>
+        <pt x="530" y="-157" on="1"/>
+        <pt x="440" y="-157" on="1"/>
+        <pt x="424" y="0" on="1"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni0434.sc" xMin="-11" yMin="-157" xMax="525" yMax="566">
-      <contour>
-        <pt x="525" y="-157" on="1"/>
-        <pt x="436" y="-157" on="1"/>
-        <pt x="420" y="0" on="1"/>
-        <pt x="132" y="0" on="1"/>
-        <pt x="137" y="92" on="1"/>
-        <pt x="127" y="92" on="1"/>
-        <pt x="125" y="91" on="0"/>
-        <pt x="119" y="87" on="0"/>
-        <pt x="117" y="86" on="1"/>
-        <pt x="34" y="87" on="1"/>
-        <pt x="34" y="92" on="1"/>
-        <pt x="34" y="92" on="1"/>
-        <pt x="49" y="107" on="0"/>
-        <pt x="70" y="148" on="0"/>
-        <pt x="88" y="215" on="0"/>
-        <pt x="104" y="317" on="0"/>
-        <pt x="114" y="392" on="1"/>
-        <pt x="136" y="566" on="1"/>
-        <pt x="466" y="566" on="1"/>
-        <pt x="466" y="92" on="1"/>
-        <pt x="525" y="92" on="1"/>
-      </contour>
       <contour>
         <pt x="227" y="401" on="1"/>
         <pt x="211" y="255" on="0"/>
@@ -15344,17 +15305,23 @@
         <pt x="237" y="476" on="1"/>
       </contour>
       <contour>
+        <pt x="95" y="0" on="1"/>
+        <pt x="78" y="-157" on="1"/>
         <pt x="-11" y="-157" on="1"/>
         <pt x="-11" y="92" on="1"/>
         <pt x="34" y="92" on="1"/>
-        <pt x="34" y="92" on="1"/>
-        <pt x="33" y="91" on="0"/>
-        <pt x="30" y="88" on="0"/>
-        <pt x="29" y="87" on="1"/>
-        <pt x="34" y="87" on="1"/>
-        <pt x="34" y="0" on="1"/>
-        <pt x="95" y="0" on="1"/>
-        <pt x="78" y="-157" on="1"/>
+        <pt x="49" y="107" on="0"/>
+        <pt x="70" y="148" on="0"/>
+        <pt x="88" y="215" on="0"/>
+        <pt x="104" y="317" on="0"/>
+        <pt x="114" y="392" on="1"/>
+        <pt x="136" y="566" on="1"/>
+        <pt x="466" y="566" on="1"/>
+        <pt x="466" y="92" on="1"/>
+        <pt x="525" y="92" on="1"/>
+        <pt x="525" y="-157" on="1"/>
+        <pt x="436" y="-157" on="1"/>
+        <pt x="420" y="0" on="1"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>
@@ -17904,17 +17871,43 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni04CB" xMin="32" yMin="0" xMax="529" yMax="691">
-      <component glyphName="uni0427" x="0" y="0" flags="0x204"/>
+    <TTGlyph name="uni04CB" xMin="32" yMin="-157" xMax="529" yMax="691">
+      <contour>
+        <pt x="432" y="0" on="1"/>
+        <pt x="415" y="-157" on="1"/>
+        <pt x="324" y="-157" on="1"/>
+        <pt x="324" y="98" on="1"/>
+        <pt x="406" y="98" on="1"/>
+        <pt x="406" y="269" on="1"/>
+        <pt x="366" y="239" on="0"/>
+        <pt x="290" y="211" on="0"/>
+        <pt x="239" y="211" on="1"/>
+        <pt x="144" y="211" on="0"/>
+        <pt x="32" y="330" on="0"/>
+        <pt x="32" y="431" on="1"/>
+        <pt x="32" y="691" on="1"/>
+        <pt x="155" y="691" on="1"/>
+        <pt x="155" y="436" on="1"/>
+        <pt x="155" y="370" on="0"/>
+        <pt x="216" y="309" on="0"/>
+        <pt x="273" y="309" on="1"/>
+        <pt x="319" y="309" on="0"/>
+        <pt x="384" y="338" on="0"/>
+        <pt x="406" y="360" on="1"/>
+        <pt x="406" y="691" on="1"/>
+        <pt x="529" y="691" on="1"/>
+        <pt x="529" y="0" on="1"/>
+      </contour>
       <instructions><assembly>
         </assembly></instructions>
     </TTGlyph>
 
     <TTGlyph name="uni04CC" xMin="44" yMin="-157" xMax="470" yMax="529">
       <contour>
-        <pt x="470" y="0" on="1"/>
-        <pt x="412" y="0" on="1"/>
-        <pt x="418" y="92" on="1"/>
+        <pt x="375" y="0" on="1"/>
+        <pt x="359" y="-157" on="1"/>
+        <pt x="270" y="-157" on="1"/>
+        <pt x="270" y="92" on="1"/>
         <pt x="350" y="92" on="1"/>
         <pt x="350" y="225" on="1"/>
         <pt x="322" y="200" on="0"/>
@@ -17934,14 +17927,7 @@
         <pt x="350" y="308" on="1"/>
         <pt x="350" y="529" on="1"/>
         <pt x="470" y="529" on="1"/>
-      </contour>
-      <contour>
-        <pt x="270" y="-157" on="1"/>
-        <pt x="270" y="92" on="1"/>
-        <pt x="350" y="92" on="1"/>
-        <pt x="350" y="0" on="1"/>
-        <pt x="375" y="0" on="1"/>
-        <pt x="359" y="-157" on="1"/>
+        <pt x="470" y="0" on="1"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>
@@ -20092,6 +20078,33 @@
         <pt x="229" y="700" on="1"/>
         <pt x="229" y="722" on="0"/>
         <pt x="257" y="750" on="0"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="uniF8FF" xMin="69" yMin="-18" xMax="795" yMax="708">
+      <contour>
+        <pt x="432" y="-18" on="1"/>
+        <pt x="357" y="-18" on="0"/>
+        <pt x="225" y="40" on="0"/>
+        <pt x="126" y="138" on="0"/>
+        <pt x="69" y="271" on="0"/>
+        <pt x="69" y="345" on="1"/>
+        <pt x="69" y="420" on="0"/>
+        <pt x="126" y="552" on="0"/>
+        <pt x="225" y="651" on="0"/>
+        <pt x="357" y="708" on="0"/>
+        <pt x="432" y="708" on="1"/>
+        <pt x="506" y="708" on="0"/>
+        <pt x="639" y="651" on="0"/>
+        <pt x="737" y="552" on="0"/>
+        <pt x="795" y="420" on="0"/>
+        <pt x="795" y="345" on="1"/>
+        <pt x="795" y="271" on="0"/>
+        <pt x="737" y="138" on="0"/>
+        <pt x="639" y="40" on="0"/>
+        <pt x="506" y="-18" on="0"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>

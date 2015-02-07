@@ -2515,6 +2515,7 @@
             <ClassDef glyph="uni2B05" class="0"/>
             <ClassDef glyph="uni2B06" class="0"/>
             <ClassDef glyph="uni2B07" class="0"/>
+            <ClassDef glyph="uniF8FF" class="0"/>
             <ClassDef glyph="uniFEFF" class="0"/>
             <ClassDef glyph="uogonek" class="0"/>
             <ClassDef glyph="uogonek.sc" class="105"/>
@@ -3855,6 +3856,7 @@
             <ClassDef glyph="uni2B05" class="0"/>
             <ClassDef glyph="uni2B06" class="0"/>
             <ClassDef glyph="uni2B07" class="0"/>
+            <ClassDef glyph="uniF8FF" class="0"/>
             <ClassDef glyph="uniFEFF" class="0"/>
             <ClassDef glyph="uogonek" class="56"/>
             <ClassDef glyph="uogonek.sc" class="11"/>

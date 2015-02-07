@@ -4,7 +4,7 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="1347"/>
+    <numGlyphs value="1348"/>
     <maxPoints value="311"/>
     <maxContours value="19"/>
     <maxCompositePoints value="95"/>

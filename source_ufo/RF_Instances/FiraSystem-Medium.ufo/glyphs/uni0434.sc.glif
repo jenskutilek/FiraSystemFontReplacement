@@ -30,11 +30,11 @@
     </contour>
     <contour>
       <point x="137" y="92" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="95" y="0" type="line"/>
-      <point x="78" y="-157" type="line"/>
-      <point x="-11" y="-157" type="line"/>
       <point x="-11" y="92" type="line"/>
+      <point x="-11" y="-157" type="line"/>
+      <point x="78" y="-157" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

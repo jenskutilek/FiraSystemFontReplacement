@@ -787,11 +787,12 @@
       <map code="0x2b05" name="uni2B05"/><!-- LEFTWARDS BLACK ARROW -->
       <map code="0x2b06" name="uni2B06"/><!-- UPWARDS BLACK ARROW -->
       <map code="0x2b07" name="uni2B07"/><!-- DOWNWARDS BLACK ARROW -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="1132" language="0" nGroups="93">
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="1144" language="0" nGroups="94">
       <map code="0x0" name="NULL"/><!-- ???? -->
       <map code="0xd" name="CR"/><!-- ???? -->
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -1575,6 +1576,7 @@
       <map code="0x2b05" name="uni2B05"/><!-- LEFTWARDS BLACK ARROW -->
       <map code="0x2b06" name="uni2B06"/><!-- UPWARDS BLACK ARROW -->
       <map code="0x2b07" name="uni2B07"/><!-- DOWNWARDS BLACK ARROW -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
@@ -1812,7 +1814,7 @@
       <map code="0xed" name="Igrave"/>
       <map code="0xee" name="Oacute"/>
       <map code="0xef" name="Ocircumflex"/>
-      <map code="0xf0" name=".notdef"/>
+      <map code="0xf0" name="uniF8FF"/>
       <map code="0xf1" name="Ograve"/>
       <map code="0xf2" name="Uacute"/>
       <map code="0xf3" name="Ucircumflex"/>
@@ -2613,11 +2615,12 @@
       <map code="0x2b05" name="uni2B05"/><!-- LEFTWARDS BLACK ARROW -->
       <map code="0x2b06" name="uni2B06"/><!-- UPWARDS BLACK ARROW -->
       <map code="0x2b07" name="uni2B07"/><!-- DOWNWARDS BLACK ARROW -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1132" language="0" nGroups="93">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1144" language="0" nGroups="94">
       <map code="0x0" name="NULL"/><!-- ???? -->
       <map code="0xd" name="CR"/><!-- ???? -->
       <map code="0x20" name="space"/><!-- SPACE -->
@@ -3401,6 +3404,7 @@
       <map code="0x2b05" name="uni2B05"/><!-- LEFTWARDS BLACK ARROW -->
       <map code="0x2b06" name="uni2B06"/><!-- UPWARDS BLACK ARROW -->
       <map code="0x2b07" name="uni2B07"/><!-- DOWNWARDS BLACK ARROW -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->

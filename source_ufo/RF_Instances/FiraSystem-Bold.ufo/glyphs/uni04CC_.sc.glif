@@ -28,11 +28,11 @@
     </contour>
     <contour>
       <point x="426" y="111" type="line"/>
-      <point x="414" y="0" type="line"/>
-      <point x="376" y="0" type="line"/>
-      <point x="358" y="-164" type="line"/>
-      <point x="253" y="-164" type="line"/>
       <point x="253" y="111" type="line"/>
+      <point x="253" y="-164" type="line"/>
+      <point x="358" y="-164" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
     </contour>
     <contour>
       <point x="322" y="0" type="move" name="bottomleft"/>

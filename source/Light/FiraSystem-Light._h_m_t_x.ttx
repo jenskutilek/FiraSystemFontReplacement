@@ -1278,6 +1278,7 @@
     <mtx name="uni2B05" width="1000" lsb="40"/>
     <mtx name="uni2B06" width="720" lsb="60"/>
     <mtx name="uni2B07" width="720" lsb="60"/>
+    <mtx name="uniF8FF" width="864" lsb="69"/>
     <mtx name="uniFEFF" width="0" lsb="0"/>
     <mtx name="uogonek" width="579" lsb="101"/>
     <mtx name="uogonek.sc" width="596" lsb="101"/>
