@@ -8,9 +8,9 @@ They are based on the Fira Sans font family and are licensed under the Open Font
 How to install:
 ---------------
 
-Copy the 4 font files into the /Library/Fonts folder. You may have to log out and in again in order to see the change take effect.
+Copy the file FiraSystem.ttc into the /Library/Fonts folder. You may have to log out and in again in order to see the change take effect. If some dialog boxes, such as App Store authentication dialogs, are displayed incorrectly after installing the fonts, it is recommended to shut down your computer and boot it up again. This is only necessary once.
 
 How to uninstall:
 -----------------
 
-Delete or move the font files from the /Library/Fonts folder.
+Delete or move the font files from the /Library/Fonts folder and restart your computer.
