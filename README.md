@@ -11,13 +11,13 @@ They are based on the [Fira Sans font family](http://www.carrois.com/fira-3-1/) 
 
 Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
 
-Copy the 4 font files into the `/Library/Fonts` folder on your system disk.
+Copy the font file FiraSystem.ttc into the `/Library/Fonts` folder on your system disk.
 
-You may have to log out and in again in order to see the change take effect.
+You may have to log out and in again in order to see the change take effect, or better, turn your computer off and then on again.
 
 ### How to uninstall:
 
-Delete or move the font files from the `/Library/Fonts` folder.
+Delete or move the font file from the `/Library/Fonts` folder.
 
 
 ### How does it work?
@@ -27,3 +27,5 @@ These Fira fonts have a special name table with names identical to those of the 
 ### How to compile the fonts from source?
 
 You can use the [Python FontTools](https://github.com/behdad/fonttools) to compile the provided XML files in the source folder, or to work all other kinds of font magic.
+
+To build the TTC file from the 4 TTFs, you need the [OS X Font Tools](https://developer.apple.com/downloads/index.action?q=fonts) from Apple.
