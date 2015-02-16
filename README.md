@@ -11,9 +11,18 @@ They are based on the [Fira Sans font family](http://www.carrois.com/fira-3-1/) 
 
 Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
 
-Copy the font file FiraSystem.ttc into the `/Library/Fonts` folder on your system disk.
+Copy the font file FiraSystem.ttc into the `/Library/Fonts` folder on your system disk. To locate this folder, use:
 
-You may have to log out and in again in order to see the change take effect, or better, turn your computer off and then on again.
+1. Open the Finder.
+2. From the Menu `Go`, select `Go to Folder ...`.
+3. In the dialogue window, enter `/Library/Fonts` and click `Go`.
+
+A new Finder window will open to the `/Library/Fonts` folder.
+
+#### Troubleshooting
+
+- You may have to log out and in again in order to see the change take effect, or better, turn your computer off and then on again.
+- If you are seeing incorrect characters in modal (pop-up) windows, ensure you have placed the font file into `/Library/Fonts` and not `~/Library/Fonts`.
 
 ### How to uninstall:
 
