@@ -7,7 +7,13 @@ They are based on the [Fira Sans font family](http://www.carrois.com/fira-3-1/) 
 
 ![](yosemite-fira.png)
 
-### How to install:
+### How to install
+
+#### Using the installer package
+
+Download and unzip the installer file from <http://www.kutilek.de/download/fira-system-fonts-installer.zip>. Right-click `Fira System Fonts.pkg` and choose "Open" from the context menu. In the alert about the package coming from an unidentified developer, click "Open" again. Follow the instructions in the installer and restart your computer when the installation process has finished.
+
+#### Manual installation
 
 Download and unzip the font files from <http://www.kutilek.de/download/fira-system-fonts.zip>.
 
@@ -22,9 +28,9 @@ A new Finder window will open to the `/Library/Fonts` folder.
 #### Troubleshooting
 
 - You may have to log out and in again in order to see the change take effect, or better, turn your computer off and then on again.
-- If you are seeing incorrect characters in modal (pop-up) windows, ensure you have placed the font file into `/Library/Fonts` and not `~/Library/Fonts`.
+- If you are seeing incorrect characters in modal (pop-up) windows, ensure you have placed the font file into `/Library/Fonts` and not `~/Library/Fonts`. Check the file permissions of the font and set the owner to `root` and the group to `wheel`.
 
-### How to uninstall:
+### How to uninstall
 
 Delete or move the font file from the `/Library/Fonts` folder.
 
