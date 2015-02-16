@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="1">
+    <title>Fira System Fonts</title>
+    <welcome file="readme.rtf" mime-type="text/richtext"/>
+    <options customize="never" rootVolumeOnly="true"/>
+    <os-version min="10.10"/>
+    <choices-outline>
+        <line choice="fonts"/>
+    </choices-outline>
+    <choice id="fonts" visible="true" title="Fonts" description="Installation description goes here">
+        <pkg-ref id="de.kutilek.fonts.firasystem.pkg" onConclusion="RequireRestart">fonts.pkg</pkg-ref>
+    </choice>
+</installer-gui-script>
