@@ -5,8 +5,10 @@ tab_figures = "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/e
 def setNames(font):
 	font.familyName      = "System Font"
 	font.copyright      += " System Font Replacement version 2015 by Jens Kutilek."
+	font.designerURL    += "/"
 	font.manufacturer    = "Jens Kutilek"
 	font.manufacturerURL = "http://www.kutilek.de/"
+	font.customParameters["vendorID"] = "jens"
 
 def setUPM(font):
 	if font.upm != 984:
