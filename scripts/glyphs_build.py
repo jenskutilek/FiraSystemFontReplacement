@@ -83,6 +83,8 @@ def setupInstanceRegular(instance):
 	
 	setVerticalMetrics(instance)
 	
+	setupFeatures(instance)
+	
 	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Regular"
 	instance.customParameters["postscriptFullName"] = "System Font Regular"
 

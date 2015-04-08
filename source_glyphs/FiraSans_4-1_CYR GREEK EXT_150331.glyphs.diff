@@ -1,5 +1,5 @@
 --- FiraSans_4-1_CYR GREEK EXT_150331.glyphs	2015-04-08 23:29:56.000000000 +0200
-+++ FiraSans_4-1_CYR GREEK EXT_150331_.glyphs	2015-04-08 23:52:36.000000000 +0200
++++ FiraSans_4-1_CYR GREEK EXT_150331_.glyphs	2015-04-09 00:17:34.000000000 +0200
 @@ -22,7 +22,7 @@
  name = GreekUCdiphUPSILON;
  }
@@ -254,7 +254,7 @@
  customParameters = (
  {
  name = weightClass;
-@@ -345990,9 +346128,49 @@
+@@ -345990,9 +346128,53 @@
      0,
      4
  );
@@ -292,6 +292,10 @@
 +value = 200;
 +},
 +{
++name = "Remove Features";
++value = "sups, subs";
++},
++{
 +name = postscriptFontName;
 +value = ".HelveticaNeueDeskInterface-Regular";
 +},
@@ -305,7 +309,7 @@
  name = Regular;
  },
  {
-@@ -346011,13 +346189,58 @@
+@@ -346011,13 +346193,58 @@
      0,
      4
  );
@@ -365,7 +369,7 @@
  customParameters = (
  {
  name = panose;
-@@ -346055,14 +346278,59 @@
+@@ -346055,14 +346282,59 @@
      0,
      4
  );
@@ -426,7 +430,7 @@
  customParameters = (
  {
  name = panose;
-@@ -346100,13 +346368,62 @@
+@@ -346100,13 +346372,62 @@
      0,
      4
  );
@@ -490,7 +494,7 @@
  customParameters = (
  {
  name = weightClass;
-@@ -354918,9 +355235,9 @@
+@@ -354918,9 +355239,9 @@
  };
  };
  };
