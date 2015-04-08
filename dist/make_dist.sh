@@ -11,10 +11,13 @@ sudo rm "Fira System Fonts/FiraSystem.ttc"
 # build TrueType collection
 
 ftxmakettc \
-  ../ttf/FiraSystem-Regular.ttf \
-  ../ttf/FiraSystem-Bold.ttf \
-  ../ttf/FiraSystem-Light.ttf \
-  ../ttf/FiraSystem-Medium.ttf \
+  ../ttf/SystemFont-Regular.ttf \
+  ../ttf/SystemFont-Bold.ttf \
+  ../ttf/SystemFont-Medium.ttf \
+  ../ttf/SystemFont-Light.ttf \
+  ../ttf/SystemFont-Thin.ttf \
+  ../ttf/SystemFont-UltraLight.ttf \
+  ../ttf/SystemFont-Heavy.ttf \
   "Fira System Fonts/FiraSystem.ttc"
 
 sudo chown root:wheel "Fira System Fonts/FiraSystem.ttc"
@@ -25,7 +28,7 @@ zip -x \*.DS\* -r "fira-system-fonts.zip" "Fira System Fonts"
 
 pkgbuild \
   --root "Fira System Fonts" \
-  --version "3.112" \
+  --version "4.100" \
   --filter ".txt" \
   --filter "._" \
   --identifier "de.kutilek.fonts.firasystem.pkg" \
