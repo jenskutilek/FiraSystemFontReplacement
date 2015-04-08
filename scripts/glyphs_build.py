@@ -37,7 +37,7 @@ def setVerticalMetrics(instance):
 	instance.customParameters["winDescent"]    =  200
 
 def setupFeatures(instance):
-	instance.customParameters["Remove Features"] = "sups, subs"
+	instance.customParameters["Remove Features"] = "sups, subs, dnom, numr"
 
 
 def setupInstanceUltraLight(instance):
