@@ -120,7 +120,7 @@ def setupInstanceHeavy(instance):
 	instance.customParameters["postscriptFullName"] = "System Font Heavy"
 	instance.customParameters["weightClass"]        =  750
 
-def generateFonts(font):
+def exportFonts(font):
 	for instance in font.instances:
 		if instance.active:
 			out_path = "~/Quellen/FiraSystemFontReplacement/ttf/SystemFont-%s.ttf" % instance.name
@@ -164,6 +164,6 @@ if __name__ == "__main__":
 	print "Done."
 	
 	print "Generating fonts ..."
-	#generateFonts(f)
-	print "  ** Please generate the fonts manually until this function is fixed."
+	#exportFonts(f)
+	print "  ** Please export the fonts manually until this function is fixed."
 	print "Done."
