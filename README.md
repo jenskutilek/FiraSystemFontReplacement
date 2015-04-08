@@ -3,7 +3,7 @@ Fira System Font Replacement
 
 These fonts are intended as a system font replacement on Mac OS X 10.10 Yosemite.
 
-They are based on the [Fira Sans font family](http://www.carrois.com/fira-3-1/) by Erik Spiekermann and Ralph du Carrois, and are licensed under the Open Font License version 1.1 or later. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
+They are based on version 4.1 of the [Fira Sans font family](http://www.carrois.com/fira-4-1/) by Erik Spiekermann and Ralph du Carrois, and are licensed under the Open Font License version 1.1 or later. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
 
 ![](yosemite-fira.png)
 
@@ -43,4 +43,4 @@ These Fira fonts have a special name table with names identical to those of the 
 
 You can use the [Python FontTools](https://github.com/behdad/fonttools) to compile the provided XML files in the source folder, or to work all other kinds of font magic.
 
-To build the TTC file from the 4 TTFs, you need the [OS X Font Tools](https://developer.apple.com/downloads/index.action?q=fonts) from Apple.
+To build the TTC file from the 7 TTFs, you need the [OS X Font Tools](https://developer.apple.com/downloads/index.action?q=fonts) from Apple.
