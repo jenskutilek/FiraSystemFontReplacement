@@ -4,20 +4,20 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="1348"/>
-    <maxPoints value="311"/>
+    <numGlyphs value="2609"/>
+    <maxPoints value="453"/>
     <maxContours value="19"/>
-    <maxCompositePoints value="95"/>
+    <maxCompositePoints value="92"/>
     <maxCompositeContours value="7"/>
-    <maxZones value="1"/>
+    <maxZones value="0"/>
     <maxTwilightPoints value="0"/>
     <maxStorage value="0"/>
-    <maxFunctionDefs value="0"/>
+    <maxFunctionDefs value="1"/>
     <maxInstructionDefs value="0"/>
-    <maxStackElements value="512"/>
-    <maxSizeOfInstructions value="1023"/>
-    <maxComponentElements value="0"/>
-    <maxComponentDepth value="4"/>
+    <maxStackElements value="0"/>
+    <maxSizeOfInstructions value="0"/>
+    <maxComponentElements value="3"/>
+    <maxComponentDepth value="1"/>
   </maxp>
 
 </ttFont>

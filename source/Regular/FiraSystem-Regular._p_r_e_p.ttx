@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.5">
+
+  <prep>
+    <assembly>
+      SVTCA[0]	/* SetFPVectorToAxis */
+      PUSH[ ]	/* 3 values pushed */
+      0 6 1
+      MPPEM[ ]	/* MeasurePixelPerEm */
+      WS[ ]	/* WriteStore */
+      WS[ ]	/* WriteStore */
+      PUSH[ ]	/* 2 values pushed */
+      61 0
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      8
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSH[ ]	/* 4 values pushed */
+      7 2 2 0
+      RS[ ]	/* ReadStore */
+      RCVT[ ]	/* ReadCVT */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      64
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSH[ ]	/* 3 values pushed */
+      25 2 64
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSH[ ]	/* 2 values pushed */
+      9 2
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      93
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSH[ ]	/* 3 values pushed */
+      9 2 2
+      RS[ ]	/* ReadStore */
+      ROUND[01]	/* Round */
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSH[ ]	/* 3 values pushed */
+      2 10 2
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+      ROUND[01]	/* Round */
+      WS[ ]	/* WriteStore */
+      PUSH[ ]	/* 5 values pushed */
+      -67 0 1 0 0
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      2
+      RS[ ]	/* ReadStore */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSH[ ]	/* 3 values pushed */
+      0 0 64
+      SMD[ ]	/* SetMinimumDistance */
+      WS[ ]	/* WriteStore */
+      PUSH[ ]	/* 2 values pushed */
+      28 0
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      7
+      LT[ ]	/* LessThan */
+      JROF[ ]	/* JumpRelativeOnFalse */
+      PUSH[ ]	/* 9 values pushed */
+      -34 0 1 0 0 4 3 3 0
+      RS[ ]	/* ReadStore */
+      RCVT[ ]	/* ReadCVT */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      ROUND[01]	/* Round */
+      WS[ ]	/* WriteStore */
+      RS[ ]	/* ReadStore */
+      PUSH[ ]	/* 1 value pushed */
+      4
+      RS[ ]	/* ReadStore */
+      WCVTP[ ]	/* WriteCVTInPixels */
+      RS[ ]	/* ReadStore */
+      ADD[ ]	/* Add */
+      WS[ ]	/* WriteStore */
+      JMPR[ ]	/* Jump */
+      PUSH[ ]	/* 1 value pushed */
+      11520
+      SCVTCI[ ]	/* SetCVTCutIn */
+    </assembly>
+  </prep>
+
+</ttFont>
