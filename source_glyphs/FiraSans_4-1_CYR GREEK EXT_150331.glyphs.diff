@@ -1,5 +1,5 @@
 --- FiraSans_4-1_CYR GREEK EXT_150331.glyphs	2015-04-08 23:29:56.000000000 +0200
-+++ FiraSans_4-1_CYR GREEK EXT_150331_.glyphs	2015-04-09 00:24:43.000000000 +0200
++++ FiraSans_4-1_CYR GREEK EXT_150331_.glyphs	2015-04-09 00:30:51.000000000 +0200
 @@ -22,7 +22,7 @@
  name = GreekUCdiphUPSILON;
  }
@@ -109,7 +109,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -173,7 +173,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -233,7 +233,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -293,7 +293,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -348,7 +348,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -408,7 +408,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
@@ -469,7 +469,7 @@
 +},
 +{
 +name = "Remove Features";
-+value = "sups, subs, dnom, numr";
++value = "sups, subs, dnom, numr, frac";
 +},
 +{
 +name = postscriptFontName;
