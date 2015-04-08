@@ -1,0 +1,902 @@
+--- FiraSans_4-1_CYR GREEK EXT_150331.glyphs	2015-04-08 23:29:56.000000000 +0200
++++ FiraSans_4-1_CYR GREEK EXT_150331_.glyphs	2015-04-08 23:30:51.000000000 +0200
+@@ -1,4 +1,7 @@
+ {
++DisplayStrings = (
++n
++);
+ classes = (
+ {
+ automatic = 1;
+@@ -22,7 +25,7 @@
+ name = GreekUCdiphUPSILON;
+ }
+ );
+-copyright = "Digitized data copyright \U00A9 2012-2015, The Mozilla Foundation and Telefonica S.A.";
++copyright = "Digitized data copyright \U00A9 2012-2015, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015 by Jens Kutilek.";
+ customParameters = (
+ {
+ name = openTypeNameLicenseURL;
+@@ -63,7 +66,7 @@
+ date = "2015-03-31 08:18:04 +0000";
+ designer = "Carrois Corporate & Edenspiekermann AG";
+ designerURL = "http://www.carrois.com";
+-familyName = "Fira Sans";
++familyName = "System Font";
+ featurePrefixes = (
+ {
+ code = "languagesystem DFLT dflt;\012languagesystem cyrl dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn MOL;\012languagesystem latn ROM;\012languagesystem latn KAZ;\012languagesystem latn PLK;\012languagesystem latn AZE;\012languagesystem latn CAT;\012languagesystem latn CRT;\012languagesystem latn AFK;\012";
+@@ -105648,7 +105651,7 @@
+ {
+ color = 7;
+ glyphname = Dafrican.sc;
+-lastChange = "2015-03-16 16:30:00 +0000";
++lastChange = "2015-04-08 18:21:15 +0000";
+ layers = (
+ {
+ components = (
+@@ -105658,7 +105661,7 @@
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 514;
++width = 559;
+ },
+ {
+ components = (
+@@ -111813,7 +111816,7 @@
+ {
+ color = 7;
+ glyphname = dcroat.sc;
+-lastChange = "2015-03-16 16:32:45 +0000";
++lastChange = "2015-04-08 18:20:56 +0000";
+ layers = (
+ {
+ components = (
+@@ -111833,7 +111836,7 @@
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 514;
++width = 559;
+ },
+ {
+ components = (
+@@ -112071,7 +112074,7 @@
+ {
+ color = 7;
+ glyphname = dtail.sc;
+-lastChange = "2015-03-16 16:32:45 +0000";
++lastChange = "2015-04-08 18:20:56 +0000";
+ layers = (
+ {
+ components = (
+@@ -112081,7 +112084,7 @@
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 514;
++width = 559;
+ },
+ {
+ components = (
+@@ -152187,7 +152190,7 @@
+ {
+ color = 7;
+ glyphname = "Izhitsadblgrave-cy";
+-lastChange = "2015-03-30 10:50:31 +0000";
++lastChange = "2015-04-08 18:21:15 +0000";
+ layers = (
+ {
+ components = (
+@@ -152196,12 +152199,12 @@
+ },
+ {
+ name = dblgravecomb;
+-transform = "{1, 0, 0, 1, 117, 163}";
++transform = "{1, 0, 0, 1, 118, 163}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 524;
++width = 543;
+ },
+ {
+ components = (
+@@ -214875,7 +214878,7 @@
+ {
+ color = 7;
+ glyphname = Alphadasiavariaprosgegrammeni;
+-lastChange = "2015-03-30 15:56:36 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -214884,12 +214887,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 247, 0}";
++transform = "{1, 0, 0, 1, 269, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 556;
++width = 578;
+ },
+ {
+ components = (
+@@ -214943,7 +214946,7 @@
+ {
+ color = 7;
+ glyphname = Alphapsilioxiaprosgegrammeni;
+-lastChange = "2015-03-30 16:15:50 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -214952,12 +214955,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 247, 0}";
++transform = "{1, 0, 0, 1, 264, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 556;
++width = 573;
+ },
+ {
+ components = (
+@@ -215011,7 +215014,7 @@
+ {
+ color = 7;
+ glyphname = Alphadasiaoxiaprosgegrammeni;
+-lastChange = "2015-03-30 18:23:59 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -215020,12 +215023,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 247, 0}";
++transform = "{1, 0, 0, 1, 264, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 556;
++width = 573;
+ },
+ {
+ components = (
+@@ -216708,7 +216711,7 @@
+ {
+ color = 7;
+ glyphname = Etadasiavariaprosgegrammeni;
+-lastChange = "2015-03-30 15:56:36 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -216717,12 +216720,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 296, 0}";
++transform = "{1, 0, 0, 1, 408, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 654;
++width = 766;
+ },
+ {
+ components = (
+@@ -216776,7 +216779,7 @@
+ {
+ color = 7;
+ glyphname = Etapsilioxiaprosgegrammeni;
+-lastChange = "2015-03-30 16:15:50 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -216785,12 +216788,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 296, 0}";
++transform = "{1, 0, 0, 1, 393, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 654;
++width = 751;
+ },
+ {
+ components = (
+@@ -216844,7 +216847,7 @@
+ {
+ color = 7;
+ glyphname = Etadasiaoxiaprosgegrammeni;
+-lastChange = "2015-03-30 16:21:31 +0000";
++lastChange = "2015-04-08 18:20:57 +0000";
+ layers = (
+ {
+ components = (
+@@ -216853,12 +216856,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 296, 0}";
++transform = "{1, 0, 0, 1, 393, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 654;
++width = 751;
+ },
+ {
+ components = (
+@@ -216912,7 +216915,7 @@
+ {
+ color = 7;
+ glyphname = Etapsiliperispomeniprosgegrammeni;
+-lastChange = "2015-03-30 16:43:02 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -216921,12 +216924,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 296, 0}";
++transform = "{1, 0, 0, 1, 408, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 654;
++width = 766;
+ },
+ {
+ components = (
+@@ -216980,7 +216983,7 @@
+ {
+ color = 7;
+ glyphname = Etadasiaperispomeniprosgegrammeni;
+-lastChange = "2015-03-30 18:23:59 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -216989,12 +216992,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 296, 0}";
++transform = "{1, 0, 0, 1, 408, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 654;
++width = 766;
+ },
+ {
+ components = (
+@@ -219956,7 +219959,7 @@
+ {
+ color = 7;
+ glyphname = Omegadasiavariaprosgegrammeni;
+-lastChange = "2015-03-30 15:56:36 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -219965,12 +219968,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 312, 0}";
++transform = "{1, 0, 0, 1, 414, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 687;
++width = 789;
+ },
+ {
+ components = (
+@@ -220022,7 +220025,7 @@
+ {
+ color = 7;
+ glyphname = Omegapsilioxiaprosgegrammeni;
+-lastChange = "2015-03-30 16:17:37 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -220031,12 +220034,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 312, 0}";
++transform = "{1, 0, 0, 1, 399, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 687;
++width = 774;
+ },
+ {
+ components = (
+@@ -220088,7 +220091,7 @@
+ {
+ color = 7;
+ glyphname = Omegadasiaoxiaprosgegrammeni;
+-lastChange = "2015-03-30 18:23:59 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -220097,12 +220100,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 312, 0}";
++transform = "{1, 0, 0, 1, 399, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 687;
++width = 774;
+ },
+ {
+ components = (
+@@ -220154,7 +220157,7 @@
+ {
+ color = 7;
+ glyphname = Omegapsiliperispomeniprosgegrammeni;
+-lastChange = "2015-03-30 18:23:59 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -220163,12 +220166,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 312, 0}";
++transform = "{1, 0, 0, 1, 374, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 687;
++width = 749;
+ },
+ {
+ components = (
+@@ -220220,7 +220223,7 @@
+ {
+ color = 7;
+ glyphname = Omegadasiaperispomeniprosgegrammeni;
+-lastChange = "2015-03-30 18:23:59 +0000";
++lastChange = "2015-04-08 18:21:13 +0000";
+ layers = (
+ {
+ components = (
+@@ -220229,12 +220232,12 @@
+ },
+ {
+ name = ypogegrammenicomb;
+-transform = "{1, 0, 0, 1, 312, 0}";
++transform = "{1, 0, 0, 1, 374, 0}";
+ }
+ );
+ layerId = "F257A41E-77B2-4FB8-8247-C188CBBE1401";
+ name = Light;
+-width = 687;
++width = 749;
+ },
+ {
+ components = (
+@@ -345734,6 +345737,7 @@
+ );
+ instances = (
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -345764,6 +345768,7 @@
+ weightClass = ExtraLight;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -345794,6 +345799,7 @@
+ weightClass = ExtraLight;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -345824,6 +345830,7 @@
+ weightClass = ExtraLight;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -345857,7 +345864,7 @@
+ customParameters = (
+ {
+ name = weightClass;
+-value = "100";
++value = 250;
+ },
+ {
+ name = panose;
+@@ -345873,9 +345880,53 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-Thin";
++},
++{
++name = postscriptFullName;
++value = "System Font Thin";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 22;
++interpolationWeight = 38;
+ name = Thin;
+ weightClass = Thin;
+ },
+@@ -345883,7 +345934,7 @@
+ customParameters = (
+ {
+ name = weightClass;
+-value = 200;
++value = 100;
+ },
+ {
+ name = panose;
+@@ -345899,13 +345950,58 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-UltraLightP2";
++},
++{
++name = postscriptFullName;
++value = "System Font UltraLight";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 34;
++interpolationWeight = 24;
+ name = UltraLight;
+ weightClass = UltraLight;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = panose;
+@@ -345943,13 +346039,58 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 780;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-Light";
++},
++{
++name = postscriptFullName;
++value = "System Font Light";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 58;
++interpolationWeight = 62;
+ name = Light;
+ weightClass = Light;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -345990,9 +346131,59 @@
+     0,
+     4
+ );
++},
++{
++name = weightClass;
++value = "New Value";
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-Regular";
++},
++{
++name = postscriptFullName;
++value = "System Font Regular";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = (
++    "sups, subs"
++);
+ }
+ );
+-interpolationWeight = 92;
++interpolationWeight = 86;
+ name = Regular;
+ },
+ {
+@@ -346011,13 +346202,58 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-MediumP4";
++},
++{
++name = postscriptFullName;
++value = "System Font Medium P4";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 128;
++interpolationWeight = 120;
+ name = Medium;
+ weightClass = Medium;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = panose;
+@@ -346055,14 +346291,59 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-Bold";
++},
++{
++name = postscriptFullName;
++value = "System Font Bold";
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 158;
++interpolationWeight = 142;
+ isBold = 1;
+ name = Bold;
+ weightClass = Bold;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = panose;
+@@ -346100,13 +346381,62 @@
+     0,
+     4
+ );
++},
++{
++name = hheaAscender;
++value = 900;
++},
++{
++name = hheaDescender;
++value = "-200";
++},
++{
++name = typoAscender;
++value = 951;
++},
++{
++name = typoDescender;
++value = "-200";
++},
++{
++name = typoLineGap;
++value = 0;
++},
++{
++name = winAscent;
++value = 951;
++},
++{
++name = winDescent;
++value = 200;
++},
++{
++name = postscriptFontName;
++value = ".HelveticaNeueDeskInterface-Heavy";
++},
++{
++name = postscriptFullName;
++value = "System Font Heavy";
++},
++{
++name = weightClass;
++value = 750;
++},
++{
++name = hheaLineGap;
++value = 0;
++},
++{
++name = "Remove Features";
++value = "sups, subs";
+ }
+ );
+-interpolationWeight = 198;
++interpolationWeight = 170;
+ name = Heavy;
+ weightClass = Heavy;
+ },
+ {
++active = 0;
+ customParameters = (
+ {
+ name = weightClass;
+@@ -354918,9 +355248,9 @@
+ };
+ };
+ };
+-manufacturer = "Carrois Corporate GbR & Edenspiekermann AG";
+-manufacturerURL = "http://www.carrois.com";
+-unitsPerEm = 1000;
++manufacturer = "Jens Kutilek";
++manufacturerURL = "http://www.kutilek.de/";
++unitsPerEm = 984;
+ userData = {
+ GSDimensionPlugin.Dimensions = {
+ "A11F629A-ECF3-413E-B2EC-6C6F8C33A243" = {
