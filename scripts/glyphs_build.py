@@ -12,6 +12,12 @@ def setUPM(font):
 	if font.upm != 984:
 		font.upm = 984
 
+def fixNotdef(font):
+	pass
+
+def fixAppleLogo(font):
+	pass
+
 def setVerticalMetricsLight(instance):
 	# hhea
 	instance.customParameters["hheaAscender"]  =  780
@@ -115,7 +121,7 @@ def setupInstanceHeavy(instance):
 def generateFonts(font):
 	for instance in font.instances:
 		if instance.active:
-			out_path = "/Users/kuti/Quellen/FiraSystemFontReplacement/ttf/FiraSystem-%s.ttf" % instance.name
+			out_path = "~/Quellen/FiraSystemFontReplacement/ttf/SystemFont-%s.ttf" % instance.name
 			print out_path
 			instance.generate(
 				Format = "TTF",
