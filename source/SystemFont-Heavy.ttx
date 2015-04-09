@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.5">
+  <GlyphOrder src="Heavy/SystemFont-Heavy.GlyphOrder.ttx"/>
+  <head src="Heavy/SystemFont-Heavy._h_e_a_d.ttx"/>
+  <hhea src="Heavy/SystemFont-Heavy._h_h_e_a.ttx"/>
+  <maxp src="Heavy/SystemFont-Heavy._m_a_x_p.ttx"/>
+  <OS_2 src="Heavy/SystemFont-Heavy.O_S_2f_2.ttx"/>
+  <hmtx src="Heavy/SystemFont-Heavy._h_m_t_x.ttx"/>
+  <cmap src="Heavy/SystemFont-Heavy._c_m_a_p.ttx"/>
+  <fpgm src="Heavy/SystemFont-Heavy._f_p_g_m.ttx"/>
+  <prep src="Heavy/SystemFont-Heavy._p_r_e_p.ttx"/>
+  <cvt src="Heavy/SystemFont-Heavy._c_v_t.ttx"/>
+  <loca src="Heavy/SystemFont-Heavy._l_o_c_a.ttx"/>
+  <glyf src="Heavy/SystemFont-Heavy._g_l_y_f.ttx"/>
+  <name src="Heavy/SystemFont-Heavy._n_a_m_e.ttx"/>
+  <post src="Heavy/SystemFont-Heavy._p_o_s_t.ttx"/>
+  <gasp src="Heavy/SystemFont-Heavy._g_a_s_p.ttx"/>
+  <GDEF src="Heavy/SystemFont-Heavy.G_D_E_F_.ttx"/>
+  <GPOS src="Heavy/SystemFont-Heavy.G_P_O_S_.ttx"/>
+  <GSUB src="Heavy/SystemFont-Heavy.G_S_U_B_.ttx"/>
+  <DSIG src="Heavy/SystemFont-Heavy.D_S_I_G_.ttx"/>
+</ttFont>

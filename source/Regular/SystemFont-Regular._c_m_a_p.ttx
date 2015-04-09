@@ -1688,10 +1688,7 @@
       <map code="0xa7b6" name="uniA7B6"/><!-- ???? -->
       <map code="0xa7b7" name="uniA7B7"/><!-- ???? -->
       <map code="0xab53" name="uniAB53"/><!-- ???? -->
-      <map code="0xe000" name="uniE000"/><!-- ???? -->
-      <map code="0xe001" name="uniE001"/><!-- ???? -->
-      <map code="0xe002" name="uniE002"/><!-- ???? -->
-      <map code="0xe003" name="uniE003"/><!-- ???? -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
@@ -3381,10 +3378,7 @@
       <map code="0xa7b6" name="uniA7B6"/><!-- ???? -->
       <map code="0xa7b7" name="uniA7B7"/><!-- ???? -->
       <map code="0xab53" name="uniAB53"/><!-- ???? -->
-      <map code="0xe000" name="uniE000"/><!-- ???? -->
-      <map code="0xe001" name="uniE001"/><!-- ???? -->
-      <map code="0xe002" name="uniE002"/><!-- ???? -->
-      <map code="0xe003" name="uniE003"/><!-- ???? -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
@@ -3622,7 +3616,7 @@
       <map code="0xed" name="Igrave"/>
       <map code="0xee" name="Oacute"/>
       <map code="0xef" name="Ocircumflex"/>
-      <map code="0xf0" name=".notdef"/>
+      <map code="0xf0" name="uniF8FF"/>
       <map code="0xf1" name="Ograve"/>
       <map code="0xf2" name="Uacute"/>
       <map code="0xf3" name="Ucircumflex"/>
@@ -5324,10 +5318,7 @@
       <map code="0xa7b6" name="uniA7B6"/><!-- ???? -->
       <map code="0xa7b7" name="uniA7B7"/><!-- ???? -->
       <map code="0xab53" name="uniAB53"/><!-- ???? -->
-      <map code="0xe000" name="uniE000"/><!-- ???? -->
-      <map code="0xe001" name="uniE001"/><!-- ???? -->
-      <map code="0xe002" name="uniE002"/><!-- ???? -->
-      <map code="0xe003" name="uniE003"/><!-- ???? -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
@@ -7017,10 +7008,7 @@
       <map code="0xa7b6" name="uniA7B6"/><!-- ???? -->
       <map code="0xa7b7" name="uniA7B7"/><!-- ???? -->
       <map code="0xab53" name="uniAB53"/><!-- ???? -->
-      <map code="0xe000" name="uniE000"/><!-- ???? -->
-      <map code="0xe001" name="uniE001"/><!-- ???? -->
-      <map code="0xe002" name="uniE002"/><!-- ???? -->
-      <map code="0xe003" name="uniE003"/><!-- ???? -->
+      <map code="0xf8ff" name="uniF8FF"/><!-- ???? -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
       <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
       <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->

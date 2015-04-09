@@ -3,10 +3,10 @@
 
   <OS_2>
     <version value="3"/>
-    <xAvgCharWidth value="544"/>
+    <xAvgCharWidth value="572"/>
     <usWeightClass value="700"/>
     <usWidthClass value="5"/>
-    <fsType value="00000001 00000100"/>
+    <fsType value="00000000 00000000"/>
     <ySubscriptXSize value="639"/>
     <ySubscriptYSize value="590"/>
     <ySubscriptXOffset value="0"/>
@@ -15,41 +15,41 @@
     <ySuperscriptYSize value="590"/>
     <ySuperscriptXOffset value="0"/>
     <ySuperscriptYOffset value="344"/>
-    <yStrikeoutSize value="0"/>
-    <yStrikeoutPosition value="320"/>
+    <yStrikeoutSize value="50"/>
+    <yStrikeoutPosition value="318"/>
     <sFamilyClass value="0"/>
     <panose>
-      <bFamilyType value="0"/>
-      <bSerifStyle value="0"/>
-      <bWeight value="0"/>
-      <bProportion value="0"/>
-      <bContrast value="0"/>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="11"/>
+      <bWeight value="8"/>
+      <bProportion value="3"/>
+      <bContrast value="5"/>
       <bStrokeVariation value="0"/>
       <bArmStyle value="0"/>
-      <bLetterForm value="0"/>
+      <bLetterForm value="2"/>
       <bMidline value="0"/>
-      <bXHeight value="0"/>
+      <bXHeight value="4"/>
     </panose>
-    <ulUnicodeRange1 value="00000000 00000000 00000010 10000111"/>
+    <ulUnicodeRange1 value="01100000 00000000 00000010 11111111"/>
     <ulUnicodeRange2 value="00000010 00000000 00000000 00000001"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="jens"/>
-    <fsSelection value="00000000 00100000"/>
-    <fsFirstCharIndex value="0"/>
+    <fsSelection value="00000000 10100000"/>
+    <fsFirstCharIndex value="13"/>
     <fsLastCharIndex value="65535"/>
     <sTypoAscender value="951"/>
     <sTypoDescender value="-200"/>
     <sTypoLineGap value="0"/>
     <usWinAscent value="951"/>
     <usWinDescent value="200"/>
-    <ulCodePageRange1 value="00100000 00000000 00000000 10011111"/>
+    <ulCodePageRange1 value="00100000 00000000 00000001 10011111"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="534"/>
-    <sCapHeight value="696"/>
+    <sxHeight value="530"/>
+    <sCapHeight value="692"/>
     <usDefaultChar value="0"/>
     <usBreakChar value="32"/>
-    <usMaxContex value="2"/>
+    <usMaxContex value="3"/>
   </OS_2>
 
 </ttFont>

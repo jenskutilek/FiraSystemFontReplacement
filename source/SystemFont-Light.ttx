@@ -7,10 +7,16 @@
   <OS_2 src="Light/SystemFont-Light.O_S_2f_2.ttx"/>
   <hmtx src="Light/SystemFont-Light._h_m_t_x.ttx"/>
   <cmap src="Light/SystemFont-Light._c_m_a_p.ttx"/>
+  <fpgm src="Light/SystemFont-Light._f_p_g_m.ttx"/>
+  <prep src="Light/SystemFont-Light._p_r_e_p.ttx"/>
+  <cvt src="Light/SystemFont-Light._c_v_t.ttx"/>
   <loca src="Light/SystemFont-Light._l_o_c_a.ttx"/>
   <glyf src="Light/SystemFont-Light._g_l_y_f.ttx"/>
   <name src="Light/SystemFont-Light._n_a_m_e.ttx"/>
   <post src="Light/SystemFont-Light._p_o_s_t.ttx"/>
+  <gasp src="Light/SystemFont-Light._g_a_s_p.ttx"/>
+  <GDEF src="Light/SystemFont-Light.G_D_E_F_.ttx"/>
   <GPOS src="Light/SystemFont-Light.G_P_O_S_.ttx"/>
   <GSUB src="Light/SystemFont-Light.G_S_U_B_.ttx"/>
+  <DSIG src="Light/SystemFont-Light.D_S_I_G_.ttx"/>
 </ttFont>

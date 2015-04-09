@@ -2,7 +2,7 @@
 <ttFont ttLibVersion="2.5">
 
   <hmtx>
-    <mtx name=".notdef" width="666" lsb="123"/>
+    <mtx name=".notdef" width="500" lsb="50"/>
     <mtx name="A" width="572" lsb="8"/>
     <mtx name="AE" width="810" lsb="-10"/>
     <mtx name="AEacute" width="810" lsb="-10"/>
@@ -49,9 +49,9 @@
     <mtx name="Eta" width="678" lsb="102"/>
     <mtx name="Etatonos" width="774" lsb="30"/>
     <mtx name="Eth" width="653" lsb="20"/>
-    <mtx name="Euro" width="575" lsb="27"/>
+    <mtx name="Euro" width="556" lsb="25"/>
+    <mtx name="Euro.lf" width="575" lsb="27"/>
     <mtx name="Euro.osf" width="575" lsb="27"/>
-    <mtx name="Euro.tf" width="560" lsb="27"/>
     <mtx name="Euro.tosf" width="560" lsb="44"/>
     <mtx name="F" width="489" lsb="102"/>
     <mtx name="G" width="629" lsb="57"/>
@@ -221,9 +221,9 @@
     <mtx name="anoteleia" width="234" lsb="51"/>
     <mtx name="aogonek" width="543" lsb="47"/>
     <mtx name="aogonek.sc" width="504" lsb="8"/>
-    <mtx name="approxequal" width="485" lsb="38"/>
+    <mtx name="approxequal" width="556" lsb="73"/>
+    <mtx name="approxequal.lf" width="485" lsb="38"/>
     <mtx name="approxequal.osf" width="485" lsb="38"/>
-    <mtx name="approxequal.tf" width="560" lsb="75"/>
     <mtx name="approxequal.tosf" width="560" lsb="75"/>
     <mtx name="aring" width="543" lsb="47"/>
     <mtx name="aring.sc" width="504" lsb="8"/>
@@ -236,9 +236,9 @@
     <mtx name="arrowup" width="900" lsb="140"/>
     <mtx name="arrowupdn" width="900" lsb="140"/>
     <mtx name="asciicircum" width="538" lsb="43"/>
-    <mtx name="asciitilde" width="485" lsb="38"/>
+    <mtx name="asciitilde" width="556" lsb="73"/>
+    <mtx name="asciitilde.lf" width="485" lsb="38"/>
     <mtx name="asciitilde.osf" width="485" lsb="38"/>
-    <mtx name="asciitilde.tf" width="560" lsb="75"/>
     <mtx name="asciitilde.tosf" width="560" lsb="75"/>
     <mtx name="asterisk" width="438" lsb="22"/>
     <mtx name="at" width="1020" lsb="73"/>
@@ -287,10 +287,10 @@
     <mtx name="cedilla" width="270" lsb="30"/>
     <mtx name="cedilla.case" width="284" lsb="30"/>
     <mtx name="cedilla.sc" width="270" lsb="30"/>
-    <mtx name="cent" width="476" lsb="58"/>
+    <mtx name="cent" width="556" lsb="85"/>
+    <mtx name="cent.lf" width="476" lsb="58"/>
     <mtx name="cent.osf" width="476" lsb="58"/>
-    <mtx name="cent.tf" width="560" lsb="87"/>
-    <mtx name="cent.tosf" width="560" lsb="87"/>
+    <mtx name="cent.tosf" width="560" lsb="85"/>
     <mtx name="chi" width="462" lsb="-4"/>
     <mtx name="chi.sc" width="473" lsb="6"/>
     <mtx name="circumflex" width="386" lsb="30"/>
@@ -299,27 +299,27 @@
     <mtx name="colon" width="234" lsb="51"/>
     <mtx name="comma" width="234" lsb="38"/>
     <mtx name="copyright" width="810" lsb="95"/>
-    <mtx name="currency" width="560" lsb="33"/>
+    <mtx name="currency" width="556" lsb="31"/>
+    <mtx name="currency.lf" width="560" lsb="33"/>
     <mtx name="currency.osf" width="560" lsb="33"/>
-    <mtx name="currency.tf" width="560" lsb="33"/>
     <mtx name="currency.tosf" width="560" lsb="33"/>
     <mtx name="d" width="596" lsb="63"/>
     <mtx name="d.sc" width="585" lsb="102"/>
-    <mtx name="dagger" width="509" lsb="44"/>
+    <mtx name="dagger" width="556" lsb="57"/>
+    <mtx name="dagger.lf" width="509" lsb="44"/>
     <mtx name="dagger.osf" width="509" lsb="44"/>
-    <mtx name="dagger.tf" width="560" lsb="59"/>
     <mtx name="dagger.tosf" width="560" lsb="69"/>
-    <mtx name="daggerdbl" width="510" lsb="44"/>
+    <mtx name="daggerdbl" width="556" lsb="55"/>
+    <mtx name="daggerdbl.lf" width="510" lsb="44"/>
     <mtx name="daggerdbl.osf" width="510" lsb="44"/>
-    <mtx name="daggerdbl.tf" width="560" lsb="59"/>
     <mtx name="daggerdbl.tosf" width="560" lsb="69"/>
     <mtx name="dcaron" width="596" lsb="63"/>
     <mtx name="dcaron.sc" width="585" lsb="102"/>
     <mtx name="dcroat" width="604" lsb="63"/>
     <mtx name="dcroat.sc" width="585" lsb="42"/>
-    <mtx name="degree" width="523" lsb="57"/>
+    <mtx name="degree" width="556" lsb="75"/>
+    <mtx name="degree.lf" width="523" lsb="57"/>
     <mtx name="degree.osf" width="523" lsb="57"/>
-    <mtx name="degree.tf" width="560" lsb="77"/>
     <mtx name="degree.tosf" width="560" lsb="77"/>
     <mtx name="delta" width="577" lsb="58"/>
     <mtx name="delta.sc" width="513" lsb="8"/>
@@ -327,13 +327,13 @@
     <mtx name="dieresis.case" width="375" lsb="30"/>
     <mtx name="dieresis.sc" width="375" lsb="30"/>
     <mtx name="dieresistonos" width="375" lsb="30"/>
-    <mtx name="divide" width="499" lsb="63"/>
+    <mtx name="divide" width="556" lsb="92"/>
+    <mtx name="divide.lf" width="499" lsb="63"/>
     <mtx name="divide.osf" width="499" lsb="63"/>
-    <mtx name="divide.tf" width="560" lsb="94"/>
     <mtx name="divide.tosf" width="560" lsb="94"/>
-    <mtx name="dollar" width="530" lsb="27"/>
+    <mtx name="dollar" width="556" lsb="35"/>
+    <mtx name="dollar.lf" width="530" lsb="27"/>
     <mtx name="dollar.osf" width="530" lsb="27"/>
-    <mtx name="dollar.tf" width="560" lsb="37"/>
     <mtx name="dollar.tosf" width="560" lsb="44"/>
     <mtx name="dotaccent" width="182" lsb="30"/>
     <mtx name="dotaccent.case" width="181" lsb="30"/>
@@ -358,11 +358,11 @@
     <mtx name="edotaccent.sc" width="486" lsb="102"/>
     <mtx name="egrave" width="548" lsb="58"/>
     <mtx name="egrave.sc" width="486" lsb="102"/>
-    <mtx name="eight" width="549" lsb="46"/>
+    <mtx name="eight" width="556" lsb="47"/>
     <mtx name="eight.dnom" width="400" lsb="44"/>
+    <mtx name="eight.lf" width="549" lsb="46"/>
     <mtx name="eight.numr" width="400" lsb="44"/>
     <mtx name="eight.osf" width="549" lsb="46"/>
-    <mtx name="eight.tf" width="560" lsb="49"/>
     <mtx name="eight.tosf" width="560" lsb="53"/>
     <mtx name="ellipsis" width="719" lsb="51"/>
     <mtx name="emacron" width="548" lsb="58"/>
@@ -381,11 +381,11 @@
     <mtx name="epsilon.sc" width="486" lsb="102"/>
     <mtx name="epsilontonos" width="467" lsb="58"/>
     <mtx name="epsilontonos.sc" width="486" lsb="102"/>
-    <mtx name="equal" width="499" lsb="63"/>
+    <mtx name="equal" width="556" lsb="92"/>
     <mtx name="equal.dnom" width="400" lsb="75"/>
+    <mtx name="equal.lf" width="499" lsb="63"/>
     <mtx name="equal.numr" width="400" lsb="75"/>
     <mtx name="equal.osf" width="499" lsb="63"/>
-    <mtx name="equal.tf" width="560" lsb="94"/>
     <mtx name="equal.tosf" width="560" lsb="94"/>
     <mtx name="estimated" width="945" lsb="70"/>
     <mtx name="eta" width="591" lsb="77"/>
@@ -414,25 +414,25 @@
     <mtx name="f_l.sc" width="900" lsb="102"/>
     <mtx name="fi" width="573" lsb="12"/>
     <mtx name="fi.sc" width="737" lsb="102"/>
-    <mtx name="figuredash" width="560" lsb="27"/>
+    <mtx name="figuredash" width="556" lsb="25"/>
+    <mtx name="figuredash.lf" width="560" lsb="27"/>
     <mtx name="figuredash.osf" width="560" lsb="27"/>
-    <mtx name="figuredash.tf" width="560" lsb="27"/>
     <mtx name="figuredash.tosf" width="560" lsb="27"/>
-    <mtx name="five" width="498" lsb="27"/>
+    <mtx name="five" width="556" lsb="50"/>
     <mtx name="five.dnom" width="400" lsb="54"/>
+    <mtx name="five.lf" width="498" lsb="27"/>
     <mtx name="five.numr" width="400" lsb="54"/>
     <mtx name="five.osf" width="489" lsb="22"/>
-    <mtx name="five.tf" width="560" lsb="52"/>
     <mtx name="five.tosf" width="560" lsb="53"/>
     <mtx name="fiveeighths" width="929" lsb="54"/>
     <mtx name="fl" width="590" lsb="12"/>
     <mtx name="fl.sc" width="900" lsb="102"/>
     <mtx name="florin" width="338" lsb="9"/>
-    <mtx name="four" width="530" lsb="41"/>
+    <mtx name="four" width="556" lsb="49"/>
     <mtx name="four.dnom" width="400" lsb="44"/>
+    <mtx name="four.lf" width="530" lsb="41"/>
     <mtx name="four.numr" width="400" lsb="44"/>
     <mtx name="four.osf" width="489" lsb="21"/>
-    <mtx name="four.tf" width="560" lsb="51"/>
     <mtx name="four.tosf" width="560" lsb="53"/>
     <mtx name="fraction" width="129" lsb="-167"/>
     <mtx name="g" width="517" lsb="26"/>
@@ -457,13 +457,13 @@
     <mtx name="gravecomb" width="0" lsb="-265"/>
     <mtx name="gravecomb.case" width="0" lsb="-261"/>
     <mtx name="gravecomb.sc" width="295" lsb="30"/>
-    <mtx name="greater" width="499" lsb="52"/>
+    <mtx name="greater" width="556" lsb="80"/>
+    <mtx name="greater.lf" width="499" lsb="52"/>
     <mtx name="greater.osf" width="499" lsb="52"/>
-    <mtx name="greater.tf" width="560" lsb="82"/>
     <mtx name="greater.tosf" width="560" lsb="82"/>
-    <mtx name="greaterequal" width="499" lsb="52"/>
+    <mtx name="greaterequal" width="556" lsb="80"/>
+    <mtx name="greaterequal.lf" width="499" lsb="52"/>
     <mtx name="greaterequal.osf" width="499" lsb="52"/>
-    <mtx name="greaterequal.tf" width="560" lsb="82"/>
     <mtx name="greaterequal.tosf" width="560" lsb="82"/>
     <mtx name="guillemotleft" width="572" lsb="58"/>
     <mtx name="guillemotleft.case" width="572" lsb="58"/>
@@ -505,14 +505,14 @@
     <mtx name="ij.sc" width="574" lsb="102"/>
     <mtx name="imacron" width="280" lsb="6"/>
     <mtx name="imacron.sc" width="290" lsb="11"/>
-    <mtx name="infinity" width="892" lsb="57"/>
+    <mtx name="infinity" width="900" lsb="60"/>
     <mtx name="infinity.case" width="892" lsb="57"/>
+    <mtx name="infinity.lf" width="892" lsb="57"/>
     <mtx name="infinity.osf" width="892" lsb="57"/>
-    <mtx name="infinity.tf" width="900" lsb="60"/>
     <mtx name="infinity.tosf" width="900" lsb="60"/>
-    <mtx name="integral" width="372" lsb="-38"/>
+    <mtx name="integral" width="556" lsb="54"/>
+    <mtx name="integral.lf" width="372" lsb="-38"/>
     <mtx name="integral.osf" width="372" lsb="-38"/>
-    <mtx name="integral.tf" width="560" lsb="56"/>
     <mtx name="integral.tosf" width="560" lsb="56"/>
     <mtx name="iogonek" width="280" lsb="-16"/>
     <mtx name="iogonek.sc" width="290" lsb="-10"/>
@@ -552,21 +552,21 @@
     <mtx name="lcommaaccent.sc" width="453" lsb="102"/>
     <mtx name="ldot" width="327" lsb="92"/>
     <mtx name="ldot.sc" width="453" lsb="102"/>
-    <mtx name="less" width="499" lsb="52"/>
+    <mtx name="less" width="556" lsb="80"/>
+    <mtx name="less.lf" width="499" lsb="52"/>
     <mtx name="less.osf" width="499" lsb="52"/>
-    <mtx name="less.tf" width="560" lsb="82"/>
     <mtx name="less.tosf" width="560" lsb="82"/>
-    <mtx name="lessequal" width="499" lsb="52"/>
+    <mtx name="lessequal" width="556" lsb="80"/>
+    <mtx name="lessequal.lf" width="499" lsb="52"/>
     <mtx name="lessequal.osf" width="499" lsb="52"/>
-    <mtx name="lessequal.tf" width="560" lsb="82"/>
     <mtx name="lessequal.tosf" width="560" lsb="82"/>
-    <mtx name="logicalnot" width="500" lsb="63"/>
+    <mtx name="logicalnot" width="556" lsb="91"/>
+    <mtx name="logicalnot.lf" width="500" lsb="63"/>
     <mtx name="logicalnot.osf" width="500" lsb="63"/>
-    <mtx name="logicalnot.tf" width="560" lsb="93"/>
     <mtx name="logicalnot.tosf" width="560" lsb="93"/>
-    <mtx name="lozenge" width="527" lsb="31"/>
+    <mtx name="lozenge" width="556" lsb="41"/>
+    <mtx name="lozenge.lf" width="527" lsb="31"/>
     <mtx name="lozenge.osf" width="527" lsb="31"/>
-    <mtx name="lozenge.tf" width="560" lsb="43"/>
     <mtx name="lozenge.tosf" width="560" lsb="48"/>
     <mtx name="lslash" width="310" lsb="13"/>
     <mtx name="lslash.sc" width="457" lsb="24"/>
@@ -575,17 +575,17 @@
     <mtx name="macron" width="327" lsb="30"/>
     <mtx name="macron.case" width="327" lsb="30"/>
     <mtx name="macron.sc" width="327" lsb="30"/>
-    <mtx name="minus" width="499" lsb="63"/>
+    <mtx name="minus" width="556" lsb="92"/>
     <mtx name="minus.dnom" width="400" lsb="75"/>
+    <mtx name="minus.lf" width="499" lsb="63"/>
     <mtx name="minus.numr" width="400" lsb="75"/>
     <mtx name="minus.osf" width="499" lsb="63"/>
-    <mtx name="minus.tf" width="560" lsb="94"/>
     <mtx name="minus.tosf" width="560" lsb="94"/>
     <mtx name="mu" width="588" lsb="97"/>
     <mtx name="mu.sc" width="714" lsb="63"/>
-    <mtx name="multiply" width="499" lsb="74"/>
+    <mtx name="multiply" width="556" lsb="103"/>
+    <mtx name="multiply.lf" width="499" lsb="74"/>
     <mtx name="multiply.osf" width="499" lsb="74"/>
-    <mtx name="multiply.tf" width="560" lsb="105"/>
     <mtx name="multiply.tosf" width="560" lsb="105"/>
     <mtx name="n" width="586" lsb="97"/>
     <mtx name="n.sc" width="624" lsb="102"/>
@@ -599,26 +599,26 @@
     <mtx name="ncaron.sc" width="624" lsb="102"/>
     <mtx name="ncommaaccent" width="586" lsb="97"/>
     <mtx name="ncommaaccent.sc" width="624" lsb="102"/>
-    <mtx name="nine" width="524" lsb="46"/>
+    <mtx name="nine" width="556" lsb="51"/>
     <mtx name="nine.dnom" width="400" lsb="52"/>
+    <mtx name="nine.lf" width="524" lsb="46"/>
     <mtx name="nine.numr" width="400" lsb="52"/>
     <mtx name="nine.osf" width="525" lsb="46"/>
-    <mtx name="nine.tf" width="560" lsb="53"/>
     <mtx name="nine.tosf" width="560" lsb="56"/>
     <mtx name="nonmarkingreturn" width="267" lsb="0"/>
-    <mtx name="notequal" width="499" lsb="63"/>
+    <mtx name="notequal" width="556" lsb="92"/>
+    <mtx name="notequal.lf" width="499" lsb="63"/>
     <mtx name="notequal.osf" width="499" lsb="63"/>
-    <mtx name="notequal.tf" width="560" lsb="94"/>
     <mtx name="notequal.tosf" width="560" lsb="94"/>
     <mtx name="ntilde" width="586" lsb="97"/>
     <mtx name="ntilde.sc" width="624" lsb="102"/>
     <mtx name="nu" width="478" lsb="-3"/>
     <mtx name="nu.sc" width="624" lsb="102"/>
     <mtx name="null" width="0" lsb="0"/>
-    <mtx name="numbersign" width="515" lsb="15"/>
+    <mtx name="numbersign" width="556" lsb="35"/>
+    <mtx name="numbersign.lf" width="515" lsb="15"/>
     <mtx name="numbersign.osf" width="515" lsb="15"/>
-    <mtx name="numbersign.tf" width="560" lsb="37"/>
-    <mtx name="numbersign.tosf" width="560" lsb="37"/>
+    <mtx name="numbersign.tosf" width="560" lsb="35"/>
     <mtx name="o" width="582" lsb="58"/>
     <mtx name="o.sc" width="619" lsb="57"/>
     <mtx name="oacute" width="582" lsb="58"/>
@@ -661,11 +661,11 @@
     <mtx name="omicron.sc" width="619" lsb="57"/>
     <mtx name="omicrontonos" width="582" lsb="58"/>
     <mtx name="omicrontonos.sc" width="619" lsb="57"/>
-    <mtx name="one" width="429" lsb="36"/>
+    <mtx name="one" width="556" lsb="81"/>
     <mtx name="one.dnom" width="400" lsb="68"/>
+    <mtx name="one.lf" width="429" lsb="36"/>
     <mtx name="one.numr" width="400" lsb="68"/>
     <mtx name="one.osf" width="420" lsb="36"/>
-    <mtx name="one.tf" width="560" lsb="83"/>
     <mtx name="one.tosf" width="560" lsb="79"/>
     <mtx name="oneeighth" width="929" lsb="68"/>
     <mtx name="onehalf" width="929" lsb="68"/>
@@ -689,37 +689,37 @@
     <mtx name="parenright.case" width="324" lsb="42"/>
     <mtx name="parenright.dnom" width="396" lsb="117"/>
     <mtx name="parenright.numr" width="396" lsb="117"/>
-    <mtx name="partialdiff" width="509" lsb="32"/>
+    <mtx name="partialdiff" width="556" lsb="50"/>
+    <mtx name="partialdiff.lf" width="509" lsb="32"/>
     <mtx name="partialdiff.osf" width="509" lsb="32"/>
-    <mtx name="partialdiff.tf" width="560" lsb="52"/>
     <mtx name="partialdiff.tosf" width="560" lsb="60"/>
-    <mtx name="percent" width="820" lsb="46"/>
+    <mtx name="percent" width="900" lsb="86"/>
+    <mtx name="percent.lf" width="820" lsb="46"/>
     <mtx name="percent.osf" width="820" lsb="46"/>
-    <mtx name="percent.tf" width="900" lsb="86"/>
     <mtx name="percent.tosf" width="900" lsb="86"/>
     <mtx name="period" width="234" lsb="51"/>
     <mtx name="periodcentered" width="234" lsb="51"/>
-    <mtx name="perthousand" width="1180" lsb="46"/>
+    <mtx name="perthousand" width="1200" lsb="56"/>
+    <mtx name="perthousand.lf" width="1180" lsb="46"/>
     <mtx name="perthousand.osf" width="1180" lsb="46"/>
-    <mtx name="perthousand.tf" width="1200" lsb="56"/>
     <mtx name="perthousand.tosf" width="1200" lsb="56"/>
     <mtx name="phi" width="731" lsb="67"/>
     <mtx name="phi.sc" width="717" lsb="36"/>
     <mtx name="pi" width="593" lsb="17"/>
     <mtx name="pi.sc" width="618" lsb="102"/>
-    <mtx name="plus" width="498" lsb="63"/>
+    <mtx name="plus" width="556" lsb="92"/>
     <mtx name="plus.dnom" width="401" lsb="75"/>
+    <mtx name="plus.lf" width="498" lsb="63"/>
     <mtx name="plus.numr" width="401" lsb="75"/>
     <mtx name="plus.osf" width="498" lsb="63"/>
-    <mtx name="plus.tf" width="560" lsb="94"/>
     <mtx name="plus.tosf" width="560" lsb="94"/>
-    <mtx name="plusminus" width="499" lsb="63"/>
+    <mtx name="plusminus" width="556" lsb="91"/>
+    <mtx name="plusminus.lf" width="499" lsb="63"/>
     <mtx name="plusminus.osf" width="499" lsb="63"/>
-    <mtx name="plusminus.tf" width="560" lsb="93"/>
     <mtx name="plusminus.tosf" width="560" lsb="93"/>
-    <mtx name="product" width="598" lsb="59"/>
+    <mtx name="product" width="556" lsb="38"/>
+    <mtx name="product.lf" width="598" lsb="59"/>
     <mtx name="product.osf" width="598" lsb="59"/>
-    <mtx name="product.tf" width="560" lsb="40"/>
     <mtx name="product.tosf" width="560" lsb="40"/>
     <mtx name="psi" width="752" lsb="82"/>
     <mtx name="psi.sc" width="616" lsb="36"/>
@@ -740,9 +740,9 @@
     <mtx name="r.sc" width="549" lsb="102"/>
     <mtx name="racute" width="384" lsb="97"/>
     <mtx name="racute.sc" width="549" lsb="102"/>
-    <mtx name="radical" width="560" lsb="45"/>
+    <mtx name="radical" width="556" lsb="43"/>
+    <mtx name="radical.lf" width="560" lsb="45"/>
     <mtx name="radical.osf" width="560" lsb="45"/>
-    <mtx name="radical.tf" width="560" lsb="45"/>
     <mtx name="radical.tosf" width="560" lsb="45"/>
     <mtx name="rcaron" width="384" lsb="74"/>
     <mtx name="rcaron.sc" width="549" lsb="102"/>
@@ -768,16 +768,16 @@
     <mtx name="scircumflex.sc" width="489" lsb="27"/>
     <mtx name="scommaaccent" width="466" lsb="27"/>
     <mtx name="scommaaccent.sc" width="489" lsb="27"/>
-    <mtx name="section" width="533" lsb="72"/>
+    <mtx name="section" width="556" lsb="79"/>
+    <mtx name="section.lf" width="533" lsb="72"/>
     <mtx name="section.osf" width="533" lsb="72"/>
-    <mtx name="section.tf" width="560" lsb="81"/>
     <mtx name="section.tosf" width="560" lsb="86"/>
     <mtx name="semicolon" width="234" lsb="38"/>
-    <mtx name="seven" width="443" lsb="26"/>
+    <mtx name="seven" width="556" lsb="75"/>
     <mtx name="seven.dnom" width="400" lsb="68"/>
+    <mtx name="seven.lf" width="443" lsb="26"/>
     <mtx name="seven.numr" width="400" lsb="68"/>
     <mtx name="seven.osf" width="448" lsb="15"/>
-    <mtx name="seven.tf" width="560" lsb="77"/>
     <mtx name="seven.tosf" width="560" lsb="53"/>
     <mtx name="seveneighths" width="868" lsb="68"/>
     <mtx name="sigma" width="585" lsb="58"/>
@@ -786,22 +786,22 @@
     <mtx name="sigmalunatedottedsymbol.sc" width="531" lsb="57"/>
     <mtx name="sigmalunatereversedsymbol.sc" width="525" lsb="20"/>
     <mtx name="sigmalunatesymbol.sc" width="525" lsb="57"/>
-    <mtx name="six" width="531" lsb="57"/>
+    <mtx name="six" width="556" lsb="64"/>
     <mtx name="six.dnom" width="400" lsb="51"/>
+    <mtx name="six.lf" width="531" lsb="57"/>
     <mtx name="six.numr" width="400" lsb="51"/>
     <mtx name="six.osf" width="539" lsb="57"/>
-    <mtx name="six.tf" width="560" lsb="66"/>
     <mtx name="six.tosf" width="560" lsb="66"/>
     <mtx name="slash" width="520" lsb="107"/>
     <mtx name="space" width="267" lsb="0"/>
     <mtx name="space.frac" width="40" lsb="0"/>
-    <mtx name="sterling" width="523" lsb="42"/>
+    <mtx name="sterling" width="556" lsb="60"/>
+    <mtx name="sterling.lf" width="523" lsb="42"/>
     <mtx name="sterling.osf" width="523" lsb="42"/>
-    <mtx name="sterling.tf" width="560" lsb="62"/>
     <mtx name="sterling.tosf" width="560" lsb="72"/>
-    <mtx name="summation" width="500" lsb="51"/>
+    <mtx name="summation" width="556" lsb="68"/>
+    <mtx name="summation.lf" width="500" lsb="51"/>
     <mtx name="summation.osf" width="500" lsb="51"/>
-    <mtx name="summation.tf" width="560" lsb="70"/>
     <mtx name="summation.tosf" width="560" lsb="80"/>
     <mtx name="t" width="358" lsb="11"/>
     <mtx name="t.sc" width="452" lsb="15"/>
@@ -816,11 +816,11 @@
     <mtx name="thetasymbol.sc" width="619" lsb="57"/>
     <mtx name="thorn" width="592" lsb="97"/>
     <mtx name="thorn.sc" width="528" lsb="102"/>
-    <mtx name="three" width="497" lsb="16"/>
+    <mtx name="three" width="556" lsb="31"/>
     <mtx name="three.dnom" width="400" lsb="54"/>
+    <mtx name="three.lf" width="497" lsb="16"/>
     <mtx name="three.numr" width="400" lsb="54"/>
     <mtx name="three.osf" width="487" lsb="12"/>
-    <mtx name="three.tf" width="560" lsb="33"/>
     <mtx name="three.tosf" width="560" lsb="42"/>
     <mtx name="threeeighths" width="929" lsb="54"/>
     <mtx name="threequarters" width="929" lsb="54"/>
@@ -833,11 +833,11 @@
     <mtx name="tonos" width="187" lsb="30"/>
     <mtx name="tonos.case" width="96" lsb="30"/>
     <mtx name="trademark" width="879" lsb="36"/>
-    <mtx name="two" width="492" lsb="26"/>
+    <mtx name="two" width="556" lsb="45"/>
     <mtx name="two.dnom" width="400" lsb="57"/>
+    <mtx name="two.lf" width="492" lsb="26"/>
     <mtx name="two.numr" width="400" lsb="57"/>
     <mtx name="two.osf" width="494" lsb="16"/>
-    <mtx name="two.tf" width="560" lsb="47"/>
     <mtx name="two.tosf" width="560" lsb="47"/>
     <mtx name="u" width="582" lsb="92"/>
     <mtx name="u.sc" width="603" lsb="92"/>
@@ -946,7 +946,7 @@
     <mtx name="uni01B9.sc" width="466" lsb="45"/>
     <mtx name="uni01BA" width="467" lsb="26"/>
     <mtx name="uni01BB" width="492" lsb="26"/>
-    <mtx name="uni01BC" width="508" lsb="27"/>
+    <mtx name="uni01BC" width="508" lsb="25"/>
     <mtx name="uni01BD" width="449" lsb="31"/>
     <mtx name="uni01BD.sc" width="471" lsb="27"/>
     <mtx name="uni01BE" width="511" lsb="30"/>
@@ -2445,21 +2445,21 @@
     <mtx name="uni208C" width="400" lsb="75"/>
     <mtx name="uni208D" width="396" lsb="117"/>
     <mtx name="uni208E" width="396" lsb="117"/>
-    <mtx name="uni20AF" width="1179" lsb="11"/>
+    <mtx name="uni20AF" width="1120" lsb="11"/>
+    <mtx name="uni20AF.lf" width="1179" lsb="11"/>
     <mtx name="uni20AF.osf" width="1179" lsb="11"/>
-    <mtx name="uni20AF.tf" width="1120" lsb="11"/>
     <mtx name="uni20AF.tosf" width="1120" lsb="11"/>
-    <mtx name="uni20B9" width="530" lsb="61"/>
+    <mtx name="uni20B9" width="556" lsb="90"/>
+    <mtx name="uni20B9.lf" width="530" lsb="61"/>
     <mtx name="uni20B9.osf" width="530" lsb="61"/>
-    <mtx name="uni20B9.tf" width="560" lsb="92"/>
     <mtx name="uni20B9.tosf" width="560" lsb="92"/>
-    <mtx name="uni20BA" width="540" lsb="42"/>
+    <mtx name="uni20BA" width="556" lsb="61"/>
+    <mtx name="uni20BA.lf" width="540" lsb="42"/>
     <mtx name="uni20BA.osf" width="540" lsb="42"/>
-    <mtx name="uni20BA.tf" width="560" lsb="63"/>
     <mtx name="uni20BA.tosf" width="560" lsb="63"/>
-    <mtx name="uni20BD" width="559" lsb="41"/>
+    <mtx name="uni20BD" width="556" lsb="59"/>
+    <mtx name="uni20BD.lf" width="559" lsb="41"/>
     <mtx name="uni20BD.osf" width="559" lsb="41"/>
-    <mtx name="uni20BD.tf" width="560" lsb="61"/>
     <mtx name="uni20BD.tosf" width="560" lsb="61"/>
     <mtx name="uni210A" width="596" lsb="63"/>
     <mtx name="uni2113" width="398" lsb="21"/>
@@ -2535,10 +2535,7 @@
     <mtx name="uniA7B6.sc" width="787" lsb="62"/>
     <mtx name="uniA7B7" width="777" lsb="67"/>
     <mtx name="uniAB53" width="467" lsb="6"/>
-    <mtx name="uniE000" width="0" lsb="42"/>
-    <mtx name="uniE001" width="0" lsb="251"/>
-    <mtx name="uniE002" width="0" lsb="755"/>
-    <mtx name="uniE003" width="1234" lsb="42"/>
+    <mtx name="uniF8FF" width="790" lsb="51"/>
     <mtx name="uniFEFF" width="0" lsb="0"/>
     <mtx name="uogonek" width="582" lsb="92"/>
     <mtx name="uogonek.sc" width="603" lsb="92"/>
@@ -2581,9 +2578,9 @@
     <mtx name="ycircumflex.sc" width="483" lsb="6"/>
     <mtx name="ydieresis" width="488" lsb="11"/>
     <mtx name="ydieresis.sc" width="483" lsb="6"/>
-    <mtx name="yen" width="532" lsb="6"/>
+    <mtx name="yen" width="556" lsb="9"/>
+    <mtx name="yen.lf" width="532" lsb="6"/>
     <mtx name="yen.osf" width="532" lsb="6"/>
-    <mtx name="yen.tf" width="560" lsb="11"/>
     <mtx name="yen.tosf" width="560" lsb="20"/>
     <mtx name="ygrave" width="488" lsb="11"/>
     <mtx name="ygrave.sc" width="483" lsb="6"/>
@@ -2599,16 +2596,16 @@
     <mtx name="zcaron.sc" width="468" lsb="31"/>
     <mtx name="zdotaccent" width="434" lsb="25"/>
     <mtx name="zdotaccent.sc" width="468" lsb="31"/>
-    <mtx name="zero" width="557" lsb="57"/>
+    <mtx name="zero" width="556" lsb="56"/>
     <mtx name="zero.dnom" width="400" lsb="48"/>
+    <mtx name="zero.lf" width="557" lsb="57"/>
+    <mtx name="zero.lf.zero" width="557" lsb="57"/>
     <mtx name="zero.numr" width="400" lsb="48"/>
     <mtx name="zero.osf" width="609" lsb="42"/>
     <mtx name="zero.osf.zero" width="609" lsb="42"/>
-    <mtx name="zero.tf" width="560" lsb="58"/>
-    <mtx name="zero.tf.zero" width="560" lsb="58"/>
     <mtx name="zero.tosf" width="560" lsb="32"/>
     <mtx name="zero.tosf.zero" width="560" lsb="32"/>
-    <mtx name="zero.zero" width="557" lsb="57"/>
+    <mtx name="zero.zero" width="556" lsb="56"/>
     <mtx name="zeta" width="385" lsb="39"/>
     <mtx name="zeta.sc" width="468" lsb="31"/>
   </hmtx>

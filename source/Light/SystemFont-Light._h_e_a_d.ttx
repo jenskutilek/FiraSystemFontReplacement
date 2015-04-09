@@ -4,21 +4,21 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="3.111"/>
-    <checkSumAdjustment value="0xd11f9199"/>
+    <fontRevision value="4.09999"/>
+    <checkSumAdjustment value="0xf1575879"/>
     <magicNumber value="0x5f0f3cf5"/>
-    <flags value="00000000 00000011"/>
+    <flags value="00000000 00000001"/>
     <unitsPerEm value="984"/>
-    <created value="Thu Jul  3 15:11:32 2014"/>
-    <modified value="Sat Feb  7 11:29:22 2015"/>
-    <xMin value="-167"/>
-    <yMin value="-327"/>
+    <created value="Tue Mar 31 08:18:04 2015"/>
+    <modified value="Fri Apr 10 00:45:51 2015"/>
+    <xMin value="-740"/>
+    <yMin value="-342"/>
     <xMax value="1360"/>
-    <yMax value="946"/>
+    <yMax value="1063"/>
     <macStyle value="00000000 00000000"/>
-    <lowestRecPPEM value="6"/>
+    <lowestRecPPEM value="7"/>
     <fontDirectionHint value="2"/>
-    <indexToLocFormat value="0"/>
+    <indexToLocFormat value="1"/>
     <glyphDataFormat value="0"/>
   </head>
 

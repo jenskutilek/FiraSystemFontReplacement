@@ -3,7 +3,7 @@
 
   <OS_2>
     <version value="3"/>
-    <xAvgCharWidth value="558"/>
+    <xAvgCharWidth value="557"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
@@ -34,7 +34,7 @@
     <ulUnicodeRange2 value="00000010 00000000 00000000 00000001"/>
     <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
-    <achVendID value="CTDB"/>
+    <achVendID value="jens"/>
     <fsSelection value="00000000 11000000"/>
     <fsFirstCharIndex value="13"/>
     <fsLastCharIndex value="65535"/>
