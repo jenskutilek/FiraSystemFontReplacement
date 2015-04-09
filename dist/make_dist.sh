@@ -24,6 +24,8 @@ sudo chown root:wheel "Fira System Fonts/FiraSystem.ttc"
 
 zip -x \*.DS\* -r "fira-system-fonts.zip" "Fira System Fonts"
 
+chmod 755 "scripts/preinstall"
+
 # build packages
 
 pkgbuild \
