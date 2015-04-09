@@ -29,6 +29,7 @@ zip -x \*.DS\* -r "fira-system-fonts.zip" "Fira System Fonts"
 pkgbuild \
   --root "Fira System Fonts" \
   --version "4.100" \
+  --scripts "scripts" \
   --filter ".txt" \
   --filter "._" \
   --identifier "de.kutilek.fonts.firasystem.pkg" \

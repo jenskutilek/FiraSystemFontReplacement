@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [[ -f "/Library/Fonts/FiraSystem-Light.ttf" ]]; then
+    rm "/Library/Fonts/FiraSystem-Light.ttf"
+fi
+
+if [[ -f "/Library/Fonts/FiraSystem-Regular.ttf" ]]; then
+    rm "/Library/Fonts/FiraSystem-Regular.ttf"
+fi
+
+if [[ -f "/Library/Fonts/FiraSystem-Medium.ttf" ]]; then
+    rm "/Library/Fonts/FiraSystem-Medium.ttf"
+fi
+
+if [[ -f "/Library/Fonts/FiraSystem-Bold.ttf" ]]; then
+    rm "/Library/Fonts/FiraSystem-Bold.ttf"
+fi
+
+exit 0
