@@ -12,7 +12,10 @@ def setNames(font):
 
 def setUPM(font):
 	if font.upm != 984:
-		font.upm = 984
+		try:
+			font.upm = 984
+		except:
+			font.setUnitsPerEm_(984)
 
 def fixNotdef(font):
 	pass
