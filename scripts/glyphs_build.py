@@ -81,107 +81,34 @@ def deleteGlyphs(font):
 		del(font.glyphs[glyph_name])
 	font.enableUpdateInterface()
 
-def setVerticalMetricsLight(instance):
-	# hhea
-	instance.customParameters["hheaAscender"]  =  780
-
 def setVerticalMetrics(instance):
 	# hhea
-	instance.customParameters["hheaAscender"]  =  900
-	instance.customParameters["hheaDescender"] = -200
-	instance.customParameters["hheaLineGap"]   =    0
+	instance.customParameters["hheaAscender"]  =  1980
+	instance.customParameters["hheaDescender"] =  -432
+	instance.customParameters["hheaLineGap"]   =     0
 	# OS/2
-	instance.customParameters["typoAscender"]  =  951
-	instance.customParameters["typoDescender"] = -200
-	instance.customParameters["typoLineGap"]   =    0
-	instance.customParameters["winAscent"]     =  951
-	instance.customParameters["winDescent"]    =  200
+	instance.customParameters["typoAscender"]  =  1980
+	instance.customParameters["typoDescender"] =  -432
+	instance.customParameters["typoLineGap"]   =     0
+	instance.customParameters["winAscent"]     =  1980
+	instance.customParameters["winDescent"]    =   432
 
 def setupFeatures(instance):
 	instance.customParameters["Remove Features"] = "sups, subs, dnom, numr, frac"
 
-
-def setupInstanceUltraLight(instance):
-	# Neue Helvetica: LC 24, UC 24
-	instance.weightValue = 24 # New in 4.1
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-UltraLightP2"
-	instance.customParameters["postscriptFullName"] = "System Font UltraLight"
-	instance.customParameters["weightClass"]        =  100
-
-def setupInstanceThin(instance):
-	# Neue Helvetica: LC 38, UC 44
-	instance.weightValue = 38 # New in 4.1
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Thin"
-	instance.customParameters["postscriptFullName"] = "System Font Thin"
-	instance.customParameters["weightClass"]        =  250
-
-def setupInstanceLight(instance):
-	
-	# Neue Helvetica: LC 63, UC 68
-	instance.weightValue = 62 # Fira System 3.1: 56
-	
-	setVerticalMetrics(instance)
-	setVerticalMetricsLight(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Light"
-	instance.customParameters["postscriptFullName"] = "System Font Light"
-
-def setupInstanceRegular(instance):
-	# Neue Helvetica: LC 85, UC 95
-	instance.weightValue = 86 # Fira System 3.1: 92
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Regular"
-	instance.customParameters["postscriptFullName"] = "System Font Regular"
-
-def setupInstanceMedium(instance):
-	# Neue Helvetica: LC 120, UC 132
-	instance.weightValue = 120
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-MediumP4"
-	instance.customParameters["postscriptFullName"] = "System Font Medium P4"
-
-def setupInstanceBold(instance):
-	# Neue Helvetica: LC 157, UC 95
-	instance.weightValue = 142 # Fira System 3.1: 150
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Bold"
-	instance.customParameters["postscriptFullName"] = "System Font Bold"
-
-def setupInstanceHeavy(instance):
-	# Neue Helvetica: LC 170, UC 186
-	instance.weightValue = 170 # New in 4.1
-	
-	setVerticalMetrics(instance)
-	
-	setupFeatures(instance)
-	
-	instance.customParameters["postscriptFontName"] = ".HelveticaNeueDeskInterface-Heavy"
-	instance.customParameters["postscriptFullName"] = "System Font Heavy"
-	instance.customParameters["weightClass"]        =  750
+def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None):
+    instance = GSInstance()
+    instance.weightValue = wt
+    instance.name = styleName
+    instance.customParameters["postscriptFontName"] = psFontName
+	instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
+    instance.customParameters["fileName"]           = fileName
+	instance.customParameters["weightClass"]        = weightClass
+    
+    #setVerticalMetrics(instance)
+    setupFeatures(instance)
+    
+    return instance
 
 def exportFonts(font):
 	for instance in font.instances:
@@ -205,11 +132,14 @@ if __name__ == "__main__":
 	f = Glyphs.font
 	
 	setNames(f)
-	setUPM(f)
+	setUPM(f) # FIXME: Scale UPM
 	fixFigureSets(f)
 	deleteGlyphs(f)
 	fixNotdef(f)
 	fixAppleLogo(f)
+    
+    for master in f.masters:
+        setVerticalMetrics(master)
 
 	for instance in f.instances:
 		if instance.name == "UltraLight":
@@ -228,6 +158,32 @@ if __name__ == "__main__":
 			setupInstanceHeavy(instance)
 		else:
 			instance.active = False
+    
+    f.instances.append(getNewInstance(
+        131, "Light", ".SFNSText-Light", "SystemFont-Light", 300
+    ))
+    f.instances.append(getNewInstance(
+        172, "Regular", ".SFNSText-Regular", "SystemFont-Regular", 400
+    ))
+    f.instances.append(getNewInstance(
+        180, "Regular G1", ".SFNSText-RegularG1", "SystemFont-RegularG1", 400
+    ))
+    f.instances.append(getNewInstance(
+        189, "Regular G2", ".SFNSText-RegularG2", "SystemFont-RegularG2", 400
+    ))
+    f.instances.append(getNewInstance(
+        195, "Regular G3", ".SFNSText-RegularG3", "SystemFont-RegularG3", 400
+    ))
+    f.instances.append(getNewInstance(
+        215, "Medium", ".SFNSText-Medium", "SystemFont-Medium", 500
+    ))
+    f.instances.append(getNewInstance(
+        248, "Semibold", ".SFNSText-Semibold", "SystemFont-Semibold", 600
+    ))
+    f.instances.append(getNewInstance(
+        291, "Bold", ".SFNSText-Bold", "SystemFont-Bold", 700
+    ))
+    
 	print "Done."
 	
 	print "Generating fonts ..."
