@@ -139,10 +139,17 @@ if __name__ == "__main__":
 	fixAppleLogo(f)
 	
 	for master in f.masters:
-    		setVerticalMetrics(master)
+		if master.name == "Light":
+			master.weightValue = 4
+		elif master.name == "SemiLight":
+			master.weightValue = 62
+		elif master.name == "Regular":
+			master.weightValue = 189
+		elif master.name == "Bold":
+			master.weightValue = 406
+    	setVerticalMetrics(master)
 
-	for instance in f.instances:
-		del(instance)
+	f.instances = []
     
 	f.instances.append(getNewInstance(
 		131, "Light", ".SFNSText-Light", "SystemFont-Light", 300
