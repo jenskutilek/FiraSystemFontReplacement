@@ -101,9 +101,9 @@ def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None):
     instance.weightValue = wt
     instance.name = styleName
     instance.customParameters["postscriptFontName"] = psFontName
-	instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
+    instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
     instance.customParameters["fileName"]           = fileName
-	instance.customParameters["weightClass"]        = weightClass
+    instance.customParameters["weightClass"]        = weightClass
     
     #setVerticalMetrics(instance)
     setupFeatures(instance)
@@ -137,52 +137,37 @@ if __name__ == "__main__":
 	deleteGlyphs(f)
 	fixNotdef(f)
 	fixAppleLogo(f)
-    
-    for master in f.masters:
-        setVerticalMetrics(master)
+	
+	for master in f.masters:
+    		setVerticalMetrics(master)
 
 	for instance in f.instances:
-		if instance.name == "UltraLight":
-			setupInstanceUltraLight(instance)
-		elif instance.name == "Thin":
-			setupInstanceThin(instance)
-		elif instance.name == "Light":
-			setupInstanceLight(instance)
-		elif instance.name == "Regular":
-			setupInstanceRegular(instance)
-		elif instance.name == "Medium":
-			setupInstanceMedium(instance)
-		elif instance.name == "Bold":
-			setupInstanceBold(instance)
-		elif instance.name == "Heavy":
-			setupInstanceHeavy(instance)
-		else:
-			instance.active = False
+		del(instance)
     
-    f.instances.append(getNewInstance(
-        131, "Light", ".SFNSText-Light", "SystemFont-Light", 300
-    ))
-    f.instances.append(getNewInstance(
-        172, "Regular", ".SFNSText-Regular", "SystemFont-Regular", 400
-    ))
-    f.instances.append(getNewInstance(
-        180, "Regular G1", ".SFNSText-RegularG1", "SystemFont-RegularG1", 400
-    ))
-    f.instances.append(getNewInstance(
-        189, "Regular G2", ".SFNSText-RegularG2", "SystemFont-RegularG2", 400
-    ))
-    f.instances.append(getNewInstance(
-        195, "Regular G3", ".SFNSText-RegularG3", "SystemFont-RegularG3", 400
-    ))
-    f.instances.append(getNewInstance(
-        215, "Medium", ".SFNSText-Medium", "SystemFont-Medium", 500
-    ))
-    f.instances.append(getNewInstance(
-        248, "Semibold", ".SFNSText-Semibold", "SystemFont-Semibold", 600
-    ))
-    f.instances.append(getNewInstance(
-        291, "Bold", ".SFNSText-Bold", "SystemFont-Bold", 700
-    ))
+	f.instances.append(getNewInstance(
+		131, "Light", ".SFNSText-Light", "SystemFont-Light", 300
+	))
+	f.instances.append(getNewInstance(
+		172, "Regular", ".SFNSText-Regular", "SystemFont-Regular", 400
+	))
+	f.instances.append(getNewInstance(
+		180, "Regular G1", ".SFNSText-RegularG1", "SystemFont-RegularG1", 400
+	))
+	f.instances.append(getNewInstance(
+		189, "Regular G2", ".SFNSText-RegularG2", "SystemFont-RegularG2", 400
+	))
+	f.instances.append(getNewInstance(
+		195, "Regular G3", ".SFNSText-RegularG3", "SystemFont-RegularG3", 400
+	))
+	f.instances.append(getNewInstance(
+		215, "Medium", ".SFNSText-Medium", "SystemFont-Medium", 500
+	))
+	f.instances.append(getNewInstance(
+		248, "Semibold", ".SFNSText-Semibold", "SystemFont-Semibold", 600
+	))
+	f.instances.append(getNewInstance(
+		291, "Bold", ".SFNSText-Bold", "SystemFont-Bold", 700
+	))
     
 	print "Done."
 	
