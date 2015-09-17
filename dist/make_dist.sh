@@ -3,26 +3,25 @@
 # clean up old dist files
 
 rm "Fira System Fonts.pkg"
-rm "fira-system-fonts.zip"
 rm "fonts.pkg"
 
-sudo rm "Fira System Fonts/FiraSystem.ttc"
+sudo rm Fira\ System\ Fonts/*.otf
 
-# build TrueType collection
+cp ../otf/SystemFont-Light.otf     "Fira System Fonts/FSText-Light.otf"
+cp ../otf/SystemFont-Regular.otf   "Fira System Fonts/FSText-Regular.otf"
+cp ../otf/SystemFont-RegularG1.otf "Fira System Fonts/FSText-RegularG1.otf"
+cp ../otf/SystemFont-RegularG2.otf "Fira System Fonts/FSText-RegularG2.otf"
+cp ../otf/SystemFont-RegularG3.otf "Fira System Fonts/FSText-RegularG3.otf"
+cp ../otf/SystemFont-Medium.otf    "Fira System Fonts/FSText-Medium.otf"
+cp ../otf/SystemFont-Semibold.otf  "Fira System Fonts/FSText-Semibold.otf"
+cp ../otf/SystemFont-Bold.otf      "Fira System Fonts/FSText-Bold.otf"
 
-ftxmakettc \
-  ../ttf/SystemFont-Regular.ttf \
-  ../ttf/SystemFont-Bold.ttf \
-  ../ttf/SystemFont-Medium.ttf \
-  ../ttf/SystemFont-Light.ttf \
-  ../ttf/SystemFont-Thin.ttf \
-  ../ttf/SystemFont-UltraLight.ttf \
-  ../ttf/SystemFont-Heavy.ttf \
-  "Fira System Fonts/FiraSystem.ttc"
+sudo chown root:wheel Fira\ System\ Fonts/*.otf
 
-sudo chown root:wheel "Fira System Fonts/FiraSystem.ttc"
-
-zip -x \*.DS\* -r "fira-system-fonts.zip" "Fira System Fonts"
+# Disable non-installer download for now because people don't pay attention
+# to the correct file permissions
+#rm "fira-system-fonts.zip"
+#zip -x \*.DS\* -r "fira-system-fonts.zip" "Fira System Fonts"
 
 chmod 755 "scripts/preinstall"
 
@@ -30,7 +29,7 @@ chmod 755 "scripts/preinstall"
 
 pkgbuild \
   --root "Fira System Fonts" \
-  --version "4.100" \
+  --version "4.106" \
   --scripts "scripts" \
   --filter ".txt" \
   --filter "._" \

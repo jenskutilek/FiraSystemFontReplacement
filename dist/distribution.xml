@@ -3,7 +3,7 @@
     <title>Fira System Fonts</title>
     <welcome file="readme.rtf" mime-type="text/richtext"/>
     <options customize="never" rootVolumeOnly="true"/>
-    <os-version min="10.10"/>
+    <os-version min="10.11"/>
     <choices-outline>
         <line choice="fonts"/>
     </choices-outline>

@@ -16,4 +16,8 @@ if [[ -f "/Library/Fonts/FiraSystem-Bold.ttf" ]]; then
     rm "/Library/Fonts/FiraSystem-Bold.ttf"
 fi
 
+if [[ -f "/Library/Fonts/FiraSystem.ttc" ]]; then
+    rm "/Library/Fonts/FiraSystem.ttc"
+fi
+
 exit 0
