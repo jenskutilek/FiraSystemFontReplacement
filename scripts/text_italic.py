@@ -64,9 +64,9 @@ f.instances.append(getNewInstance(
 	weights[11], "Heavy Italic", ".SFNSText-HeavyItalic", "SystemFontText-HeavyItalic", 800
 ))
 
-for i in f.instances:
-	#setVerticalMetrics(i)
-	setupFeatures(i)
+#for i in f.instances:
+#	#setVerticalMetrics(i)
+#	setupFeatures(i)
 
 print "Done."
 
