@@ -54,7 +54,7 @@
       0000 <!-- fff4 @  13 points -->
       0000 <!-- ffea @  14 points, default menu font size -->
       0000 <!-- ffe0 @  15 points -->
-      0000 <!-- ffd8 @  16 points -->
+      fffa <!-- ffd8 @  16 points -->
       fff8 <!-- ffd1 @  17 points -->
       fff4 <!-- ffc9 @  20 points -->
       fff1 <!-- ffc4 @  22 points -->
