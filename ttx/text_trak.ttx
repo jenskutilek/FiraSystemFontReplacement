@@ -23,26 +23,26 @@
       
       <!-- tight tracking settings -->
       
-      0036 <!-- 0036 @  6 points -->
-      000a <!-- 000a @  9 points -->
-      fffc <!-- fffc @ 10 points -->
-      fff0 <!-- fff0 @ 11 points, Safari tab title size -->
-      ffe4 <!-- ffe4 @ 12 points, Safari address bar size -->
-      ffd8 <!-- ffd8 @ 13 points -->
-      ffce <!-- ffce @ 14 points, default menu font size -->
-      ffc4 <!-- ffc4 @ 15 points -->
-      ffbc <!-- ffbc @ 16 points -->
-      ffb5 <!-- ffb5 @ 17 points -->
-      ffad <!-- ffad @ 20 points -->
-      ffa8 <!-- ffa8 @ 22 points -->
-      ffa2 <!-- ffa2 @ 28 points -->
-      ffa0 <!-- ffa0 @ 32 points -->
-      ff9e <!-- ff9e @ 36 points -->
-      ff96 <!-- ff96 @ 50 points -->
-      ff8e <!-- ff8e @ 64 points -->
-      ff88 <!-- ff88 @ 80 points -->
-      ff88 <!-- ff88 @100 points -->
-      ff88 <!-- ff88 @138 points -->
+      001b <!-- 0036 @  6 points -->
+      0005 <!-- 000a @  9 points -->
+      fffd <!-- fffc @ 10 points -->
+      fff8 <!-- fff0 @ 11 points, Safari tab title size -->
+      fff1 <!-- ffe4 @ 12 points, Safari address bar size -->
+      ffeb <!-- ffd8 @ 13 points -->
+      ffe6 <!-- ffce @ 14 points, default menu font size -->
+      ffe1 <!-- ffc4 @ 15 points -->
+      ffdd <!-- ffbc @ 16 points -->
+      ffda <!-- ffb5 @ 17 points -->
+      ffd6 <!-- ffad @ 20 points -->
+      ffd3 <!-- ffa8 @ 22 points -->
+      ffd0 <!-- ffa2 @ 28 points -->
+      ffcf <!-- ffa0 @ 32 points -->
+      ffce <!-- ff9e @ 36 points -->
+      ffca <!-- ff96 @ 50 points -->
+      ffc6 <!-- ff8e @ 64 points -->
+      ffc3 <!-- ff88 @ 80 points -->
+      ffc3 <!-- ff88 @100 points -->
+      ffc3 <!-- ff88 @138 points -->
       
       <!-- normal tracking settings -->
       
@@ -65,7 +65,8 @@
       ffbc <!-- ffaa @  64 points -->
       ffba <!-- ffa4 @  80 points -->
       ffb2 <!-- ffa4 @ 100 points -->
-      ffaa <!-- ffa4 @ 138 points -->   
+      ffaa <!-- ffa4 @ 138 points -->
+      
     </hexdata>
   </trak>
 
