@@ -5,15 +5,18 @@
     <hexdata>
       00010000 <!-- version -->
       0000000c 00000000
-      0002 <!-- 2 tracks -->
+      0003 <!-- 3 tracks -->
       0014 <!-- 0x14 = 20 sizes -->
-      00000024
+      0000003c
       
       ffff0000 <!-- Tight tracking -->
-      0123 0074
+      0123 008c
       
       00000000 <!-- Normal tracking -->
-      0122 009c
+      0122 00dc
+      
+      00010000 <!-- Loose tracking -->
+      0121 00b4
       
       00060000 00090000 000a0000 000b0000
       000c0000 000d0000 000e0000 000f0000
@@ -43,6 +46,29 @@
       ffc3 <!-- ff88 @ 80 points -->
       ffc3 <!-- ff88 @100 points -->
       ffc3 <!-- ff88 @138 points -->
+      
+      <!-- loose tracking settings -->
+      
+      000a <!--   6 points -->
+      000a <!--   9 points -->
+      000a <!--  10 points -->
+      000a <!--  11 points, Safari tab title size -->
+      000a <!--  12 points, Safari address bar size -->
+      000a <!--  13 points -->
+      000a <!--  14 points, default menu font size -->
+      000a <!--  15 points -->
+      000a <!--  16 points -->
+      000a <!--  17 points -->
+      000a <!--  20 points -->
+      000a <!--  22 points -->
+      000a <!--  28 points -->
+      000a <!--  32 points -->
+      000a <!--  36 points -->
+      000a <!--  50 points -->
+      000a <!--  64 points -->
+      000a <!--  80 points -->
+      000a <!-- 100 points -->
+      000a <!-- 138 points -->
       
       <!-- normal tracking settings -->
       
