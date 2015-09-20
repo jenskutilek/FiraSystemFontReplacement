@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+
+  <trak raw="True">
+    <hexdata>
+      00010000 <!-- version -->
+      0000000c 00000000
+      0002 <!-- 2 tracks -->
+      0014 <!-- 0x14 = 20 sizes -->
+      00000024
+      
+      ffff0000 <!-- Tight tracking -->
+      0123 0074
+      
+      00000000 <!-- Normal tracking -->
+      0122 009c
+      
+      00060000 00090000 000a0000 000b0000
+      000c0000 000d0000 000e0000 000f0000
+      00100000 00110000 00140000 00160000
+      001c0000 00200000 00240000 00320000
+      00400000 00500000 00640000 008a0000 
+      
+      <!-- tight tracking settings -->
+      
+      0036 <!-- 0036 @  6 points -->
+      000a <!-- 000a @  9 points -->
+      fffc <!-- fffc @ 10 points -->
+      fff0 <!-- fff0 @ 11 points, Safari tab title size -->
+      ffe4 <!-- ffe4 @ 12 points, Safari address bar size -->
+      ffd8 <!-- ffd8 @ 13 points -->
+      ffce <!-- ffce @ 14 points, default menu font size -->
+      ffc4 <!-- ffc4 @ 15 points -->
+      ffbc <!-- ffbc @ 16 points -->
+      ffb5 <!-- ffb5 @ 17 points -->
+      ffad <!-- ffad @ 20 points -->
+      ffa8 <!-- ffa8 @ 22 points -->
+      ffa2 <!-- ffa2 @ 28 points -->
+      ffa0 <!-- ffa0 @ 32 points -->
+      ff9e <!-- ff9e @ 36 points -->
+      ff96 <!-- ff96 @ 50 points -->
+      ff8e <!-- ff8e @ 64 points -->
+      ff88 <!-- ff88 @ 80 points -->
+      ff88 <!-- ff88 @100 points -->
+      ff88 <!-- ff88 @138 points -->
+      
+      <!-- normal tracking settings -->
+      
+      0028 <!-- 0052 @   6 points -->
+      0018 <!-- 0026 @   9 points -->
+      000c <!-- 0018 @  10 points -->
+      000a <!-- 000c @  11 points, Safari tab title size -->
+      0000 <!-- 0000 @  12 points, Safari address bar size -->
+      0000 <!-- fff4 @  13 points -->
+      0000 <!-- ffea @  14 points, default menu font size -->
+      0000 <!-- ffe0 @  15 points -->
+      fff4 <!-- ffd8 @  16 points -->
+      ffea <!-- ffd1 @  17 points -->
+      ffe0 <!-- ffc9 @  20 points -->
+      ffd8 <!-- ffc4 @  22 points -->
+      ffd1 <!-- ffbe @  28 points -->
+      ffc9 <!-- ffbc @  32 points -->
+      ffc4 <!-- ffba @  36 points -->
+      ffbe <!-- ffb2 @  50 points -->
+      ffbc <!-- ffaa @  64 points -->
+      ffba <!-- ffa4 @  80 points -->
+      ffb2 <!-- ffa4 @ 100 points -->
+      ffaa <!-- ffa4 @ 138 points -->   
+    </hexdata>
+  </trak>
+
+</ttFont>

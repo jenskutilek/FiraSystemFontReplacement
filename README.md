@@ -13,7 +13,7 @@ Download and unzip the installer file from the Releases section. Right-click `Fi
 
 ### How to uninstall
 
-Delete or move all font files called `FSText-*.otf` from the `/Library/Fonts` folder. Then restart your computer.
+Delete or move all font files called `FSText-*.otf` and `FSDisplay-*.otf` from the `/Library/Fonts` folder. Then restart your computer.
 
 ### How does it work?
 

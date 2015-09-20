@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
-tab_figures = "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tf.zero/numbersign.tf/figuredash.tf/cent.tf/currency.tf/dollar.tf/drachma.tf/euro.tf/liraTurkish.tf/ruble.tf/rupeeIndian.tf/sterling.tf/yen.tf/approxequal.tf/asciitilde.tf/divide.tf/equal.tf/greater.tf/greaterequal.tf/infinity.tf/integral.tf/less.tf/lessequal.tf/logicalnot.tf/minus.tf/multiply.tf/notequal.tf/partialdiff.tf/percent.tf/perthousand.tf/plus.tf/plusminus.tf/product.tf/radical.tf/summation.tf/lozenge.tf/section.tf/degree.tf/dagger.tf/daggerdbl.tf"[1:].split("/")
+from GlyphsApp import GSGlyph, GSInstance, GSNode, GSPath
+
+from settings import fs_target_upm, sf_upm
 
 delete_glyphs = ["uniE000", "uniE001", "uniE002", "uniE003"]
 
@@ -9,9 +11,6 @@ apple = [[((291, -22), 65), ((313, -16), 65), ((341, -5), 35), ((367, 6), 65), (
 
 notdef = [[((450, 0), 1), ((450, 696), 1), ((50, 696), 1), ((50, 0), 1), ], [((101, 650), 1), ((399, 650), 1), ((399, 46), 1), ((101, 46), 1)]]
 
-sf_upm = 2048
-fs_upm = Glyphs.font.upm
-fs_target_upm = 1032
 
 def setNames(font):
 	font.familyName      = "System Font"
@@ -61,35 +60,11 @@ def fixAppleLogo(font):
 		drawPathsInLayer(layer, apple)
 	font.enableUpdateInterface()
 
-def fixFigureSets(font):
-	font.disableUpdateInterface()
-	for glyph_name in tab_figures:
-		lf_name = glyph_name.replace(".tf", ".lf")
-		default_name = glyph_name.replace(".tf", "")
-		if not lf_name in font.glyphs.keys():
-			if default_name in font.glyphs.keys():
-				# change names for default figure set to LF
-				glyph = font.glyphs[default_name]
-				glyph.name = lf_name
-		if not default_name in font.glyphs.keys():
-			# change names for TF figure set to default names
-			glyph = font.glyphs[glyph_name]
-			for i in range(len(font.masters)):
-				layer = glyph.layers[i]
-				if layer.width == 560:
-					layer.LSB -= 2
-					layer.RSB -= 2
-				else:
-					print "Not setting to new TF width: %s (%i)" % (glyph.name, layer.width)
-			glyph.name = default_name
-	font.enableUpdateInterface()
-
 def normalizeList(the_list, factor, do_round=True):
 	if do_round:
 		return [int(round(element * factor)) for element in the_list]
 	else:
 		return [element * factor for element in the_list]
-	
 
 def deleteGlyphs(font):
 	font.disableUpdateInterface()
@@ -119,7 +94,7 @@ def setVerticalMetrics(instance):
 def setupFeatures(instance):
 	instance.customParameters["Remove Features"] = "sups, subs, dnom, numr, frac"
 
-def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None):
+def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None, adjustSpacing=0):
     instance = GSInstance()
     instance.weightValue = wt
     instance.name = styleName
@@ -127,6 +102,9 @@ def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None):
     instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
     instance.customParameters["fileName"]           = fileName
     instance.customParameters["weightClass"]        = weightClass
+    if adjustSpacing:
+        step = int(round(adjustSpacing / 2))
+        instance.customParameters["Filter"]         = "Transformations;LSB:%i;RSB:%i" % (step, step)
     
     #setVerticalMetrics(instance)
     setupFeatures(instance)
@@ -146,62 +124,3 @@ def exportFonts(font):
 				UseSubroutines = False,
 				UseProductionNames = True
 			)
-	
-
-if __name__ == "__main__":
-	
-	print "Setting up current font as System Font Replacement ..."
-	
-	f = Glyphs.font
-	
-	setNames(f)
-	setUPM(f)
-	#fixFigureSets(f)
-	deleteGlyphs(f)
-	fixNotdef(f)
-	fixAppleLogo(f)
-	for m in f.masters:
-		setVerticalMetrics(m)
-
-	f.instances = []
-	
-	weights = normalizeList(
-		[131, 172, 180, 189, 195, 215, 248, 291],
-		fs_target_upm / sf_upm
-	)
-	
-	f.instances.append(getNewInstance(
-		weights[0], "Light", ".SFNSText-Light", "SystemFont-Light", 300
-	))
-	f.instances.append(getNewInstance(
-		weights[1], "Regular", ".SFNSText-Regular", "SystemFont-Regular", 400
-	))
-	f.instances.append(getNewInstance(
-		weights[2], "Regular G1", ".SFNSText-RegularG1", "SystemFont-RegularG1", 400
-	))
-	f.instances.append(getNewInstance(
-		weights[3], "Regular G2", ".SFNSText-RegularG2", "SystemFont-RegularG2", 400
-	))
-	f.instances.append(getNewInstance(
-		weights[4], "Regular G3", ".SFNSText-RegularG3", "SystemFont-RegularG3", 400
-	))
-	f.instances.append(getNewInstance(
-		weights[5], "Medium", ".SFNSText-Medium", "SystemFont-Medium", 500
-	))
-	f.instances.append(getNewInstance(
-		weights[6], "Semibold", ".SFNSText-Semibold", "SystemFont-Semibold", 600
-	))
-	f.instances.append(getNewInstance(
-		weights[7], "Bold", ".SFNSText-Bold", "SystemFont-Bold", 700
-	))
-	
-	for i in f.instances:
-		#setVerticalMetrics(i)
-		setupFeatures(i)
-    
-	print "Done."
-	
-	print "Generating fonts ..."
-	#exportFonts(f)
-	print "  ** Please export the fonts manually until this function is fixed."
-	print "Done."
