@@ -13,7 +13,10 @@
       0123 0074
       
       00000000 <!-- Normal tracking -->
-      0122 009c
+      0122 00c4
+      
+      <!--00000000 Loose tracking
+      0121 009c -->
       
       00060000 00090000 000a0000 000b0000
       000c0000 000d0000 000e0000 000f0000
@@ -25,7 +28,7 @@
       
       001b <!-- 0036 @  6 points -->
       0005 <!-- 000a @  9 points -->
-      fffd <!-- fffc @ 10 points -->
+      fffc <!-- fffc @ 10 points -->
       fff8 <!-- fff0 @ 11 points, Safari tab title size -->
       fff1 <!-- ffe4 @ 12 points, Safari address bar size -->
       ffeb <!-- ffd8 @ 13 points -->
@@ -54,18 +57,19 @@
       0000 <!-- fff4 @  13 points -->
       0000 <!-- ffea @  14 points, default menu font size -->
       0000 <!-- ffe0 @  15 points -->
-      fff4 <!-- ffd8 @  16 points -->
-      ffea <!-- ffd1 @  17 points -->
-      ffe0 <!-- ffc9 @  20 points -->
-      ffd8 <!-- ffc4 @  22 points -->
-      ffd1 <!-- ffbe @  28 points -->
-      ffc9 <!-- ffbc @  32 points -->
-      ffc4 <!-- ffba @  36 points -->
-      ffbe <!-- ffb2 @  50 points -->
-      ffbc <!-- ffaa @  64 points -->
-      ffba <!-- ffa4 @  80 points -->
-      ffb2 <!-- ffa4 @ 100 points -->
-      ffaa <!-- ffa4 @ 138 points -->
+      0000 <!-- ffd8 @  16 points -->
+      fff8 <!-- ffd1 @  17 points -->
+      fff4 <!-- ffc9 @  20 points -->
+      fff1 <!-- ffc4 @  22 points -->
+      ffee <!-- ffbe @  28 points -->
+      ffed <!-- ffbc @  32 points -->
+      ffec <!-- ffba @  36 points -->
+      ffe8 <!-- ffb2 @  50 points -->
+      ffe4 <!-- ffaa @  64 points -->
+      ffe1 <!-- ffa4 @  80 points -->
+      ffe1 <!-- ffa4 @ 100 points -->
+      ffe1 <!-- ffa4 @ 138 points -->
+      <!-- print hex((0xffa2 - 0xffff) / 2 +0xffff) -->
       
     </hexdata>
   </trak>

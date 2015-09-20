@@ -23,46 +23,46 @@
       
       <!-- tight tracking settings -->
       
-      0092 <!-- 0092 @  6 points -->
-      0066 <!-- 0066 @  9 points -->
-      0058 <!-- 0058 @ 10 points -->
-      004c <!-- 004c @ 11 points -->
-      0040 <!-- 0040 @ 12 points -->
+      0072 <!-- 0092 @  6 points -->
+      0052 <!-- 0066 @  9 points -->
+      0044 <!-- 0058 @ 10 points -->
+      0038 <!-- 004c @ 11 points -->
+      0032 <!-- 0040 @ 12 points -->
       0034 <!-- 0034 @ 13 points -->
-      002a <!-- 002a @ 14 points -->
-      0020 <!-- 0020 @ 15 points -->
-      0018 <!-- 0018 @ 16 points -->
-      0011 <!-- 0011 @ 17 points -->
-      0009 <!-- 0009 @ 20 points -->
-      0004 <!-- 0004 @ 22 points -->
-      fffe <!-- fffe @ 28 points -->
-      fffc <!-- fffc @ 32 points -->
-      fffa <!-- fffa @ 36 points -->
-      fff2 <!-- fff2 @ 50 points -->
-      ffea <!-- ffea @ 64 points -->
-      ffe4 <!-- ffe4 @ 80 points -->
-      ffe4 <!-- ffe4 @100 points -->
-      ffe4 <!-- ffe4 @138 points -->
+      0026 <!-- 002a @ 14 points -->
+      0016 <!-- 0020 @ 15 points -->
+      0012 <!-- 0018 @ 16 points -->
+      0008 <!-- 0011 @ 17 points -->
+      0004 <!-- 0009 @ 20 points -->
+      0002 <!-- 0004 @ 22 points -->
+      0000 <!-- fffe @ 28 points -->
+      fffe <!-- fffc @ 32 points -->
+      fffc <!-- fffa @ 36 points -->
+      fff8 <!-- fff2 @ 50 points -->
+      fff4 <!-- ffea @ 64 points -->
+      fff1 <!-- ffe4 @ 80 points -->
+      fff1 <!-- ffe4 @100 points -->
+      fff1 <!-- ffe4 @138 points -->
       
       <!-- normal tracking settings -->
       
-      00ae <!-- 00ae @  6 points -->
-      0082 <!-- 0082 @  9 points -->
-      0074 <!-- 0074 @ 10 points -->
-      0068 <!-- 0068 @ 11 points -->
-      005c <!-- 005c @ 12 points -->
-      0050 <!-- 0050 @ 13 points -->
-      0046 <!-- 0046 @ 14 points -->
-      003c <!-- 003c @ 15 points -->
-      0034 <!-- 0034 @ 16 points -->
-      002d <!-- 002d @ 17 points -->
-      0025 <!-- 0025 @ 20 points -->
-      0020 <!-- 0020 @ 22 points -->
-      001a <!-- 001a @ 28 points -->
-      0018 <!-- 0018 @ 32 points -->
-      0016 <!-- 0016 @ 36 points -->
-      000e <!-- 000e @ 50 points -->
-      0006 <!-- 0006 @ 64 points -->
+      0088 <!-- 00ae @  6 points -->
+      0066 <!-- 0082 @  9 points -->
+      0058 <!-- 0074 @ 10 points -->
+      0052 <!-- 0068 @ 11 points -->
+      0046 <!-- 005c @ 12 points -->
+      0040 <!-- 0050 @ 13 points -->
+      0036 <!-- 0046 @ 14 points -->
+      0030 <!-- 003c @ 15 points -->
+      0026 <!-- 0034 @ 16 points -->
+      0022 <!-- 002d @ 17 points -->
+      0018 <!-- 0025 @ 20 points -->
+      0016 <!-- 0020 @ 22 points -->
+      0014 <!-- 001a @ 28 points -->
+      0012 <!-- 0018 @ 32 points -->
+      0010 <!-- 0016 @ 36 points -->
+      0008 <!-- 000e @ 50 points -->
+      0002 <!-- 0006 @ 64 points -->
       0000 <!-- 0000 @ 80 points -->
       0000 <!-- 0000 @100 points -->
       0000 <!-- 0000 @138 points -->
