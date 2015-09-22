@@ -11,6 +11,8 @@ The fonts are based on version 4.106 of the [Fira Sans font family](http://www.c
 
 Download and unzip the installer file from the Releases section. Right-click `Fira System Fonts.pkg` and choose "Open" from the context menu. In the alert about the package coming from an unidentified developer, click "Open" again. Follow the instructions in the installer and restart your computer when the installation process has finished.
 
+It is recommended to shut down, turn off, and restart your computer to finish installation of the fonts. A simple reboot may lead to garbled dialogs, so a complete shutdown is highly recommended. This is necessary only once.
+
 ### How to uninstall
 
 Delete or move all font files called `FSText-*.otf` and `FSDisplay-*.otf` from the `/Library/Fonts` folder. Then restart your computer.
