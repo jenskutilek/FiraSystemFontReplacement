@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <installer-gui-script minSpecVersion="1">
-    <title>Fira System Fonts</title>
+    <title>Fira System Fonts for El Capitan</title>
     <welcome file="readme.rtf" mime-type="text/richtext"/>
-    <options customize="never" rootVolumeOnly="true"/>
-    <os-version min="10.11"/>
+    <domains enable_anywhere="false" enable_currentUserHome="false" enable_localSystem="true"/>
+    <options customize="never"/>
+    <os-version min="10.11.0"/>
     <choices-outline>
         <line choice="fonts"/>
     </choices-outline>
