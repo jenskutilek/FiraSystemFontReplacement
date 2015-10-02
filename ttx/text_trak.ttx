@@ -1,100 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ttFont sfntVersion="OTTO" ttLibVersion="3.0">
 
-  <trak raw="True">
-    <hexdata>
-      00010000 <!-- version -->
-      0000000c 00000000
-      0003 <!-- 3 tracks -->
-      0014 <!-- 0x14 = 20 sizes -->
-      0000002c
-      
-      ffff0000 <!-- Tight tracking -->
-      0123 007c
-      
-      00000000 <!-- Normal tracking -->
-      0122 00cc
-      
-      00010000 <!-- Loose tracking -->
-      0121 00a4
-      
-      00060000 00090000 000a0000 000b0000
-      000c0000 000d0000 000e0000 000f0000
-      00100000 00110000 00140000 00160000
-      001c0000 00200000 00240000 00320000
-      00400000 00500000 00640000 008a0000 
-      
-      <!-- tight tracking settings -->
-      
-      001b <!-- 0036 @  6 points -->
-      0005 <!-- 000a @  9 points -->
-      fffc <!-- fffc @ 10 points -->
-      fff8 <!-- fff0 @ 11 points, Safari tab title size -->
-      fff1 <!-- ffe4 @ 12 points, Safari address bar size -->
-      ffeb <!-- ffd8 @ 13 points -->
-      ffe6 <!-- ffce @ 14 points, default menu font size -->
-      ffe1 <!-- ffc4 @ 15 points -->
-      ffdd <!-- ffbc @ 16 points -->
-      ffda <!-- ffb5 @ 17 points -->
-      ffd6 <!-- ffad @ 20 points -->
-      ffd3 <!-- ffa8 @ 22 points -->
-      ffd0 <!-- ffa2 @ 28 points -->
-      ffcf <!-- ffa0 @ 32 points -->
-      ffce <!-- ff9e @ 36 points -->
-      ffca <!-- ff96 @ 50 points -->
-      ffc6 <!-- ff8e @ 64 points -->
-      ffc3 <!-- ff88 @ 80 points -->
-      ffc3 <!-- ff88 @100 points -->
-      ffc3 <!-- ff88 @138 points -->
-      
-      <!-- loose tracking settings -->
-      
-      000a <!--   6 points -->
-      000a <!--   9 points -->
-      000a <!--  10 points -->
-      000a <!--  11 points, Safari tab title size -->
-      000a <!--  12 points, Safari address bar size -->
-      000a <!--  13 points -->
-      000a <!--  14 points, default menu font size -->
-      000a <!--  15 points -->
-      000a <!--  16 points -->
-      000a <!--  17 points -->
-      000a <!--  20 points -->
-      000a <!--  22 points -->
-      000a <!--  28 points -->
-      000a <!--  32 points -->
-      000a <!--  36 points -->
-      000a <!--  50 points -->
-      000a <!--  64 points -->
-      000a <!--  80 points -->
-      000a <!-- 100 points -->
-      000a <!-- 138 points -->
-      
-      <!-- normal tracking settings -->
-      
-      0028 <!-- 0052 @   6 points -->
-      0018 <!-- 0026 @   9 points -->
-      000c <!-- 0018 @  10 points -->
-      000a <!-- 000c @  11 points, Safari tab title size -->
-      0000 <!-- 0000 @  12 points, Safari address bar size -->
-      0000 <!-- fff4 @  13 points -->
-      0000 <!-- ffea @  14 points, default menu font size -->
-      0000 <!-- ffe0 @  15 points -->
-      fffa <!-- ffd8 @  16 points -->
-      fff8 <!-- ffd1 @  17 points -->
-      fff4 <!-- ffc9 @  20 points -->
-      fff1 <!-- ffc4 @  22 points -->
-      ffee <!-- ffbe @  28 points -->
-      ffed <!-- ffbc @  32 points -->
-      ffec <!-- ffba @  36 points -->
-      ffe8 <!-- ffb2 @  50 points -->
-      ffe4 <!-- ffaa @  64 points -->
-      ffe1 <!-- ffa4 @  80 points -->
-      ffe1 <!-- ffa4 @ 100 points -->
-      ffe1 <!-- ffa4 @ 138 points -->
-      <!-- print hex((0xffa2 - 0xffff) / 2 +0xffff) -->
-      
-    </hexdata>
+  <trak>
+    <version value="1.0"/>
+    <format value="0"/>
+    <horizData>
+      <!-- nTracks=3, nSizes=20 -->
+      <trackEntry value="-1.0" nameIndex="291">
+        <track size="6.0" value="27"/>
+        <track size="9.0" value="5"/>
+        <track size="10.0" value="-4"/>
+        <track size="11.0" value="-8"/>
+        <track size="12.0" value="-15"/>
+        <track size="13.0" value="-21"/>
+        <track size="14.0" value="-26"/>
+        <track size="15.0" value="-31"/>
+        <track size="16.0" value="-35"/>
+        <track size="17.0" value="-38"/>
+        <track size="20.0" value="-42"/>
+        <track size="22.0" value="-45"/>
+        <track size="28.0" value="-48"/>
+        <track size="32.0" value="-49"/>
+        <track size="36.0" value="-50"/>
+        <track size="50.0" value="-54"/>
+        <track size="64.0" value="-58"/>
+        <track size="80.0" value="-61"/>
+        <track size="100.0" value="-61"/>
+        <track size="138.0" value="-61"/>
+      </trackEntry>
+      <trackEntry value="0.0" nameIndex="290">
+        <track size="6.0" value="40"/>
+        <track size="9.0" value="24"/>
+        <track size="10.0" value="12"/>
+        <track size="11.0" value="10"/>
+        <track size="12.0" value="0"/>
+        <track size="13.0" value="0"/>
+        <track size="14.0" value="0"/>
+        <track size="15.0" value="0"/>
+        <track size="16.0" value="-6"/>
+        <track size="17.0" value="-8"/>
+        <track size="20.0" value="-12"/>
+        <track size="22.0" value="-15"/>
+        <track size="28.0" value="-18"/>
+        <track size="32.0" value="-19"/>
+        <track size="36.0" value="-20"/>
+        <track size="50.0" value="-24"/>
+        <track size="64.0" value="-28"/>
+        <track size="80.0" value="-31"/>
+        <track size="100.0" value="-31"/>
+        <track size="138.0" value="-31"/>
+      </trackEntry>
+      <trackEntry value="1.0" nameIndex="289">
+        <track size="6.0" value="10"/>
+        <track size="9.0" value="10"/>
+        <track size="10.0" value="10"/>
+        <track size="11.0" value="10"/>
+        <track size="12.0" value="10"/>
+        <track size="13.0" value="10"/>
+        <track size="14.0" value="10"/>
+        <track size="15.0" value="10"/>
+        <track size="16.0" value="10"/>
+        <track size="17.0" value="10"/>
+        <track size="20.0" value="10"/>
+        <track size="22.0" value="10"/>
+        <track size="28.0" value="10"/>
+        <track size="32.0" value="10"/>
+        <track size="36.0" value="10"/>
+        <track size="50.0" value="10"/>
+        <track size="64.0" value="10"/>
+        <track size="80.0" value="10"/>
+        <track size="100.0" value="10"/>
+        <track size="138.0" value="10"/>
+      </trackEntry>
+    </horizData>
+    <vertData>
+      <!-- nTracks=0, nSizes=0 -->
+    </vertData>
   </trak>
 
 </ttFont>
