@@ -5,72 +5,50 @@
     <version value="1.0"/>
     <format value="0"/>
     <horizData>
-      <!-- nTracks=3, nSizes=20 -->
+      <!-- nTracks=2, nSizes=20 -->
       <trackEntry value="-1.0" nameIndex="291">
-        <track size="6.0" value="27"/>
-        <track size="9.0" value="5"/>
-        <track size="10.0" value="-4"/>
-        <track size="11.0" value="-8"/>
-        <track size="12.0" value="-15"/>
-        <track size="13.0" value="-21"/>
-        <track size="14.0" value="-26"/>
-        <track size="15.0" value="-31"/>
-        <track size="16.0" value="-35"/>
-        <track size="17.0" value="-38"/>
-        <track size="20.0" value="-42"/>
-        <track size="22.0" value="-45"/>
-        <track size="28.0" value="-48"/>
-        <track size="32.0" value="-49"/>
-        <track size="36.0" value="-50"/>
-        <track size="50.0" value="-54"/>
-        <track size="64.0" value="-58"/>
-        <track size="80.0" value="-61"/>
-        <track size="100.0" value="-61"/>
-        <track size="138.0" value="-61"/>
+        <track size="6.0" value="54"/>
+        <track size="9.0" value="10"/>
+        <track size="10.0" value="-8"/>
+        <track size="11.0" value="-16"/>
+        <track size="12.0" value="-30"/>
+        <track size="13.0" value="-22"/>
+        <track size="14.0" value="-52"/>
+        <track size="15.0" value="-62"/>
+        <track size="16.0" value="-70"/>
+        <track size="17.0" value="-76"/>
+        <track size="20.0" value="-84"/>
+        <track size="22.0" value="-90"/>
+        <track size="28.0" value="-96"/>
+        <track size="32.0" value="-98"/>
+        <track size="36.0" value="-100"/>
+        <track size="50.0" value="-108"/>
+        <track size="64.0" value="-116"/>
+        <track size="80.0" value="-122"/>
+        <track size="100.0" value="-122"/>
+        <track size="138.0" value="-122"/>
       </trackEntry>
       <trackEntry value="0.0" nameIndex="290">
-        <track size="6.0" value="40"/>
-        <track size="9.0" value="24"/>
-        <track size="10.0" value="12"/>
-        <track size="11.0" value="10"/>
+        <track size="6.0" value="80"/>
+        <track size="9.0" value="48"/>
+        <track size="10.0" value="24"/>
+        <track size="11.0" value="20"/>
         <track size="12.0" value="0"/>
         <track size="13.0" value="0"/>
         <track size="14.0" value="0"/>
         <track size="15.0" value="0"/>
-        <track size="16.0" value="-6"/>
-        <track size="17.0" value="-8"/>
-        <track size="20.0" value="-12"/>
-        <track size="22.0" value="-15"/>
-        <track size="28.0" value="-18"/>
-        <track size="32.0" value="-19"/>
-        <track size="36.0" value="-20"/>
-        <track size="50.0" value="-24"/>
-        <track size="64.0" value="-28"/>
-        <track size="80.0" value="-31"/>
-        <track size="100.0" value="-31"/>
-        <track size="138.0" value="-31"/>
-      </trackEntry>
-      <trackEntry value="1.0" nameIndex="289">
-        <track size="6.0" value="10"/>
-        <track size="9.0" value="10"/>
-        <track size="10.0" value="10"/>
-        <track size="11.0" value="10"/>
-        <track size="12.0" value="10"/>
-        <track size="13.0" value="10"/>
-        <track size="14.0" value="10"/>
-        <track size="15.0" value="10"/>
-        <track size="16.0" value="10"/>
-        <track size="17.0" value="10"/>
-        <track size="20.0" value="10"/>
-        <track size="22.0" value="10"/>
-        <track size="28.0" value="10"/>
-        <track size="32.0" value="10"/>
-        <track size="36.0" value="10"/>
-        <track size="50.0" value="10"/>
-        <track size="64.0" value="10"/>
-        <track size="80.0" value="10"/>
-        <track size="100.0" value="10"/>
-        <track size="138.0" value="10"/>
+        <track size="16.0" value="-12"/>
+        <track size="17.0" value="-16"/>
+        <track size="20.0" value="-24"/>
+        <track size="22.0" value="-30"/>
+        <track size="28.0" value="-36"/>
+        <track size="32.0" value="-38"/>
+        <track size="36.0" value="-40"/>
+        <track size="50.0" value="-48"/>
+        <track size="64.0" value="-56"/>
+        <track size="80.0" value="-62"/>
+        <track size="100.0" value="-62"/>
+        <track size="138.0" value="-62"/>
       </trackEntry>
     </horizData>
     <vertData>
