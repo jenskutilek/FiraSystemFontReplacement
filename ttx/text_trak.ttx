@@ -10,10 +10,10 @@
         <track size="6.0" value="54"/>
         <track size="9.0" value="10"/>
         <track size="10.0" value="-8"/>
-        <track size="11.0" value="-16"/>
-        <track size="12.0" value="-30"/>
+        <track size="11.0" value="-16"/> <!-- Safari tab titles -->
+        <track size="12.0" value="-30"/> <!-- Safari address bar -->
         <track size="13.0" value="-22"/>
-        <track size="14.0" value="-52"/>
+        <track size="14.0" value="-52"/> <!-- Menu bar -->
         <track size="15.0" value="-62"/>
         <track size="16.0" value="-70"/>
         <track size="17.0" value="-76"/>
@@ -32,10 +32,10 @@
         <track size="6.0" value="80"/>
         <track size="9.0" value="48"/>
         <track size="10.0" value="24"/>
-        <track size="11.0" value="20"/>
-        <track size="12.0" value="0"/>
+        <track size="11.0" value="20"/> <!-- Safari tab titles -->
+        <track size="12.0" value="0"/> <!-- Safari address bar -->
         <track size="13.0" value="0"/>
-        <track size="14.0" value="0"/>
+        <track size="14.0" value="0"/> <!-- Menu bar -->
         <track size="15.0" value="0"/>
         <track size="16.0" value="-12"/>
         <track size="17.0" value="-16"/>

@@ -9,10 +9,10 @@
       <trackEntry value="-1.0" nameIndex="291">
         <track size="6.0" value="228"/>
         <track size="9.0" value="164"/>
-        <track size="10.0" value="136"/>
-        <track size="11.0" value="112"/>
-        <track size="12.0" value="100"/>
-        <track size="13.0" value="94"/>
+        <track size="10.0" value="32"/>
+        <track size="11.0" value="24"/>
+        <track size="12.0" value="10"/>
+        <track size="13.0" value="18"/>
         <track size="14.0" value="76"/>
         <track size="15.0" value="44"/>
         <track size="16.0" value="36"/>
@@ -32,9 +32,9 @@
         <track size="6.0" value="272"/>
         <track size="9.0" value="204"/>
         <track size="10.0" value="176"/>
-        <track size="11.0" value="164"/>
-        <track size="12.0" value="140"/>
-        <track size="13.0" value="128"/>
+        <track size="11.0" value="60"/>
+        <track size="12.0" value="40"/>
+        <track size="13.0" value="40"/>
         <track size="14.0" value="108"/>
         <track size="15.0" value="96"/>
         <track size="16.0" value="76"/>
