@@ -11,7 +11,7 @@
         <track size="9.0" value="24"/>
         <track size="10.0" value="16"/>
         <track size="11.0" value="12"/>
-        <track size="12.0" value="5"/>
+        <track size="12.0" value="5"/>  <!-- Finder list mode -->
         <track size="13.0" value="52"/>
         <track size="14.0" value="38"/>
         <track size="15.0" value="22"/>
@@ -33,7 +33,7 @@
         <track size="9.0" value="44"/>
         <track size="10.0" value="32"/>
         <track size="11.0" value="30"/>
-        <track size="12.0" value="26"/>
+        <track size="12.0" value="26"/>  <!-- Finder list mode -->
         <track size="13.0" value="24"/>
         <track size="14.0" value="22"/>
         <track size="15.0" value="22"/>
