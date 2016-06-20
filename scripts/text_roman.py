@@ -61,6 +61,13 @@ f.instances.append(getNewInstance(
 	weights[11], "Heavy", ".SFNSText-Heavy", "SystemFontText-Heavy", 800
 ))
 
+# Special treatment for the Facebook website
+
+f.instances.append(getNewInstance(
+	weights[1], "Regular", ".SFNSText-Regular", "SystemFontSF-Regular", 400
+))
+f.instances[-1].customParameters["postscriptFullName"] = "San Francisco"
+
 #for i in f.instances:
 #	#setVerticalMetrics(i)
 #	setupFeatures(i)

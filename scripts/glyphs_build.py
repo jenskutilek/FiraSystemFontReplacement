@@ -14,7 +14,7 @@ notdef = [[((450, 0), 1), ((450, 696), 1), ((50, 696), 1), ((50, 0), 1), ], [((1
 
 def setNames(font):
 	font.familyName      = "System Font"
-	font.copyright       = u"Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015 by Jens Kutilek."
+	font.copyright       = u"Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015-2016 by Jens Kutilek."
 	font.designerURL     = "http://www.carrois.com/"
 	font.manufacturer    = "Jens Kutilek"
 	font.manufacturerURL = "http://www.kutilek.de/"

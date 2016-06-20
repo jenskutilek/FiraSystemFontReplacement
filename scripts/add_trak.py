@@ -22,6 +22,7 @@ fonts_text = [
     "SystemFontText-MediumItalic.otf",
     "SystemFontText-RegularItalic.otf",
     "SystemFontText-Regular.otf",
+    "SystemFontSF-Regular.otf", # FB fix
     "SystemFontText-RegularItalicG1.otf",
     "SystemFontText-RegularG1.otf",
     "SystemFontText-RegularItalicG2.otf",

@@ -43,6 +43,8 @@ cp "../otf/SystemFontDisplay-Bold.otf"         "Fira System Fonts/FSDisplay-Bold
 cp "../otf/SystemFontDisplay-Heavy.otf"        "Fira System Fonts/FSDisplay-Heavy.otf"
 cp "../otf/SystemFontDisplay-Black.otf"        "Fira System Fonts/FSDisplay-Black.otf"
 
+cp "../otf/SystemFontSF-Regular.otf"           "Fira System Fonts/FSSF-Regular.otf"
+
 sudo chown root:wheel Fira\ System\ Fonts/*.otf
 
 # Disable non-installer download for now because people don't pay attention
