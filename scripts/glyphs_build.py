@@ -13,7 +13,7 @@ notdef = [[((450, 0), "line"), ((450, 696), "line"), ((50, 696), "line"), ((50, 
 
 
 def setNames(font):
-	font.familyName      = "System Font"
+	font.familyName      = ".SF NS Text"
 	font.copyright       = u"Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A. System Font Replacement version 2015-2016 by Jens Kutilek."
 	font.designerURL     = "http://www.carrois.com/"
 	font.manufacturer    = "Jens Kutilek"
@@ -99,7 +99,10 @@ def getNewInstance(wt, styleName, psFontName, fileName, weightClass=None, adjust
     instance.weightValue = wt
     instance.name = styleName
     instance.customParameters["postscriptFontName"] = psFontName
-    instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
+    if styleName == "Regular":
+        instance.customParameters["postscriptFullName"] = "System Font"
+    else:
+        instance.customParameters["postscriptFullName"] = "System Font %s" % styleName
     instance.customParameters["fileName"]           = fileName
     instance.customParameters["weightClass"]        = weightClass
     if adjustSpacing:
