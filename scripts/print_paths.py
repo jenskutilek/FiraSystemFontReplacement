@@ -10,7 +10,7 @@ def getPaths(glyph_name):
 	for path in layer.paths:
 		result += "["
 		for node in path.nodes:
-			result += "((%i, %i), %s), " % (node.x, node.y, node.type)
+			result += "((%i, %i), %r), " % (node.x, node.y, node.type)
 		result += "], "
 	result += "]"
 	return result
