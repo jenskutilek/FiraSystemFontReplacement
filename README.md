@@ -1,7 +1,7 @@
 Fira System Font Replacement
 ============================
 
-These fonts are intended as a system font replacement on Mac OS X 10.11 El Capitan. If you are looking for a Fira Sans for Mac OS X 10.10 Yosemite, please use [the old release 4.100.](https://github.com/jenskutilek/FiraSystemFontReplacement/releases/tag/v4.100)
+These fonts are intended as a system font replacement on Mac OS X 10.12 Sierra. If you are looking for a Fira Sans for Mac OS X 10.11 El Capitan, please use [the old release 4.106.1.](https://github.com/jenskutilek/FiraSystemFontReplacement/releases/tag/v4.106.1)
 
 The fonts are based on version 4.106 of the [Fira Sans font family](https://carrois.com/typefaces/FiraSans/) by Erik Spiekermann and Ralph du Carrois, and are licensed under the Open Font License version 1.1 or later. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
 
@@ -15,7 +15,7 @@ It is recommended to shut down, turn off, and restart your computer to finish in
 
 ### How to uninstall
 
-Delete or move all font files called `FSText-*.otf` and `FSDisplay-*.otf` from the `/Library/Fonts` folder. Then restart your computer.
+Delete or move the font files called `FSDisplay.ttf`, `FSText.ttf` and `FSTextItalic.ttf` from the `/Library/Fonts` folder. Then shut down and restart your computer.
 
 ### How does it work?
 
