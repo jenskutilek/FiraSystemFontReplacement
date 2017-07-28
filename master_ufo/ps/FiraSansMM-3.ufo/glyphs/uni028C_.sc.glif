@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni028C.sc" format="1">
+  <advance width="476"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="238" y="531" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="257" y="560" type="line"/>
+      <point x="220" y="560" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="231" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

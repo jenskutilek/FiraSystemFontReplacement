@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03D7.sc" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="438" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="2" type="line"/>
+      <point x="438" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="557" type="line"/>
+      <point x="135" y="300" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="138" y="300" type="line"/>
+      <point x="428" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="1" type="line"/>
+      <point x="132" y="1" type="line"/>
+      <point x="132" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="-192" type="curve" smooth="yes"/>
+      <point x="459" y="-192"/>
+      <point x="493" y="-159"/>
+      <point x="493" y="-97" type="curve" smooth="yes"/>
+      <point x="493" y="1" type="line"/>
+      <point x="491" y="1" type="line"/>
+      <point x="491" y="-97" type="line" smooth="yes"/>
+      <point x="491" y="-158"/>
+      <point x="458" y="-190"/>
+      <point x="409" y="-190" type="curve" smooth="yes"/>
+      <point x="372" y="-190"/>
+      <point x="350" y="-178"/>
+      <point x="331" y="-162" type="curve"/>
+      <point x="330" y="-164" type="line"/>
+      <point x="348" y="-179"/>
+      <point x="371" y="-192"/>
+    </contour>
+    <contour>
+      <point x="264" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="252" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

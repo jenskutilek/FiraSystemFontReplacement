@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0438.sc" format="1">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="417" y="563" type="line"/>
+      <point x="175" y="88" type="line"/>
+      <point x="180" y="140"/>
+      <point x="187" y="202"/>
+      <point x="187" y="302" type="curve"/>
+      <point x="187" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="448" y="475" type="line"/>
+      <point x="443" y="425"/>
+      <point x="436" y="354"/>
+      <point x="436" y="263" type="curve"/>
+      <point x="436" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="481" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

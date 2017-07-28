@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisgravecomb.case" format="1">
+  <advance width="515"/>
+  <outline>
+    <contour>
+      <point x="390" y="934" type="curve" smooth="yes"/>
+      <point x="338" y="934"/>
+      <point x="295" y="893"/>
+      <point x="295" y="842" type="curve" smooth="yes"/>
+      <point x="295" y="790"/>
+      <point x="338" y="749"/>
+      <point x="390" y="749" type="curve" smooth="yes"/>
+      <point x="444" y="749"/>
+      <point x="485" y="790"/>
+      <point x="485" y="842" type="curve" smooth="yes"/>
+      <point x="485" y="893"/>
+      <point x="444" y="934"/>
+    </contour>
+    <contour>
+      <point x="125" y="934" type="curve" smooth="yes"/>
+      <point x="73" y="934"/>
+      <point x="30" y="893"/>
+      <point x="30" y="842" type="curve" smooth="yes"/>
+      <point x="30" y="790"/>
+      <point x="73" y="749"/>
+      <point x="125" y="749" type="curve" smooth="yes"/>
+      <point x="179" y="749"/>
+      <point x="220" y="790"/>
+      <point x="220" y="842" type="curve" smooth="yes"/>
+      <point x="220" y="893"/>
+      <point x="179" y="934"/>
+    </contour>
+    <contour>
+      <point x="91" y="1044" type="line"/>
+      <point x="262" y="895" type="line"/>
+      <point x="335" y="960" type="line"/>
+      <point x="195" y="1146" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

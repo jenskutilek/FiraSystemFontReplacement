@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EA5.sc" format="1">
+  <advance width="528"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="acutedbl" xOffset="343" yOffset="189"/>
+    <component base="uni0302.case" xOffset="30" yOffset="-133"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.986</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

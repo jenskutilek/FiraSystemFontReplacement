@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051F.sc" format="1">
+  <advance width="483"/>
+  <outline>
+    <contour>
+      <point x="439" y="351" type="line"/>
+      <point x="440" y="353" type="line"/>
+      <point x="224" y="492" type="line"/>
+      <point x="223" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="557" type="line"/>
+      <point x="244" y="296" type="line"/>
+      <point x="132" y="296" type="line"/>
+      <point x="132" y="557" type="line"/>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="1" type="line"/>
+      <point x="132" y="1" type="line"/>
+      <point x="132" y="294" type="line"/>
+      <point x="244" y="294" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="246" y="295" type="line"/>
+      <point x="433" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="242" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="456" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

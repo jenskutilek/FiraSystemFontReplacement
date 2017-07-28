@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TseHelpercy" format="1">
+  <advance width="664"/>
+  <outline>
+    <contour>
+      <point x="561" y="688" type="line"/>
+      <point x="474" y="688" type="line"/>
+      <point x="474" y="72" type="line"/>
+      <point x="189" y="72" type="line"/>
+      <point x="189" y="688" type="line"/>
+      <point x="103" y="688" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="530" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="1">
+  <advance width="477"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="-2" y="506" type="line"/>
+      <point x="65" y="429"/>
+      <point x="114" y="274"/>
+      <point x="183" y="0" type="curve"/>
+      <point x="286" y="0" type="line"/>
+      <point x="466" y="519" type="line"/>
+      <point x="383" y="536" type="line"/>
+      <point x="236" y="71" type="line"/>
+      <point x="181" y="329"/>
+      <point x="128" y="471"/>
+      <point x="78" y="536" type="curve"/>
+    </contour>
+    <contour>
+      <point x="215" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

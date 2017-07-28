@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="1">
+  <advance width="572"/>
+  <unicode hex="03B7"/>
+  <outline>
+    <contour>
+      <point x="391" y="554" type="curve" smooth="yes"/>
+      <point x="328" y="554"/>
+      <point x="280" y="532"/>
+      <point x="232" y="482" type="curve"/>
+      <point x="226" y="514"/>
+      <point x="220" y="533"/>
+      <point x="210" y="548" type="curve"/>
+      <point x="27" y="524" type="line"/>
+      <point x="40" y="486"/>
+      <point x="46" y="442"/>
+      <point x="46" y="397" type="curve" smooth="yes"/>
+      <point x="46" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="362" type="line"/>
+      <point x="265" y="395"/>
+      <point x="287" y="410"/>
+      <point x="307" y="410" type="curve" smooth="yes"/>
+      <point x="325" y="410"/>
+      <point x="337" y="400"/>
+      <point x="337" y="358" type="curve" smooth="yes"/>
+      <point x="337" y="-207" type="line"/>
+      <point x="535" y="-227" type="line"/>
+      <point x="535" y="391" type="line" smooth="yes"/>
+      <point x="535" y="496"/>
+      <point x="480" y="554"/>
+    </contour>
+    <contour>
+      <point x="295" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

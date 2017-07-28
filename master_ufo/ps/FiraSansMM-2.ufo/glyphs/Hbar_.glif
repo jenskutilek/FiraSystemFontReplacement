@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="671"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="621" y="601" type="line"/>
+      <point x="621" y="696" type="line"/>
+      <point x="415" y="696" type="line"/>
+      <point x="415" y="601" type="line"/>
+      <point x="256" y="601" type="line"/>
+      <point x="256" y="696" type="line"/>
+      <point x="50" y="696" type="line"/>
+      <point x="50" y="601" type="line"/>
+      <point x="0" y="601" type="line"/>
+      <point x="0" y="495" type="line"/>
+      <point x="50" y="495" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="281" type="line"/>
+      <point x="415" y="281" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="621" y="495" type="line"/>
+      <point x="671" y="495" type="line"/>
+      <point x="671" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="439" type="line"/>
+      <point x="256" y="495" type="line"/>
+      <point x="415" y="495" type="line"/>
+      <point x="415" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="334" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="88" y="680" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="542" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="334" y="340" type="move" name="center"/>
+    </contour>
+  </outline>
+</glyph>

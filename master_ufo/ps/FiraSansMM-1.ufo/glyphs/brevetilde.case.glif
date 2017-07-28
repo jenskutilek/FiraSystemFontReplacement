@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevetilde.case" format="1">
+  <advance width="381"/>
+  <outline>
+    <component base="tildecomb" xOffset="3" yOffset="243"/>
+    <component base="uni0306.case" xOffset="17" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.986</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

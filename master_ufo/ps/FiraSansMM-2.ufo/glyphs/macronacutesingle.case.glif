@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacutesingle.case" format="1">
+  <advance width="385"/>
+  <outline>
+    <component base="uni0304" yOffset="114"/>
+    <component base="acutecomb.case" xOffset="11" yOffset="168"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.986</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

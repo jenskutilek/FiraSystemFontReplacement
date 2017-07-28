@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0247.sc" format="1">
+  <advance width="473"/>
+  <outline>
+    <contour>
+      <point x="183" y="-67" type="line"/>
+      <point x="247" y="-83" type="line"/>
+      <point x="442" y="629" type="line"/>
+      <point x="379" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="571" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="135" type="line"/>
+      <point x="240" y="135" type="line"/>
+      <point x="240" y="226" type="line"/>
+      <point x="410" y="226" type="line"/>
+      <point x="410" y="356" type="line"/>
+      <point x="240" y="356" type="line"/>
+      <point x="240" y="437" type="line"/>
+      <point x="433" y="437" type="line"/>
+      <point x="453" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="262" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

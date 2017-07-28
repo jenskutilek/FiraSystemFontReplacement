@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0523.sc" format="1">
+  <advance width="870"/>
+  <outline>
+    <contour>
+      <point x="658" y="360" type="curve" smooth="yes"/>
+      <point x="580" y="360"/>
+      <point x="525" y="327"/>
+      <point x="482" y="280" type="curve"/>
+      <point x="482" y="245" type="line"/>
+      <point x="531" y="304"/>
+      <point x="586" y="332"/>
+      <point x="657" y="332" type="curve" smooth="yes"/>
+      <point x="745" y="332"/>
+      <point x="785" y="282"/>
+      <point x="785" y="207" type="curve" smooth="yes"/>
+      <point x="785" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="815" y="209" type="line" smooth="yes"/>
+      <point x="815" y="302"/>
+      <point x="759" y="360"/>
+    </contour>
+    <contour>
+      <point x="458" y="560" type="line"/>
+      <point x="458" y="309" type="line"/>
+      <point x="150" y="309" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="120" y="560" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="281" type="line"/>
+      <point x="458" y="281" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="488" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="711" y="-199" type="curve" smooth="yes"/>
+      <point x="771" y="-199"/>
+      <point x="815" y="-161"/>
+      <point x="815" y="-82" type="curve" smooth="yes"/>
+      <point x="815" y="1" type="line"/>
+      <point x="785" y="1" type="line"/>
+      <point x="785" y="-81" type="line" smooth="yes"/>
+      <point x="785" y="-150"/>
+      <point x="751" y="-172"/>
+      <point x="711" y="-172" type="curve" smooth="yes"/>
+      <point x="676" y="-172"/>
+      <point x="654" y="-161"/>
+      <point x="635" y="-148" type="curve"/>
+      <point x="620" y="-168" type="line"/>
+      <point x="640" y="-183"/>
+      <point x="670" y="-199"/>
+    </contour>
+    <contour>
+      <point x="438" y="-188" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="438" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="479" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="300" y="279" type="move" name="center"/>
+    </contour>
+  </outline>
+</glyph>

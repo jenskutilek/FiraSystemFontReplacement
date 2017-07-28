@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BF.sc" format="1">
+  <advance width="502"/>
+  <outline>
+    <contour>
+      <point x="293" y="566" type="curve" smooth="yes"/>
+      <point x="218" y="566"/>
+      <point x="169" y="531"/>
+      <point x="132" y="493" type="curve"/>
+      <point x="132" y="558" type="line"/>
+      <point x="130" y="558" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="189" type="line"/>
+      <point x="232" y="222" type="line" smooth="yes"/>
+      <point x="352" y="261"/>
+      <point x="437" y="308"/>
+      <point x="437" y="422" type="curve" smooth="yes"/>
+      <point x="437" y="510"/>
+      <point x="380" y="566"/>
+    </contour>
+    <contour>
+      <point x="132" y="191" type="line"/>
+      <point x="132" y="490" type="line"/>
+      <point x="171" y="530"/>
+      <point x="218" y="564"/>
+      <point x="293" y="564" type="curve" smooth="yes"/>
+      <point x="379" y="564"/>
+      <point x="435" y="509"/>
+      <point x="435" y="422" type="curve" smooth="yes"/>
+      <point x="435" y="309"/>
+      <point x="350" y="262"/>
+      <point x="232" y="224" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="251" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="251" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
