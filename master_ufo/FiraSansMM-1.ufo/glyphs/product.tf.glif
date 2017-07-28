@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="41" y="694" type="line"/>
+      <point x="519" y="694" type="line"/>
+      <point x="519" y="624" type="line"/>
+      <point x="450" y="624" type="line"/>
+      <point x="450" y="-201" type="line"/>
+      <point x="368" y="-211" type="line"/>
+      <point x="368" y="624" type="line"/>
+      <point x="196" y="624" type="line"/>
+      <point x="196" y="-201" type="line"/>
+      <point x="114" y="-211" type="line"/>
+      <point x="114" y="624" type="line"/>
+      <point x="41" y="624" type="line"/>
+    </contour>
+  </outline>
+</glyph>

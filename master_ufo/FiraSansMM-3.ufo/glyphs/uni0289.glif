@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0289" format="1">
+  <advance width="599"/>
+  <unicode hex="0289"/>
+  <outline>
+    <contour>
+      <point x="118" y="357" type="line"/>
+      <point x="30" y="357" type="line"/>
+      <point x="30" y="382" type="line"/>
+      <point x="471" y="382" type="line"/>
+      <point x="559" y="382" type="line"/>
+      <point x="559" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="520" type="line"/>
+      <point x="470" y="520" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="443" y="102" type="line"/>
+      <point x="418" y="56"/>
+      <point x="331" y="-10"/>
+      <point x="266" y="-10" type="qcurve" smooth="yes"/>
+      <point x="196" y="-10"/>
+      <point x="118" y="72"/>
+      <point x="118" y="149" type="qcurve" smooth="yes"/>
+      <point x="118" y="520" type="line"/>
+      <point x="148" y="520" type="line"/>
+      <point x="148" y="151" type="line" smooth="yes"/>
+      <point x="148" y="82"/>
+      <point x="212" y="18"/>
+      <point x="270" y="18" type="qcurve" smooth="yes"/>
+      <point x="329" y="18"/>
+      <point x="410" y="86"/>
+      <point x="440" y="138" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="464" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="297" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="464" y="517" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="297" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

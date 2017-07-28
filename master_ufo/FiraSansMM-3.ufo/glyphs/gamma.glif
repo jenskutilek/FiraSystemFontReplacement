@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="1">
+  <advance width="445"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="15" y="516" type="qcurve"/>
+      <point x="44" y="525" type="line"/>
+      <point x="64" y="499"/>
+      <point x="106" y="422"/>
+      <point x="151" y="310"/>
+      <point x="199" y="153"/>
+      <point x="224" y="47" type="qcurve"/>
+      <point x="393" y="526" type="line"/>
+      <point x="425" y="518" type="line"/>
+      <point x="241" y="17" type="line" smooth="yes"/>
+      <point x="227" y="-22"/>
+      <point x="214" y="-89"/>
+      <point x="219" y="-156"/>
+      <point x="229" y="-195" type="qcurve"/>
+      <point x="204" y="-198" type="line"/>
+      <point x="192" y="-162"/>
+      <point x="183" y="-97"/>
+      <point x="193" y="-30"/>
+      <point x="207" y="11" type="qcurve"/>
+      <point x="170" y="155"/>
+      <point x="105" y="350"/>
+      <point x="45" y="476"/>
+    </contour>
+    <contour>
+      <point x="215" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

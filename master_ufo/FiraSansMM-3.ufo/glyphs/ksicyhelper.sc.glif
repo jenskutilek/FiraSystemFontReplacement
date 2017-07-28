@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ksicyhelper.sc" format="1">
+  <advance width="426"/>
+  <outline>
+    <contour>
+      <point x="153" y="-143" type="qcurve"/>
+      <point x="144" y="-164" type="line"/>
+      <point x="102" y="-147"/>
+      <point x="53" y="-103"/>
+      <point x="53" y="-71" type="qcurve" smooth="yes"/>
+      <point x="53" y="-34"/>
+      <point x="124" y="9"/>
+      <point x="200" y="19" type="qcurve" smooth="yes"/>
+      <point x="253" y="26"/>
+      <point x="316" y="58"/>
+      <point x="345" y="113"/>
+      <point x="345" y="154" type="qcurve" smooth="yes"/>
+      <point x="345" y="219"/>
+      <point x="266" y="274"/>
+      <point x="198" y="274" type="qcurve" smooth="yes"/>
+      <point x="118" y="274" type="line"/>
+      <point x="118" y="299" type="line"/>
+      <point x="317" y="534" type="line"/>
+      <point x="40" y="534" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="355" y="560" type="line"/>
+      <point x="355" y="535" type="line"/>
+      <point x="153" y="300" type="line"/>
+      <point x="198" y="300" type="line" smooth="yes"/>
+      <point x="287" y="300"/>
+      <point x="376" y="225"/>
+      <point x="376" y="154" type="qcurve" smooth="yes"/>
+      <point x="376" y="105"/>
+      <point x="339" y="40"/>
+      <point x="265" y="2"/>
+      <point x="209" y="-7" type="qcurve" smooth="yes"/>
+      <point x="166" y="-14"/>
+      <point x="110" y="-29"/>
+      <point x="84" y="-53"/>
+      <point x="84" y="-72" type="qcurve" smooth="yes"/>
+      <point x="84" y="-95"/>
+      <point x="117" y="-127"/>
+    </contour>
+    <contour>
+      <point x="201" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

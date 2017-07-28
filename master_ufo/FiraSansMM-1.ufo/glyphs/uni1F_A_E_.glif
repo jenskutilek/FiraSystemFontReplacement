@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FAE" format="1">
+  <advance width="881"/>
+  <unicode hex="1FAE"/>
+  <outline>
+    <component base="uni0345" xOffset="469"/>
+    <component base="uni03A9" xOffset="190"/>
+    <component base="uni1FCF.case"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

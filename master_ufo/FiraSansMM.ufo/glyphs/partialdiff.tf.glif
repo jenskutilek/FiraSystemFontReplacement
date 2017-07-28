@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="159" y="708" type="qcurve"/>
+      <point x="159" y="710" type="line"/>
+      <point x="255" y="674"/>
+      <point x="385" y="559"/>
+      <point x="450" y="382"/>
+      <point x="450" y="252" type="qcurve" smooth="yes"/>
+      <point x="450" y="169"/>
+      <point x="406" y="52"/>
+      <point x="324" y="-9"/>
+      <point x="266" y="-9" type="qcurve" smooth="yes"/>
+      <point x="220" y="-9"/>
+      <point x="137" y="36"/>
+      <point x="85" y="125"/>
+      <point x="85" y="189" type="qcurve" smooth="yes"/>
+      <point x="85" y="256"/>
+      <point x="130" y="346"/>
+      <point x="204" y="392"/>
+      <point x="248" y="392" type="qcurve" smooth="yes"/>
+      <point x="316" y="392"/>
+      <point x="409" y="329"/>
+      <point x="449" y="259" type="qcurve"/>
+      <point x="449" y="256" type="line"/>
+      <point x="407" y="327"/>
+      <point x="316" y="390"/>
+      <point x="248" y="390" type="qcurve" smooth="yes"/>
+      <point x="204" y="390"/>
+      <point x="131" y="344"/>
+      <point x="87" y="255"/>
+      <point x="87" y="189" type="qcurve" smooth="yes"/>
+      <point x="87" y="125"/>
+      <point x="139" y="38"/>
+      <point x="221" y="-7"/>
+      <point x="266" y="-7" type="qcurve" smooth="yes"/>
+      <point x="322" y="-7"/>
+      <point x="404" y="53"/>
+      <point x="448" y="172"/>
+      <point x="448" y="259" type="qcurve" smooth="yes"/>
+      <point x="448" y="260" type="line" smooth="yes"/>
+      <point x="446" y="388"/>
+      <point x="380" y="561"/>
+      <point x="253" y="673"/>
+    </contour>
+  </outline>
+</glyph>

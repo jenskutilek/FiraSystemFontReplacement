@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436.sc" format="1">
+  <advance width="649"/>
+  <outline>
+    <contour>
+      <point x="588" y="560" type="line"/>
+      <point x="622" y="560" type="line"/>
+      <point x="452" y="296" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="426" y="281" type="line"/>
+      <point x="340" y="281" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="281" type="line"/>
+      <point x="221" y="281" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="195" y="296" type="line"/>
+      <point x="27" y="560" type="line"/>
+      <point x="62" y="560" type="line"/>
+      <point x="222" y="309" type="line"/>
+      <point x="310" y="309" type="line"/>
+      <point x="310" y="560" type="line"/>
+      <point x="340" y="560" type="line"/>
+      <point x="340" y="309" type="line"/>
+      <point x="426" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="316" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="598" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

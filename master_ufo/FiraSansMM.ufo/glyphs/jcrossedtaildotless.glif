@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrossedtaildotless" format="1">
+  <advance width="268"/>
+  <outline>
+    <contour>
+      <point x="25" y="-192" type="qcurve" smooth="yes"/>
+      <point x="-19" y="-192"/>
+      <point x="-70" y="-146"/>
+      <point x="-70" y="-111" type="qcurve" smooth="yes"/>
+      <point x="-70" y="-68"/>
+      <point x="-9" y="-19"/>
+      <point x="42" y="-19" type="qcurve" smooth="yes"/>
+      <point x="73" y="-19"/>
+      <point x="119" y="-26"/>
+      <point x="141" y="-32" type="qcurve"/>
+      <point x="141" y="-34" type="line"/>
+      <point x="119" y="-28"/>
+      <point x="73" y="-21"/>
+      <point x="42" y="-21" type="qcurve" smooth="yes"/>
+      <point x="-8" y="-21"/>
+      <point x="-68" y="-70"/>
+      <point x="-68" y="-111" type="qcurve" smooth="yes"/>
+      <point x="-68" y="-146"/>
+      <point x="-19" y="-190"/>
+      <point x="25" y="-190" type="qcurve" smooth="yes"/>
+      <point x="84" y="-190"/>
+      <point x="140" y="-109"/>
+      <point x="140" y="-33" type="qcurve" smooth="yes"/>
+      <point x="140" y="517" type="line"/>
+      <point x="142" y="517" type="line"/>
+      <point x="142" y="-33" type="line" smooth="yes"/>
+      <point x="142" y="-110"/>
+      <point x="84" y="-192"/>
+    </contour>
+    <contour>
+      <point x="218" y="-62" type="qcurve"/>
+      <point x="218" y="-64" type="line"/>
+      <point x="197" y="-54"/>
+      <point x="161" y="-40"/>
+      <point x="141" y="-34" type="qcurve"/>
+      <point x="141" y="-32" type="line"/>
+      <point x="161" y="-38"/>
+      <point x="197" y="-52"/>
+    </contour>
+    <contour>
+      <point x="141" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="141" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

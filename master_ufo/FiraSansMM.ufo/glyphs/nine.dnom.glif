@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="316" y="244" type="qcurve"/>
+      <point x="316" y="240" type="line"/>
+      <point x="294" y="203"/>
+      <point x="235" y="162"/>
+      <point x="194" y="162" type="qcurve" smooth="yes"/>
+      <point x="146" y="162"/>
+      <point x="83" y="228"/>
+      <point x="83" y="285" type="qcurve" smooth="yes"/>
+      <point x="83" y="326"/>
+      <point x="113" y="384"/>
+      <point x="166" y="416"/>
+      <point x="200" y="416" type="qcurve" smooth="yes"/>
+      <point x="264" y="416"/>
+      <point x="317" y="324"/>
+      <point x="317" y="244" type="qcurve" smooth="yes"/>
+      <point x="317" y="169"/>
+      <point x="271" y="71"/>
+      <point x="184" y="12"/>
+      <point x="122" y="-7" type="qcurve"/>
+      <point x="121" y="-5" type="line"/>
+      <point x="183" y="14"/>
+      <point x="268" y="72"/>
+      <point x="314" y="167"/>
+      <point x="315" y="241" type="qcurve" smooth="yes"/>
+      <point x="315" y="242" type="line" smooth="yes"/>
+      <point x="315" y="323"/>
+      <point x="262" y="414"/>
+      <point x="200" y="414" type="qcurve" smooth="yes"/>
+      <point x="151" y="414"/>
+      <point x="85" y="345"/>
+      <point x="85" y="285" type="qcurve" smooth="yes"/>
+      <point x="85" y="229"/>
+      <point x="147" y="164"/>
+      <point x="194" y="164" type="qcurve" smooth="yes"/>
+      <point x="235" y="164"/>
+      <point x="294" y="206"/>
+    </contour>
+  </outline>
+</glyph>

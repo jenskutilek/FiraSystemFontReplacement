@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descRoundcy" format="1">
+  <advance width="197"/>
+  <outline>
+    <contour>
+      <point x="74" y="-8" type="qcurve"/>
+      <point x="76" y="-7" type="line"/>
+      <point x="110" y="-18"/>
+      <point x="167" y="-76"/>
+      <point x="167" y="-124" type="qcurve" smooth="yes"/>
+      <point x="167" y="-165"/>
+      <point x="119" y="-202"/>
+      <point x="87" y="-202" type="qcurve" smooth="yes"/>
+      <point x="68" y="-202"/>
+      <point x="41" y="-196"/>
+      <point x="30" y="-191" type="qcurve"/>
+      <point x="30" y="-189" type="line"/>
+      <point x="41" y="-194"/>
+      <point x="68" y="-200"/>
+      <point x="87" y="-200" type="qcurve" smooth="yes"/>
+      <point x="118" y="-200"/>
+      <point x="165" y="-164"/>
+      <point x="165" y="-124" type="qcurve" smooth="yes"/>
+      <point x="165" y="-91"/>
+      <point x="137" y="-44"/>
+      <point x="95" y="-15"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

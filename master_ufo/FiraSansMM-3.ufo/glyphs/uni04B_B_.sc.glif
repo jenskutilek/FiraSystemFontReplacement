@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BB.sc" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="120" y="560" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="360" type="qcurve" smooth="yes"/>
+      <point x="396" y="360"/>
+      <point x="477" y="279"/>
+      <point x="477" y="209" type="qcurve" smooth="yes"/>
+      <point x="477" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="447" y="207" type="line" smooth="yes"/>
+      <point x="447" y="263"/>
+      <point x="385" y="332"/>
+      <point x="319" y="332" type="qcurve" smooth="yes"/>
+      <point x="266" y="332"/>
+      <point x="181" y="289"/>
+      <point x="144" y="245" type="qcurve"/>
+      <point x="144" y="280" type="line"/>
+      <point x="176" y="315"/>
+      <point x="262" y="360"/>
+    </contour>
+    <contour>
+      <point x="269" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="269" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="467" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

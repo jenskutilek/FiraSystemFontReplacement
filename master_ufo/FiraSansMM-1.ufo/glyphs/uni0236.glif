@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0236" format="1">
+  <advance width="416"/>
+  <unicode hex="0236"/>
+  <outline>
+    <contour>
+      <point x="102" y="647" type="line"/>
+      <point x="186" y="656" type="line"/>
+      <point x="186" y="137" type="line"/>
+      <point x="102" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="526" type="line"/>
+      <point x="313" y="526" type="line"/>
+      <point x="304" y="461" type="line"/>
+      <point x="11" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="15" type="line"/>
+      <point x="172" y="-73" type="line"/>
+      <point x="117" y="-49" type="line"/>
+      <point x="155" y="30" type="line"/>
+      <point x="190" y="102" type="line" smooth="yes"/>
+      <point x="214" y="158"/>
+      <point x="279" y="219"/>
+      <point x="331" y="219" type="qcurve" smooth="yes"/>
+      <point x="379" y="219"/>
+      <point x="438" y="163"/>
+      <point x="438" y="118" type="qcurve" smooth="yes"/>
+      <point x="438" y="78"/>
+      <point x="395" y="19"/>
+      <point x="321" y="-12"/>
+      <point x="272" y="-12" type="qcurve" smooth="yes"/>
+      <point x="243" y="-12"/>
+      <point x="183" y="1"/>
+      <point x="133" y="36"/>
+      <point x="102" y="98"/>
+      <point x="102" y="146" type="qcurve"/>
+      <point x="186" y="137" type="line"/>
+      <point x="186" y="92"/>
+      <point x="222" y="60"/>
+      <point x="272" y="60" type="qcurve" smooth="yes"/>
+      <point x="319" y="60"/>
+      <point x="363" y="90"/>
+      <point x="363" y="118" type="qcurve" smooth="yes"/>
+      <point x="363" y="137"/>
+      <point x="344" y="157"/>
+      <point x="324" y="157" type="qcurve" smooth="yes"/>
+      <point x="296" y="157"/>
+      <point x="256" y="110"/>
+      <point x="227" y="47" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="118" y="651" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="161" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

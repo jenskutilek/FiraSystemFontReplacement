@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A7.sc" format="1">
+  <advance width="878"/>
+  <outline>
+    <contour>
+      <point x="664" y="372" type="qcurve" smooth="yes"/>
+      <point x="750" y="372"/>
+      <point x="840" y="277"/>
+      <point x="840" y="193" type="qcurve" smooth="yes"/>
+      <point x="840" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="756" y="193" type="line" smooth="yes"/>
+      <point x="756" y="247"/>
+      <point x="703" y="304"/>
+      <point x="645" y="304" type="qcurve" smooth="yes"/>
+      <point x="598" y="304"/>
+      <point x="533" y="268"/>
+      <point x="507" y="236" type="qcurve"/>
+      <point x="507" y="308" type="line"/>
+      <point x="535" y="337"/>
+      <point x="610" y="372"/>
+    </contour>
+    <contour>
+      <point x="103" y="563" type="line"/>
+      <point x="515" y="563" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="494" type="line"/>
+      <point x="187" y="494" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="-211" type="qcurve" smooth="yes"/>
+      <point x="657" y="-211"/>
+      <point x="602" y="-188"/>
+      <point x="584" y="-174" type="qcurve"/>
+      <point x="617" y="-121" type="line"/>
+      <point x="634" y="-131"/>
+      <point x="666" y="-143"/>
+      <point x="691" y="-143" type="qcurve" smooth="yes"/>
+      <point x="720" y="-143"/>
+      <point x="756" y="-108"/>
+      <point x="756" y="-67" type="qcurve" smooth="yes"/>
+      <point x="756" y="1" type="line"/>
+      <point x="840" y="1" type="line"/>
+      <point x="840" y="-60" type="line" smooth="yes"/>
+      <point x="840" y="-135"/>
+      <point x="761" y="-211"/>
+    </contour>
+    <contour>
+      <point x="438" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="438" y="-188" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscaroncomb" format="1">
+  <advance width="221"/>
+  <outline>
+    <contour>
+      <point x="185" y="661" type="qcurve" smooth="yes"/>
+      <point x="188" y="661"/>
+      <point x="191" y="657"/>
+      <point x="191" y="655" type="qcurve" smooth="yes"/>
+      <point x="191" y="653"/>
+      <point x="188" y="649"/>
+      <point x="185" y="649" type="qcurve" smooth="yes"/>
+      <point x="182" y="649"/>
+      <point x="179" y="653"/>
+      <point x="179" y="655" type="qcurve" smooth="yes"/>
+      <point x="179" y="657"/>
+      <point x="182" y="661"/>
+    </contour>
+    <contour>
+      <point x="36" y="661" type="qcurve" smooth="yes"/>
+      <point x="39" y="661"/>
+      <point x="42" y="657"/>
+      <point x="42" y="655" type="qcurve" smooth="yes"/>
+      <point x="42" y="653"/>
+      <point x="39" y="649"/>
+      <point x="36" y="649" type="qcurve" smooth="yes"/>
+      <point x="33" y="649"/>
+      <point x="30" y="653"/>
+      <point x="30" y="655" type="qcurve" smooth="yes"/>
+      <point x="30" y="657"/>
+      <point x="33" y="661"/>
+    </contour>
+    <contour>
+      <point x="110" y="677" type="line"/>
+      <point x="218" y="755" type="line"/>
+      <point x="220" y="754" type="line"/>
+      <point x="111" y="675" type="line"/>
+      <point x="109" y="675" type="line"/>
+      <point x="2" y="754" type="line"/>
+      <point x="4" y="755" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="755" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="111" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

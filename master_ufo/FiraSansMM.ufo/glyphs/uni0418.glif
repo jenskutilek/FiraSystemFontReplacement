@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0418" format="1">
+  <advance width="653"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="520" y="680" type="line"/>
+      <point x="523" y="680" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="625" type="line" smooth="yes"/>
+      <point x="521" y="638"/>
+      <point x="521" y="665"/>
+      <point x="521" y="678" type="qcurve"/>
+      <point x="133" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="680" type="line"/>
+      <point x="132" y="680" type="line"/>
+      <point x="132" y="36" type="line" smooth="yes"/>
+      <point x="132" y="31"/>
+      <point x="132" y="19"/>
+      <point x="132" y="8"/>
+      <point x="132" y="2" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="334" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="327" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="533" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+</glyph>

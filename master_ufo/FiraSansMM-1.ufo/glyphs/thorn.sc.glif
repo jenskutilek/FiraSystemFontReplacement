@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn.sc" format="1">
+  <advance width="528"/>
+  <outline>
+    <contour>
+      <point x="187" y="469" type="line"/>
+      <point x="261" y="469" type="line" smooth="yes"/>
+      <point x="369" y="469"/>
+      <point x="493" y="383"/>
+      <point x="493" y="294" type="qcurve" smooth="yes"/>
+      <point x="493" y="229"/>
+      <point x="433" y="149"/>
+      <point x="329" y="112"/>
+      <point x="263" y="112" type="qcurve" smooth="yes"/>
+      <point x="187" y="112" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="187" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="176" type="line"/>
+      <point x="259" y="176" type="line" smooth="yes"/>
+      <point x="303" y="176"/>
+      <point x="368" y="196"/>
+      <point x="404" y="247"/>
+      <point x="404" y="293" type="qcurve" smooth="yes"/>
+      <point x="404" y="354"/>
+      <point x="327" y="405"/>
+      <point x="260" y="405" type="qcurve" smooth="yes"/>
+      <point x="187" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="252" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

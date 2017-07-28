@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="1">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="250" y="587" type="qcurve" smooth="yes"/>
+      <point x="326" y="587"/>
+      <point x="433" y="535"/>
+      <point x="490" y="449"/>
+      <point x="490" y="398" type="qcurve" smooth="yes"/>
+      <point x="490" y="362"/>
+      <point x="470" y="303"/>
+      <point x="419" y="247"/>
+      <point x="328" y="184"/>
+      <point x="258" y="144" type="qcurve"/>
+      <point x="504" y="144" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="22" y="136" type="line"/>
+      <point x="108" y="193"/>
+      <point x="213" y="269"/>
+      <point x="270" y="321"/>
+      <point x="290" y="360"/>
+      <point x="290" y="381" type="qcurve" smooth="yes"/>
+      <point x="290" y="399"/>
+      <point x="275" y="427"/>
+      <point x="245" y="443"/>
+      <point x="224" y="443" type="qcurve" smooth="yes"/>
+      <point x="193" y="443"/>
+      <point x="138" y="412"/>
+      <point x="111" y="381" type="qcurve"/>
+      <point x="0" y="471" type="line"/>
+      <point x="47" y="527"/>
+      <point x="171" y="587"/>
+    </contour>
+  </outline>
+</glyph>

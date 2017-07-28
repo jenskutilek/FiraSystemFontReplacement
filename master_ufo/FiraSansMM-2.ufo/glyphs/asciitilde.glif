@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="530"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="350" y="221" type="qcurve" smooth="yes"/>
+      <point x="314" y="221"/>
+      <point x="264" y="239"/>
+      <point x="226" y="263"/>
+      <point x="193" y="281"/>
+      <point x="173" y="281" type="qcurve" smooth="yes"/>
+      <point x="145" y="281"/>
+      <point x="119" y="251"/>
+      <point x="105" y="231" type="qcurve"/>
+      <point x="5" y="281" type="line"/>
+      <point x="23" y="318"/>
+      <point x="70" y="384"/>
+      <point x="135" y="426"/>
+      <point x="180" y="426" type="qcurve" smooth="yes"/>
+      <point x="216" y="426"/>
+      <point x="266" y="408"/>
+      <point x="304" y="384"/>
+      <point x="337" y="366"/>
+      <point x="357" y="366" type="qcurve" smooth="yes"/>
+      <point x="385" y="366"/>
+      <point x="411" y="396"/>
+      <point x="426" y="414" type="qcurve"/>
+      <point x="525" y="366" type="line"/>
+      <point x="507" y="329"/>
+      <point x="460" y="263"/>
+      <point x="395" y="221"/>
+    </contour>
+    <contour>
+      <point x="360" y="332" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tosf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="325" y="670" type="qcurve" smooth="yes"/>
+      <point x="363" y="670"/>
+      <point x="414" y="651"/>
+      <point x="434" y="636" type="qcurve"/>
+      <point x="433" y="634" type="line"/>
+      <point x="413" y="650"/>
+      <point x="363" y="668"/>
+      <point x="325" y="668" type="qcurve" smooth="yes"/>
+      <point x="247" y="668"/>
+      <point x="145" y="567"/>
+      <point x="95" y="395"/>
+      <point x="95" y="288" type="qcurve" smooth="yes"/>
+      <point x="95" y="287" type="line" smooth="yes"/>
+      <point x="95" y="207"/>
+      <point x="134" y="73"/>
+      <point x="221" y="-7"/>
+      <point x="293" y="-7" type="qcurve" smooth="yes"/>
+      <point x="352" y="-7"/>
+      <point x="431" y="48"/>
+      <point x="471" y="152"/>
+      <point x="471" y="223" type="qcurve" smooth="yes"/>
+      <point x="471" y="323"/>
+      <point x="379" y="421"/>
+      <point x="302" y="421" type="qcurve" smooth="yes"/>
+      <point x="251" y="421"/>
+      <point x="175" y="384"/>
+      <point x="117" y="322"/>
+      <point x="95" y="286" type="qcurve"/>
+      <point x="95" y="289" type="line"/>
+      <point x="116" y="324"/>
+      <point x="174" y="385"/>
+      <point x="251" y="423"/>
+      <point x="302" y="423" type="qcurve" smooth="yes"/>
+      <point x="354" y="423"/>
+      <point x="431" y="379"/>
+      <point x="473" y="290"/>
+      <point x="473" y="223" type="qcurve" smooth="yes"/>
+      <point x="473" y="151"/>
+      <point x="433" y="47"/>
+      <point x="353" y="-9"/>
+      <point x="293" y="-9" type="qcurve" smooth="yes"/>
+      <point x="221" y="-9"/>
+      <point x="133" y="71"/>
+      <point x="93" y="206"/>
+      <point x="93" y="287" type="qcurve" smooth="yes"/>
+      <point x="93" y="397"/>
+      <point x="143" y="570"/>
+      <point x="246" y="670"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookHELPER.case" format="1">
+  <advance width="448"/>
+  <outline>
+    <contour>
+      <point x="187" y="-227" type="qcurve" smooth="yes"/>
+      <point x="133" y="-227"/>
+      <point x="57" y="-202"/>
+      <point x="30" y="-182" type="qcurve"/>
+      <point x="94" y="-62" type="line"/>
+      <point x="112" y="-71"/>
+      <point x="141" y="-82"/>
+      <point x="162" y="-82" type="qcurve" smooth="yes"/>
+      <point x="185" y="-82"/>
+      <point x="212" y="-55"/>
+      <point x="212" y="-29" type="qcurve" smooth="yes"/>
+      <point x="212" y="1" type="line"/>
+      <point x="418" y="1" type="line"/>
+      <point x="418" y="-16" type="line" smooth="yes"/>
+      <point x="418" y="-122"/>
+      <point x="291" y="-227"/>
+    </contour>
+  </outline>
+</glyph>

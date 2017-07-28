@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravedbl" format="1">
+  <advance width="196"/>
+  <outline>
+    <contour>
+      <point x="42" y="761" type="line"/>
+      <point x="66" y="783" type="line"/>
+      <point x="166" y="661" type="line"/>
+      <point x="149" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="517" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="119" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

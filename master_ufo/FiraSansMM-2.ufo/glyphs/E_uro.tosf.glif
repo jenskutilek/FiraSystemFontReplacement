@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro.tosf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="410" y="696" type="qcurve" smooth="yes"/>
+      <point x="474" y="696"/>
+      <point x="561" y="661"/>
+      <point x="595" y="638" type="qcurve"/>
+      <point x="527" y="522" type="line"/>
+      <point x="500" y="541"/>
+      <point x="447" y="559"/>
+      <point x="417" y="559" type="qcurve" smooth="yes"/>
+      <point x="387" y="559"/>
+      <point x="337" y="531"/>
+      <point x="300" y="475"/>
+      <point x="291" y="432" type="qcurve"/>
+      <point x="291" y="239" type="line"/>
+      <point x="304" y="176"/>
+      <point x="370" y="118"/>
+      <point x="420" y="118" type="qcurve" smooth="yes"/>
+      <point x="455" y="118"/>
+      <point x="525" y="142"/>
+      <point x="559" y="162" type="qcurve"/>
+      <point x="559" y="17" type="line"/>
+      <point x="516" y="-3"/>
+      <point x="445" y="-20"/>
+      <point x="404" y="-20" type="qcurve" smooth="yes"/>
+      <point x="277" y="-20"/>
+      <point x="118" y="117"/>
+      <point x="95" y="235" type="qcurve"/>
+      <point x="95" y="438" type="line"/>
+      <point x="113" y="516"/>
+      <point x="203" y="632"/>
+      <point x="332" y="696"/>
+    </contour>
+    <contour>
+      <point x="40" y="308" type="line"/>
+      <point x="475" y="308" type="line"/>
+      <point x="450" y="213" type="line"/>
+      <point x="15" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="463" type="line"/>
+      <point x="513" y="463" type="line"/>
+      <point x="488" y="368" type="line"/>
+      <point x="15" y="368" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0518" format="1">
+  <advance width="828"/>
+  <unicode hex="0518"/>
+  <outline>
+    <contour>
+      <point x="487" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="620" type="line"/>
+      <point x="308" y="620" type="line" smooth="yes"/>
+      <point x="214" y="620"/>
+      <point x="133" y="549"/>
+      <point x="133" y="478" type="qcurve" smooth="yes"/>
+      <point x="133" y="433"/>
+      <point x="169" y="373"/>
+      <point x="234" y="343"/>
+      <point x="276" y="343" type="qcurve" smooth="yes"/>
+      <point x="420" y="343" type="line"/>
+      <point x="420" y="274" type="line"/>
+      <point x="232" y="274" type="line"/>
+      <point x="180" y="288" type="line"/>
+      <point x="135" y="304"/>
+      <point x="73" y="358"/>
+      <point x="41" y="433"/>
+      <point x="41" y="478" type="qcurve" smooth="yes"/>
+      <point x="41" y="576"/>
+      <point x="172" y="688"/>
+      <point x="303" y="688" type="qcurve" smooth="yes"/>
+      <point x="487" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="183" y="306" type="line"/>
+      <point x="265" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="775" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="688" type="line"/>
+      <point x="768" y="688" type="line"/>
+      <point x="758" y="618" type="line"/>
+      <point x="487" y="618" type="line"/>
+      <point x="487" y="386" type="line"/>
+      <point x="722" y="386" type="line"/>
+      <point x="722" y="316" type="line"/>
+      <point x="487" y="316" type="line"/>
+      <point x="487" y="70" type="line"/>
+      <point x="775" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="407" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

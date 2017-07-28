@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdn" format="1">
+  <advance width="900"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="94" y="580" type="line"/>
+      <point x="450" y="903" type="line"/>
+      <point x="806" y="580" type="line"/>
+      <point x="698" y="469" type="line"/>
+      <point x="622" y="539" type="line" smooth="yes"/>
+      <point x="588" y="570"/>
+      <point x="554" y="615"/>
+      <point x="539" y="649" type="qcurve"/>
+      <point x="539" y="13" type="line"/>
+      <point x="554" y="48"/>
+      <point x="588" y="92"/>
+      <point x="622" y="123" type="qcurve" smooth="yes"/>
+      <point x="698" y="193" type="line"/>
+      <point x="806" y="82" type="line"/>
+      <point x="450" y="-241" type="line"/>
+      <point x="94" y="82" type="line"/>
+      <point x="202" y="193" type="line"/>
+      <point x="278" y="123" type="line" smooth="yes"/>
+      <point x="312" y="92"/>
+      <point x="346" y="48"/>
+      <point x="361" y="13" type="qcurve"/>
+      <point x="361" y="649" type="line"/>
+      <point x="346" y="615"/>
+      <point x="312" y="570"/>
+      <point x="278" y="539" type="qcurve" smooth="yes"/>
+      <point x="202" y="469" type="line"/>
+    </contour>
+  </outline>
+</glyph>

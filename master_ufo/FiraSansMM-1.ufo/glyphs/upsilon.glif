@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="1">
+  <advance width="569"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="386" y="526" type="qcurve"/>
+      <point x="471" y="526" type="line"/>
+      <point x="482" y="462"/>
+      <point x="497" y="333"/>
+      <point x="497" y="256" type="qcurve" smooth="yes"/>
+      <point x="497" y="185"/>
+      <point x="458" y="83"/>
+      <point x="392" y="19"/>
+      <point x="311" y="-12"/>
+      <point x="269" y="-12" type="qcurve" smooth="yes"/>
+      <point x="221" y="-12"/>
+      <point x="141" y="28"/>
+      <point x="93" y="105"/>
+      <point x="93" y="162" type="qcurve" smooth="yes"/>
+      <point x="93" y="526" type="line"/>
+      <point x="177" y="526" type="line"/>
+      <point x="177" y="169" type="line" smooth="yes"/>
+      <point x="177" y="111"/>
+      <point x="228" y="56"/>
+      <point x="273" y="56" type="qcurve" smooth="yes"/>
+      <point x="304" y="56"/>
+      <point x="368" y="92"/>
+      <point x="412" y="183"/>
+      <point x="412" y="263" type="qcurve" smooth="yes"/>
+      <point x="412" y="321"/>
+      <point x="400" y="454"/>
+    </contour>
+    <contour>
+      <point x="273" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="277" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

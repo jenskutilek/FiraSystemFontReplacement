@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0289.sc" format="1">
+  <advance width="602"/>
+  <outline>
+    <contour>
+      <point x="474" y="434" type="line"/>
+      <point x="517" y="434" type="line"/>
+      <point x="517" y="432" type="line"/>
+      <point x="474" y="432" type="line"/>
+      <point x="474" y="169" type="line" smooth="yes"/>
+      <point x="474" y="119"/>
+      <point x="441" y="39"/>
+      <point x="367" y="-7"/>
+      <point x="304" y="-7" type="qcurve" smooth="yes"/>
+      <point x="241" y="-7"/>
+      <point x="166" y="39"/>
+      <point x="133" y="119"/>
+      <point x="133" y="169" type="qcurve" smooth="yes"/>
+      <point x="133" y="432" type="line"/>
+      <point x="85" y="432" type="line"/>
+      <point x="85" y="434" type="line"/>
+      <point x="133" y="434" type="line"/>
+      <point x="133" y="557" type="line"/>
+      <point x="135" y="557" type="line"/>
+      <point x="135" y="434" type="line"/>
+      <point x="472" y="434" type="line"/>
+      <point x="472" y="557" type="line"/>
+      <point x="474" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="169" type="qcurve" smooth="yes"/>
+      <point x="472" y="432" type="line"/>
+      <point x="135" y="432" type="line"/>
+      <point x="135" y="169" type="line" smooth="yes"/>
+      <point x="135" y="119"/>
+      <point x="167" y="40"/>
+      <point x="241" y="-5"/>
+      <point x="304" y="-5" type="qcurve" smooth="yes"/>
+      <point x="366" y="-5"/>
+      <point x="440" y="40"/>
+      <point x="472" y="119"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="304" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="484" y="557" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

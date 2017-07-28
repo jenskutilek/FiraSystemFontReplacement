@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookaboveHELPER2.case" format="1">
+  <advance width="211"/>
+  <outline>
+    <contour>
+      <point x="11" y="569" type="qcurve" smooth="yes"/>
+      <point x="11" y="620"/>
+      <point x="83" y="688"/>
+      <point x="154" y="688" type="qcurve" smooth="yes"/>
+      <point x="181" y="688" type="line"/>
+      <point x="181" y="619" type="line"/>
+      <point x="149" y="619" type="line" smooth="yes"/>
+      <point x="119" y="619"/>
+      <point x="91" y="591"/>
+      <point x="91" y="566" type="qcurve" smooth="yes"/>
+      <point x="91" y="547"/>
+      <point x="102" y="513"/>
+      <point x="110" y="493" type="qcurve"/>
+      <point x="51" y="463" type="line"/>
+      <point x="37" y="484"/>
+      <point x="11" y="535"/>
+    </contour>
+  </outline>
+</glyph>

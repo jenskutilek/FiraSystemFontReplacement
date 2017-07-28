@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01B4.sc" format="1">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="374" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="177" y="208" type="line"/>
+      <point x="-15" y="571" type="line"/>
+      <point x="200" y="571" type="line"/>
+      <point x="279" y="351" type="line"/>
+      <point x="312" y="449" type="line" smooth="yes"/>
+      <point x="338" y="523"/>
+      <point x="410" y="587"/>
+      <point x="482" y="587" type="qcurve" smooth="yes"/>
+      <point x="508" y="587"/>
+      <point x="550" y="580"/>
+      <point x="570" y="574" type="qcurve"/>
+      <point x="541" y="446" type="line"/>
+      <point x="535" y="448"/>
+      <point x="522" y="450"/>
+      <point x="513" y="450" type="qcurve" smooth="yes"/>
+      <point x="499" y="450"/>
+      <point x="480" y="436"/>
+      <point x="472" y="418" type="qcurve" smooth="yes"/>
+      <point x="374" y="209" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="201" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

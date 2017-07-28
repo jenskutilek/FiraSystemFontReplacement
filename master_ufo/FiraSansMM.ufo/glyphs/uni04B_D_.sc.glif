@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BD.sc" format="1">
+  <advance width="651"/>
+  <outline>
+    <contour>
+      <point x="159" y="275" type="qcurve" smooth="yes"/>
+      <point x="159" y="274" type="line" smooth="yes"/>
+      <point x="161" y="128"/>
+      <point x="272" y="-5"/>
+      <point x="366" y="-5" type="qcurve" smooth="yes"/>
+      <point x="417" y="-5"/>
+      <point x="496" y="29"/>
+      <point x="534" y="60" type="qcurve"/>
+      <point x="536" y="58" type="line"/>
+      <point x="497" y="27"/>
+      <point x="418" y="-7"/>
+      <point x="366" y="-7" type="qcurve" smooth="yes"/>
+      <point x="271" y="-7"/>
+      <point x="157" y="130"/>
+      <point x="157" y="285" type="qcurve" smooth="yes"/>
+      <point x="157" y="379"/>
+      <point x="210" y="504"/>
+      <point x="307" y="567"/>
+      <point x="371" y="567" type="qcurve" smooth="yes"/>
+      <point x="435" y="567"/>
+      <point x="526" y="505"/>
+      <point x="576" y="383"/>
+      <point x="576" y="293" type="qcurve" smooth="yes"/>
+      <point x="576" y="286"/>
+      <point x="576" y="279"/>
+      <point x="576" y="273" type="qcurve"/>
+      <point x="158" y="273" type="line"/>
+      <point x="158" y="275" type="line"/>
+      <point x="574" y="275" type="line"/>
+      <point x="578" y="418"/>
+      <point x="467" y="565"/>
+      <point x="371" y="565" type="qcurve" smooth="yes"/>
+      <point x="307" y="565"/>
+      <point x="210" y="501"/>
+      <point x="158" y="372"/>
+    </contour>
+    <contour>
+      <point x="20" y="358" type="qcurve" smooth="yes"/>
+      <point x="20" y="385"/>
+      <point x="37" y="420"/>
+      <point x="48" y="436" type="qcurve"/>
+      <point x="50" y="435" type="line"/>
+      <point x="38" y="419"/>
+      <point x="22" y="384"/>
+      <point x="22" y="358" type="qcurve" smooth="yes"/>
+      <point x="22" y="318"/>
+      <point x="70" y="275"/>
+      <point x="118" y="275" type="qcurve" smooth="yes"/>
+      <point x="167" y="275" type="line"/>
+      <point x="167" y="273" type="line"/>
+      <point x="118" y="273" type="line" smooth="yes"/>
+      <point x="69" y="273"/>
+      <point x="20" y="318"/>
+    </contour>
+    <contour>
+      <point x="436" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="326" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="326" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>
