@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="1" maximum="1.999" minimum="0" name="weight" tag="wght">
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source filename="FiraSansMM.ufo" name="FiraSansMM">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+
+        <source filename="FiraSansMM-1.ufo" name="FiraSansMM_1">
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="1" />
+            </location>
+        </source>
+
+        <source filename="FiraSansMM-2.ufo" name="FiraSansMM_2">
+            <location>
+                <dimension name="weight" xvalue="1.999" />
+            </location>
+        </source>
+
+        <source filename="FiraSansMM-3.ufo" name="FiraSansMM_3">
+            <location>
+                <dimension name="weight" xvalue="0.34146" />
+            </location>
+        </source>
+
+    </sources>
+    
+
+    <instances>
+
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Regular.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="1" />
+            </location>
+        </instance>
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Medium.ufo" stylename="Medium">
+            <location>
+                <dimension name="weight" xvalue="1.18421" />
+            </location>
+        </instance>
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-SemiBold.ufo" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="1.32456" />
+            </location>
+        </instance>
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Bold.ufo" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="1.50877" />
+            </location>
+        </instance>
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Light.ufo" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="0.75609" />
+            </location>
+        </instance>
+        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Heavy.ufo" stylename="Heavy">
+            <location>
+                <dimension name="weight" xvalue="1.7807" />
+            </location>
+        </instance>
+
+    </instances>
+
+
+</designspace>
