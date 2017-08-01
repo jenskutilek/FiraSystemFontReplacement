@@ -24,7 +24,7 @@ chmod 755 "scripts/preinstall"
 
 pkgbuild \
   --root "Fira System Fonts" \
-  --version "4.106" \
+  --version "4.106.2" \
   --scripts "scripts" \
   --filter ".txt" \
   --filter "._" \
@@ -41,5 +41,5 @@ zip "fira-system-fonts-installer.zip" "Fira System Fonts.pkg"
 
 # clean up intermediate packages
 
-#rm "Fira System Fonts.pkg"
-#rm "fonts.pkg"
+rm "Fira System Fonts.pkg"
+rm "fonts.pkg"
