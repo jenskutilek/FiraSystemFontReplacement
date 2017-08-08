@@ -28,7 +28,10 @@ f.sfntVersion = "\x00\x01\x00\x00"
 # Delete unneccessary tables
 
 for tag in ("avar", "HVAR", "MVAR"):
-	del f[tag]
+	try:
+		del f[tag]
+	except KeyError:
+		pass
 
 
 # Fix fvar table
@@ -61,4 +64,13 @@ name.setName(u"System Font", 4, 3, 1, 0x409)
 name.setName(u".SFNSText",   6, 3, 1, 0x409)
 
 
+# Add more hyphens to cmap, needed for AirDrop button
+
+for t in f["cmap"].tables:
+	for u in (0x2010, 0x2011):
+		if not u in t.cmap:
+			t.cmap[u] = "hyphen"
+
+
 f.save(file_path) # + "_fixed.ttf"
+#f.saveXML(file_path + "_fixed.ttx") # + "_fixed.ttx"
