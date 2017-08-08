@@ -25,9 +25,6 @@ weights = normalizeList(
 )
 
 f.instances.append(getNewInstance(
-	weights[0], "Light", ".SFNSText-Light", "SystemFontText-Light", 300
-))
-f.instances.append(getNewInstance(
 	weights[1], "Regular", ".SFNSText", "SystemFontText-Regular", 400
 ))
 f.instances.append(getNewInstance(
@@ -38,6 +35,9 @@ f.instances.append(getNewInstance(
 ))
 f.instances.append(getNewInstance(
 	weights[7], "Bold", ".SFNSText-Bold", "SystemFontText-Bold", 700
+))
+f.instances.append(getNewInstance(
+	weights[0], "Light", ".SFNSText-Light", "SystemFontText-Light", 300
 ))
 f.instances.append(getNewInstance(
 	weights[11], "Heavy", ".SFNSText-Heavy", "SystemFontText-Heavy", 800

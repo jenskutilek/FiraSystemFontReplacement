@@ -28,19 +28,7 @@ print weights_text
 print weights
 
 f.instances.append(getNewInstance(
-	weights[0], "Light Italic", ".SFNSText-LightItalic", "SystemFontText-LightItalic", 300
-))
-f.instances.append(getNewInstance(
 	weights[1], "Italic", ".SFNSText-Italic", "SystemFontText-RegularItalic", 400
-))
-f.instances.append(getNewInstance(
-	weights[2], "Italic G1", ".SFNSText-ItalicG1", "SystemFontText-RegularItalicG1", 400
-))
-f.instances.append(getNewInstance(
-	weights[3], "Italic G2", ".SFNSText-ItalicG2", "SystemFontText-RegularItalicG2", 400
-))
-f.instances.append(getNewInstance(
-	weights[4], "Italic G3", ".SFNSText-ItalicG3", "SystemFontText-RegularItalicG3", 400
 ))
 f.instances.append(getNewInstance(
 	weights[5], "Medium Italic", ".SFNSText-MediumItalic", "SystemFontText-MediumItalic", 500
@@ -52,13 +40,7 @@ f.instances.append(getNewInstance(
 	weights[7], "Bold Italic", ".SFNSText-BoldItalic", "SystemFontText-BoldItalic", 700
 ))
 f.instances.append(getNewInstance(
-	weights[8], "Bold Italic G1", ".SFNSText-BoldItalicG1", "SystemFontText-BoldItalicG1", 700
-))
-f.instances.append(getNewInstance(
-	weights[9], "Bold Italic G2", ".SFNSText-BoldItalicG2", "SystemFontText-BoldItalicG2", 700
-))
-f.instances.append(getNewInstance(
-	weights[10], "Bold Italic G3", ".SFNSText-BoldItalicG3", "SystemFontText-BoldItalicG3", 700
+	weights[0], "Light Italic", ".SFNSText-LightItalic", "SystemFontText-LightItalic", 300
 ))
 f.instances.append(getNewInstance(
 	weights[11], "Heavy Italic", ".SFNSText-HeavyItalic", "SystemFontText-HeavyItalic", 800

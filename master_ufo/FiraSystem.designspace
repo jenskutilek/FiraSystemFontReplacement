@@ -1,73 +1,105 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="1" maximum="1.999" minimum="0" name="weight" tag="wght">
+        <axis default="400.0" maximum="900.0" minimum="1.0" name="weight" tag="wght">
+            <map input="1.0" output="2" />
+            <map input="300.0" output="64" />
+            <map input="400.0" output="84" />
+            <map input="500.0" output="105" />
+            <map input="600.0" output="121" />
+            <map input="700.0" output="142" />
+            <map input="800.0" output="173" />
+            <map input="900.0" output="198" />
             <labelname xml:lang="en">Weight</labelname>
         </axis>
     </axes>
     <sources>
-        <source filename="FiraSansMM.ufo" name="FiraSansMM">
-            <location>
-                <dimension name="weight" xvalue="0" />
-            </location>
-        </source>
-
-        <source filename="FiraSansMM-1.ufo" name="FiraSansMM_1">
+        <source familyname=".SF NS Text" filename=".SFNSText-Regular.ufo" name=".SF NS Text Regular" stylename="Regular">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
             <info copy="1" />
             <location>
-                <dimension name="weight" xvalue="1" />
+                <dimension name="weight" xvalue="84.000000" />
             </location>
         </source>
-
-        <source filename="FiraSansMM-2.ufo" name="FiraSansMM_2">
+        <source familyname=".SF NS Text" filename=".SFNSText-Light.ufo" name=".SF NS Text Light" stylename="Light">
             <location>
-                <dimension name="weight" xvalue="1.999" />
+                <dimension name="weight" xvalue="2.000000" />
             </location>
         </source>
-
-        <source filename="FiraSansMM-3.ufo" name="FiraSansMM_3">
+        <source familyname=".SF NS Text" filename=".SFNSText-SemiLight.ufo" name=".SF NS Text SemiLight" stylename="SemiLight">
             <location>
-                <dimension name="weight" xvalue="0.34146" />
+                <dimension name="weight" xvalue="30.000000" />
             </location>
         </source>
-
+        <source familyname=".SF NS Text" filename=".SFNSText-SemiBold.ufo" name=".SF NS Text SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="92.000000" />
+            </location>
+        </source>
+        <source familyname=".SF NS Text" filename=".SFNSText-Bold.ufo" name=".SF NS Text Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="198.000000" />
+            </location>
+        </source>
     </sources>
-    
-
     <instances>
-
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Regular.ufo" stylename="Regular">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Regular.ufo" name=".SF NS Text Regular" postscriptfontname=".SFNSText" stylename="Regular">
             <location>
-                <dimension name="weight" xvalue="1" />
+                <dimension name="weight" xvalue="84.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Medium.ufo" stylename="Medium">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Medium.ufo" name=".SF NS Text Medium" postscriptfontname=".SFNSText-Medium" stylename="Medium">
             <location>
-                <dimension name="weight" xvalue="1.18421" />
+                <dimension name="weight" xvalue="105.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-SemiBold.ufo" stylename="SemiBold">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Semibold.ufo" name=".SF NS Text Semibold" postscriptfontname=".SFNSText-Semibold" stylename="Semibold">
             <location>
-                <dimension name="weight" xvalue="1.32456" />
+                <dimension name="weight" xvalue="121.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Bold.ufo" stylename="Bold">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Bold.ufo" name=".SF NS Text Bold" postscriptfontname=".SFNSText-Bold" stylename="Bold">
             <location>
-                <dimension name="weight" xvalue="1.50877" />
+                <dimension name="weight" xvalue="142.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Light.ufo" stylename="Light">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Light.ufo" name=".SF NS Text Light" postscriptfontname=".SFNSText-Light" stylename="Light">
             <location>
-                <dimension name="weight" xvalue="0.75609" />
+                <dimension name="weight" xvalue="64.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-        <instance familyname=".SF NS Text" filename="instances/SystemFontText-Heavy.ufo" stylename="Heavy">
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Heavy.ufo" name=".SF NS Text Heavy" postscriptfontname=".SFNSText-Heavy" stylename="Heavy">
             <location>
-                <dimension name="weight" xvalue="1.7807" />
+                <dimension name="weight" xvalue="173.000000" />
             </location>
+            <info />
+            <kerning />
         </instance>
-
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Ultrathin.ufo" name=".SF NS Text Ultrathin" stylename="Ultrathin">
+            <location>
+                <dimension name="weight" xvalue="2.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname=".SF NS Text" filename="../instance_ufo/.SFNSText-Black.ufo" name=".SF NS Text Black" stylename="Black">
+            <location>
+                <dimension name="weight" xvalue="198.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
     </instances>
-
-
 </designspace>
