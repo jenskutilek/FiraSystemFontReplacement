@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe-cy" format="2">
+  <advance width="673"/>
+  <unicode hex="041F"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="580" y="0" name="bottomright"/>
+  <anchor x="336" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="570" y="688" type="line"/>
+      <point x="103" y="688" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="614" type="line"/>
+      <point x="483" y="614" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

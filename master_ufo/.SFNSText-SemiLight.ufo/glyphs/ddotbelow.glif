@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddotbelow" format="2">
+  <advance width="575"/>
+  <unicode hex="1E0D"/>
+  <anchor x="279" y="734" name="top"/>
+  <anchor x="293" y="260" name="center"/>
+  <anchor x="490" y="734" name="topright"/>
+  <anchor x="298" y="-193" name="bottom"/>
+  <outline>
+    <component base="d"/>
+    <component base="dotbelowcomb" xOffset="242"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

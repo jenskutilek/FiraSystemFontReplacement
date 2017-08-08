@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yturned" format="2">
+  <advance width="486"/>
+  <unicode hex="028E"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="245" y="738" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="240" y="465" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="297" y="526" type="line"/>
+      <point x="268" y="526" type="line"/>
+      <point x="299" y="626"/>
+      <point x="329" y="666"/>
+      <point x="435" y="686" type="curve"/>
+      <point x="426" y="750" type="line"/>
+      <point x="284" y="732"/>
+      <point x="231" y="657"/>
+      <point x="188" y="529" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>vturned</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>vturned</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

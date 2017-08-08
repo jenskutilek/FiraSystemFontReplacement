@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiavaria" format="2">
+  <advance width="342"/>
+  <unicode hex="1FDD"/>
+  <anchor x="188" y="527" name="_top"/>
+  <outline>
+    <contour>
+      <point x="251" y="799" type="line"/>
+      <point x="168" y="778" type="line"/>
+      <point x="238" y="577" type="line"/>
+      <point x="298" y="593" type="line"/>
+    </contour>
+    <component base="dasia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

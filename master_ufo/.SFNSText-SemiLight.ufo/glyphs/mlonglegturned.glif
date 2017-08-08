@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mlonglegturned" format="2">
+  <advance width="849"/>
+  <unicode hex="0270"/>
+  <anchor x="432" y="-193" name="bottom"/>
+  <anchor x="425" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="704" y="118" type="line"/>
+      <point x="704" y="-193" type="line"/>
+      <point x="734" y="-199" type="line"/>
+      <point x="734" y="117" type="line"/>
+    </contour>
+    <component base="mturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

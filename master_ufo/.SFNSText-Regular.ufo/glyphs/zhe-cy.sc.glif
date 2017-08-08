@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy.sc" format="2">
+  <advance width="747"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="696" y="0" name="bottomright"/>
+  <anchor x="374" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="724" y="563" type="line"/>
+      <point x="635" y="563" type="line"/>
+      <point x="488" y="329" type="line"/>
+      <point x="413" y="329" type="line"/>
+      <point x="413" y="563" type="line"/>
+      <point x="334" y="563" type="line"/>
+      <point x="334" y="329" type="line"/>
+      <point x="260" y="329" type="line"/>
+      <point x="115" y="563" type="line"/>
+      <point x="24" y="563" type="line"/>
+      <point x="192" y="299" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="260" y="264" type="line"/>
+      <point x="334" y="264" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="413" y="264" type="line"/>
+      <point x="487" y="264" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="556" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

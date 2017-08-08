@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondialytikavaria" format="2">
+  <advance width="571"/>
+  <unicode hex="1FE2"/>
+  <anchor x="289" y="527" name="top"/>
+  <anchor x="285.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresisgravecomb" xOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

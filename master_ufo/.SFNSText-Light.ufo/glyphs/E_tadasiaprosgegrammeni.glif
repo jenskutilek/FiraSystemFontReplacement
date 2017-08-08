@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etadasiaprosgegrammeni" format="2">
+  <advance width="681"/>
+  <unicode hex="1F99"/>
+  <anchor x="107" y="680" name="topleft"/>
+  <anchor x="353" y="680" name="top"/>
+  <anchor x="353" y="340" name="center"/>
+  <anchor x="561" y="0" name="bottomright"/>
+  <anchor x="417" y="-142" name="bottom"/>
+  <outline>
+    <component base="Etadasia"/>
+    <component base="ypogegrammenicomb" xOffset="323"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Etatonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

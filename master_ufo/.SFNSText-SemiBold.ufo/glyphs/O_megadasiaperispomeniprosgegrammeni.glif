@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegadasiaperispomeniprosgegrammeni" format="2">
+  <advance width="893"/>
+  <unicode hex="1FAF"/>
+  <anchor x="312" y="689" name="topleft"/>
+  <anchor x="545" y="689" name="top"/>
+  <anchor x="622" y="-190" name="bottom"/>
+  <outline>
+    <component base="Omegadasiaperispomeni"/>
+    <component base="ypogegrammenicomb" xOffset="477"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

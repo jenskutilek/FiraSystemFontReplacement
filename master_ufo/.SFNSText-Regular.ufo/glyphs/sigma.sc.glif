@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma.sc" format="2">
+  <advance width="449"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="225" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="408" y="563" type="line"/>
+      <point x="41" y="563" type="line"/>
+      <point x="41" y="498" type="line"/>
+      <point x="231" y="278" type="line"/>
+      <point x="41" y="65" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="67" type="line"/>
+      <point x="137" y="67" type="line"/>
+      <point x="308" y="256" type="line"/>
+      <point x="308" y="303" type="line"/>
+      <point x="137" y="496" type="line"/>
+      <point x="408" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Sigma</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Sigma</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

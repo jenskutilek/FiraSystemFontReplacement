@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="647"/>
+  <unicode hex="04A0"/>
+  <anchor x="359" y="688" name="top"/>
+  <anchor x="589" y="0" name="bottomright"/>
+  <anchor x="356" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="235" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="614" type="line"/>
+      <point x="186" y="614" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

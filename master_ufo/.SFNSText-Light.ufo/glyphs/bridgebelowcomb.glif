@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgebelowcomb" format="2">
+  <unicode hex="032A"/>
+  <anchor x="145" y="0" name="_bottom"/>
+  <anchor x="147" y="-206" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="30" y="-204" type="line"/>
+      <point x="32" y="-204" type="line"/>
+      <point x="32" y="-114" type="line"/>
+      <point x="257" y="-114" type="line"/>
+      <point x="257" y="-206" type="line"/>
+      <point x="259" y="-206" type="line"/>
+      <point x="259" y="-112" type="line"/>
+      <point x="30" y="-112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>289</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

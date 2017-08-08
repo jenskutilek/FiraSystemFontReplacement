@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D75" format="2">
+  <advance width="309"/>
+  <unicode hex="1D75"/>
+  <anchor x="105" y="651" name="top"/>
+  <anchor x="132" y="259" name="center"/>
+  <anchor x="144" y="730" name="topright"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <outline>
+    <component base="t" xOffset="-13"/>
+    <component base="asciitilde" xOffset="-104" yOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lmiddletilde</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

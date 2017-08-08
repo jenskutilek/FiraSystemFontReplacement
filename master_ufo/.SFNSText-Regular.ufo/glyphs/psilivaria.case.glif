@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilivaria.case" format="2">
+  <advance width="231"/>
+  <anchor x="322" y="688" name="_topleft"/>
+  <anchor x="159" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="231" y="473" type="line"/>
+      <point x="286" y="488" type="line"/>
+      <point x="239" y="688" type="line"/>
+      <point x="162" y="668" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="479" type="line"/>
+      <point x="79" y="479" type="line"/>
+      <point x="120" y="565" type="line" smooth="yes"/>
+      <point x="140" y="607"/>
+      <point x="145" y="622"/>
+      <point x="145" y="639" type="curve" smooth="yes"/>
+      <point x="145" y="669"/>
+      <point x="122" y="692"/>
+      <point x="91" y="692" type="curve" smooth="yes"/>
+      <point x="60" y="692"/>
+      <point x="36" y="669"/>
+      <point x="36" y="639" type="curve" smooth="yes"/>
+      <point x="36" y="621"/>
+      <point x="46" y="606"/>
+      <point x="60" y="595" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>psili.case</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonvaria" format="2">
+  <advance width="777"/>
+  <unicode hex="1FC8"/>
+  <anchor x="300" y="696" name="topleft"/>
+  <anchor x="529" y="696" name="top"/>
+  <anchor x="722" y="0" name="ogonek"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="E" xOffset="257"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Epsilontonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dz" format="2">
+  <advance width="1029"/>
+  <unicode hex="01F3"/>
+  <anchor x="302" y="263" name="center"/>
+  <anchor x="510" y="738" name="topright"/>
+  <anchor x="809" y="0" name="bottom_2"/>
+  <anchor x="307" y="0" name="bottom_1"/>
+  <anchor x="298" y="738" name="top_1"/>
+  <anchor x="813" y="526" name="top_2"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

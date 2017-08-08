@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Komilje-cy" format="2">
+  <advance width="932"/>
+  <unicode hex="0508"/>
+  <anchor x="466" y="0" name="bottom"/>
+  <anchor x="466" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="869" y="379" type="curve"/>
+      <point x="784" y="379" type="line"/>
+      <point x="787" y="338"/>
+      <point x="789" y="300"/>
+      <point x="789" y="263" type="curve" smooth="yes"/>
+      <point x="789" y="102"/>
+      <point x="716" y="56"/>
+      <point x="650" y="56" type="curve" smooth="yes"/>
+      <point x="590" y="56"/>
+      <point x="554" y="92"/>
+      <point x="554" y="169" type="curve" smooth="yes"/>
+      <point x="554" y="526" type="line"/>
+      <point x="467" y="526" type="line"/>
+      <point x="467" y="162" type="line" smooth="yes"/>
+      <point x="467" y="49"/>
+      <point x="549" y="-12"/>
+      <point x="646" y="-12" type="curve" smooth="yes"/>
+      <point x="758" y="-12"/>
+      <point x="874" y="67"/>
+      <point x="874" y="256" type="curve" smooth="yes"/>
+      <point x="874" y="301"/>
+      <point x="872" y="340"/>
+    </contour>
+    <contour>
+      <point x="39" y="-11" type="line"/>
+      <point x="150" y="25"/>
+      <point x="181" y="67"/>
+      <point x="208" y="309" type="curve" smooth="yes"/>
+      <point x="243" y="615" type="line"/>
+      <point x="167" y="688" type="line"/>
+      <point x="121" y="303" type="line" smooth="yes"/>
+      <point x="100" y="121"/>
+      <point x="91" y="84"/>
+      <point x="17" y="57" type="curve"/>
+    </contour>
+    <contour>
+      <point x="467" y="313" type="line"/>
+      <point x="554" y="313" type="line"/>
+      <point x="554" y="688" type="line"/>
+      <point x="167" y="688" type="line"/>
+      <point x="227" y="615" type="line"/>
+      <point x="467" y="615" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=upsilon*0.8</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

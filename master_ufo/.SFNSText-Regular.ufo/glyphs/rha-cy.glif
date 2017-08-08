@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rha-cy" format="2">
+  <advance width="793"/>
+  <unicode hex="0517"/>
+  <anchor x="397" y="-201" name="bottom"/>
+  <anchor x="397" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="766" y="526" type="line"/>
+      <point x="674" y="526" type="line"/>
+      <point x="522" y="298" type="line"/>
+      <point x="522" y="237" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="590" y="271" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

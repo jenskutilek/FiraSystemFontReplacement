@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lje-cy.sc" format="2">
+  <advance width="771"/>
+  <anchor x="385" y="0" name="bottom"/>
+  <anchor x="385" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="446" y="563" type="line"/>
+      <point x="362" y="547" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="515" y="0" type="line" smooth="yes"/>
+      <point x="648" y="0"/>
+      <point x="743" y="52"/>
+      <point x="743" y="183" type="curve" smooth="yes"/>
+      <point x="743" y="302"/>
+      <point x="655" y="358"/>
+      <point x="515" y="358" type="curve" smooth="yes"/>
+      <point x="433" y="358" type="line"/>
+      <point x="433" y="295" type="line"/>
+      <point x="515" y="295" type="line" smooth="yes"/>
+      <point x="602" y="295"/>
+      <point x="655" y="264"/>
+      <point x="655" y="183" type="curve" smooth="yes"/>
+      <point x="655" y="91"/>
+      <point x="598" y="65"/>
+      <point x="520" y="65" type="curve" smooth="yes"/>
+      <point x="446" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="563" type="line"/>
+      <point x="127" y="563" type="line"/>
+      <point x="192" y="495" type="line"/>
+      <point x="412" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="495" type="line"/>
+      <point x="127" y="563" type="line"/>
+      <point x="101" y="295" type="line" smooth="yes"/>
+      <point x="85" y="119"/>
+      <point x="82" y="82"/>
+      <point x="17" y="56" type="curve"/>
+      <point x="39" y="-11" type="line"/>
+      <point x="149" y="26"/>
+      <point x="164" y="86"/>
+      <point x="184" y="286" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Lje-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Lje-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

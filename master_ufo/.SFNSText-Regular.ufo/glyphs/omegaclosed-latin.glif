@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaclosed-latin" format="2">
+  <advance width="759"/>
+  <unicode hex="0277"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <anchor x="379" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="236" y="-12" type="curve" smooth="yes"/>
+      <point x="316" y="-12"/>
+      <point x="363" y="24"/>
+      <point x="380" y="106" type="curve"/>
+      <point x="393" y="25"/>
+      <point x="445" y="-12"/>
+      <point x="517" y="-12" type="curve" smooth="yes"/>
+      <point x="615" y="-12"/>
+      <point x="700" y="59"/>
+      <point x="700" y="238" type="curve" smooth="yes"/>
+      <point x="700" y="411"/>
+      <point x="599" y="538"/>
+      <point x="381" y="538" type="curve"/>
+      <point x="381" y="471" type="line"/>
+      <point x="553" y="471"/>
+      <point x="615" y="379"/>
+      <point x="615" y="239" type="curve" smooth="yes"/>
+      <point x="615" y="89"/>
+      <point x="561" y="56"/>
+      <point x="508" y="56" type="curve" smooth="yes"/>
+      <point x="456" y="56"/>
+      <point x="420" y="89"/>
+      <point x="420" y="180" type="curve" smooth="yes"/>
+      <point x="420" y="317" type="line"/>
+      <point x="339" y="306" type="line"/>
+      <point x="339" y="181" type="line" smooth="yes"/>
+      <point x="339" y="78"/>
+      <point x="299" y="56"/>
+      <point x="248" y="56" type="curve" smooth="yes"/>
+      <point x="183" y="56"/>
+      <point x="144" y="108"/>
+      <point x="144" y="238" type="curve" smooth="yes"/>
+      <point x="144" y="379"/>
+      <point x="208" y="471"/>
+      <point x="381" y="471" type="curve"/>
+      <point x="381" y="538" type="line"/>
+      <point x="162" y="538"/>
+      <point x="59" y="411"/>
+      <point x="59" y="239" type="curve" smooth="yes"/>
+      <point x="59" y="58"/>
+      <point x="140" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

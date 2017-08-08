@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.dnom" format="2">
+  <advance width="396"/>
+  <outline>
+    <contour>
+      <point x="163" y="513" type="curve"/>
+      <point x="118" y="483" type="line"/>
+      <point x="171" y="400"/>
+      <point x="208" y="327"/>
+      <point x="208" y="194" type="curve"/>
+      <point x="208" y="61"/>
+      <point x="171" y="-12"/>
+      <point x="118" y="-95" type="curve"/>
+      <point x="163" y="-125" type="line"/>
+      <point x="224" y="-36"/>
+      <point x="278" y="45"/>
+      <point x="278" y="194" type="curve"/>
+      <point x="278" y="343"/>
+      <point x="224" y="424"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|parenleft.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|parenleft.dnom</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

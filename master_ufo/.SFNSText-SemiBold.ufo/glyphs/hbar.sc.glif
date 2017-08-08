@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="2">
+  <advance width="612"/>
+  <anchor x="306" y="564" name="top"/>
+  <anchor x="306" y="283" name="center"/>
+  <anchor x="527" y="0" name="bottomright"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="577" y="490" type="line"/>
+      <point x="518" y="490" type="line"/>
+      <point x="35" y="490" type="line"/>
+      <point x="35" y="422" type="line"/>
+      <point x="94" y="422" type="line"/>
+      <point x="577" y="422" type="line"/>
+    </contour>
+    <component base="h.sc" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Hbar</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

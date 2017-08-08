@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+  <advance width="662"/>
+  <unicode hex="0048"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="552" y="0" name="bottomright"/>
+  <anchor x="329" y="341" name="center"/>
+  <anchor x="329" y="682" name="top"/>
+  <anchor x="90" y="682" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="511" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="682" type="line"/>
+      <point x="511" y="682" type="line"/>
+      <point x="511" y="374" type="line"/>
+      <point x="151" y="374" type="line"/>
+      <point x="151" y="682" type="line"/>
+      <point x="120" y="682" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="345" type="line"/>
+      <point x="511" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

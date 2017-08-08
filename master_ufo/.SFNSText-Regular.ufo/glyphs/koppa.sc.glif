@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppa.sc" format="2">
+  <advance width="404"/>
+  <anchor x="202" y="0" name="bottom"/>
+  <anchor x="202" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="391" y="252" type="line"/>
+      <point x="314" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="252" type="line"/>
+      <point x="391" y="252" type="line"/>
+      <point x="374" y="321" type="line"/>
+      <point x="22" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="299" type="line"/>
+      <point x="277" y="563" type="line"/>
+      <point x="186" y="563" type="line"/>
+      <point x="22" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Koppa</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Koppa</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

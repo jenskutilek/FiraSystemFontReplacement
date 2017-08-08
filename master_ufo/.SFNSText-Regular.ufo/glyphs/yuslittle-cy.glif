@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittle-cy" format="2">
+  <advance width="509"/>
+  <unicode hex="0467"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="255" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="304" y="526" type="line"/>
+      <point x="206" y="526" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="253" y="463" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="273" type="line"/>
+      <point x="133" y="273" type="line"/>
+      <point x="133" y="208" type="line"/>
+      <point x="376" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="247" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="287" y="247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

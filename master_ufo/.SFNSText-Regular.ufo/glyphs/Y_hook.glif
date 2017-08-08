@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yhook" format="2">
+  <advance width="577"/>
+  <unicode hex="01B3"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="289" y="688" name="top"/>
+  <anchor x="6" y="688" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="316" y="266" type="line"/>
+      <point x="461" y="566" type="line" smooth="yes"/>
+      <point x="487" y="619"/>
+      <point x="505" y="634"/>
+      <point x="536" y="634" type="curve" smooth="yes"/>
+      <point x="563" y="634"/>
+      <point x="583" y="624"/>
+      <point x="599" y="611" type="curve"/>
+      <point x="633" y="660" type="line"/>
+      <point x="605" y="683"/>
+      <point x="574" y="700"/>
+      <point x="531" y="700" type="curve" smooth="yes"/>
+      <point x="463" y="700"/>
+      <point x="425" y="668"/>
+      <point x="389" y="590" type="curve" smooth="yes"/>
+      <point x="275" y="341" type="line"/>
+      <point x="103" y="688" type="line"/>
+      <point x="7" y="688" type="line"/>
+      <point x="228" y="265" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

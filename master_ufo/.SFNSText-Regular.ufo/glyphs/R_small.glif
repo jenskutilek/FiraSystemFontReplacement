@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rsmall" format="2">
+  <advance width="520"/>
+  <unicode hex="0280"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="260" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="238" y="526" type="curve" smooth="yes"/>
+      <point x="98" y="526" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="462" type="line"/>
+      <point x="237" y="462" type="line" smooth="yes"/>
+      <point x="325" y="462"/>
+      <point x="368" y="433"/>
+      <point x="368" y="367" type="curve" smooth="yes"/>
+      <point x="368" y="298"/>
+      <point x="323" y="270"/>
+      <point x="249" y="270" type="curve" smooth="yes"/>
+      <point x="169" y="270" type="line"/>
+      <point x="169" y="205" type="line"/>
+      <point x="270" y="205" type="line"/>
+      <point x="388" y="224"/>
+      <point x="455" y="272"/>
+      <point x="455" y="367" type="curve" smooth="yes"/>
+      <point x="455" y="470"/>
+      <point x="379" y="526"/>
+    </contour>
+    <contour>
+      <point x="327" y="240" type="line"/>
+      <point x="248" y="228" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

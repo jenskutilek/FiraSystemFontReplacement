@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i.sc" format="2">
+  <advance width="723"/>
+  <anchor x="219.5" y="571.0" name="top_1"/>
+  <anchor x="581" y="571" name="top_2"/>
+  <anchor x="649" y="0" name="ogonek"/>
+  <anchor x="219.5" y="0.0" name="bottom_1"/>
+  <anchor x="581" y="0" name="bottom_2"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="i.sc" xOffset="439"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

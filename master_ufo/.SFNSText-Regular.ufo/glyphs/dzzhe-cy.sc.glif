@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzzhe-cy.sc" format="2">
+  <advance width="835"/>
+  <anchor x="417" y="-201" name="bottom"/>
+  <anchor x="417" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="411" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="68" type="line"/>
+      <point x="411" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="263" type="line"/>
+      <point x="573" y="263" type="line"/>
+      <point x="573" y="330" type="line"/>
+      <point x="352" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="263" type="line"/>
+      <point x="594" y="263" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="664" y="302" type="line"/>
+      <point x="809" y="563" type="line"/>
+      <point x="722" y="563" type="line"/>
+      <point x="595" y="330" type="line"/>
+      <point x="552" y="330" type="line"/>
+      <point x="552" y="563" type="line"/>
+      <point x="469" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="68" type="line"/>
+      <point x="166" y="110"/>
+      <point x="187" y="179"/>
+      <point x="213" y="382" type="curve" smooth="yes"/>
+      <point x="228" y="496" type="line"/>
+      <point x="311" y="496" type="line"/>
+      <point x="311" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="563" type="line"/>
+      <point x="157" y="563" type="line"/>
+      <point x="132" y="379" type="line" smooth="yes"/>
+      <point x="103" y="162"/>
+      <point x="82" y="106"/>
+      <point x="46" y="67" type="curve"/>
+    </contour>
+    <component base="descStraight-cy" xScale="-1" xOffset="141"/>
+    <component base="descStraight-cy" xOffset="318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Dzzhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Dzzhe-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tturned" format="2">
+  <advance width="325"/>
+  <unicode hex="0287"/>
+  <anchor x="201" y="-124" name="bottom"/>
+  <anchor x="98" y="520" name="top"/>
+  <anchor x="169" y="-215" name="topright"/>
+  <anchor x="168" y="260" name="center"/>
+  <outline>
+    <component base="t" xScale="-1" yScale="-1" xOffset="325" yOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

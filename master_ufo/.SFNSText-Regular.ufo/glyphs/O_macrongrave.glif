@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacrongrave" format="2">
+  <advance width="692"/>
+  <unicode hex="1E50"/>
+  <anchor x="112" y="688" name="topleft"/>
+  <anchor x="346" y="688" name="top"/>
+  <anchor x="443" y="0" name="ogonek"/>
+  <anchor x="547" y="688" name="topright"/>
+  <anchor x="346" y="0" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="macrongravesingle.case" xOffset="183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

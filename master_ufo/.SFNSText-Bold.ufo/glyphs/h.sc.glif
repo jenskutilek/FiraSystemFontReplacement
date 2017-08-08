@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.sc" format="2">
+  <advance width="596"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="562" y="0" name="bottomright"/>
+  <anchor x="298" y="286" name="center"/>
+  <anchor x="298" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="553" y="571" type="line"/>
+      <point x="355" y="571" type="line"/>
+      <point x="355" y="370" type="line"/>
+      <point x="241" y="370" type="line"/>
+      <point x="241" y="571" type="line"/>
+      <point x="43" y="571" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="220" type="line"/>
+      <point x="355" y="220" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <string>{386.437, 635.456}</string>
+          <key>text</key>
+          <string>84% 82% bold -8</string>
+          <key>type</key>
+          <string>Text</string>
+        </dict>
+        <dict>
+          <key>position</key>
+          <string>{384, 606}</string>
+          <key>text</key>
+          <string>später 103% width</string>
+          <key>type</key>
+          <string>Text</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

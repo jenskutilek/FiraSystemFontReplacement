@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresisacute" format="2">
+  <advance width="282"/>
+  <unicode hex="1E2F"/>
+  <anchor x="141" y="534" name="top"/>
+  <anchor x="210" y="0" name="ogonek"/>
+  <anchor x="141" y="0" name="bottom"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresisacutecomb" xOffset="-117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

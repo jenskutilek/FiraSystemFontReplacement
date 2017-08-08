@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicronpsilivaria" format="2">
+  <advance width="933"/>
+  <unicode hex="1F4A"/>
+  <anchor x="354" y="689" name="topleft"/>
+  <anchor x="587" y="689" name="top"/>
+  <anchor x="686" y="0" name="ogonek"/>
+  <anchor x="790" y="689" name="topright"/>
+  <anchor x="587" y="0" name="bottom"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Omicron" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Omicrontonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

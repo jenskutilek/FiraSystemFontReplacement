@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="184"/>
+  <unicode hex="0384"/>
+  <anchor x="59" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="66" y="803" type="line"/>
+      <point x="30" y="606" type="line"/>
+      <point x="89" y="596" type="line"/>
+      <point x="154" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

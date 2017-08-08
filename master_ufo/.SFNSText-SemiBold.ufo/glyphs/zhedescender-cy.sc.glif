@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhedescender-cy.sc" format="2">
+  <advance width="779"/>
+  <anchor x="381" y="564" name="top"/>
+  <anchor x="709" y="0" name="bottomright"/>
+  <anchor x="380.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="zhe-cy.sc"/>
+    <component base="descStraight-cy" xOffset="620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>kadescender-cy.sc</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

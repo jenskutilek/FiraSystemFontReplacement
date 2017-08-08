@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rstroke.sc" format="2">
+  <advance width="595"/>
+  <anchor x="319" y="571" name="top"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="321" y="192" type="line"/>
+      <point x="293" y="322" type="line"/>
+      <point x="74" y="322" type="line"/>
+      <point x="10" y="322" type="line"/>
+      <point x="10" y="192" type="line"/>
+    </contour>
+    <component base="r.sc" xOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

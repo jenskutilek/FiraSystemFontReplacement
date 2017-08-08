@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegadasiaypogegrammeni" format="2">
+  <advance width="778"/>
+  <unicode hex="1FA1"/>
+  <anchor x="354" y="802" name="top"/>
+  <anchor x="462" y="-190" name="bottom"/>
+  <outline>
+    <component base="omega"/>
+    <component base="dasia" xOffset="265"/>
+    <component base="ypogegrammenicomb" xOffset="317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xi.sc" format="2">
+  <advance width="457"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="229" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="411" y="75" type="line"/>
+      <point x="46" y="75" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="324" type="line"/>
+      <point x="99" y="324" type="line"/>
+      <point x="99" y="252" type="line"/>
+      <point x="353" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="563" type="line"/>
+      <point x="46" y="563" type="line"/>
+      <point x="46" y="490" type="line"/>
+      <point x="394" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Xi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Xi</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

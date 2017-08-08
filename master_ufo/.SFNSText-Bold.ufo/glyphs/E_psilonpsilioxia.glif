@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonpsilioxia" format="2">
+  <advance width="963"/>
+  <unicode hex="1F1C"/>
+  <anchor x="486" y="696" name="topleft"/>
+  <anchor x="715" y="696" name="top"/>
+  <anchor x="908" y="0" name="ogonek"/>
+  <anchor x="712" y="0" name="bottom"/>
+  <outline>
+    <component base="psilioxia.case"/>
+    <component base="Epsilon" xOffset="443"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Epsilontonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="808"/>
+  <unicode hex="00C6"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="470" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="714" y="688" type="line"/>
+      <point x="263" y="688" type="line"/>
+      <point x="-9" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="313" y="619" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="756" y="70" type="line"/>
+      <point x="529" y="70" type="line"/>
+      <point x="391" y="618" type="line"/>
+      <point x="704" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="246" type="line"/>
+      <point x="156" y="246" type="line"/>
+      <point x="130" y="176" type="line"/>
+      <point x="431" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="385" type="line"/>
+      <point x="434" y="385" type="line"/>
+      <point x="453" y="315" type="line"/>
+      <point x="705" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

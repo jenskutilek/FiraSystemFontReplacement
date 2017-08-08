@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="277"/>
+  <unicode hex="006C"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="262" y="375" name="center"/>
+  <anchor x="125" y="734" name="top"/>
+  <anchor x="170" y="734" name="topright"/>
+  <outline>
+    <contour>
+      <point x="188" y="-10" type="curve" smooth="yes"/>
+      <point x="206" y="-10"/>
+      <point x="224" y="-5"/>
+      <point x="237" y="1" type="curve"/>
+      <point x="228" y="26" type="line"/>
+      <point x="216" y="21"/>
+      <point x="203" y="18"/>
+      <point x="189" y="18" type="curve" smooth="yes"/>
+      <point x="157" y="18"/>
+      <point x="140" y="37"/>
+      <point x="140" y="76" type="curve" smooth="yes"/>
+      <point x="140" y="738" type="line"/>
+      <point x="110" y="734" type="line"/>
+      <point x="110" y="75" type="line" smooth="yes"/>
+      <point x="110" y="15"/>
+      <point x="143" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n-5</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

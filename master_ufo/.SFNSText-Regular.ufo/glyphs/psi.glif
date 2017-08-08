@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi" format="2">
+  <advance width="752"/>
+  <unicode hex="03C8"/>
+  <anchor x="376" y="-201" name="bottom"/>
+  <anchor x="376" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="653" y="526" type="curve"/>
+      <point x="568" y="526" type="line"/>
+      <point x="587" y="428"/>
+      <point x="594" y="340"/>
+      <point x="594" y="263" type="curve" smooth="yes"/>
+      <point x="594" y="123"/>
+      <point x="534" y="59"/>
+      <point x="398" y="55" type="curve"/>
+      <point x="399" y="-12" type="line"/>
+      <point x="568" y="-7"/>
+      <point x="679" y="65"/>
+      <point x="679" y="257" type="curve" smooth="yes"/>
+      <point x="679" y="359"/>
+      <point x="669" y="439"/>
+    </contour>
+    <contour>
+      <point x="167" y="526" type="line"/>
+      <point x="83" y="526" type="line"/>
+      <point x="83" y="202" type="line" smooth="yes"/>
+      <point x="83" y="68"/>
+      <point x="166" y="-10"/>
+      <point x="358" y="-12" type="curve"/>
+      <point x="358" y="55" type="line"/>
+      <point x="217" y="58"/>
+      <point x="167" y="108"/>
+      <point x="167" y="208" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="417" y="526" type="line"/>
+      <point x="336" y="526" type="line"/>
+      <point x="336" y="-211" type="line"/>
+      <point x="417" y="-201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=upsilon</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

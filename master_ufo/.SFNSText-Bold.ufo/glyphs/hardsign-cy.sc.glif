@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardsign-cy.sc" format="2">
+  <advance width="657"/>
+  <anchor x="382.5" y="571.0" name="top"/>
+  <anchor x="382.5" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="152" y="427" type="line"/>
+      <point x="348" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="0" y="427" type="line"/>
+    </contour>
+    <component base="softsign-cy.sc" xOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Hardsign-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

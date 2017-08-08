@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaafrican" format="2">
+  <advance width="361"/>
+  <unicode hex="0196"/>
+  <anchor x="202" y="0" name="bottom"/>
+  <anchor x="136" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="179" y="688" type="line"/>
+      <point x="93" y="688" type="line"/>
+      <point x="93" y="199" type="line"/>
+      <point x="179" y="199" type="line"/>
+    </contour>
+    <component base="hookHELPER.case" xScale="-1" xOffset="381" yOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmiddletilde" format="2">
+  <advance width="500"/>
+  <unicode hex="026B"/>
+  <anchor x="248" y="744" name="top"/>
+  <anchor x="501" y="373" name="center"/>
+  <anchor x="357" y="744" name="topright"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <outline>
+    <component base="l" xOffset="112"/>
+    <component base="asciitilde" xOffset="-15" yOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="586"/>
+  <unicode hex="049E"/>
+  <anchor x="297" y="688" name="top"/>
+  <anchor x="527" y="0" name="bottomright"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="21" y="528" type="line"/>
+      <point x="297" y="528" type="line"/>
+      <point x="297" y="596" type="line"/>
+      <point x="106" y="596" type="line"/>
+      <point x="21" y="596" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

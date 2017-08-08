@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iu-cy.sc" format="2">
+  <advance width="807"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="404" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="505" y="573" type="curve" smooth="yes"/>
+      <point x="363" y="573"/>
+      <point x="272" y="473"/>
+      <point x="263" y="299" type="curve"/>
+      <point x="263" y="278" type="line"/>
+      <point x="266" y="93"/>
+      <point x="359" y="-11"/>
+      <point x="505" y="-11" type="curve" smooth="yes"/>
+      <point x="655" y="-11"/>
+      <point x="750" y="96"/>
+      <point x="750" y="282" type="curve" smooth="yes"/>
+      <point x="750" y="470"/>
+      <point x="655" y="573"/>
+    </contour>
+    <contour>
+      <point x="187" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="259" type="line"/>
+      <point x="298" y="259" type="line"/>
+      <point x="298" y="327" type="line"/>
+      <point x="187" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="506" type="curve"/>
+      <point x="603" y="506"/>
+      <point x="661" y="439"/>
+      <point x="661" y="282" type="curve" smooth="yes"/>
+      <point x="661" y="122"/>
+      <point x="601" y="57"/>
+      <point x="505" y="57" type="curve" smooth="yes"/>
+      <point x="414" y="57"/>
+      <point x="351" y="122"/>
+      <point x="351" y="279" type="curve" smooth="yes"/>
+      <point x="351" y="439"/>
+      <point x="412" y="506"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Iu-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Iu-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

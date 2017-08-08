@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="437"/>
+  <unicode hex="04FF"/>
+  <anchor x="218.5" y="0" name="bottom"/>
+  <anchor x="218.5" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="75" y="520" type="line"/>
+      <point x="40" y="520" type="line"/>
+      <point x="199" y="278" type="line"/>
+      <point x="217" y="260" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="236" y="279" type="line"/>
+      <point x="218" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="520" type="line"/>
+      <point x="362" y="520" type="line"/>
+      <point x="218" y="297" type="line"/>
+      <point x="199" y="278" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="217" y="260" type="line"/>
+      <point x="236" y="279" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.3" yScale="0.95" xOffset="-41" yOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

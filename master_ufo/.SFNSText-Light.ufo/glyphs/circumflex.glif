@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="278"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="32" y="660" type="line"/>
+      <point x="140" y="743" type="line"/>
+      <point x="246" y="660" type="line"/>
+      <point x="248" y="661" type="line"/>
+      <point x="141" y="745" type="line"/>
+      <point x="139" y="745" type="line"/>
+      <point x="30" y="661" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

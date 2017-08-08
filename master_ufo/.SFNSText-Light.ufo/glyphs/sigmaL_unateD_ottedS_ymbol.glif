@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmaLunateDottedSymbol" format="2">
+  <advance width="509"/>
+  <unicode hex="037C"/>
+  <anchor x="298" y="265" name="top"/>
+  <anchor x="298" y="259" name="center"/>
+  <anchor x="254.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="sigmaLunateSymbol"/>
+    <component base="dotaccentcomb" xOffset="262" yOffset="-441"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

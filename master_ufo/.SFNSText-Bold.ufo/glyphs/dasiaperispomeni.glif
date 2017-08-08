@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiaperispomeni" format="2">
+  <advance width="462"/>
+  <unicode hex="1FDF"/>
+  <anchor x="211" y="534" name="_top"/>
+  <anchor x="427" y="981" name="_topleft"/>
+  <anchor x="213" y="1000" name="top"/>
+  <outline>
+    <contour>
+      <point x="263" y="583" type="line"/>
+      <point x="255" y="644" type="line"/>
+      <point x="287" y="661"/>
+      <point x="303" y="685"/>
+      <point x="303" y="719" type="curve" smooth="yes"/>
+      <point x="303" y="768"/>
+      <point x="265" y="810"/>
+      <point x="211" y="810" type="curve" smooth="yes"/>
+      <point x="157" y="810"/>
+      <point x="119" y="771"/>
+      <point x="119" y="719" type="curve" smooth="yes"/>
+      <point x="119" y="688"/>
+      <point x="129" y="666"/>
+      <point x="149" y="631" type="curve" smooth="yes"/>
+      <point x="176" y="583" type="line"/>
+    </contour>
+    <component base="perispomeni" xOffset="-20" yOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

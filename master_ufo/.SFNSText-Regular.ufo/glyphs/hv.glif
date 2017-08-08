@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hv" format="2">
+  <advance width="886"/>
+  <unicode hex="0195"/>
+  <anchor x="443" y="0" name="bottom"/>
+  <anchor x="443" y="738" name="top"/>
+  <outline>
+    <contour>
+      <point x="586" y="-12" type="curve" smooth="yes"/>
+      <point x="697" y="-12"/>
+      <point x="813" y="67"/>
+      <point x="813" y="256" type="curve" smooth="yes"/>
+      <point x="813" y="358"/>
+      <point x="803" y="441"/>
+      <point x="787" y="526" type="curve"/>
+      <point x="702" y="526" type="line"/>
+      <point x="720" y="430"/>
+      <point x="728" y="340"/>
+      <point x="728" y="263" type="curve" smooth="yes"/>
+      <point x="728" y="102"/>
+      <point x="651" y="56"/>
+      <point x="589" y="56" type="curve" smooth="yes"/>
+      <point x="529" y="56"/>
+      <point x="493" y="92"/>
+      <point x="493" y="169" type="curve" smooth="yes"/>
+      <point x="493" y="343" type="line"/>
+      <point x="409" y="343" type="line"/>
+      <point x="409" y="162" type="line" smooth="yes"/>
+      <point x="409" y="48"/>
+      <point x="488" y="-12"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="747" type="line"/>
+      <point x="98" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="221" type="line"/>
+      <point x="493" y="221" type="line"/>
+      <point x="493" y="377" type="line" smooth="yes"/>
+      <point x="493" y="476"/>
+      <point x="437" y="538"/>
+      <point x="342" y="538" type="curve" smooth="yes"/>
+      <point x="264" y="538"/>
+      <point x="206" y="493"/>
+      <point x="166" y="427" type="curve"/>
+      <point x="182" y="376" type="line"/>
+      <point x="218" y="433"/>
+      <point x="261" y="472"/>
+      <point x="321" y="472" type="curve" smooth="yes"/>
+      <point x="375" y="472"/>
+      <point x="409" y="446"/>
+      <point x="409" y="365" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>upsilon</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

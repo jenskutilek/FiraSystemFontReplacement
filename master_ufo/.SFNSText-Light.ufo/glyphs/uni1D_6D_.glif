@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D6D" format="2">
+  <advance width="632"/>
+  <unicode hex="1D6D"/>
+  <anchor x="275" y="727" name="top"/>
+  <anchor x="284" y="259" name="center"/>
+  <anchor x="492" y="727" name="topright"/>
+  <anchor x="283" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="507" y="604" type="curve"/>
+      <point x="542" y="604"/>
+      <point x="566" y="627"/>
+      <point x="577" y="649" type="curve"/>
+      <point x="575" y="649" type="line"/>
+      <point x="562" y="626"/>
+      <point x="541" y="606"/>
+      <point x="507" y="606" type="curve"/>
+      <point x="460" y="606"/>
+      <point x="413" y="661"/>
+      <point x="365" y="661" type="curve"/>
+      <point x="331" y="661"/>
+      <point x="307" y="638"/>
+      <point x="293" y="616" type="curve"/>
+      <point x="295" y="616" type="line"/>
+      <point x="311" y="639"/>
+      <point x="332" y="659"/>
+      <point x="365" y="659" type="curve"/>
+      <point x="413" y="659"/>
+      <point x="460" y="604"/>
+    </contour>
+    <component base="d" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dcroat</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute.loclPLK" format="2">
+  <advance width="545"/>
+  <anchor x="276" y="689" name="top"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <outline>
+    <component base="S"/>
+    <component base="acute.case.loclPLK" xOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pacute" format="2">
+  <advance width="611"/>
+  <unicode hex="1E54"/>
+  <anchor x="33" y="696" name="topleft"/>
+  <anchor x="308" y="984" name="top"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <outline>
+    <component base="P"/>
+    <component base="acutecomb.case" xOffset="124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

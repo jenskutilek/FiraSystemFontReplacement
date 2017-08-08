@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcircumflexbelow" format="2">
+  <advance width="322"/>
+  <unicode hex="1E71"/>
+  <anchor x="118" y="651" name="top"/>
+  <anchor x="145" y="259" name="center"/>
+  <anchor x="157" y="730" name="topright"/>
+  <anchor x="227" y="-180" name="bottom"/>
+  <outline>
+    <component base="t"/>
+    <component base="circumflexbelowcomb" xOffset="86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

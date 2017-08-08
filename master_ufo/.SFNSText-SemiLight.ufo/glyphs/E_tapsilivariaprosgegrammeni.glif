@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etapsilivariaprosgegrammeni" format="2">
+  <advance width="824"/>
+  <unicode hex="1F9A"/>
+  <anchor x="252" y="682" name="topleft"/>
+  <anchor x="491" y="682" name="top"/>
+  <anchor x="491" y="341" name="center"/>
+  <anchor x="714" y="0" name="bottomright"/>
+  <anchor x="548" y="-159" name="bottom"/>
+  <outline>
+    <component base="Etapsilivaria"/>
+    <component base="ypogegrammenicomb" xOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Etatonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

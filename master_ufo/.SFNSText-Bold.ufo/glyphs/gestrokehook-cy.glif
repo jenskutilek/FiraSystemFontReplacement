@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="446"/>
+  <unicode hex="04FB"/>
+  <anchor x="223" y="-215" name="bottom"/>
+  <anchor x="223" y="534" name="top"/>
+  <anchor x="260" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="72" y="142" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="142" type="line"/>
+    </contour>
+    <component base="ghestroke-cy"/>
+    <component base="hookHELPER" xOffset="-67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

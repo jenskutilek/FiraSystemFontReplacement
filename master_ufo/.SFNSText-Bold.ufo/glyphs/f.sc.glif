@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.sc" format="2">
+  <advance width="439"/>
+  <anchor x="219.5" y="0" name="bottom"/>
+  <anchor x="219.5" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="439" y="571" type="line" smooth="yes"/>
+      <point x="43" y="571" type="line" smooth="yes"/>
+      <point x="43" y="0" type="line" smooth="yes"/>
+      <point x="241" y="0" type="line" smooth="yes"/>
+      <point x="241" y="200" type="line" smooth="yes"/>
+      <point x="397" y="200" type="line" smooth="yes"/>
+      <point x="397" y="335" type="line" smooth="yes"/>
+      <point x="241" y="335" type="line" smooth="yes"/>
+      <point x="241" y="437" type="line" smooth="yes"/>
+      <point x="419" y="437" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=F</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=F</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="460"/>
+  <unicode hex="013F"/>
+  <anchor x="352" y="293" name="top"/>
+  <anchor x="352" y="354" name="center"/>
+  <anchor x="181" y="682" name="topright"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotaccentcomb" xOffset="296" yOffset="-352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

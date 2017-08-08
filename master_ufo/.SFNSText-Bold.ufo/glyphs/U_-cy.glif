@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U-cy" format="2">
+  <advance width="599"/>
+  <unicode hex="0423"/>
+  <anchor x="299.5" y="0" name="bottom"/>
+  <anchor x="300" y="696" name="top"/>
+  <outline>
+    <contour>
+      <point x="624" y="696" type="line"/>
+      <point x="416" y="696" type="line"/>
+      <point x="312" y="293" type="line"/>
+      <point x="192" y="696" type="line"/>
+      <point x="-20" y="696" type="line"/>
+      <point x="188" y="180" type="line"/>
+      <point x="250" y="180" type="line"/>
+      <point x="217" y="137"/>
+      <point x="174" y="121"/>
+      <point x="90" y="115" type="curve"/>
+      <point x="116" y="-20" type="line"/>
+      <point x="291" y="-9"/>
+      <point x="382" y="39"/>
+      <point x="448" y="219" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Y-5</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Y-10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

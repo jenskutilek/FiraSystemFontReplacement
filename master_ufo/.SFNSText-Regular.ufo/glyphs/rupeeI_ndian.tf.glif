@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rupeeIndian.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="93" y="281" type="line"/>
+      <point x="204" y="281" type="line"/>
+      <point x="353" y="301"/>
+      <point x="432" y="359"/>
+      <point x="432" y="488" type="curve" smooth="yes"/>
+      <point x="432" y="575"/>
+      <point x="387" y="634"/>
+      <point x="296" y="645" type="curve"/>
+      <point x="174" y="688" type="line"/>
+      <point x="93" y="688" type="line"/>
+      <point x="93" y="624" type="line"/>
+      <point x="173" y="624" type="line" smooth="yes"/>
+      <point x="290" y="624"/>
+      <point x="340" y="582"/>
+      <point x="340" y="488" type="curve" smooth="yes"/>
+      <point x="340" y="386"/>
+      <point x="283" y="349"/>
+      <point x="184" y="349" type="curve" smooth="yes"/>
+      <point x="93" y="349" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="277" y="305" type="line"/>
+      <point x="190" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="480" type="line"/>
+      <point x="510" y="480" type="line"/>
+      <point x="510" y="538" type="line"/>
+      <point x="93" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="630" type="line"/>
+      <point x="277" y="630" type="line"/>
+      <point x="287" y="630" type="line"/>
+      <point x="510" y="630" type="line"/>
+      <point x="510" y="688" type="line"/>
+      <point x="93" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

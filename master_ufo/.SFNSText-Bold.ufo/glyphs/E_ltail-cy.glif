@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="710"/>
+  <unicode hex="04C5"/>
+  <anchor x="326.5" y="696.0" name="top"/>
+  <anchor x="620" y="0" name="bottomright"/>
+  <anchor x="326.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="descTail-cy.case" xOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

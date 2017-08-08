@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zstroke" format="2">
+  <advance width="434"/>
+  <unicode hex="01B6"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="217" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="400" y="526" type="line"/>
+      <point x="49" y="526" type="line"/>
+      <point x="49" y="455" type="line"/>
+      <point x="307" y="455" type="line"/>
+      <point x="26" y="63" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="402" y="71" type="line"/>
+      <point x="119" y="71" type="line"/>
+      <point x="400" y="462" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.0871" yScale="0.9129" xOffset="-3" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

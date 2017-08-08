@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KaiSymbol" format="2">
+  <advance width="601"/>
+  <unicode hex="03CF"/>
+  <anchor x="301" y="-201" name="bottom"/>
+  <anchor x="323" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="483" y="72" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="591" y="72" type="line"/>
+    </contour>
+    <component base="Kappa"/>
+    <component base="hookHELPER.case" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Kappa</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

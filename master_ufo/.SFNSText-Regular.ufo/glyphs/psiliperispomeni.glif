@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psiliperispomeni" format="2">
+  <advance width="386"/>
+  <unicode hex="1FCF"/>
+  <anchor x="170" y="526" name="_top"/>
+  <anchor x="359" y="852" name="_topleft"/>
+  <anchor x="195" y="861" name="top"/>
+  <outline>
+    <contour>
+      <point x="151" y="576" type="line"/>
+      <point x="200" y="576" type="line"/>
+      <point x="220" y="614" type="line" smooth="yes"/>
+      <point x="243" y="656"/>
+      <point x="248" y="672"/>
+      <point x="248" y="689" type="curve" smooth="yes"/>
+      <point x="248" y="719"/>
+      <point x="225" y="741"/>
+      <point x="194" y="741" type="curve" smooth="yes"/>
+      <point x="163" y="741"/>
+      <point x="139" y="719"/>
+      <point x="139" y="689" type="curve" smooth="yes"/>
+      <point x="139" y="667"/>
+      <point x="149" y="652"/>
+      <point x="170" y="640" type="curve"/>
+    </contour>
+    <component base="perispomeni" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

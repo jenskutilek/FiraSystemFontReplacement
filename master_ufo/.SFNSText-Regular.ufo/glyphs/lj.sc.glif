@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lj.sc" format="2">
+  <advance width="734"/>
+  <anchor x="362" y="316" name="center"/>
+  <anchor x="209" y="563" name="topright"/>
+  <anchor x="592" y="-201" name="bottom_2"/>
+  <anchor x="263" y="0" name="bottom_1"/>
+  <anchor x="145" y="563" name="top_1"/>
+  <anchor x="594" y="563" name="top_2"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc" xOffset="451"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

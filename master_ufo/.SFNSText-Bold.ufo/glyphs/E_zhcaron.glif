@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ezhcaron" format="2">
+  <advance width="565"/>
+  <unicode hex="01EE"/>
+  <anchor x="279" y="965" name="top"/>
+  <anchor x="282.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="Ezh"/>
+    <component base="caroncomb.case" xOffset="43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

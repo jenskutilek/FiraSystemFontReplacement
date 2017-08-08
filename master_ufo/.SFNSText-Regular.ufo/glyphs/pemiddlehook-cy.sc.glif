@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pemiddlehook-cy.sc" format="2">
+  <advance width="878"/>
+  <anchor x="439" y="-201" name="bottom"/>
+  <anchor x="439" y="563" name="top"/>
+  <anchor x="527" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="664" y="372" type="curve" smooth="yes"/>
+      <point x="592" y="372"/>
+      <point x="544" y="347"/>
+      <point x="507" y="308" type="curve"/>
+      <point x="507" y="236" type="line"/>
+      <point x="542" y="279"/>
+      <point x="582" y="304"/>
+      <point x="645" y="304" type="curve" smooth="yes"/>
+      <point x="722" y="304"/>
+      <point x="756" y="265"/>
+      <point x="756" y="193" type="curve" smooth="yes"/>
+      <point x="756" y="0" type="line"/>
+      <point x="840" y="0" type="line"/>
+      <point x="840" y="193" type="line" smooth="yes"/>
+      <point x="840" y="305"/>
+      <point x="778" y="372"/>
+    </contour>
+    <component base="pe-cy.sc"/>
+    <component base="hookHELPER" xOffset="552"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Tshe-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

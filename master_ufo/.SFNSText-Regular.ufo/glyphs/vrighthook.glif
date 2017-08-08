@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vrighthook" format="2">
+  <advance width="502"/>
+  <unicode hex="2C71"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="251" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="447" y="460" type="line" smooth="yes"/>
+      <point x="457" y="493"/>
+      <point x="469" y="505"/>
+      <point x="491" y="505" type="curve" smooth="yes"/>
+      <point x="503" y="505"/>
+      <point x="513" y="503"/>
+      <point x="523" y="499" type="curve"/>
+      <point x="548" y="556" type="line"/>
+      <point x="526" y="566"/>
+      <point x="504" y="573"/>
+      <point x="481" y="573" type="curve" smooth="yes"/>
+      <point x="419" y="573"/>
+      <point x="392" y="542"/>
+      <point x="369" y="467" type="curve" smooth="yes"/>
+      <point x="246" y="75" type="line"/>
+      <point x="103" y="526" type="line"/>
+      <point x="11" y="526" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>whook</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

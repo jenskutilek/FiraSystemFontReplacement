@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="558"/>
+  <unicode hex="039B"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="279" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="298" y="682" type="line"/>
+      <point x="260" y="682" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="279" y="657" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

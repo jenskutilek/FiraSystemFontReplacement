@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaperispomeni" format="2">
+  <advance width="761"/>
+  <unicode hex="1FF6"/>
+  <anchor x="384" y="517" name="top"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <outline>
+    <component base="omega"/>
+    <component base="perispomeni" xOffset="235"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

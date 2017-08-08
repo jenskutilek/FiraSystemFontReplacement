@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nj" format="2">
+  <advance width="832"/>
+  <unicode hex="01CC"/>
+  <anchor x="295" y="517" name="top_1"/>
+  <anchor x="115" y="517" name="topleft"/>
+  <anchor x="706" y="706" name="top_2"/>
+  <anchor x="287" y="0" name="bottom_1"/>
+  <anchor x="706" y="-188" name="bottom_2"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xOffset="580"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

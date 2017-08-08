@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallineabovecomb" format="2">
+  <unicode hex="030D"/>
+  <anchor x="115" y="534" name="_top"/>
+  <anchor x="117" y="896" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="616" type="line"/>
+      <point x="200" y="616" type="line"/>
+      <point x="200" y="896" type="line"/>
+      <point x="30" y="896" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>230</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

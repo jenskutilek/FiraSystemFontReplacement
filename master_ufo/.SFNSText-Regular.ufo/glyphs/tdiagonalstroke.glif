@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdiagonalstroke" format="2">
+  <advance width="356"/>
+  <unicode hex="2C66"/>
+  <anchor x="178" y="0" name="bottom"/>
+  <anchor x="144" y="647" name="top"/>
+  <outline>
+    <contour>
+      <point x="241" y="-12" type="curve" smooth="yes"/>
+      <point x="285" y="-12"/>
+      <point x="323" y="0"/>
+      <point x="357" y="23" type="curve"/>
+      <point x="325" y="81" type="line"/>
+      <point x="299" y="65"/>
+      <point x="277" y="58"/>
+      <point x="252" y="58" type="curve" smooth="yes"/>
+      <point x="205" y="58"/>
+      <point x="186" y="84"/>
+      <point x="186" y="139" type="curve" smooth="yes"/>
+      <point x="186" y="656" type="line"/>
+      <point x="102" y="647" type="line"/>
+      <point x="102" y="135" type="line" smooth="yes"/>
+      <point x="102" y="39"/>
+      <point x="154" y="-12"/>
+    </contour>
+    <contour>
+      <point x="11" y="461" type="line"/>
+      <point x="304" y="461" type="line"/>
+      <point x="313" y="526" type="line"/>
+      <point x="11" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="-70" type="line"/>
+      <point x="322" y="675" type="line"/>
+      <point x="282" y="685" type="line"/>
+      <point x="43" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

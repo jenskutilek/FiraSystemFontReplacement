@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kahook-cy.sc" format="2">
+  <advance width="541"/>
+  <anchor x="270" y="-201" name="bottom"/>
+  <anchor x="270" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="254" type="line"/>
+      <point x="294" y="254" type="line"/>
+      <point x="329" y="293" type="line"/>
+      <point x="503" y="563" type="line"/>
+      <point x="416" y="563" type="line"/>
+      <point x="264" y="321" type="line"/>
+      <point x="187" y="321" type="line"/>
+      <point x="187" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="146" type="line" smooth="yes"/>
+      <point x="492" y="269"/>
+      <point x="432" y="321"/>
+      <point x="302" y="321" type="curve"/>
+      <point x="294" y="254" type="line"/>
+      <point x="376" y="254"/>
+      <point x="408" y="224"/>
+      <point x="408" y="145" type="curve" smooth="yes"/>
+    </contour>
+    <component base="hookHELPER" xOffset="204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Kahook-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

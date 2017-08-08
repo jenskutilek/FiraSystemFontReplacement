@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhook" format="2">
+  <advance width="491"/>
+  <unicode hex="01B4"/>
+  <anchor x="246" y="-201" name="bottom"/>
+  <anchor x="246" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="-211" type="line"/>
+      <point x="202" y="-193"/>
+      <point x="266" y="-116"/>
+      <point x="302" y="5" type="curve" smooth="yes"/>
+      <point x="435" y="459" type="line" smooth="yes"/>
+      <point x="445" y="495"/>
+      <point x="456" y="505"/>
+      <point x="480" y="505" type="curve" smooth="yes"/>
+      <point x="493" y="505"/>
+      <point x="504" y="503"/>
+      <point x="514" y="499" type="curve"/>
+      <point x="536" y="556" type="line"/>
+      <point x="517" y="566"/>
+      <point x="495" y="573"/>
+      <point x="469" y="573" type="curve" smooth="yes"/>
+      <point x="407" y="573"/>
+      <point x="377" y="544"/>
+      <point x="356" y="466" type="curve" smooth="yes"/>
+      <point x="246" y="61" type="line"/>
+      <point x="101" y="526" type="line"/>
+      <point x="11" y="526" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="188" y="-84"/>
+      <point x="158" y="-125"/>
+      <point x="51" y="-145" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>y</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

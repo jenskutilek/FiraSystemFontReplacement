@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysmall" format="2">
+  <advance width="458"/>
+  <unicode hex="028F"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="229" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="458" y="527" type="line"/>
+      <point x="361" y="527" type="line"/>
+      <point x="232" y="266" type="line"/>
+      <point x="100" y="527" type="line"/>
+      <point x="0" y="527" type="line"/>
+      <point x="183" y="197" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="198" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

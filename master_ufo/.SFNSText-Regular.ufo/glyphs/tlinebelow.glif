@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tlinebelow" format="2">
+  <advance width="356"/>
+  <unicode hex="1E6F"/>
+  <anchor x="144" y="647" name="top"/>
+  <anchor x="177" y="263" name="center"/>
+  <anchor x="185" y="746" name="topright"/>
+  <anchor x="234" y="-171" name="bottom"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronbelowcomb" xOffset="69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

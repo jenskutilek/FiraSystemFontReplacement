@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="en-cy" format="2">
+  <advance width="582"/>
+  <unicode hex="043D"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="550" y="0" name="bottomright"/>
+  <anchor x="291" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="342" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="540" y="534" type="line"/>
+      <point x="342" y="534" type="line"/>
+      <point x="342" y="341" type="line"/>
+      <point x="240" y="341" type="line"/>
+      <point x="240" y="534" type="line"/>
+      <point x="42" y="534" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="199" type="line"/>
+      <point x="342" y="199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

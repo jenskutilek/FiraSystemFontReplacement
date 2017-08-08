@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ngrave" format="2">
+  <advance width="572"/>
+  <unicode hex="01F9"/>
+  <anchor x="33" y="534" name="topleft"/>
+  <anchor x="303" y="856" name="top"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <outline>
+    <component base="n"/>
+    <component base="gravecomb" xOffset="119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

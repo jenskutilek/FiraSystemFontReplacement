@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+  <advance width="644"/>
+  <unicode hex="00DC"/>
+  <anchor x="324" y="944" name="top"/>
+  <anchor x="460" y="0" name="ogonek"/>
+  <anchor x="621" y="696" name="topright"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

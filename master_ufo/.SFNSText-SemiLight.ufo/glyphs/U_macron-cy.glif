@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron-cy" format="2">
+  <advance width="501"/>
+  <unicode hex="04EE"/>
+  <anchor x="263" y="838" name="top"/>
+  <anchor x="250.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="macroncomb.case" xOffset="124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

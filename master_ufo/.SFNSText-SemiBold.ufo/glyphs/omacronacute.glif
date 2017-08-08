@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacronacute" format="2">
+  <advance width="584"/>
+  <unicode hex="1E53"/>
+  <anchor x="292" y="527" name="top"/>
+  <anchor x="380" y="0" name="ogonek"/>
+  <anchor x="476" y="527" name="topright"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="macronacutesingle" xOffset="125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ystroke" format="2">
+  <advance width="424"/>
+  <unicode hex="024F"/>
+  <anchor x="212" y="517" name="top"/>
+  <anchor x="221" y="-188" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="29" y="380" type="line"/>
+      <point x="399" y="380" type="line"/>
+      <point x="399" y="382" type="line"/>
+      <point x="353" y="382" type="line"/>
+      <point x="76" y="382" type="line"/>
+      <point x="29" y="382" type="line"/>
+    </contour>
+    <component base="y" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>istroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>istroke</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

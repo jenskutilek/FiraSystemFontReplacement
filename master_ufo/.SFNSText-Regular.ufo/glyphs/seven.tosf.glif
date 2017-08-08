@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tosf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="464" y="563" type="line"/>
+      <point x="53" y="563" type="line"/>
+      <point x="53" y="495" type="line"/>
+      <point x="379" y="495" type="line"/>
+      <point x="133" y="-93" type="line"/>
+      <point x="210" y="-118" type="line"/>
+      <point x="464" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

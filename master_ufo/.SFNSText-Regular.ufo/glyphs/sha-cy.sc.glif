@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy.sc" format="2">
+  <advance width="832"/>
+  <anchor x="417" y="0" name="bottom"/>
+  <anchor x="740" y="0" name="bottomright"/>
+  <anchor x="416" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="730" y="563" type="line"/>
+      <point x="648" y="563" type="line"/>
+      <point x="648" y="68" type="line"/>
+      <point x="455" y="68" type="line"/>
+      <point x="455" y="563" type="line"/>
+      <point x="376" y="563" type="line"/>
+      <point x="376" y="68" type="line"/>
+      <point x="185" y="68" type="line"/>
+      <point x="185" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="730" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Sha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Sha-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

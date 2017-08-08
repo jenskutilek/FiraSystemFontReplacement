@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorndotbelow.sc" format="2">
+  <advance width="653"/>
+  <anchor x="107" y="563" name="topleft"/>
+  <anchor x="310" y="563" name="top"/>
+  <anchor x="396" y="0" name="ogonek"/>
+  <anchor x="552" y="563" name="topright"/>
+  <anchor x="312" y="-201" name="bottom"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="horncomb" xOffset="460" yOffset="37"/>
+    <component base="dotbelowcomb" xOffset="220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Ohorn</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ohorn</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

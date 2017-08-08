@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlonglegturned" format="2">
+  <advance width="410"/>
+  <unicode hex="027A"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="269" y="744" name="top"/>
+  <outline>
+    <contour>
+      <point x="170" y="533" type="line"/>
+      <point x="368" y="533" type="line"/>
+      <point x="368" y="744" type="line"/>
+      <point x="170" y="764" type="line"/>
+    </contour>
+    <component base="rturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>rturned</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

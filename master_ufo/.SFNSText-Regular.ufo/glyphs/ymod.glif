@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ymod" format="2">
+  <advance width="343"/>
+  <unicode hex="02B8"/>
+  <outline>
+    <contour>
+      <point x="311" y="664" type="line"/>
+      <point x="239" y="664" type="line"/>
+      <point x="170" y="446" type="line"/>
+      <point x="109" y="664" type="line"/>
+      <point x="33" y="664" type="line"/>
+      <point x="125" y="400" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="132" y="365"/>
+      <point x="114" y="351"/>
+      <point x="56" y="340" type="curve"/>
+      <point x="64" y="290" type="line"/>
+      <point x="146" y="301"/>
+      <point x="186" y="331"/>
+      <point x="212" y="399" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

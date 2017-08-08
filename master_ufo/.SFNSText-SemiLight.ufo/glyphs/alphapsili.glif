@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphapsili" format="2">
+  <advance width="587"/>
+  <unicode hex="1F00"/>
+  <anchor x="318" y="767" name="top"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psili" xOffset="247"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

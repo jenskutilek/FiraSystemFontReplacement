@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-cy.sc" format="2">
+  <advance width="551"/>
+  <anchor x="275" y="-201" name="bottom"/>
+  <anchor x="275" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="63" type="curve"/>
+      <point x="100" y="62" type="line"/>
+      <point x="164" y="105"/>
+      <point x="176" y="165"/>
+      <point x="204" y="388" type="curve" smooth="yes"/>
+      <point x="218" y="496" type="line"/>
+      <point x="364" y="496" type="line"/>
+      <point x="364" y="68" type="line"/>
+      <point x="37" y="68" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="448" y="563" type="line"/>
+      <point x="145" y="563" type="line"/>
+      <point x="122" y="388" type="line" smooth="yes"/>
+      <point x="92" y="155"/>
+      <point x="79" y="104"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="352"/>
+    <component base="descStraight-cy" xScale="-1" xOffset="141"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=De-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

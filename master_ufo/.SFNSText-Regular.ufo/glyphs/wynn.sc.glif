@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wynn.sc" format="2">
+  <advance width="526"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="263" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="169" y="508" type="curve"/>
+      <point x="171" y="450" type="line"/>
+      <point x="207" y="485"/>
+      <point x="250" y="508"/>
+      <point x="310" y="508" type="curve" smooth="yes"/>
+      <point x="366" y="508"/>
+      <point x="403" y="480"/>
+      <point x="403" y="418" type="curve" smooth="yes"/>
+      <point x="403" y="332"/>
+      <point x="339" y="289"/>
+      <point x="256" y="259" type="curve" smooth="yes"/>
+      <point x="174" y="228" type="line"/>
+      <point x="174" y="163" type="line"/>
+      <point x="263" y="194" type="line" smooth="yes"/>
+      <point x="384" y="238"/>
+      <point x="491" y="294"/>
+      <point x="491" y="421" type="curve" smooth="yes"/>
+      <point x="491" y="519"/>
+      <point x="419" y="575"/>
+      <point x="328" y="575" type="curve" smooth="yes"/>
+      <point x="257" y="575"/>
+      <point x="207" y="548"/>
+    </contour>
+    <contour>
+      <point x="187" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>P</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

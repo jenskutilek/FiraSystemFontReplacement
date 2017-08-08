@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalinvertedstroke" format="2">
+  <advance width="513"/>
+  <unicode hex="01BE"/>
+  <anchor x="211" y="739" name="top"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="84" y="615" type="line"/>
+      <point x="84" y="545" type="line"/>
+      <point x="162" y="545" type="line"/>
+      <point x="362" y="545" type="line"/>
+      <point x="362" y="615" type="line"/>
+    </contour>
+    <component base="glottalstopinverted"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>glottalstopinverted</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>glottalstopinverted</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="2">
+  <advance width="490"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="416" y="0" name="ogonek"/>
+  <anchor x="268" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="431" y="564" type="line"/>
+      <point x="100" y="564" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="71" type="line"/>
+      <point x="192" y="71" type="line"/>
+      <point x="192" y="252" type="line"/>
+      <point x="391" y="252" type="line"/>
+      <point x="391" y="323" type="line"/>
+      <point x="192" y="323" type="line"/>
+      <point x="192" y="493" type="line"/>
+      <point x="421" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

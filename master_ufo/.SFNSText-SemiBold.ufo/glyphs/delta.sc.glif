@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta.sc" format="2">
+  <advance width="514"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="257" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="255" y="490" type="line"/>
+      <point x="390" y="73" type="line"/>
+      <point x="120" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="564" type="line"/>
+      <point x="200" y="564" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Delta</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Delta</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

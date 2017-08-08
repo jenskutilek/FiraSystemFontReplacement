@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy.sc" format="2">
+  <advance width="411"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <anchor x="140" y="0" name="bottomright"/>
+  <anchor x="269" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="557" type="line"/>
+      <point x="130" y="557" type="line"/>
+      <point x="131" y="555" type="line"/>
+      <point x="391" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ge-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

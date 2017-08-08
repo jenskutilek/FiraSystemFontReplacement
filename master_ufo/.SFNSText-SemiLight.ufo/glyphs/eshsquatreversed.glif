@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshsquatreversed" format="2">
+  <advance width="370"/>
+  <unicode hex="0285"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="97" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="170" y="312" type="line"/>
+      <point x="170" y="190" type="line"/>
+      <point x="200" y="190" type="line"/>
+      <point x="200" y="312" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xScale="-1" xOffset="239" yOffset="-208"/>
+    <component base="hookHELPER" xScale="-1" xOffset="404" yOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

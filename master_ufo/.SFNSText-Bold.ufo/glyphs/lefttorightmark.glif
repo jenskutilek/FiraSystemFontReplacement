@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lefttorightmark" format="2">
+  <unicode hex="200E"/>
+  <outline>
+    <contour>
+      <point x="73" y="822" type="line"/>
+      <point x="60" y="813" type="line"/>
+      <point x="103" y="758" type="line"/>
+      <point x="-8" y="758" type="line"/>
+      <point x="-8" y="-150" type="line"/>
+      <point x="8" y="-150" type="line"/>
+      <point x="8" y="742" type="line"/>
+      <point x="103" y="742" type="line"/>
+      <point x="60" y="687" type="line"/>
+      <point x="73" y="678" type="line"/>
+      <point x="128" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

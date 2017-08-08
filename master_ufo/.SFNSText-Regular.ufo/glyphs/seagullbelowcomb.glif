@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seagullbelowcomb" format="2">
+  <unicode hex="033C"/>
+  <anchor x="215" y="0" name="_bottom"/>
+  <anchor x="217" y="-191" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="71" y="-193" type="line"/>
+      <point x="77" y="-153"/>
+      <point x="95" y="-127"/>
+      <point x="127" y="-127" type="curve"/>
+      <point x="158" y="-127"/>
+      <point x="179" y="-153"/>
+      <point x="184" y="-193" type="curve"/>
+      <point x="225" y="-193" type="line"/>
+      <point x="219" y="-109"/>
+      <point x="179" y="-62"/>
+      <point x="127" y="-62" type="curve"/>
+      <point x="75" y="-62"/>
+      <point x="35" y="-109"/>
+      <point x="30" y="-190" type="curve"/>
+    </contour>
+    <contour>
+      <point x="205" y="-193" type="curve"/>
+      <point x="246" y="-193" type="line"/>
+      <point x="252" y="-153"/>
+      <point x="270" y="-127"/>
+      <point x="302" y="-127" type="curve"/>
+      <point x="333" y="-127"/>
+      <point x="353" y="-153"/>
+      <point x="358" y="-193" type="curve"/>
+      <point x="400" y="-190" type="line"/>
+      <point x="394" y="-109"/>
+      <point x="354" y="-62"/>
+      <point x="302" y="-62" type="curve"/>
+      <point x="250" y="-62"/>
+      <point x="210" y="-109"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>430</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

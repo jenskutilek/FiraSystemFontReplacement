@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lha-cy.sc" format="2">
+  <advance width="793"/>
+  <anchor x="396.5" y="0" name="bottom"/>
+  <anchor x="396.5" y="571" name="top"/>
+  <anchor x="740" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="102" y="571" type="line"/>
+      <point x="262" y="432" type="line"/>
+      <point x="340" y="432" type="line"/>
+      <point x="340" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="433" type="line"/>
+      <point x="102" y="571" type="line"/>
+      <point x="76" y="324" type="line" smooth="yes"/>
+      <point x="60" y="169"/>
+      <point x="54" y="157"/>
+      <point x="-5" y="127" type="curve"/>
+      <point x="43" y="-13" type="line"/>
+      <point x="214" y="20"/>
+      <point x="229" y="102"/>
+      <point x="251" y="317" type="curve" smooth="yes"/>
+    </contour>
+    <component base="x.sc" xOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>X</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

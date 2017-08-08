@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kastroke-cy" format="2">
+  <advance width="522"/>
+  <unicode hex="049F"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="246" type="line"/>
+      <point x="259" y="246" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="328" y="282" type="line"/>
+      <point x="489" y="526" type="line"/>
+      <point x="397" y="526" type="line"/>
+      <point x="261" y="312" type="line"/>
+      <point x="189" y="312" type="line"/>
+      <point x="189" y="747" type="line"/>
+      <point x="105" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="568" type="line"/>
+      <point x="106" y="568" type="line"/>
+      <point x="342" y="568" type="line"/>
+      <point x="342" y="633" type="line"/>
+      <point x="28" y="633" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

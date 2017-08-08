@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-cy" format="2">
+  <advance width="581"/>
+  <unicode hex="043E"/>
+  <anchor x="291" y="526" name="top"/>
+  <anchor x="377" y="0" name="ogonek"/>
+  <anchor x="473" y="526" name="topright"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

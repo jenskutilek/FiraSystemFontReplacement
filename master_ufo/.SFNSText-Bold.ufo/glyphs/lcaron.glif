@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="415"/>
+  <unicode hex="013E"/>
+  <anchor x="136" y="744" name="top"/>
+  <anchor x="389" y="373" name="center"/>
+  <anchor x="245" y="744" name="topright"/>
+  <anchor x="186" y="0" name="bottom"/>
+  <outline>
+    <component base="l"/>
+    <component base="caron.alt" xOffset="205" yOffset="48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=caron.alt</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

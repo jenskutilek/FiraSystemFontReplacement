@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endescender-cy.sc" format="2">
+  <advance width="645"/>
+  <anchor x="312" y="564" name="top"/>
+  <anchor x="312" y="283" name="center"/>
+  <anchor x="535" y="0" name="bottomright"/>
+  <outline>
+    <component base="en-cy.sc"/>
+    <component base="descStraight-cy" xOffset="446"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

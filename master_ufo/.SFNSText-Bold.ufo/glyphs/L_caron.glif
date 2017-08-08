@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="522"/>
+  <unicode hex="013D"/>
+  <anchor x="146" y="696" name="top"/>
+  <anchor x="403" y="404" name="center"/>
+  <anchor x="259" y="696" name="topright"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <component base="caron.alt" xOffset="219"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

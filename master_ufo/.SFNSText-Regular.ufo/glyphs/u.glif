@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+  <advance width="581"/>
+  <unicode hex="0075"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="494" y="0" name="ogonek"/>
+  <anchor x="289" y="526" name="top"/>
+  <anchor x="494" y="526" name="topright"/>
+  <outline>
+    <contour>
+      <point x="484" y="526" type="line"/>
+      <point x="400" y="526" type="line"/>
+      <point x="400" y="149" type="line"/>
+      <point x="367" y="94"/>
+      <point x="323" y="55"/>
+      <point x="263" y="55" type="curve" smooth="yes"/>
+      <point x="203" y="55"/>
+      <point x="177" y="83"/>
+      <point x="177" y="158" type="curve" smooth="yes"/>
+      <point x="177" y="526" type="line"/>
+      <point x="93" y="526" type="line"/>
+      <point x="93" y="149" type="line" smooth="yes"/>
+      <point x="93" y="46"/>
+      <point x="147" y="-12"/>
+      <point x="240" y="-12" type="curve" smooth="yes"/>
+      <point x="316" y="-12"/>
+      <point x="366" y="21"/>
+      <point x="405" y="85" type="curve"/>
+      <point x="412" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

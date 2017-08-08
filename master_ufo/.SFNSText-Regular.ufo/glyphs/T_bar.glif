@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="515"/>
+  <unicode hex="0166"/>
+  <anchor x="256" y="686" name="top"/>
+  <anchor x="256" y="343" name="center"/>
+  <anchor x="309" y="-2" name="bottomright"/>
+  <anchor x="256" y="-2" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="424" y="386" type="line"/>
+      <point x="89" y="386" type="line"/>
+      <point x="89" y="322" type="line"/>
+      <point x="213" y="322" type="line"/>
+      <point x="424" y="322" type="line"/>
+    </contour>
+    <component base="T" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

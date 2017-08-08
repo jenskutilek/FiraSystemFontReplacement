@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enmiddlehook-cy" format="2">
+  <advance width="858"/>
+  <unicode hex="0523"/>
+  <anchor x="429" y="-201" name="bottom"/>
+  <anchor x="429" y="526" name="top"/>
+  <anchor x="504" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="722" y="0" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="806" y="183" type="line" smooth="yes"/>
+      <point x="806" y="291"/>
+      <point x="745" y="348"/>
+      <point x="655" y="348" type="curve" smooth="yes"/>
+      <point x="576" y="348"/>
+      <point x="516" y="303"/>
+      <point x="479" y="249" type="curve"/>
+      <point x="493" y="196" type="line"/>
+      <point x="531" y="243"/>
+      <point x="573" y="282"/>
+      <point x="637" y="282" type="curve" smooth="yes"/>
+      <point x="689" y="282"/>
+      <point x="722" y="253"/>
+      <point x="722" y="175" type="curve" smooth="yes"/>
+    </contour>
+    <component base="en-cy"/>
+    <component base="hookHELPER" xOffset="518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ghemiddlehook-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

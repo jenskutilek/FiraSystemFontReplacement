@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="2">
+  <advance width="414"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="218" y="0" name="bottomright"/>
+  <anchor x="207" y="340" name="center"/>
+  <anchor x="207" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="394" y="557" type="line"/>
+      <point x="20" y="557" type="line"/>
+      <point x="20" y="555" type="line"/>
+      <point x="206" y="555" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="555" type="line"/>
+      <point x="394" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

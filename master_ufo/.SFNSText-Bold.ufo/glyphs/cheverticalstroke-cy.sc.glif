@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cheverticalstroke-cy.sc" format="2">
+  <advance width="578"/>
+  <anchor x="263" y="571" name="top"/>
+  <anchor x="303" y="0" name="bottomleft"/>
+  <anchor x="516" y="0" name="bottomright"/>
+  <anchor x="279.5" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="281" y="443" type="line"/>
+      <point x="234" y="443" type="line"/>
+      <point x="234" y="85" type="line"/>
+      <point x="281" y="85" type="line"/>
+    </contour>
+    <component base="che-cy.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

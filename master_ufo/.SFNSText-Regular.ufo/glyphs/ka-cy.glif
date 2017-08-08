@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy" format="2">
+  <advance width="514"/>
+  <unicode hex="043A"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="455" y="0" name="bottomright"/>
+  <anchor x="280" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="482" y="526" type="line"/>
+      <point x="390" y="526" type="line"/>
+      <point x="253" y="312" type="line"/>
+      <point x="182" y="312" type="line"/>
+      <point x="182" y="526" type="line"/>
+      <point x="98" y="526" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="246" type="line"/>
+      <point x="251" y="246" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="321" y="282" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=k+10</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmaLunateDottedReversedSymbol.sc" format="2">
+  <advance width="525"/>
+  <anchor x="205.2" y="323.54999999999995" name="top"/>
+  <anchor x="203" y="285" name="center"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <outline>
+    <component base="sigmaLunateReversedSymbol.sc"/>
+    <component base="dotaccentcomb" xScale="0.85" yScale="0.85" xOffset="127" yOffset="-325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sigmalunatereversedsymbol.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sigmalunatereversedsymbol.sc</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

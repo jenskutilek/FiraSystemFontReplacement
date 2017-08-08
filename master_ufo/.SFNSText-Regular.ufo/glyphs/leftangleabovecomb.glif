@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftangleabovecomb" format="2">
+  <unicode hex="031A"/>
+  <anchor x="120" y="526" name="_top"/>
+  <anchor x="122" y="775" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="775" type="line"/>
+      <point x="30" y="720" type="line"/>
+      <point x="150" y="720" type="line"/>
+      <point x="150" y="594" type="line"/>
+      <point x="209" y="594" type="line"/>
+      <point x="209" y="775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>213</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

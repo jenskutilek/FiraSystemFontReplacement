@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="2">
+  <advance width="281"/>
+  <unicode hex="03B9"/>
+  <anchor x="140.5" y="0" name="bottom"/>
+  <anchor x="136" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="235" y="534" type="line"/>
+      <point x="37" y="534" type="line"/>
+      <point x="37" y="176" type="line" smooth="yes"/>
+      <point x="37" y="52"/>
+      <point x="106" y="-4"/>
+      <point x="220" y="-20" type="curve"/>
+      <point x="276" y="121" type="line"/>
+      <point x="245" y="137"/>
+      <point x="235" y="157"/>
+      <point x="235" y="202" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

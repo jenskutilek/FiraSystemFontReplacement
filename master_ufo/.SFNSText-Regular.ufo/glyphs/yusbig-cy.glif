@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="656"/>
+  <unicode hex="046B"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="328" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="212" y="234" type="line"/>
+      <point x="287" y="234" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="368" y="234" type="line"/>
+      <point x="444" y="234" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="495" y="300" type="line"/>
+      <point x="161" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="251" type="line"/>
+      <point x="370" y="251" type="line"/>
+      <point x="532" y="480" type="line"/>
+      <point x="532" y="526" type="line"/>
+      <point x="479" y="526" type="line"/>
+      <point x="327" y="300" type="line"/>
+      <point x="172" y="526" type="line"/>
+      <point x="118" y="526" type="line"/>
+      <point x="118" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="465" type="line"/>
+      <point x="491" y="465" type="line"/>
+      <point x="491" y="526" type="line"/>
+      <point x="160" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

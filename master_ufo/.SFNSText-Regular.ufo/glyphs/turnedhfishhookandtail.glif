@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="turnedhfishhookandtail" format="2">
+  <advance width="679"/>
+  <unicode hex="02AF"/>
+  <anchor x="371" y="-201" name="bottom"/>
+  <anchor x="371" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="337" y="-12" type="curve" smooth="yes"/>
+      <point x="414" y="-12"/>
+      <point x="473" y="33"/>
+      <point x="512" y="99" type="curve"/>
+      <point x="497" y="150" type="line"/>
+      <point x="460" y="93"/>
+      <point x="417" y="54"/>
+      <point x="357" y="54" type="curve" smooth="yes"/>
+      <point x="304" y="54"/>
+      <point x="270" y="80"/>
+      <point x="270" y="161" type="curve" smooth="yes"/>
+      <point x="270" y="328" type="line"/>
+      <point x="186" y="328" type="line"/>
+      <point x="186" y="149" type="line" smooth="yes"/>
+      <point x="186" y="50"/>
+      <point x="241" y="-12"/>
+    </contour>
+    <contour>
+      <point x="497" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="581" y="526" type="line"/>
+      <point x="497" y="526" type="line"/>
+    </contour>
+    <component base="hookHELPER" yScale="-1" xOffset="-18" yOffset="328"/>
+    <component base="hookHELPER" xScale="-1" xOffset="785"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

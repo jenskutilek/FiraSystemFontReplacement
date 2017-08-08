@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegapsiliperispomeniprosgegrammeni" format="2">
+  <advance width="749"/>
+  <unicode hex="1FAE"/>
+  <anchor x="166" y="680" name="topleft"/>
+  <anchor x="405" y="680" name="top"/>
+  <anchor x="468" y="-142" name="bottom"/>
+  <outline>
+    <component base="Omegapsiliperispomeni"/>
+    <component base="ypogegrammenicomb" xOffset="374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

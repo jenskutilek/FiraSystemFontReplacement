@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy.sc" format="2">
+  <advance width="745"/>
+  <anchor x="372" y="0" name="bottom"/>
+  <anchor x="372" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="642" y="563" type="line"/>
+      <point x="558" y="563" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="256" y="0" type="line" smooth="yes"/>
+      <point x="389" y="0"/>
+      <point x="484" y="52"/>
+      <point x="484" y="184" type="curve" smooth="yes"/>
+      <point x="484" y="303"/>
+      <point x="397" y="359"/>
+      <point x="257" y="359" type="curve" smooth="yes"/>
+      <point x="174" y="359" type="line"/>
+      <point x="174" y="295" type="line"/>
+      <point x="255" y="295" type="line" smooth="yes"/>
+      <point x="345" y="295"/>
+      <point x="395" y="264"/>
+      <point x="395" y="183" type="curve" smooth="yes"/>
+      <point x="395" y="91"/>
+      <point x="339" y="65"/>
+      <point x="260" y="65" type="curve" smooth="yes"/>
+      <point x="187" y="65" type="line"/>
+      <point x="187" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Yeru-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Yeru-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutegraveacute" format="2">
+  <advance width="384"/>
+  <unicode hex="1DC9"/>
+  <anchor x="192" y="517" name="_top"/>
+  <anchor x="194" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="245" y="695" type="line"/>
+      <point x="354" y="763" type="line"/>
+      <point x="353" y="765" type="line"/>
+      <point x="245" y="697" type="line"/>
+      <point x="149" y="765" type="line"/>
+      <point x="30" y="700" type="line"/>
+      <point x="31" y="699" type="line"/>
+      <point x="149" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="istroke" format="2">
+  <advance width="313"/>
+  <unicode hex="0268"/>
+  <anchor x="158" y="780" name="top"/>
+  <anchor x="212" y="0" name="ogonek"/>
+  <anchor x="156" y="0" name="bottom"/>
+  <outline>
+    <component base="i" xOffset="15"/>
+    <component base="hyphen" yScale="0.9" xOffset="-45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

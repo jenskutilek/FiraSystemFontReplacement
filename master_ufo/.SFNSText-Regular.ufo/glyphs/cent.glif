@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="476"/>
+  <unicode hex="00A2"/>
+  <anchor x="288" y="526" name="top"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="325" y="683" type="line"/>
+      <point x="253" y="683" type="line"/>
+      <point x="253" y="532" type="line"/>
+      <point x="325" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="-6" type="line"/>
+      <point x="252" y="-153" type="line"/>
+      <point x="325" y="-153" type="line"/>
+      <point x="325" y="-7" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=c</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

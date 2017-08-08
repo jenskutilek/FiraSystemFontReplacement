@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="126" y="517" name="_top"/>
+  <anchor x="128" y="737" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="666" type="curve"/>
+      <point x="181" y="666"/>
+      <point x="211" y="698"/>
+      <point x="222" y="736" type="curve"/>
+      <point x="220" y="737" type="line"/>
+      <point x="207" y="693"/>
+      <point x="174" y="668"/>
+      <point x="126" y="668" type="curve"/>
+      <point x="78" y="668"/>
+      <point x="45" y="693"/>
+      <point x="32" y="737" type="curve"/>
+      <point x="30" y="736" type="line"/>
+      <point x="41" y="698"/>
+      <point x="71" y="666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>252</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

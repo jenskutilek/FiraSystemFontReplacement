@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicronoxia" format="2">
+  <advance width="784"/>
+  <unicode hex="1FF9"/>
+  <anchor x="205" y="689" name="topleft"/>
+  <anchor x="438" y="689" name="top"/>
+  <anchor x="537" y="0" name="ogonek"/>
+  <anchor x="641" y="689" name="topright"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="O" xOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Omicrontonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

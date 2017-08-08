@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cstroke" format="2">
+  <advance width="542"/>
+  <unicode hex="023B"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="271" y="682" name="top"/>
+  <anchor x="328" y="344" name="center"/>
+  <outline>
+    <contour>
+      <point x="413" y="740" type="line"/>
+      <point x="202" y="-64" type="line"/>
+      <point x="225" y="-70" type="line"/>
+      <point x="435" y="734" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphapsilivaria" format="2">
+  <advance width="640"/>
+  <unicode hex="1F0A"/>
+  <anchor x="252" y="682" name="topleft"/>
+  <anchor x="361" y="682" name="top"/>
+  <anchor x="625" y="0" name="ogonek"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Alpha" xOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Alphatonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

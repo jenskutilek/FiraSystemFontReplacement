@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppaArchaic.sc" format="2">
+  <advance width="619"/>
+  <anchor x="310" y="-201" name="bottom"/>
+  <anchor x="107" y="563" name="topleft"/>
+  <anchor x="310" y="563" name="top"/>
+  <anchor x="396" y="0" name="ogonek"/>
+  <anchor x="500" y="563" name="topright"/>
+  <outline>
+    <contour>
+      <point x="267" y="-201" type="line"/>
+      <point x="351" y="-201" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

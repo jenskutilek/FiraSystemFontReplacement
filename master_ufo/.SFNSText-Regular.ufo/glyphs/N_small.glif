@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nsmall" format="2">
+  <advance width="594"/>
+  <unicode hex="0274"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="496" y="526" type="line"/>
+      <point x="418" y="526" type="line"/>
+      <point x="418" y="235" type="line" smooth="yes"/>
+      <point x="418" y="160"/>
+      <point x="424" y="113"/>
+      <point x="428" y="81" type="curve"/>
+      <point x="205" y="526" type="line"/>
+      <point x="98" y="526" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="220" type="line" smooth="yes"/>
+      <point x="175" y="326"/>
+      <point x="171" y="388"/>
+      <point x="165" y="443" type="curve"/>
+      <point x="388" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

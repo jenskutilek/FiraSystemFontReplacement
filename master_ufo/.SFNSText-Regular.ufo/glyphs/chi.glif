@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="2">
+  <advance width="461"/>
+  <unicode hex="03C7"/>
+  <anchor x="230" y="-201" name="bottom"/>
+  <anchor x="230" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="537" type="curve"/>
+      <point x="-3" y="506" type="line"/>
+      <point x="60" y="438"/>
+      <point x="103" y="370"/>
+      <point x="186" y="186" type="curve"/>
+      <point x="229" y="113" type="line"/>
+      <point x="368" y="-209" type="line"/>
+      <point x="453" y="-198" type="line"/>
+      <point x="276" y="185" type="line"/>
+      <point x="232" y="251" type="line"/>
+      <point x="172" y="409"/>
+      <point x="131" y="477"/>
+    </contour>
+    <contour>
+      <point x="349" y="536" type="line"/>
+      <point x="232" y="251" type="line"/>
+      <point x="186" y="186" type="line"/>
+      <point x="1" y="-198" type="line"/>
+      <point x="84" y="-208" type="line"/>
+      <point x="229" y="113" type="line"/>
+      <point x="276" y="185" type="line"/>
+      <point x="436" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

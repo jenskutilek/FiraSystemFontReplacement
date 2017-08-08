@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7B3.sc" format="2">
+  <advance width="471"/>
+  <anchor x="236" y="-201" name="bottom"/>
+  <anchor x="236" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="117" y="563" type="line"/>
+      <point x="23" y="563" type="line"/>
+      <point x="186" y="252" type="line"/>
+      <point x="234" y="196" type="line"/>
+      <point x="370" y="-97" type="line"/>
+      <point x="465" y="-97" type="line"/>
+      <point x="282" y="256" type="line"/>
+      <point x="235" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="563" type="line"/>
+      <point x="355" y="563" type="line"/>
+      <point x="235" y="310" type="line"/>
+      <point x="186" y="252" type="line"/>
+      <point x="6" y="-97" type="line"/>
+      <point x="97" y="-97" type="line"/>
+      <point x="234" y="196" type="line"/>
+      <point x="282" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uniA7B3</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>uniA7B3</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

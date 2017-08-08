@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresisacute" format="2">
+  <advance width="575"/>
+  <unicode hex="01D8"/>
+  <anchor x="290" y="517" name="top"/>
+  <anchor x="460" y="0" name="ogonek"/>
+  <anchor x="460" y="517" name="topright"/>
+  <anchor x="290" y="0" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisacutecomb" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

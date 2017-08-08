@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-cy.sc" format="2">
+  <advance width="623"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="530" y="0" name="bottomright"/>
+  <anchor x="312" y="563" name="top"/>
+  <outline>
+    <contour>
+      <point x="520" y="563" type="line"/>
+      <point x="417" y="563" type="line"/>
+      <point x="175" y="88" type="line"/>
+      <point x="180" y="140"/>
+      <point x="187" y="202"/>
+      <point x="187" y="302" type="curve" smooth="yes"/>
+      <point x="187" y="563" type="line"/>
+      <point x="103" y="563" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="448" y="475" type="line"/>
+      <point x="443" y="425"/>
+      <point x="436" y="354"/>
+      <point x="436" y="263" type="curve" smooth="yes"/>
+      <point x="436" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Ii-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ii-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcurl" format="2">
+  <advance width="919"/>
+  <unicode hex="02A5"/>
+  <anchor x="460" y="-201" name="bottom"/>
+  <anchor x="460" y="738" name="top"/>
+  <anchor x="510" y="738" name="topright"/>
+  <anchor x="302" y="263" name="center"/>
+  <outline>
+    <contour>
+      <point x="497" y="0" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="745" y="71" type="line"/>
+      <point x="592" y="71" type="line"/>
+      <point x="872" y="462" type="line"/>
+      <point x="872" y="526" type="line"/>
+      <point x="490" y="526" type="line"/>
+      <point x="490" y="455" type="line"/>
+      <point x="776" y="455" type="line"/>
+      <point x="497" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="-119" type="curve"/>
+      <point x="751" y="-119" type="line"/>
+      <point x="750" y="-73"/>
+      <point x="750" y="-31"/>
+      <point x="757" y="15" type="curve"/>
+      <point x="763" y="42" type="line"/>
+      <point x="772" y="133"/>
+      <point x="801" y="155"/>
+      <point x="833" y="155" type="curve" smooth="yes"/>
+      <point x="855" y="155"/>
+      <point x="869" y="143"/>
+      <point x="869" y="118" type="curve" smooth="yes"/>
+      <point x="869" y="78"/>
+      <point x="833" y="70"/>
+      <point x="740" y="71" type="curve"/>
+      <point x="748" y="0" type="line"/>
+      <point x="871" y="0"/>
+      <point x="939" y="34"/>
+      <point x="939" y="117" type="curve" smooth="yes"/>
+      <point x="939" y="178"/>
+      <point x="895" y="212"/>
+      <point x="838" y="212" type="curve" smooth="yes"/>
+      <point x="767" y="212"/>
+      <point x="716" y="165"/>
+      <point x="701" y="61" type="curve"/>
+      <point x="692" y="0" type="line"/>
+      <point x="689" y="-40"/>
+      <point x="688" y="-78"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zcurl</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

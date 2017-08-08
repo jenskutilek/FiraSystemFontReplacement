@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhoStrokeSymbol" format="2">
+  <advance width="585"/>
+  <unicode hex="03FC"/>
+  <anchor x="304" y="526" name="top"/>
+  <anchor x="293" y="-201" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="13" y="-66" type="line"/>
+      <point x="13" y="-131" type="line"/>
+      <point x="92" y="-131" type="line"/>
+      <point x="335" y="-131" type="line"/>
+      <point x="335" y="-66" type="line"/>
+    </contour>
+    <component base="rho"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rho</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

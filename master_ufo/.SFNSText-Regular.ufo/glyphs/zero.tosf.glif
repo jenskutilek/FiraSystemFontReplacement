@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="280" y="573" type="curve" smooth="yes"/>
+      <point x="132" y="573"/>
+      <point x="33" y="467"/>
+      <point x="33" y="281" type="curve" smooth="yes"/>
+      <point x="33" y="96"/>
+      <point x="132" y="-11"/>
+      <point x="280" y="-11" type="curve" smooth="yes"/>
+      <point x="429" y="-11"/>
+      <point x="527" y="97"/>
+      <point x="527" y="281" type="curve" smooth="yes"/>
+      <point x="527" y="467"/>
+      <point x="428" y="573"/>
+    </contour>
+    <contour>
+      <point x="280" y="506" type="curve" smooth="yes"/>
+      <point x="368" y="506"/>
+      <point x="442" y="444"/>
+      <point x="442" y="281" type="curve" smooth="yes"/>
+      <point x="442" y="120"/>
+      <point x="368" y="56"/>
+      <point x="280" y="56" type="curve" smooth="yes"/>
+      <point x="193" y="56"/>
+      <point x="118" y="119"/>
+      <point x="118" y="281" type="curve" smooth="yes"/>
+      <point x="118" y="444"/>
+      <point x="193" y="506"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

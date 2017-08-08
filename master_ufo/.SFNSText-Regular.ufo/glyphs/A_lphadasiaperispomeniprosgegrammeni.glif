@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphadasiaperispomeniprosgegrammeni" format="2">
+  <advance width="718"/>
+  <unicode hex="1F8F"/>
+  <anchor x="317" y="688" name="topleft"/>
+  <anchor x="433" y="688" name="top"/>
+  <anchor x="685" y="0" name="ogonek"/>
+  <anchor x="505" y="-186" name="bottom"/>
+  <outline>
+    <component base="Alphadasiaperispomeni"/>
+    <component base="ypogegrammenicomb" xOffset="366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Alphatonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

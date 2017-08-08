@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsiliypogegrammeni" format="2">
+  <advance width="584"/>
+  <unicode hex="1F90"/>
+  <anchor x="315" y="767" name="top"/>
+  <anchor x="186" y="-159" name="bottom"/>
+  <outline>
+    <component base="eta"/>
+    <component base="psili" xOffset="244"/>
+    <component base="ypogegrammenicomb" xOffset="86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

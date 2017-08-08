@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etadasiaperispomeni" format="2">
+  <advance width="572"/>
+  <unicode hex="1F27"/>
+  <anchor x="290" y="1000" name="top"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaperispomeni" xOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

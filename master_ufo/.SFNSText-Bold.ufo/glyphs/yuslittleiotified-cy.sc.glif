@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuslittleiotified-cy.sc" format="2">
+  <advance width="841"/>
+  <anchor x="420.5" y="0" name="bottom"/>
+  <anchor x="420.5" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="391" y="182" type="line"/>
+      <point x="391" y="297" type="line"/>
+      <point x="241" y="297" type="line"/>
+      <point x="241" y="571" type="line"/>
+      <point x="43" y="571" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="182" type="line"/>
+    </contour>
+    <component base="yuslittle-cy.sc" xOffset="278"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

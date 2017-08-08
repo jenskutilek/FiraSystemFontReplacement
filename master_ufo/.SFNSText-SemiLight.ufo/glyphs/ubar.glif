@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubar" format="2">
+  <advance width="599"/>
+  <unicode hex="0289"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="520" name="top"/>
+  <anchor x="480" y="0" name="ogonek"/>
+  <anchor x="480" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="30" y="357" type="line"/>
+      <point x="118" y="357" type="line"/>
+      <point x="559" y="357" type="line"/>
+      <point x="559" y="382" type="line"/>
+      <point x="471" y="382" type="line"/>
+      <point x="30" y="382" type="line"/>
+    </contour>
+    <component base="u" xOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

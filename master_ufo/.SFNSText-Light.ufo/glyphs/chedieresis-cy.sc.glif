@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedieresis-cy.sc" format="2">
+  <advance width="515"/>
+  <anchor x="223" y="557" name="top"/>
+  <anchor x="384" y="0" name="bottomleft"/>
+  <anchor x="393" y="0" name="bottomright"/>
+  <anchor x="257.5" y="0.0" name="bottom"/>
+  <outline>
+    <component base="che-cy.sc"/>
+    <component base="dieresiscomb.sc" xOffset="112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

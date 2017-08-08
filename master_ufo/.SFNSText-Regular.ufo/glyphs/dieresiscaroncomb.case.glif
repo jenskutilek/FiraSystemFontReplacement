@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscaroncomb.case" format="2">
+  <advance width="377"/>
+  <anchor x="190" y="688" name="_top"/>
+  <outline>
+    <contour>
+      <point x="291" y="851" type="curve" smooth="yes"/>
+      <point x="261" y="851"/>
+      <point x="238" y="828"/>
+      <point x="238" y="798" type="curve" smooth="yes"/>
+      <point x="238" y="769"/>
+      <point x="261" y="745"/>
+      <point x="291" y="745" type="curve" smooth="yes"/>
+      <point x="322" y="745"/>
+      <point x="345" y="769"/>
+      <point x="345" y="798" type="curve" smooth="yes"/>
+      <point x="345" y="828"/>
+      <point x="322" y="851"/>
+    </contour>
+    <contour>
+      <point x="87" y="851" type="curve" smooth="yes"/>
+      <point x="56" y="851"/>
+      <point x="33" y="828"/>
+      <point x="33" y="798" type="curve" smooth="yes"/>
+      <point x="33" y="769"/>
+      <point x="56" y="745"/>
+      <point x="87" y="745" type="curve" smooth="yes"/>
+      <point x="117" y="745"/>
+      <point x="140" y="769"/>
+      <point x="140" y="798" type="curve" smooth="yes"/>
+      <point x="140" y="828"/>
+      <point x="117" y="851"/>
+    </contour>
+    <component base="caroncomb.case" xOffset="-5" yOffset="103"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

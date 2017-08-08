@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nje-cy" format="2">
+  <advance width="941"/>
+  <unicode hex="040A"/>
+  <anchor x="471" y="0" name="bottom"/>
+  <anchor x="471" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="189" y="688" type="line"/>
+      <point x="103" y="688" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="344" type="line"/>
+      <point x="493" y="344" type="line"/>
+      <point x="493" y="412" type="line"/>
+      <point x="189" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="688" type="line"/>
+      <point x="483" y="688" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="661" y="0" type="line" smooth="yes"/>
+      <point x="805" y="0"/>
+      <point x="914" y="61"/>
+      <point x="914" y="211" type="curve" smooth="yes"/>
+      <point x="914" y="345"/>
+      <point x="818" y="412"/>
+      <point x="667" y="412" type="curve" smooth="yes"/>
+      <point x="555" y="412" type="line"/>
+      <point x="555" y="344" type="line"/>
+      <point x="668" y="344" type="line" smooth="yes"/>
+      <point x="760" y="344"/>
+      <point x="822" y="306"/>
+      <point x="822" y="210" type="curve" smooth="yes"/>
+      <point x="822" y="100"/>
+      <point x="754" y="70"/>
+      <point x="669" y="70" type="curve" smooth="yes"/>
+      <point x="570" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Softsign-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

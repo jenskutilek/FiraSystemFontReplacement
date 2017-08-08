@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshe-cy" format="2">
+  <advance width="713"/>
+  <unicode hex="040B"/>
+  <anchor x="412" y="688" name="top"/>
+  <anchor x="686" y="0" name="bottomright"/>
+  <anchor x="412" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="502" y="688" type="line"/>
+      <point x="15" y="688" type="line"/>
+      <point x="15" y="614" type="line"/>
+      <point x="492" y="614" type="line"/>
+    </contour>
+    <component base="Shha-cy" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Shha-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

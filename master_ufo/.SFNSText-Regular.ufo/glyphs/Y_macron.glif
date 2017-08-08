@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron" format="2">
+  <advance width="544"/>
+  <unicode hex="0232"/>
+  <anchor x="6" y="688" name="topleft"/>
+  <anchor x="274" y="859" name="top"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <outline>
+    <component base="Y"/>
+    <component base="macroncomb.case" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

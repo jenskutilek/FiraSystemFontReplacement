@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adotaccent" format="2">
+  <advance width="544"/>
+  <unicode hex="0227"/>
+  <anchor x="263" y="780" name="top"/>
+  <anchor x="483" y="-12" name="ogonek"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotaccentcomb" xOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:27</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

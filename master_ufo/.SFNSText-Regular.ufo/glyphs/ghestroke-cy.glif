@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="438"/>
+  <unicode hex="0493"/>
+  <anchor x="271" y="526" name="top"/>
+  <anchor x="203" y="0" name="bottomright"/>
+  <anchor x="151" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="309" y="302" type="line"/>
+      <point x="108" y="302" type="line"/>
+      <point x="28" y="302" type="line"/>
+      <point x="28" y="238" type="line"/>
+      <point x="309" y="238" type="line"/>
+    </contour>
+    <component base="ge-cy" xOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=ge-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

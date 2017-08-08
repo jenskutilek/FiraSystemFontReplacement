@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aleutka-cy" format="2">
+  <advance width="468"/>
+  <unicode hex="051F"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="234" y="517" name="top"/>
+  <anchor x="435" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="207" y="477" type="line"/>
+      <point x="419" y="333" type="line"/>
+      <point x="421" y="335" type="line"/>
+      <point x="209" y="479" type="line"/>
+    </contour>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

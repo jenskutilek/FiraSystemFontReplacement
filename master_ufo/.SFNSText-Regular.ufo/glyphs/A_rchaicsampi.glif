@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Archaicsampi" format="2">
+  <advance width="572"/>
+  <unicode hex="0372"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="286" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="614" type="line"/>
+      <point x="557" y="614" type="line"/>
+      <point x="557" y="688" type="line"/>
+      <point x="15" y="688" type="line"/>
+      <point x="15" y="614" type="line"/>
+      <point x="243" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="407" type="line"/>
+      <point x="89" y="407" type="line"/>
+      <point x="89" y="641" type="line"/>
+      <point x="15" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="408" type="line"/>
+      <point x="557" y="408" type="line"/>
+      <point x="557" y="641" type="line"/>
+      <point x="482" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/08/08 15:45:28</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|T</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
