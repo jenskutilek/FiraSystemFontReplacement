@@ -7,3 +7,5 @@ In any case you need to start from a [Glyphs](https://glyphsapp.com) source file
 The Glyphs source then must be modified to contain the correct font instances in the correct order. I used to do this by running [text_roman.py](https://github.com/jenskutilek/FiraSystemFontReplacement/blob/sierra/scripts/text_roman.py) inside Glyphs, but I didn’t check if the results are still OK. I fiddled a lot manually for the latest release.
 
 If you have the modified Glyphs file, you must enter its path at the beginning of [build.sh](https://github.com/jenskutilek/FiraSystemFontReplacement/blob/sierra/build.sh), and then execute `build.sh`. If you have fontmake and all dependencies installed, the rest of the build process should go smoothly and you will find the final font in `ttf/FSText.ttf`.
+
+If you are in doubt if you are on the right track, compare your generated [`.designspace`](https://github.com/LettError/designSpaceDocument) file with the one in the repository. Note that most of the temporary files are hidden by default because the font names start with a dot. Use the shortcut cmd-shift-. to view all files in Finder.
