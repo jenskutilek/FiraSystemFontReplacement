@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb.case" format="2">
-  <advance width="390"/>
   <anchor x="143" y="689" name="_top"/>
   <outline>
     <component base="hungarumlautcomb" yOffset="126"/>
@@ -10,7 +9,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/08/08 15:45:28</string>
+      <string>2017/10/09 13:40:53</string>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>

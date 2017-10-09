@@ -83,8 +83,10 @@
 		<string>{0, -14}</string>
 		<string>{-202, -14}</string>
 	</array>
+	<key>com.schriftgestaltung.Use Extension Kerning</key>
+	<string>1</string>
 	<key>com.schriftgestaltung.Variation Font Origin</key>
-	<string>Regular</string>
+	<string>D067849A-38A8-4981-AA46-0C7AF8B3553A</string>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>

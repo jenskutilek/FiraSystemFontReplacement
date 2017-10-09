@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscaroncomb" format="2">
-  <advance width="221"/>
   <anchor x="111" y="517" name="_top"/>
   <outline>
     <contour>
@@ -40,7 +39,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/08/08 15:45:28</string>
+      <string>2017/10/09 13:40:53</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>
