@@ -1,6 +1,8 @@
 Fira System Font Replacement
 ============================
 
+### Note: I never updated this for macOS 10.13 and newer, and didn't even check if it is possible to replace the system fonts there. The repo has now been archived.
+
 These fonts are intended as a system font replacement on Mac OS X 10.12 Sierra. If you are looking for a Fira Sans for Mac OS X 10.11 El Capitan, please use [the old release 4.106.1.](https://github.com/jenskutilek/FiraSystemFontReplacement/releases/tag/v4.106.1)
 
 The fonts are based on version 4.106 of the [Fira Sans font family](https://carrois.com/typefaces/FiraSans/) by Erik Spiekermann and Ralph du Carrois, and are licensed under the Open Font License version 1.1 or later. This package has been prepared by Jens Kutilek <https://github.com/jenskutilek/FiraSystemFontReplacement>.
